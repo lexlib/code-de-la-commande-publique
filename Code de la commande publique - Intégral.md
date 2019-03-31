@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-04-01
+Version Consolidée au 2019-04-01 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -54281,11 +54281,11 @@ _Créé par_:
 
 ###### Article R3126-13
 
-Les dispositions de la section 2 du chapitre V du présent titre ne sont pas applicables aux contrats de concession qui
+Les dispositions de la section 3 du chapitre V du présent titre ne sont pas applicables aux contrats de concession qui
 relèvent du présent chapitre.
 
 Par dérogation à l'alinéa précédent, les contrats de concession ayant pour objet un des services sociaux ou autres services
-spécifiques dont la liste est publiée par un avis annexé au présent code sont soumis aux dispositions de la section 2 du
+spécifiques dont la liste est publiée par un avis annexé au présent code sont soumis aux dispositions de la section 3 du
 chapitre V du présent titre lorsque leur valeur estimée est égale ou supérieure au seuil européen qui figure dans un avis
 annexé au présent code.
 
@@ -54298,14 +54298,14 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
 _Cité par_:
 
   - Avis divers - art. (V)
   - Code de la commande publique - art. Annexe (V)
+
+_Modifié par_:
+
+  - Décret n°2019-259 du 29 mars 2019 - art. 1
 
 
 ##### Section 6 : Dispositions particulières aux contrats de concession de services publics de transport de voyageurs par chemin de fer et par route<a id=1010></a>
@@ -55505,20 +55505,8 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3114-4 et R. 3114-5</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="center">Au titre II</td>
@@ -55529,42 +55517,29 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3122-6 à R. 3125-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">R. 3125-5</td>
       <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
-      <td align="left">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">R. 3125-6</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">R. 3126-1 à R. 3126-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">R. 3126-7 à R. 3126-13</td>
+      <td align="justify">R. 3126-7 à R. 3126-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+      <td align="left">R. 3126-13</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
     <tr>
       <td align="center">Au titre III</td>
       <td align="left">
@@ -55582,16 +55557,8 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3135-1 à R. 3135-10</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">Au livre II</td>
@@ -55602,10 +55569,6 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3221-1 à R. 3221-3</td>
       <td align="left">
     </td></tr>
@@ -55614,9 +55577,13 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
 _Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
+  - Décret n°2019-259 du 29 mars 2019 - art. 2
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=1051></a>
@@ -55758,20 +55725,8 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3114-4 et R. 3114-5</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="center">Au titre II</td>
@@ -55780,10 +55735,6 @@ le tableau ci-après.
     <tr>
       <td align="justify">R. 3121-1 à R. 3122-3</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">R. 3122-6 à R. 3125-4</td>
@@ -55798,25 +55749,17 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3126-1 à R. 3126-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">R. 3126-7 à R. 3126-13</td>
+      <td align="justify">R. 3126-7 à R. 3126-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+      <td align="left">R. 3126-13</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
     <tr>
       <td align="center">Au titre III</td>
       <td align="left">
@@ -55834,16 +55777,8 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3135-1 à R. 3135-10</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">Au livre II</td>
@@ -55854,10 +55789,6 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3221-1à R. 3221-3</td>
       <td align="left">
     </td></tr>
@@ -55866,9 +55797,13 @@ le tableau ci-après.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
 _Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
+  - Décret n°2019-259 du 29 mars 2019 - art. 2
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=1055></a>
@@ -56010,20 +55945,8 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3114-4 et R. 3114-5</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="center">Au titre II</td>
@@ -56032,10 +55955,6 @@ le tableau ci-après.
     <tr>
       <td align="justify">R. 3121-1 à R. 3122-3</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">R. 3122-6 à R. 3125-4</td>
@@ -56050,25 +55969,17 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3126-1 à R. 3126-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">R. 3126-7 à R. 3126-13</td>
+      <td align="justify">R. 3126-7 à R. 3126-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+      <td align="left">R. 3126-13</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
     <tr>
       <td align="center">Au titre III</td>
       <td align="left">
@@ -56086,16 +55997,8 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3135-1 à R. 3135-10</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">Au livre II</td>
@@ -56106,10 +56009,6 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3221-1à R. 3221-3</td>
       <td align="left">
     </td></tr>
@@ -56118,9 +56017,13 @@ le tableau ci-après.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
 _Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
+  - Décret n°2019-259 du 29 mars 2019 - art. 2
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=1059></a>
@@ -56272,10 +56175,6 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
@@ -56284,20 +56183,8 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3114-4 et R. 3114-5</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="center">Au titre II</td>
@@ -56306,10 +56193,6 @@ tableau ci-après.
     <tr>
       <td align="justify">R. 3121-1 à R. 3122-3</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="justify">R. 3122-6 à R. 3125-4</td>
@@ -56324,25 +56207,17 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">R. 3126-1 à R. 3126-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">R. 3126-7 à R. 3126-13</td>
+      <td align="justify">R. 3126-7 à R. 3126-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
+      <td align="left">R. 3126-13</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
     <tr>
       <td align="center">Au titre III</td>
       <td align="left">
@@ -56360,24 +56235,12 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="left">R. 3135-1 à R. 3135-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
       <td align="justify">Au livre II</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
     </td></tr>
     <tr>
       <td align="center">Au titre II</td>
@@ -56392,9 +56255,13 @@ tableau ci-après.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
 _Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
+  - Décret n°2019-259 du 29 mars 2019 - art. 2
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=1063></a>
