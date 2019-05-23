@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-04-01 00:00:01 +0200
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -123,7 +123,7 @@ Version Consolidée au 2019-04-01 00:00:01 +0200
               - [Sous-section 1 : Paiement direct du sous-traitant (art. L2193-11 à L2193-12)](#120)
               - [Sous-section 2 : Modalités de paiement (art. L2193-13)](#121)
             - [Section 3 : Régime financier (art. L2193-14)](#122)
-          - [Chapitre IV : Modification du marché (art. L2194-1 à L2194-2)](#123)
+          - [Chapitre IV : Modification du marché (art. L2194-1 à L2194-3)](#123)
           - [Chapitre V : Résiliation du marché (art. L2195-1 à L2195-6)](#124)
           - [Chapitre VI : Informations relatives à l'achat (art. L2196-1 à L2196-6)](#125)
             - [Section 1 : Obligation de conservation des documents (art. L2196-1)](#126)
@@ -399,7 +399,7 @@ Version Consolidée au 2019-04-01 00:00:01 +0200
           - [Chapitre IV : Contrats de concession conclus par une entité adjudicatrice (art. L3214-1 à L3214-2)](#396)
           - [Chapitre V : Contrats de concession de défense ou de sécurité (art. L3215-1)](#397)
         - [Titre II : RÈGLES APPLICABLES (art. L3221-1 à L3222-1)](#398)
-          - [Chapitre Ier : Règles générales applicables aux contrats de concession mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer (art. L3221-1 à L3221-6)](#399)
+          - [Chapitre Ier : Règles générales applicables aux contrats de concession mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer (art. L3221-1 à L3221-7)](#399)
           - [Chapitre II : Règles propres aux contrats de concession portant sur le service public de transport de voyageurs par chemin de fer (art. L3222-1)](#400)
       - [Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3321-1 à L3381-3)](#401)
         - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY (art. L3321-1 à L3322-1)](#402)
@@ -7048,6 +7048,27 @@ _Cite_:
   - Code de la commande publique - art. L6 (V)
 
 
+###### Article L2194-3
+
+Les prestations supplémentaires ou modificatives demandées par l'acheteur au titulaire d'un marché public de travaux qui sont
+nécessaires au bon achèvement de l'ouvrage et ont une incidence financière sur le marché public font l'objet d'une
+contrepartie permettant une juste rémunération du titulaire du contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 195
+
+_Cité par_:
+
+  - Code de la commande publique - art. L2394-2 (V)
+  - Code de la commande publique - art. L2651-1 (V)
+  - Code de la commande publique - art. L2661-1 (VD)
+  - Code de la commande publique - art. L2671-1 (VD)
+  - Code de la commande publique - art. L2681-1 (VD)
+
+
 ##### Chapitre V : Résiliation du marché<a id=124></a>
 
 ###### Article L2195-1
@@ -11066,7 +11087,7 @@ _Cite_:
 
 ###### Article L2394-2
 
-Les dispositions de l'article L. 2194-2 s'appliquent.
+Les dispositions des articles L. 2194-2 et L. 2194-3 s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -11074,19 +11095,21 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 _Cite_:
 
-  - Code de la commande publique - art. L2194-2 (VD)
+  - Code de la commande publique - art. L2194-2
+  - Code de la commande publique - art. L2194-3
 
 _Cité par_:
 
   - Code de la commande publique - art. L2651-1 (V)
   - Code de la commande publique - art. L2661-1 (VD)
   - Code de la commande publique - art. L2671-1 (VD)
+  - Code de la commande publique - art. L2681-1 (VD)
 
 
 ##### Chapitre V : Résiliation du marché<a id=243></a>
@@ -13815,13 +13838,13 @@ _Cite_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les îles
 Wallis et Futuna aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
 à cette collectivité, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire
-dans le tableau ci-après. 
+dans le tableau ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
       <td align="justify">
@@ -13834,7 +13857,7 @@ L. 2000-1 à L. 2000-5
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre Ier </td>
+      <td align="justify">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13848,7 +13871,7 @@ L. 2100-1 et L. 2000-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13868,7 +13891,7 @@ L. 2112-1 à L. 2113-16
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13882,7 +13905,7 @@ L. 2120-1 à L. 2125-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13896,7 +13919,7 @@ L. 2131-1 à L. 2132-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13910,7 +13933,7 @@ L. 2141-1 à L. 2142-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13930,7 +13953,7 @@ L. 2153-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13956,7 +13979,7 @@ L. 2172-3 et L. 2172-4
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13970,7 +13993,7 @@ L. 2181-1 à L. 2184-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -13993,10 +14016,21 @@ L. 2192-12 à L. 2192-14
     </td></tr>
     <tr>
       <td align="justify">
-L. 2193-1 à L. 2195-4 
+L. 2193-1 à L. 2194-2 
 </td>
-      <td align="left">
-    </td></tr>
+      <td align="left" rowspan="3">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la
+transformation des entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 2194-3 
+</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 2195-1 à L. 2195-4
+</td>
+    </tr>
     <tr>
       <td align="justify">
 L. 2195-6 à L. 2197-1 
@@ -14014,7 +14048,7 @@ L. 2197-3 à L. 2197-6
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre II </td>
+      <td align="justify">Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14028,7 +14062,7 @@ L. 2200-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14042,7 +14076,7 @@ L. 2211-1 à L. 2213-14
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14068,7 +14102,7 @@ L. 2223-4
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14088,7 +14122,7 @@ L. 2235-1 à L. 2236-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre III </td>
+      <td align="justify">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14102,7 +14136,7 @@ L. 2300-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14116,7 +14150,7 @@ L. 2311-1 à L. 2313-6
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14130,7 +14164,7 @@ L. 2320-1 à L. 2325-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14144,7 +14178,7 @@ L. 2331-1 à L. 2332-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14158,7 +14192,7 @@ L. 2341-1 à L. 2342-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14172,7 +14206,7 @@ L. 2351-1 à L. 2353-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14186,7 +14220,7 @@ L. 2371-1 à L. 2373-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14200,7 +14234,7 @@ L. 2381-1 à L. 2384-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14211,8 +14245,23 @@ L. 2391-1 à L. 2391-8
     </td></tr>
     <tr>
       <td align="justify">
-L. 2392-10 à L. 2397-3 
+L. 2392-10 à L. 2394-1 
 </td>
+      <td align="left" rowspan="3">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la
+transformation des entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 2394-2 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+L. 2395-1 à L. 2397-3 
+</td>
+    </tr>
+    <tr>
+      <td align="justify">Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14220,15 +14269,7 @@ L. 2392-10 à L. 2397-3
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre IV </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14242,7 +14283,7 @@ L. 2410-1 à L. 2412-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14256,7 +14297,7 @@ L. 2421-1 à L. 2422-13
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14276,7 +14317,7 @@ L. 2431-1 à L. 2432-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre V </td>
+      <td align="justify">Au livre V</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14290,7 +14331,7 @@ L. 2500-1 et L. 2500-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -14310,75 +14351,84 @@ L. 2515-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
-L. 2521-1 à L. 2521-4
+L. 2521-1 à L. 2521-4 
 </td>
       <td align="left">
     </td></tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément au III de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à
+une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique - art. L2000-1 (VD)
-  - Code de la commande publique - art. L2100-1 (VD)
-  - Code de la commande publique - art. L2111-1 (VD)
-  - Code de la commande publique - art. L2112-1 (VD)
-  - Code de la commande publique - art. L2120-1 (VD)
-  - Code de la commande publique - art. L2131-1 (VD)
-  - Code de la commande publique - art. L2141-1 (VD)
-  - Code de la commande publique - art. L2151-1 (VD)
-  - Code de la commande publique - art. L2153-2 (VD)
-  - Code de la commande publique - art. L2171-1 (VD)
-  - Code de la commande publique - art. L2171-7 (VD)
-  - Code de la commande publique - art. L2172-3 (VD)
-  - Code de la commande publique - art. L2181-1 (VD)
-  - Code de la commande publique - art. L2191-1 (VD)
-  - Code de la commande publique - art. L2192-10 (VD)
-  - Code de la commande publique - art. L2192-12 (VD)
-  - Code de la commande publique - art. L2193-1 (VD)
-  - Code de la commande publique - art. L2195-6 (VD)
-  - Code de la commande publique - art. L2197-3 (VD)
-  - Code de la commande publique - art. L2200-1 (VD)
-  - Code de la commande publique - art. L2211-1 (VD)
-  - Code de la commande publique - art. L2221-1 (VD)
-  - Code de la commande publique - art. L2222-1 (VD)
-  - Code de la commande publique - art. L2223-4 (VD)
-  - Code de la commande publique - art. L2231-1 (VD)
-  - Code de la commande publique - art. L2235-1 (VD)
-  - Code de la commande publique - art. L2300-1 (VD)
-  - Code de la commande publique - art. L2311-1 (VD)
-  - Code de la commande publique - art. L2320-1 (VD)
-  - Code de la commande publique - art. L2331-1 (VD)
-  - Code de la commande publique - art. L2341-1 (VD)
-  - Code de la commande publique - art. L2351-1 (VD)
-  - Code de la commande publique - art. L2371-1 (VD)
-  - Code de la commande publique - art. L2381-1 (VD)
-  - Code de la commande publique - art. L2391-1 (VD)
-  - Code de la commande publique - art. L2392-10 (VD)
-  - Code de la commande publique - art. L2410-1 (VD)
-  - Code de la commande publique - art. L2421-1 (VD)
-  - Code de la commande publique - art. L2430-1 (VD)
-  - Code de la commande publique - art. L2431-1 (VD)
-  - Code de la commande publique - art. L2500-1 (VD)
-  - Code de la commande publique - art. L2511-1 (VD)
-  - Code de la commande publique - art. L2515-1 (VD)
-  - Code de la commande publique - art. L2521-1 (VD)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique - art. L2000-1
+  - Code de la commande publique - art. L2100-1
+  - Code de la commande publique - art. L2111-1
+  - Code de la commande publique - art. L2112-1
+  - Code de la commande publique - art. L2120-1
+  - Code de la commande publique - art. L2131-1
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2151-1
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-1
+  - Code de la commande publique - art. L2171-7
+  - Code de la commande publique - art. L2172-3
+  - Code de la commande publique - art. L2181-1
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2192-10
+  - Code de la commande publique - art. L2192-12
+  - Code de la commande publique - art. L2193-1
+  - Code de la commande publique - art. L2194-3
+  - Code de la commande publique - art. L2195-1
+  - Code de la commande publique - art. L2195-6
+  - Code de la commande publique - art. L2197-3
+  - Code de la commande publique - art. L2200-1
+  - Code de la commande publique - art. L2211-1
+  - Code de la commande publique - art. L2221-1
+  - Code de la commande publique - art. L2222-1
+  - Code de la commande publique - art. L2223-4
+  - Code de la commande publique - art. L2231-1
+  - Code de la commande publique - art. L2235-1
+  - Code de la commande publique - art. L2300-1
+  - Code de la commande publique - art. L2311-1
+  - Code de la commande publique - art. L2320-1
+  - Code de la commande publique - art. L2331-1
+  - Code de la commande publique - art. L2341-1
+  - Code de la commande publique - art. L2351-1
+  - Code de la commande publique - art. L2371-1
+  - Code de la commande publique - art. L2381-1
+  - Code de la commande publique - art. L2391-1
+  - Code de la commande publique - art. L2392-10
+  - Code de la commande publique - art. L2394-2
+  - Code de la commande publique - art. L2395-1
+  - Code de la commande publique - art. L2410-1
+  - Code de la commande publique - art. L2421-1
+  - Code de la commande publique - art. L2430-1
+  - Code de la commande publique - art. L2431-1
+  - Code de la commande publique - art. L2500-1
+  - Code de la commande publique - art. L2511-1
+  - Code de la commande publique - art. L2515-1
+  - Code de la commande publique - art. L2521-1
 
 _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=309></a>
@@ -14680,616 +14730,524 @@ _Cite_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Polynésie
 française aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
 collectivité, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après. 
+tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="justify">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 2000-1 à L. 2000-5 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2100-1 et L. 2000-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2111-1 et L. 2111-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2112-1 à L. 2113-16 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2120-1 à L. 2125-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2131-1 à L. 2132-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2141-1 à L. 2142-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2151-1 à L. 2152-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2153-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2171-1 à L. 2171-5 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2171-7 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2172-3 et L. 2172-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VIII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2181-1 à L. 2184-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IX </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2191-1 à L. 2191-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2192-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2192-12 à L. 2192-14 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 2193-1 à L. 2195-4 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 2193-1 à L. 2194-2</td>
+      <td align="left" rowspan="3">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la
+transformation des entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2194-3</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2195-1 à L. 2195-4</td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 2195-6 à L. 2197-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2197-3 à L. 2197-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2211-1 à L. 2213-14 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2221-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2222-1 à L. 2223-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2223-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2231-1 à L. 2234-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2235-1 à L. 2236-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2300-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2311-1 à L. 2313-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2320-1 à L. 2325-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2331-1 à L. 2332-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2341-1 à L. 2342-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2351-1 à L. 2353-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2371-1 à L. 2373-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VIII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2381-1 à L. 2384-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IX </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2391-1 à L. 2391-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 2392-10 à L. 2397-3 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 2392-10 à L. 2394-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 2394-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2395-1 à L. 2397-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2410-1 à L. 2412-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2421-1 à L. 2422-13 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2430-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2431-1 à L. 2432-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2500-1 et L. 2500-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2511-1 à L. 2514-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2515-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2521-1 à L. 2521-4
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -15341,13 +15299,9 @@ _Cite_:
   - Code de la commande publique - art. L2515-1 (VD)
   - Code de la commande publique - art. L2521-1 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=313></a>
@@ -15690,617 +15644,525 @@ _Cite_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
 Calédonie aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
 collectivité, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après. 
+tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="justify">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 2000-1 à L. 2000-5 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2100-1 et L. 2000-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2111-1 et L. 2111-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2112-1 à L. 2113-16 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2120-1 à L. 2125-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2131-1 à L. 2132-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2141-1 à L. 2142-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2151-1 à L. 2152-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2153-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2171-1 à L. 2171-5 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2171-7 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2172-3 et L. 2172-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VIII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2181-1 à L. 2184-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IX </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2191-1 à L. 2191-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2192-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2192-12 à L. 2192-14 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 2193-1 à L. 2195-4 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+L. 2193-1 à L. 2194-2</td>
+      <td align="left" rowspan="3">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la
+transformation des entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2194-3</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2195-1 à L. 2195-4</td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 2195-6 à L. 2197-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2197-3 à L. 2197-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2211-1 à L. 2213-14 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2221-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2222-1 à L. 2223-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2223-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2231-1 à L. 2234-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2235-1 à L. 2236-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2300-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2311-1 à L. 2313-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2320-1 à L. 2325-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2331-1 à L. 2332-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2341-1 à L. 2342-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2351-1 à L. 2353-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2371-1 à L. 2373-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VIII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2381-1 à L. 2384-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IX </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2391-1 à L. 2391-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 2392-10 à L. 2397-3 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+L. 2392-10 à L. 2394-1</td>
+      <td align="left" rowspan="3">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la
+transformation des entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2394-2</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2395-1 à L. 2397-3</td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2410-1 à L. 2412-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2421-1 à L. 2422-13 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2430-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2431-1 à L. 2432-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2500-1 et L. 2500-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2511-1 à L. 2514-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2515-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2521-1à 
 L. 2521-4
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -16387,13 +16249,9 @@ _Cite_:
   - Code de la commande publique - art. L2521-1 (V)
   - Code de la commande publique - art. L2521-4 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=317></a>
@@ -16739,617 +16597,529 @@ _Cite_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
 australes et antarctiques françaises aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des
 compétences dévolues à cette collectivité, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018,
-sauf mention contraire dans le tableau ci-après. 
+sauf mention contraire dans le tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="justify">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 2000-1 à L. 2000-5 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2100-1 et L. 2000-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2111-1 et L. 2111-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2112-1 à L. 2113-16 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2120-1 à L. 2125-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2131-1 à L. 2132-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2141-1 à L. 2142-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2151-1 à L. 2152-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2153-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2171-1 à L. 2171-5 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2171-7 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2172-3 et L. 2172-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VIII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2181-1 à L. 2184-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IX </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2191-1 à L. 2191-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2192-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2192-12 à L. 2192-14 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 2193-1 à L. 2195-4 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+L. 2193-1 à L. 2194-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 2194-3</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2195-1 à L. 2195-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2195-6 à L. 2197-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2197-3 à L. 2197-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2211-1 à L. 2213-14 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2221-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2222-1 à L. 2223-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2223-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2231-1 à L. 2234-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2235-1 à L. 2236-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2300-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2311-1 à L. 2313-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2320-1 à L. 2325-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2331-1 à L. 2332-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2341-1 à L. 2342-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2351-1 à L. 2353-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2371-1 à L. 2373-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre VIII </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2381-1 à L. 2384-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre IX </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2391-1 à L. 2391-8 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-L. 2392-10 à L. 2397-3 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre IV </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+L. 2392-10 à L. 2394-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 2394-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2395-1 à L. 2397-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2410-1 à L. 2412-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2421-1 à L. 2422-13 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2430-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2431-1 à L. 2432-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre V </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2500-1 et L. 2500-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2511-1 à L. 2514-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2515-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 2521-1à 
 L. 2521-4
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -17435,14 +17205,6 @@ _Cite_:
   - Code de la commande publique - art. L2515-1 (V)
   - Code de la commande publique - art. L2521-1 (V)
   - Code de la commande publique - art. L2521-4 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=321></a>
@@ -21312,6 +21074,31 @@ _Cite_:
 
   - Code de la commande publique -  Chapitre VII : Règlement alternatif des différends (V)
   - Code de la commande publique -  Livre II : AUTRES CONTRATS DE CONCESSION (V)
+
+
+###### Article L3221-7
+
+Les contrats de concession mentionnés aux chapitres I à IV du titre Ier du présent livre sont soumis aux règles relatives à
+la facturation électronique prévues à la section 1 du chapitre III du titre III du livre Ier de la présente partie.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi. Ces dispositions en tant qu'elles
+renvoient respectivement aux articles L. 2192-3 et L. 3133-3 s'appliquent aux factures relatives aux marchés publics ou aux
+contrats de concession en cours d'exécution ou conclus postérieurement au 1er avril 2020 pour les factures reçues par les
+acheteurs et les autorités concédantes autres que les autorités publiques centrales dont la liste figure dans un avis annexé
+au code de la commande publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 
 ##### Chapitre II : Règles propres aux contrats de concession portant sur le service public de transport de voyageurs par chemin de fer<a id=400></a>
