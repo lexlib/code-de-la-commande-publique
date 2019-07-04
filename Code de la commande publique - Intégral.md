@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-07-05
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -6421,7 +6421,8 @@ _Cité par_:
 ###### Article L2192-11
 
 Les entités adjudicatrices mentionnées aux 2° et 3° de l'article L. 1212-1 paient les sommes dues en principal en exécution
-d'un marché dans les conditions prévues à l'article L. 441-6 du code de commerce.
+d'un marché dans les conditions prévues à l'article L. 441-10, au 5° du II de l'article L. 441-11 et à l'article L. 441-13 du
+code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -6429,14 +6430,16 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (VT)
-  - Code de la commande publique - art. L1212-1 (VD)
+  - Code de commerce - art. L441-10 (V)
+  - Code de commerce - art. L441-11 (V)
+  - Code de commerce - art. L441-13 (V)
+  - Code de la commande publique - art. L1212-1 (V)
 
 _Cité par_:
 
@@ -8770,8 +8773,8 @@ _Créé par_:
 
 ###### Article L2232-7
 
-Par dérogation aux dispositions de l'article L. 441-6 du code de commerce, les prestations mentionnées à l'article L. 2213-14
-sont payées par le titulaire du marché de partenariat, dans des délais fixés par voie réglementaire.
+Par dérogation aux dispositions des articles L. 441-10 à L. 441-13 du code de commerce, les prestations mentionnées à
+l'article L. 2213-14 sont payées par le titulaire du marché de partenariat, dans des délais fixés par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -8783,19 +8786,20 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (VT)
-  - Code de la commande publique - art. L2213-14 (VD)
+  - Code de commerce - art. L441-10 (V)
+  - Code de commerce - art. L441-13 (V)
+  - Code de la commande publique - art. L2213-14
 
 _Cité par_:
 
   - Code de la commande publique - art. L2661-3 (V)
-  - Code de la commande publique - art. L2671-3 (M)
+  - Code de la commande publique - art. L2671-3 (V)
   - Code de la commande publique - art. R2232-1 (V)
 
 
@@ -15401,8 +15405,8 @@ Pour l'application des dispositions législatives du livre II en Polynésie fran
 
 1° A l'article L. 2213-6, les mots : ", des collectivités territoriales " sont supprimés ; 
 
-2° A l'article L. 2232-7, les mots : " Par dérogation aux dispositions de l'article L. 441-6 du code de commerce, " sont
-supprimés.
+2° A l'article L. 2232-7, les mots : " Par dérogation aux dispositions des articles L. 441-10 à L. 441-13 du code de
+commerce, " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -15410,16 +15414,18 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (V)
-  - Code de la commande publique -  Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE ... (V)
-  - Code de la commande publique - art. L2213-6 (VD)
-  - Code de la commande publique - art. L2232-7 (VD)
+  - Code de commerce - art. L441-10
+  - Code de commerce - art. L441-13
+  - Code de commerce - art. L441-6
+  - Code de la commande publique
+  - Code de la commande publique - art. L2213-6
+  - Code de la commande publique - art. L2232-7
 
 
 ###### Article L2661-4
@@ -16356,8 +16362,8 @@ Pour l'application des dispositions législatives du livre II en Nouvelle-Caléd
 
 1° A l'article L. 2213-6, les mots : ", des collectivités territoriales " sont supprimés ; 
 
-2° A l'article L. 2232-7, les mots : " Par dérogation aux dispositions de l'article L. 441-6 du code de commerce, " sont
-supprimés.
+2° A l'article L. 2232-7, les mots : " Par dérogation aux dispositions des articles L. 441-10 à L. 441-13 du code de
+commerce, " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -16365,15 +16371,17 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (V)
-  - Code de la commande publique -  Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE ... (V)
-  - Code de la commande publique - art. L2213-6 (V)
+  - Code de commerce - art. L441-10
+  - Code de commerce - art. L441-13
+  - Code de commerce - art. L441-6
+  - Code de la commande publique
+  - Code de la commande publique - art. L2213-6
   - Code de la commande publique - art. L2232-7 (V)
 
 
@@ -19531,7 +19539,8 @@ _Cité par_:
 ###### Article L3133-11
 
 Les entités adjudicatrices mentionnées aux 2° et 3° de l'article L. 1212-1 paient les sommes dues en principal en exécution
-d'un contrat de concession dans le délai prévu à l'article L. 441-6 du code de commerce.
+d'un contrat de concession dans le délai prévu au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de
+commerce.
 
 **Liens relatifs à cet article**
 
@@ -19539,19 +19548,20 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (V)
-  - Code de la commande publique - art. L1212-1 (V)
+  - Code de commerce - art. L441-10 (V)
+  - Code de commerce - art. L441-11
+  - Code de la commande publique - art. L1212-1
 
 _Cité par_:
 
   - Code de la commande publique - art. L3361-2 (VT)
-  - Code de la commande publique - art. L3371-2 (VD)
+  - Code de la commande publique - art. L3371-2 (VT)
 
 
 ##### Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=373></a>
@@ -22018,8 +22028,8 @@ Etat tiers " ;
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
 européenne. " ; 
 
-11° A l'article L. 3133-11, les mots : " à l'article L. 441-6 du code de commerce " sont remplacés par les mots : " par la
-réglementation applicable localement " ; 
+11° A l'article L. 3133-11, les mots : " au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de
+commerce " sont remplacés par les mots : " par la réglementation applicable localement " ; 
 
 12° A l'article L. 3136-4, la référence à l'article L. 631-1 du code de commerce est remplacée par la référence aux
 dispositions ayant le même objet applicables localement ; 
@@ -22035,50 +22045,52 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (V)
-  - Code de commerce - art. L631-1 (V)
-  - Code de commerce - art. L640-1 (V)
-  - Code de commerce - art. L653-1 (V)
-  - Code de commerce - art. L653-8 (V)
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code civil - art. 2044 (V)
-  - Code civil - art. 2060 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L3112-3 (V)
-  - Code de la commande publique - art. L3113-1 (V)
-  - Code de la commande publique - art. L3113-2 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3123-21 (V)
-  - Code de la commande publique - art. L3123-3 (V)
-  - Code de la commande publique - art. L3123-4 (V)
-  - Code de la commande publique - art. L3123-5 (V)
-  - Code de la commande publique - art. L3124-6 (V)
-  - Code de la commande publique - art. L3133-11 (V)
-  - Code de la commande publique - art. L3136-4 (V)
-  - Code de la commande publique - art. L3137-3 (V)
-  - Code de la commande publique - art. L3137-4 (V)
+  - Code de commerce - art. L441-10
+  - Code de commerce - art. L441-11
+  - Code de commerce - art. L441-6
+  - Code de commerce - art. L631-1
+  - Code de commerce - art. L640-1
+  - Code de commerce - art. L653-1
+  - Code de commerce - art. L653-8
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code civil - art. 2044
+  - Code civil - art. 2060
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L3112-3
+  - Code de la commande publique - art. L3113-1
+  - Code de la commande publique - art. L3113-2
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3123-1
+  - Code de la commande publique - art. L3123-21
+  - Code de la commande publique - art. L3123-3
+  - Code de la commande publique - art. L3123-4
+  - Code de la commande publique - art. L3123-5
+  - Code de la commande publique - art. L3124-6
+  - Code de la commande publique - art. L3133-11
+  - Code de la commande publique - art. L3136-4
+  - Code de la commande publique - art. L3137-3
+  - Code de la commande publique - art. L3137-4
 
 
 ###### Article L3361-3
@@ -22430,8 +22442,8 @@ Etat tiers " ;
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
 européenne. " ; 
 
-11° A l'article L. 3133-11, les mots : " à l'article L. 441-6 du code de commerce " sont remplacés par les mots : " par la
-réglementation applicable localement " ; 
+11° A l'article L. 3133-11, les mots : " au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de
+commerce " sont remplacés par les mots : " par la réglementation applicable localement " ; 
 
 12° A l'article L. 3136-4, la référence à l'article L. 631-1 du code de commerce est remplacée par la référence aux
 dispositions ayant le même objet applicables localement ; 
@@ -22447,49 +22459,51 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L441-6 (V)
-  - Code de commerce - art. L631-1 (V)
-  - Code de commerce - art. L640-1 (V)
-  - Code de commerce - art. L653-1 (V)
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code civil - art. 2044 (V)
-  - Code civil - art. 2060 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L3112-3 (V)
-  - Code de la commande publique - art. L3113-1 (V)
-  - Code de la commande publique - art. L3113-2 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3123-21 (V)
-  - Code de la commande publique - art. L3123-3 (V)
-  - Code de la commande publique - art. L3123-4 (V)
-  - Code de la commande publique - art. L3123-5 (V)
-  - Code de la commande publique - art. L3124-6 (V)
+  - Code de commerce - art. L441-10
+  - Code de commerce - art. L441-11
+  - Code de commerce - art. L441-6
+  - Code de commerce - art. L631-1
+  - Code de commerce - art. L640-1
+  - Code de commerce - art. L653-1
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code civil - art. 2044
+  - Code civil - art. 2060
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L3112-3
+  - Code de la commande publique - art. L3113-1
+  - Code de la commande publique - art. L3113-2
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3123-1
+  - Code de la commande publique - art. L3123-21
+  - Code de la commande publique - art. L3123-3
+  - Code de la commande publique - art. L3123-4
+  - Code de la commande publique - art. L3123-5
+  - Code de la commande publique - art. L3124-6
   - Code de la commande publique - art. L3133-11 (V)
-  - Code de la commande publique - art. L3136-4 (V)
-  - Code de la commande publique - art. L3137-3 (V)
-  - Code de la commande publique - art. L3137-4 (V)
+  - Code de la commande publique - art. L3136-4
+  - Code de la commande publique - art. L3137-3
+  - Code de la commande publique - art. L3137-4
 
 
 ###### Article L3371-3
