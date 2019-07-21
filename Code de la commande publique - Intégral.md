@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-07-05
+Version Consolidée au 2019-07-22
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -110,961 +110,985 @@ Version Consolidée au 2019-07-05
             - [Section 3 : Régime des paiements (art. L2191-5 à L2191-6)](#107)
             - [Section 4 : Garanties (art. L2191-7)](#108)
             - [Section 5 : Cession ou nantissement des créances (art. L2191-8)](#109)
-          - [Chapitre II : Modalités de facturation et de paiement (art. L2192-10 à L2192-15)](#110)
-            - [Section 2 : Délais de paiement (art. L2192-10 à L2192-15)](#111)
-              - [Sous-section 1 : Fixation du délai de paiement (art. L2192-10 à L2192-11)](#112)
-              - [Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. L2192-12 à L2192-14)](#113)
-              - [Sous-section 3 : Amende administrative en cas de retard de paiement (art. L2192-15)](#114)
-          - [Chapitre III : Sous-traitance (art. L2193-1 à L2193-14)](#115)
-            - [Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement (art. L2193-4 à L2193-9)](#116)
-              - [Sous-section 1 : Modalités d'acceptation et d'agrément (art. L2193-4 à L2193-7)](#117)
-              - [Sous-section 2 : Offres anormalement basses des sous-traitants (art. L2193-8 à L2193-9)](#118)
-            - [Section 2 : Paiement du sous-traitant (art. L2193-10 à L2193-13)](#119)
-              - [Sous-section 1 : Paiement direct du sous-traitant (art. L2193-11 à L2193-12)](#120)
-              - [Sous-section 2 : Modalités de paiement (art. L2193-13)](#121)
-            - [Section 3 : Régime financier (art. L2193-14)](#122)
-          - [Chapitre IV : Modification du marché (art. L2194-1 à L2194-3)](#123)
-          - [Chapitre V : Résiliation du marché (art. L2195-1 à L2195-6)](#124)
-          - [Chapitre VI : Informations relatives à l'achat (art. L2196-1 à L2196-6)](#125)
-            - [Section 1 : Obligation de conservation des documents (art. L2196-1)](#126)
-            - [Section 2 : Mise à disposition des données essentielles (art. L2196-2)](#127)
-            - [Section 3 : Recensement économique (art. L2196-3)](#128)
-            - [Section 4 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. L2196-4 à L2196-6)](#129)
-          - [Chapitre VII : Règlement alternatif des differends (art. L2197-1 à L2197-7)](#130)
-            - [Section 1 : Conciliation et médiation (art. L2197-1 à L2197-4)](#131)
-              - [Sous-section 1 : Dispositions générales (art. L2197-1 à L2197-2)](#132)
-              - [Sous-section 2 : Comités consultatifs de règlement amiable des différends (art. L2197-3)](#133)
-              - [Sous-section 3 : Le médiateur des entreprises (art. L2197-4)](#134)
-            - [Section 2 : Transaction (art. L2197-5)](#135)
-            - [Section 3 : Arbitrage (art. L2197-6 à L2197-7)](#136)
-              - [Sous-section 1 : Recours à l'arbitrage par les acheteurs de droit public (art. L2197-6)](#137)
-              - [Sous-section 2 : Recours à l'arbitrage par les acheteurs de droit privé (art. L2197-7)](#138)
-      - [Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT (art. L2200-1 à L2236-1)](#139)
-        - [Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT (art. L2211-1 à L2213-14)](#140)
-          - [Chapitre Ier : Conditions de recours au marché de partenariat (art. L2211-1 à L2211-6)](#141)
-            - [Section 1 : Acheteurs autorisés (art. L2211-1 à L2211-4)](#142)
-            - [Section 2 : Seuils (art. L2211-5)](#143)
-            - [Section 3 : Bilan plus favorable (art. L2211-6)](#144)
-          - [Chapitre II : Instruction du projet (art. L2212-1 à L2212-4)](#145)
-            - [Section 1 : Evaluation du mode de réalisation du projet (art. L2212-1 à L2212-2)](#146)
-            - [Section 2 : Etude de soutenabilité budgétaire (art. L2212-3 à L2212-4)](#147)
-          - [Chapitre III : Contenu du marché de partenariat (art. L2213-1 à L2213-14)](#148)
-            - [Section 1 : Durée du marché de partenariat (art. L2213-2)](#149)
-            - [Section 2 : Conditions d'exécution du marché de partenariat (art. L2213-3)](#150)
-            - [Section 3 : Financement du projet et rémunération du titulaire (art. L2213-4 à L2213-9)](#151)
-              - [Sous-section 1 : Financement des investissements (art. L2213-4 à L2213-7)](#152)
-                - [Paragraphe 1 : Dispositions générales (art. L2213-4 à L2213-5)](#153)
-                - [Paragraphe 2 : Dispositions applicables à la constitution d'une société dédiée à la réalisation du projet (art. L2213-6 à L2213-7)](#154)
-              - [Sous-section 2 : Rémunération du titulaire (art. L2213-8 à L2213-9)](#155)
-            - [Section 4 : Dispositions relatives à l'occupation domaniale par le titulaire du marché de partenariat (art. L2213-10 à L2213-13)](#156)
-              - [Sous-section 1 : Autorisation d'occupation du domaine public (art. L2213-10)](#157)
-              - [Sous-section 2 : Mise à disposition de l'acheteur des ouvrages, équipements ou biens immatériels (art. L2213-11)](#158)
-              - [Sous-section 3 : Acquisition des installations édifiées dans le cadre du contrat (art. L2213-12)](#159)
-              - [Sous-section 4 : Propriété des ouvrages, équipements ou biens immatériels en fin de contrat (art. L2213-13)](#160)
-            - [Section 5 : Part d'exécution du contrat réservée aux PME (art. L2213-14)](#161)
-        - [Titre II : PASSATION DU MARCHÉ DE PARTENARIAT (art. L2221-1 à L2223-4)](#162)
-          - [Chapitre Ier : Autorisations préalables à l'engagement de la procédure (art. L2221-1 à L2221-3)](#163)
-            - [Section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. L2221-1)](#164)
-            - [Section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux (art. L2221-2)](#165)
-            - [Section 3 : Dispositions applicables aux autres acheteurs (art. L2221-3)](#166)
-          - [Chapitre II : Présentation des documents de la consultation, des offres et critères d'attribution (art. L2222-1 à L2222-5)](#167)
-            - [Section 1 : Caractère ajustable des modalités de financement (art. L2222-1 à L2222-2)](#168)
-            - [Section 2 : Contenu de l'offre du soumissionnaire en cas de conception d'ouvrages, d'équipements ou de biens immatériels (art. L2222-3)](#169)
-            - [Section 3 : Critères d'attribution (art. L2222-4 à L2222-5)](#170)
-          - [Chapitre III : Achèvement de la procédure (art. L2223-1 à L2223-4)](#171)
-            - [Section 1 : Accord préalable à la signature (art. L2223-1 à L2223-3)](#172)
-              - [Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. L2223-1)](#173)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux (art. L2223-2)](#174)
-              - [Sous-section 3 : Dispositions applicables aux autres acheteurs (art. L2223-3)](#175)
-            - [Section 2 : Transmission à l'organisme expert (art. L2223-4)](#176)
-        - [Titre III : EXECUTION DU MARCHÉ DE PARTENARIAT (art. L2231-1 à L2236-1)](#177)
-          - [Chapitre Ier : Acquisition des biens et cession de contrats (art. L2231-1)](#178)
-          - [Chapitre II : Exécution financière (art. L2232-1 à L2232-7)](#179)
-            - [Section 1 : Règles applicables au titulaire du marché de partenariat (art. L2232-1 à L2232-5)](#180)
-              - [Sous-section 1 : Avances et acomptes (art. L2232-1)](#181)
-              - [Sous-section 2 : Cessions de créance, crédits-bails et hypothèques (art. L2232-2 à L2232-4)](#182)
-              - [Sous-section 3 : Encaissement des paiements des usagers (art. L2232-5)](#183)
-            - [Section 2 : Règles applicables aux relations entre le titulaire et ses fournisseurs (art. L2232-6 à L2232-7)](#184)
-          - [Chapitre III : Valorisation domaniale par le titulaire du marché de partenariat (art. L2233-1 à L2233-3)](#185)
-          - [Chapitre IV : Suivi et controle de l'exécution du marché de partenariat (art. L2234-1 à L2234-3)](#186)
-          - [Chapitre V : Indemnisation en cas d'annulation ou de résiliation du marché de partenariat (art. L2235-1 à L2235-3)](#187)
-          - [Chapitre VI : Recours à l'arbitrage (art. L2236-1)](#188)
-      - [Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. L2300-1 à L2397-3)](#189)
-        - [Titre Ier : PRÉPARATION DU MARCHÉ (art. L2311-1 à L2313-6)](#190)
-          - [Chapitre Ier : Définition du besoin (art. L2311-1)](#191)
-          - [Chapitre II : Contenu du marché (art. L2312-1 à L2312-2)](#192)
-          - [Chapitre III : Organisation de l'achat (art. L2313-1 à L2313-6)](#193)
-            - [Section 1 : Mutualisation de l'achat (art. L2313-2 à L2313-4)](#194)
-            - [Section 2 : Allotissement (art. L2313-5)](#195)
-            - [Section 3 : Réservation (art. L2313-6)](#196)
-        - [Titre II : CHOIX DE LA PROCÉDURE DE PASSATION (art. L2320-1 à L2325-1)](#197)
-          - [Chapitre II : Marchés passes sans publicite ni mise en concurrence préalables (art. L2322-1)](#198)
-          - [Chapitre III : Marchés passes selon une procédure adaptée (art. L2323-1)](#199)
-          - [Chapitre IV : Marchés passés selon une procédure formalisée (art. L2324-1 à L2324-4)](#200)
-            - [Section 1 : Appel d'offres restreint (art. L2324-2)](#201)
-            - [Section 2 : Procédure avec négociation (art. L2324-3)](#202)
-            - [Section 3 : Dialogue compétitif (art. L2324-4)](#203)
-          - [Chapitre V : Techniques d'achat (art. L2325-1)](#204)
-        - [Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. L2331-1 à L2332-2)](#205)
-          - [Chapitre Ier : Publicité prealable (art. L2331-1)](#206)
-          - [Chapitre II : Communication et échanges d'informations (art. L2332-1 à L2332-2)](#207)
-            - [Section 1 : Confidentialité (art. L2332-1)](#208)
-            - [Section 2 : Dématérialisation des communications et échanges d'informations (art. L2332-2)](#209)
-        - [Titre IV : PHASE DE CANDIDATURE (art. L2341-1 à L2342-2)](#210)
-          - [Chapitre Ier : Motifs d'exclusions de la procédure de passation (art. L2341-1 à L2341-7)](#211)
-            - [Section 1 : Exclusions de plein droit (art. L2341-1 à L2341-4)](#212)
-            - [Section 2 : Exclusions à l'appréciation de l'acheteur (art. L2341-5)](#213)
-            - [Section 3 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion (art. L2341-6)](#214)
-            - [Section 4 : Groupements d'opérateurs économiques et sous-traitants (art. L2341-7)](#215)
-          - [Chapitre II : Conditions de participation (art. L2342-1 à L2342-2)](#216)
-        - [Titre V : PHASE D'OFFRE (art. L2351-1 à L2353-2)](#217)
-          - [Chapitre Ier : Présentation et contenu des offres (art. L2351-1)](#218)
-          - [Chapitre II : Examen des offres (art. L2352-1)](#219)
-          - [Chapitre III : Offres présentées par des opérateurs économiques ou comportant des produits d'Etats tiers (art. L2353-1 à L2353-2)](#220)
-        - [Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. L2371-1 à L2373-1)](#221)
-          - [Chapitre Ier : Règles applicables à certains marchés globaux (art. L2371-1)](#222)
-          - [Chapitre II : Règles applicables à certains marchés de défense ou de sécurité en fonction de leur objet (art. L2372-1)](#223)
-          - [Chapitre III : Marchés de partenariat de défense ou de sécurité (art. L2373-1)](#224)
-        - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE (art. L2381-1 à L2384-1)](#225)
-          - [Chapitre Ier : Information des candidats et des soumissionnaires évincés (art. L2381-1)](#226)
-          - [Chapitre III : Avis d'attribution (art. L2383-1)](#227)
-          - [Chapitre IV : Conservation des informations (art. L2384-1)](#228)
-        - [Titre IX : EXÉCUTION DU MARCHÉ (art. L2391-1 à L2397-3)](#229)
-          - [Chapitre Ier : Exécution financiere (art. L2391-1 à L2391-8)](#230)
-            - [Section 1 : Avances (art. L2391-2 à L2391-3)](#231)
-            - [Section 2 : Acomptes (art. L2391-4)](#232)
-            - [Section 3 : Régime des paiements (art. L2391-5 à L2391-6)](#233)
-            - [Section 4 : Garanties (art. L2391-7)](#234)
-            - [Section 5 : Cession ou nantissement des créances (art. L2391-8)](#235)
-          - [Chapitre II : Modalités de facturation et de paiement (art. L2392-10)](#236)
-            - [Section 2 : Délais de paiement (art. L2392-10)](#237)
-          - [Chapitre III : Dispositions relatives aux sous-contrats (art. L2393-1 à L2393-15)](#238)
-            - [Section 1 : Dispositions communes aux sous-contrats (art. L2393-3 à L2393-9)](#239)
-            - [Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traité (art. L2393-10 à L2393-14)](#240)
-            - [Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités (art. L2393-15)](#241)
-          - [Chapitre IV : Modification du marché (art. L2394-1 à L2394-2)](#242)
-          - [Chapitre V : Résiliation du marché (art. L2395-1 à L2395-2)](#243)
-          - [Chapitre VI : Informations relatives à l'achat (art. L2396-1 à L2396-4)](#244)
-            - [Section 1 : Obligation de conservation des documents (art. L2396-1)](#245)
-            - [Section 2 : Recensement économique (art. L2396-2)](#246)
-            - [Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. L2396-3 à L2396-4)](#247)
-          - [Chapitre VII : Règlement alternatif des differends (art. L2397-1 à L2397-3)](#248)
-            - [Section 1 : Conciliation et médiation (art. L2397-1)](#249)
-            - [Section 2 : Transaction (art. L2397-2)](#250)
-            - [Section 3 : Arbitrage (art. L2397-3)](#251)
-      - [Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAÎTRISE D'OUVRAGE PUBLIQUE ET À LA MAÎTRISE D'ŒUVRE PRIVÉE (art. L2410-1 à L2432-2)](#252)
-        - [Titre Ier : CHAMP D'APPLICATION (art. L2410-1 à L2412-2)](#253)
-          - [Chapitre Ier : Maîtres d'ouvrage (art. L2411-1)](#254)
-          - [Chapitre II : Ouvrages (art. L2412-1 à L2412-2)](#255)
-        - [Titre II : MAÎTRISE D'OUVRAGE (art. L2421-1 à L2422-13)](#256)
-          - [Chapitre Ier : Attributions du maître d'ouvrage (art. L2421-1 à L2421-5)](#257)
-            - [Section 1 : Dispositions générales (art. L2421-1)](#258)
-            - [Section 2 : Programme et enveloppe financière prévisionnelle de l'opération (art. L2421-2 à L2421-5)](#259)
-          - [Chapitre II : Organisation de la maîtrise d'ouvrage (art. L2422-1 à L2422-13)](#260)
-            - [Section 1 : Assistance à maîtrise d'ouvrage (art. L2422-2)](#261)
-            - [Section 2 : Conduite d'opération (art. L2422-3 à L2422-4)](#262)
-            - [Section 3 : Mandat de maîtrise d'ouvrage (art. L2422-5 à L2422-11)](#263)
-              - [Sous-section 1 : Attributions du mandataire (art. L2422-6)](#264)
-              - [Sous-section 2 : Contenu du contrat de mandat de maîtrise d'ouvrage (art. L2422-7)](#265)
-              - [Sous-section 3 : Obligations et responsabilités du mandataire (art. L2422-8 à L2422-10)](#266)
-              - [Sous-section 4 : Incompatibilités (art. L2422-11)](#267)
-            - [Section 4 : Transfert de maîtrise d'ouvrage (art. L2422-12 à L2422-13)](#268)
-        - [Titre III : MAÎTRISE D'ŒUVRE PRIVÉE (art. L2430-1 à L2432-2)](#269)
-          - [Chapitre Ier : Mission de maîtrise d'œuvre privée (art. L2431-1 à L2431-3)](#270)
-          - [Chapitre II : Marché public de maîtrise d'œuvre privée (art. L2432-1 à L2432-2)](#271)
-      - [Livre V : AUTRES MARCHÉS PUBLICS (art. L2500-1 à L2522-1)](#272)
-        - [Titre Ier : CHAMP D'APPLICATION (art. L2511-1 à L2515-1)](#273)
-          - [Chapitre Ier : Relations internes au secteur public (art. L2511-1 à L2511-9)](#274)
-            - [Section 1 : Quasi-régie (art. L2511-1 à L2511-5)](#275)
-            - [Section 2 : Coopération entre pouvoirs adjudicateurs (art. L2511-6)](#276)
-            - [Section 3 : Marchés publics attribués par une entité adjudicatrice à une entreprise liée (art. L2511-7 à L2511-8)](#277)
-            - [Section 4 : Marchés publics attribués par une entité adjudicatrice à une coentreprise (art. L2511-9)](#278)
-          - [Chapitre II : Marchés publics conclus par un acheteur (art. L2512-1 à L2512-5)](#279)
-            - [Section 1 : Marchés publics conclus en application de règles internationales (art. L2512-1 à L2512-2)](#280)
-            - [Section 2 : Marchés publics liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat (art. L2512-3)](#281)
-            - [Section 3 : Autres marchés (art. L2512-4 à L2512-5)](#282)
-          - [Chapitre III : Marchés publics conclus par un pouvoir adjudicateur (art. L2513-1 à L2513-5)](#283)
-          - [Chapitre IV : Marchés publics conclus par une entité adjudicatrice (art. L2514-1 à L2514-5)](#284)
-          - [Chapitre V : Marché de défense ou de sécurité (art. L2515-1)](#285)
-        - [Titre II : RÈGLES APPLICABLES (art. L2521-1 à L2522-1)](#286)
-          - [Chapitre Ier : Règles générales applicables aux marchés publics mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer (art. L2521-1 à L2521-4)](#287)
-          - [Chapitre II : Règles propres aux marchés publics portant sur le service public de transport de voyageurs par chemin de fer (art. L2522-1)](#288)
-      - [Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L2614-1 à L2691-2)](#289)
-        - [Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE (art. L2614-1)](#290)
-          - [Chapitre IV : Dispositions particulières au livre IV (art. L2614-1)](#291)
-        - [Titre II : DISPOSITIONS PARTICULIERES A SAINT-BARTHELEMY (art. L2621-1 à L2625-1)](#292)
-          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L2621-1)](#293)
-          - [Chapitre III : Dispositions particulières au livre III (art. L2623-1)](#294)
-          - [Chapitre IV : Dispositions particulières au livre IV (art. L2624-1)](#295)
-          - [Chapitre V : Dispositions particulières au livre V (art. L2625-1)](#296)
-        - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. L2631-1 à L2634-1)](#297)
-          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L2631-1)](#298)
-          - [Chapitre III : Dispositions particulières au livre III (art. L2633-1)](#299)
-          - [Chapitre IV : Dispositions particulières au livre IV (art. L2634-1)](#300)
-        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L2641-1 à L2645-1)](#301)
-          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L2641-1)](#302)
-          - [Chapitre III : Dispositions particulières au livre III (art. L2643-1)](#303)
-          - [Chapitre IV : Dispositions particulières au livre IV (art. L2644-1)](#304)
-          - [Chapitre V : Dispositions particulières au livre V (art. L2645-1)](#305)
-        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L2651-1 à L2651-6)](#306)
-          - [Chapitre unique. (art. L2651-1 à L2651-6)](#307)
-            - [Section 1 : Dispositions générales (art. L2651-1)](#308)
-            - [Section 2 : Dispositions d'adaptation (art. L2651-2 à L2651-6)](#309)
-        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L2661-1 à L2661-6)](#310)
-          - [Chapitre unique. (art. L2661-1 à L2661-6)](#311)
-            - [Section 1 : Dispositions générales (art. L2661-1)](#312)
-            - [Section 2 : Dispositions d'adaptation (art. L2661-2 à L2661-6)](#313)
-        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L2671-1 à L2671-6)](#314)
-          - [Chapitre unique. (art. L2671-1 à L2671-6)](#315)
-            - [Section 1 : Dispositions générales (art. L2671-1)](#316)
-            - [Section 2 : Dispositions d'adaptation (art. L2671-2 à L2671-6)](#317)
-        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L2681-1 à L2681-6)](#318)
-          - [Chapitre unique. (art. L2681-1 à L2681-6)](#319)
-            - [Section 1 : Dispositions générales (art. L2681-1)](#320)
-            - [Section 2 : Dispositions d'adaptation (art. L2681-2 à L2681-6)](#321)
-        - [Titre IX : DISPOSITIONS COMMUNES À PLUSIEURS COLLECTIVITÉS (art. L2691-1 à L2691-2)](#322)
-          - [Chapitre unique. (art. L2691-1 à L2691-2)](#323)
-    - [TROISIÈME PARTIE : CONCESSIONS (art. L3000-1 à L3381-3)](#324)
-      - [Livre préliminaire  CONTRATS DE CONCESSION MIXTES (art. L3000-1 à L3000-4)](#325)
-      - [Livre Ier : DISPOSITIONS GÉNÉRALES (art. L3100-1 à L3137-5)](#326)
-        - [Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION (art. L3111-1 à L3114-10)](#327)
-          - [Chapitre Ier : Définition du besoin (art. L3111-1 à L3111-2)](#328)
-          - [Chapitre II : Mutualisation (art. L3112-1 à L3112-4)](#329)
-          - [Chapitre III : Réservation (art. L3113-1 à L3113-3)](#330)
-          - [Chapitre IV : Contenu du contrat de concession (art. L3114-1 à L3114-10)](#331)
-            - [Section 1 : Règles générales relatives aux conditions d'exécution (art. L3114-1 à L3114-3)](#332)
-            - [Section 2 : Droits d'entrée, redevances et tarifs (art. L3114-4 à L3114-6)](#333)
-            - [Section 3 : Durée (art. L3114-7 à L3114-8)](#334)
-            - [Section 4 : Part du contrat exécutée par des tiers (art. L3114-9 à L3114-10)](#335)
-        - [Titre II : PROCÉDURE DE PASSATION (art. L3120-1 à L3126-3)](#336)
-          - [Chapitre Ier : Détermination des règles procédurales applicables (art. L3121-1 à L3121-2)](#337)
-          - [Chapitre II : Engagement de la procédure de passation (art. L3122-1 à L3122-5)](#338)
-            - [Section 1 : Publicité préalable (art. L3122-1)](#339)
-            - [Section 2 : Communications et échanges d'informations (art. L3122-2 à L3122-5)](#340)
-              - [Sous-section 1 : Consignation des étapes de la procédure (art. L3122-2)](#341)
-              - [Sous-section 2 : Confidentialité (art. L3122-3)](#342)
-              - [Sous-section 3 : Mise à disposition des documents de la consultation (art. L3122-4)](#343)
-              - [Sous-section 4 : Moyens de communication et échanges d'informations (art. L3122-5)](#344)
-          - [Chapitre III : Phase de candidature (art. L3123-1 à L3123-21)](#345)
-            - [Section 1 : Motifs d'exclusion de la procédure de passation des contrats de concession (art. L3123-1 à L3123-17)](#346)
-              - [Sous-section 1 : Exclusions de plein droit (art. L3123-1 à L3123-6)](#347)
-              - [Sous-section 2 : Exclusions à l'appréciation de l'autorité concédante (art. L3123-7 à L3123-11)](#348)
-              - [Sous-section 3 : Exclusions de plein droit propres aux contrats de concession de défense ou de sécurité (art. L3123-12 à L3123-14)](#349)
-              - [Sous-section 4 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion (art. L3123-15)](#350)
-              - [Sous-section 5 : Groupements d'opérateurs économiques et travaux ou services confiés à des tiers (art. L3123-16 à L3123-17)](#351)
-            - [Section 2 : Conditions de participation (art. L3123-18 à L3123-21)](#352)
-          - [Chapitre IV : Phase d'offre (art. L3124-1 à L3124-7)](#353)
-            - [Section 1 : Organisation de la négociation des offres (art. L3124-1)](#354)
-            - [Section 2 : Choix de l'offre (art. L3124-2 à L3124-5)](#355)
-              - [Sous-section 1 : Offres irrégulières ou inappropriées (art. L3124-2 à L3124-4)](#356)
-              - [Sous-section 2 : Choix de l'offre présentant le meilleur avantage économique global (art. L3124-5)](#357)
-            - [Section 3 : Accès aux contrats de concession de défense ou de sécurité d'opérateurs économiques ou de produits d'Etats tiers (art. L3124-6 à L3124-7)](#358)
-          - [Chapitre V : Achèvement de la procédure (art. L3125-1 à L3125-2)](#359)
-            - [Section 1 : Information des candidats et des soumissionnaires évincés (art. L3125-1)](#360)
-            - [Section 2 : Avis d'attribution (art. L3125-2)](#361)
-          - [Chapitre VI : Règles particulières à la passation de certains contrats de concession (art. L3126-1 à L3126-3)](#362)
-        - [Titre III : EXÉCUTION DU CONTRAT DE CONCESSION (art. L3131-1 à L3137-5)](#363)
-          - [Chapitre Ier : Transparence et rapport d'information de l'autorité concédante (art. L3131-1 à L3131-5)](#364)
-            - [Section 1 : Mise à disposition des données essentielles (art. L3131-1 à L3131-4)](#365)
-              - [Sous-section 1 : Mise à disposition des données essentielles par l'autorité concédante (art. L3131-1)](#366)
-              - [Sous-section 2 : Mise à disposition de données par le concessionnaire en cas de gestion concédée d'un service public (art. L3131-2 à L3131-4)](#367)
-            - [Section 2 : Rapport d'information à l'autorité concédante (art. L3131-5)](#368)
-          - [Chapitre II : Occupation domaniale et biens de la concession (art. L3132-1 à L3132-6)](#369)
-          - [Chapitre III : Exécution financière (art. L3133-10 à L3133-14)](#370)
-            - [Section 2 : Délais de paiement (art. L3133-10 à L3133-14)](#371)
-              - [Sous-section 1 : Fixation du délai de paiement (art. L3133-10 à L3133-11)](#372)
-              - [Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. L3133-12 à L3133-13)](#373)
-              - [Sous-section 3 : Amende administrative en cas de retard de paiement (art. L3133-14)](#374)
-          - [Chapitre IV : Exécution du contrat de concession par des tiers (art. L3134-1 à L3134-3)](#375)
-          - [Chapitre V : Modification du contrat de concession (art. L3135-1 à L3135-2)](#376)
-          - [Chapitre VI : Fin des relations contractuelles (art. L3136-1 à L3136-10)](#377)
-            - [Section 1 : Résiliation des contrats de concession (art. L3136-1 à L3136-6)](#378)
-            - [Section 2 : Modalités particulières d'indemnisation du concessionnaire (art. L3136-7 à L3136-10)](#379)
-          - [Chapitre VII : Règlement alternatif des différends (art. L3137-1 à L3137-5)](#380)
-            - [Section 1 : Conciliation et médiation (art. L3137-1 à L3137-2)](#381)
-            - [Section 2 : Transaction (art. L3137-3)](#382)
-            - [Section 3 : Arbitrage (art. L3137-4 à L3137-5)](#383)
-      - [Livre II : AUTRES CONTRATS DE CONCESSION (art. L3200-1 à L3222-1)](#384)
-        - [Titre Ier : CHAMP D'APPLICATION (art. L3211-1 à L3215-1)](#385)
-          - [Chapitre Ier : Relations internes au secteur public (art. L3211-1 à L3211-9)](#386)
-            - [Section 1 : Quasi-régie (art. L3211-1 à L3211-5)](#387)
-            - [Section 2 : Coopération entre pouvoirs adjudicateurs (art. L3211-6)](#388)
-            - [Section 3 : Contrats de concession attribués par une entité adjudicatrice à une entreprise liée (art. L3211-7 à L3211-8)](#389)
-            - [Section 4 : Contrats de concession attribués par une entité adjudicatrice à une coentreprise (art. L3211-9)](#390)
-          - [Chapitre II : Contrats de concession conclus par une autorité concédante (art. L3212-1 à L3212-4)](#391)
-            - [Section 1 : Contrats de concession conclus en application de règles internationales (art. L3212-1 à L3212-2)](#392)
-            - [Section 2 : Contrats de concession liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat (art. L3212-3)](#393)
-            - [Section 3 : Autres contrats de concession (art. L3212-4)](#394)
-          - [Chapitre III : Contrats de concession conclus par un pouvoir adjudicateur (art. L3213-1 à L3213-2)](#395)
-          - [Chapitre IV : Contrats de concession conclus par une entité adjudicatrice (art. L3214-1 à L3214-2)](#396)
-          - [Chapitre V : Contrats de concession de défense ou de sécurité (art. L3215-1)](#397)
-        - [Titre II : RÈGLES APPLICABLES (art. L3221-1 à L3222-1)](#398)
-          - [Chapitre Ier : Règles générales applicables aux contrats de concession mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer (art. L3221-1 à L3221-7)](#399)
-          - [Chapitre II : Règles propres aux contrats de concession portant sur le service public de transport de voyageurs par chemin de fer (art. L3222-1)](#400)
-      - [Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3321-1 à L3381-3)](#401)
-        - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY (art. L3321-1 à L3322-1)](#402)
-          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L3321-1)](#403)
-          - [Chapitre II : Dispositions particulières au livre II (art. L3322-1)](#404)
-        - [Titre III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. L3331-1 à L3332-1)](#405)
-          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L3331-1)](#406)
-          - [Chapitre II : Dispositions particulières au livre II (art. L3332-1)](#407)
-        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L3341-1 à L3342-1)](#408)
-          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L3341-1)](#409)
-          - [Chapitre II : Dispositions particulières au livre II (art. L3342-1)](#410)
-        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L3351-1 à L3351-3)](#411)
-          - [Chapitre unique. (art. L3351-1 à L3351-3)](#412)
-            - [Section 1 : Dispositions générales (art. L3351-1)](#413)
-            - [Section 2 : Dispositions d'adaptation (art. L3351-2 à L3351-3)](#414)
-        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L3361-1 à L3361-3)](#415)
-          - [Chapitre unique. (art. L3361-1 à L3361-3)](#416)
-            - [Section 1 : Dispositions générales (art. L3361-1)](#417)
-            - [Section 2 : Dispositions d'adaptation (art. L3361-2 à L3361-3)](#418)
-        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L3371-1 à L3371-3)](#419)
-          - [Chapitre unique. (art. L3371-1 à L3371-3)](#420)
-            - [Section 1 : Dispositions générales (art. L3371-1)](#421)
-            - [Section 2 : Dispositions d'adaptation (art. L3371-2 à L3371-3)](#422)
-        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L3381-1 à L3381-3)](#423)
-          - [Chapitre unique. (art. L3381-1 à L3381-3)](#424)
-            - [Section 1 : Dispositions générales (art. L3381-1)](#425)
-            - [Section 2 : Dispositions d'adaptation (art. L3381-2 à L3381-3)](#426)
-  - [Partie réglementaire (art. R2100-1 à R3381-4)](#427)
-    - [DEUXIÈME PARTIE : MARCHÉS PUBLICS (art. R2100-1 à R2691-1)](#428)
-      - [Livre Ier : DISPOSITIONS GÉNÉRALES (art. R2100-1 à R2197-25)](#429)
-        - [Titre Ier : PRÉPARATION DU MARCHÉ (art. R2111-1 à R2113-8)](#430)
-          - [Chapitre Ier : DÉFINITION DU BESOIN (art. R2111-1 à R2111-17)](#431)
-            - [Section 1 : Aide à la définition du besoin (art. R2111-1 à D2111-3)](#432)
-              - [Sous-section 1 : Etudes et échanges préalables avec les opérateurs économiques (art. R2111-1)](#433)
-              - [Sous-section 2 : Participation d'un opérateur économique à la préparation du marché (art. R2111-2)](#434)
-              - [Sous-section 3 : Schéma de promotion des achats (art. D2111-3)](#435)
-            - [Section 2 : Formalisation du besoin par des spécifications techniques (art. R2111-4 à R2111-11)](#436)
-              - [Sous-section 1 : Contenu des spécifications techniques (art. R2111-4 à R2111-6)](#437)
-              - [Sous-section 2 : Formulation des spécifications techniques (art. R2111-7 à R2111-11)](#438)
-            - [Section 3 : Utilisation de labels (art. R2111-12 à R2111-17)](#439)
-          - [Chapitre II : CONTENU DU MARCHÉ (art. R2112-1 à R2112-18)](#440)
-            - [Section 1 : Règles générales (art. R2112-1 à R2112-3)](#441)
-            - [Section 2 : Durée (art. R2112-4)](#442)
-            - [Section 3 : Prix (art. R2112-5 à R2112-18)](#443)
-              - [Sous-section 1 : Forme des prix (art. R2112-6)](#444)
-              - [Sous-section 2 : Prix définitifs (art. R2112-7 à R2112-14)](#445)
-                - [Paragraphe 1 : Prix fermes (art. R2112-9 à R2112-12)](#446)
-                - [Paragraphe 2 : Prix révisables (art. R2112-13)](#447)
-                - [Paragraphe 3 : Prix affecté par les fluctuations des cours mondiaux (art. R2112-14)](#448)
-              - [Sous-section 3 : Prix provisoires (art. R2112-15 à R2112-18)](#449)
-          - [Chapitre III : ORGANISATION DE L'ACHAT (art. R2113-1 à R2113-8)](#450)
-            - [Section 1 : Allotissement (art. R2113-1 à R2113-3)](#451)
-            - [Section 2 : Marchés à tranches (art. R2113-4 à R2113-6)](#452)
-            - [Section 3 : Réservation de marchés (art. R2113-7 à R2113-8)](#453)
-              - [Sous-section 1 : Réservation de marchés aux opérateurs économiques qui emploient des travailleurs handicapés et défavorisés (art. R2113-7)](#454)
-              - [Sous-section 2 : Réservation de marchés aux entreprises de l'économie sociale et solidaire (art. R2113-8)](#455)
-        - [Titre II : CHOIX DE LA PROCÉDURE DE PASSATION (art. R2121-1 à R2124-6)](#456)
-          - [Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN (art. R2121-1 à R2121-9)](#457)
-            - [Section 1 : Dispositions générales (art. R2121-1 à R2121-4)](#458)
-            - [Section 2 : Prise en compte de la nature des prestations (art. R2121-5 à R2121-7)](#459)
-            - [Section 3 : Dispositions propres aux accords-cadres, systèmes d'acquisition dynamique et partenariats d'innovation (art. R2121-8 à R2121-9)](#460)
-          - [Chapitre II : MARCHÉS PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES (art. R2122-1 à R2122-11)](#461)
-            - [Section 1 : Marchés passés sans publicité ni mise en concurrence en raison de leur montant ou de leur objet (art. R2122-1 à R2122-9)](#462)
-            - [Section 2 : Marchés passés sans publicité ni mise en concurrence en raison de la qualité de l'acheteur (art. R2122-10 à R2122-11)](#463)
-          - [Chapitre III : MARCHÉS PASSÉS SELON UNE PROCÉDURE ADAPTÉE (art. R2123-1 à R2123-8)](#464)
-            - [Section 1 : Conditions de recours à une procédure adaptée (art. R2123-1 à R2123-3)](#465)
-            - [Section 2 : Règles applicables (art. R2123-4 à R2123-7)](#466)
-            - [Section 3 : Règles particulières aux services juridiques (art. R2123-8)](#467)
-          - [Chapitre IV : MARCHÉS PASSÉS SELON UNE PROCÉDURE FORMALISÉE (art. R2124-1 à R2124-6)](#468)
-            - [Section 1 : Appel d'offres (art. R2124-2)](#469)
-            - [Section 2 : Procédure avec négociation (art. R2124-3 à R2124-4)](#470)
-            - [Section 3 : Dialogue compétitif (art. R2124-5 à R2124-6)](#471)
-        - [Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. R2131-1 à R2132-14)](#472)
-          - [Chapitre Ier : PUBLICITÉ PRÉALABLE (art. R2131-1 à R2131-20)](#473)
-            - [Section 1 : Supports de publication (art. R2131-1 à R2131-18)](#474)
-              - [Sous-section 1 : Avis de préinformation et avis périodique indicatif manifestant l'intention des acheteurs de passer un marché (art. R2131-1 à R2131-3)](#475)
-              - [Sous-section 2 : Avis de préinformation et avis périodique indicatif constituant un appel à la concurrence (art. R2131-4 à R2131-11)](#476)
-                - [Paragraphe 1 : Dispositions applicables aux marchés autres que ceux relatifs aux services sociaux et autres services spécifiques (art. R2131-4 à R2131-6)](#477)
-                - [Paragraphe 2 : Dispositions applicables aux marchés de services sociaux et autres services spécifiques (art. R2131-7 à R2131-9)](#478)
-                - [Paragraphe 3 : Dispositions communes relatives à l'invitation à confirmer l'intérêt (art. R2131-10 à R2131-11)](#479)
-              - [Sous-section 3 : Avis de marché (art. R2131-12 à R2131-18)](#480)
-                - [Paragraphe 1 : Avis de marché pour certains marchés passés selon une procédure adaptée (art. R2131-12 à R2131-13)](#481)
-                - [Paragraphe 2 : Modalités de publicité pour les marchés de services sociaux et autres services spécifiques (art. R2131-14 à R2131-15)](#482)
-                - [Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée (art. R2131-16 à R2131-17)](#483)
-                - [Paragraphe 4 : Publicité supplémentaire (art. R2131-18)](#484)
-            - [Section 2 : Publication (art. R2131-19 à R2131-20)](#485)
-          - [Chapitre II : COMMUNICATIONS ET ÉCHANGES D'INFORMATION (art. R2132-1 à R2132-14)](#486)
-            - [Section unique :  Dématérialisation des communications et échanges d'informations (art. R2132-1 à R2132-14)](#487)
-              - [Sous-section 1 : Mise à disposition des documents de la consultation (art. R2132-1 à R2132-6)](#488)
-              - [Sous-section 2 : Support des communications et échanges d'informations (art. R2132-7 à R2132-14)](#489)
-        - [Titre IV : PHASE DE CANDIDATURE (art. R2142-1 à R2144-9)](#490)
-          - [Chapitre II : CONDITIONS DE PARTICIPATION (art. R2142-1 à R2142-27)](#491)
-            - [Section 1 : Dispositions générales (art. R2142-1 à R2142-14)](#492)
-              - [Sous-section 1 : Conditions générales (art. R2142-1 à R2142-4)](#493)
-              - [Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle (art. R2142-5)](#494)
-              - [Sous-section 3 : Conditions relatives aux capacités économiques et financières (art. R2142-6 à R2142-12)](#495)
-              - [Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles (art. R2142-13 à R2142-14)](#496)
-            - [Section 2 : Réduction du nombre de candidats (art. R2142-15 à R2142-18)](#497)
-            - [Section 3 : Groupements d'opérateurs économiques (art. R2142-19 à R2142-27)](#498)
-          - [Chapitre III : CONTENU DES CANDIDATURES (art. R2143-1 à R2143-16)](#499)
-            - [Section 1 : Présentation des candidatures (art. R2143-1 à R2143-4)](#500)
-              - [Sous-section 1 : Délai de réception des candidatures (art. R2143-1 à R2143-2)](#501)
-              - [Sous-section 2 : Eléments à produire par le candidat (art. R2143-3 à R2143-4)](#502)
-            - [Section 2 : Documents justificatifs et autres moyens de preuve (art. R2143-5 à R2143-15)](#503)
-              - [Sous-section 1 : Dispositions générales (art. R2143-5)](#504)
-              - [Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion (art. R2143-6 à R2143-10)](#505)
-              - [Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation (art. R2143-11 à R2143-12)](#506)
-              - [Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve (art. R2143-13 à R2143-14)](#507)
-              - [Sous-section 5 : Opérateurs agréés et certifiés (art. R2143-15)](#508)
-            - [Section 3 : Traduction en français (art. R2143-16)](#509)
-          - [Chapitre IV : EXAMEN DES CANDIDATURES (art. R2144-1 à R2144-9)](#510)
-            - [Section 1 : Modalités de vérification (art. R2144-1 à R2144-7)](#511)
-            - [Section 2 : Invitation des candidats sélectionnés (art. R2144-8 à R2144-9)](#512)
-        - [Titre V : PHASE D'OFFRE (art. R2151-1 à R2153-5)](#513)
-          - [Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES (art. R2151-1 à R2151-16)](#514)
-            - [Section 1 : Présentation des offres (art. R2151-1 à R2151-11)](#515)
-              - [Sous-section 1 : Délais de réception (art. R2151-1 à R2151-5)](#516)
-              - [Sous-section 2 : Modalités de remise (art. R2151-6 à R2151-7)](#517)
-              - [Sous-section 3 : Variantes (art. R2151-8 à R2151-11)](#518)
-            - [Section 2 : Informations et documents à produire dans l'offre (art. R2151-12 à R2151-16)](#519)
-          - [Chapitre II : EXAMEN DES OFFRES (art. R2152-1 à R2152-13)](#520)
-            - [Section 1 : Offres irrégulières, inacceptables ou inappropriées (art. R2152-1 à R2152-2)](#521)
-            - [Section 2 : Offres anormalement basses (art. R2152-3 à R2152-5)](#522)
-            - [Section 3 : Choix de l'offre économiquement la plus avantageuse (art. R2152-6 à R2152-12)](#523)
-              - [Sous-section 1 : Choix des critères d'attribution (art. R2152-6 à R2152-8)](#524)
-              - [Sous-section 2 : Utilisation du coût du cycle de vie comme critère d'attribution (art. R2152-9 à R2152-10)](#525)
-              - [Sous-section 3 : Publicité des critères et de leurs modalités de mise en œuvre (art. R2152-11 à R2152-12)](#526)
-            - [Section 4 : Mise au point du marché (art. R2152-13)](#527)
-          - [Chapitre III : OFFRES PRÉSENTÉES PAR DES OPÉRATEURS ÉCONOMIQUES OU COMPORTANT DES PRODUITS D'ÉTATS TIERS (art. R2153-1 à R2153-5)](#528)
-            - [Section 1 : Principes généraux (art. R2153-1 à R2153-2)](#529)
-            - [Section 2 : Marchés de fournitures des entités adjudicatrices (art. R2153-3 à R2153-5)](#530)
-        - [Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT (art. R2161-1 à R2162-66)](#531)
-          - [Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES (art. R2161-1 à R2161-31)](#532)
-            - [Section 1 : Appel d'offres (art. R2161-2 à R2161-11)](#533)
-              - [Sous-section 1 : Appel d'offres ouvert (art. R2161-2 à R2161-5)](#534)
-              - [Sous-section 2 : Appel d'offres restreint (art. R2161-6 à R2161-11)](#535)
-            - [Section 2 : Procédure avec négociation (art. R2161-12 à R2161-23)](#536)
-              - [Sous-section 1 : Règles applicables aux pouvoirs adjudicateurs (art. R2161-12 à R2161-20)](#537)
-              - [Sous-section 2 : Règles applicables aux entités adjudicatrices (art. R2161-21 à R2161-23)](#538)
-            - [Section 3 : Dialogue compétitif (art. R2161-24 à R2161-31)](#539)
-          - [Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT (art. R2162-1 à R2162-66)](#540)
-            - [Section 1 : Accords-cadres (art. R2162-1 à R2162-14)](#541)
-              - [Sous-section 1 : Dispositions générales (art. R2162-1 à R2162-6)](#542)
-              - [Sous-section 2 : Dispositions propres aux marchés subséquents (art. R2162-7 à R2162-12)](#543)
-              - [Sous-section 3 : Dispositions propres aux bons de commande (art. R2162-13 à R2162-14)](#544)
-            - [Section 2 : Concours (art. R2162-15 à R2162-26)](#545)
-              - [Sous-section 1 : Déroulement du concours (art. R2162-15 à R2162-21)](#546)
-              - [Sous-section 2 : Composition du jury (art. R2162-22 à R2162-26)](#547)
-            - [Section 3 : Système de qualification des entités adjudicatrices (art. R2162-27 à R2162-36)](#548)
-              - [Sous-section 1 : Règles de publicité (art. R2162-28 à R2162-29)](#549)
-              - [Sous-section 2 : Qualification des opérateurs économiques (art. R2162-30 à R2162-34)](#550)
-              - [Sous-section 3 : Règles de passation des marchés conclus sur la base d'un système de qualification (art. R2162-35 à R2162-36)](#551)
-            - [Section 4 : Système d'acquisition dynamique (art. R2162-37 à R2162-51)](#552)
-              - [Sous-section 1 : Mise en place du système d'acquisition dynamique (art. R2162-37 à R2162-42)](#553)
-                - [Paragraphe 1 : Formalités de publicité (art. R2162-39 à R2162-40)](#554)
-                - [Paragraphe 2 : Documents de la consultation (art. R2162-41 à R2162-42)](#555)
-              - [Sous-section 2 : Sélection des opérateurs économiques participant au système d'acquisition dynamique (art. R2162-43 à R2162-48)](#556)
-              - [Sous-section 3 : Règles de passation des marchés spécifiques conclus sur la base d'un système d'acquisition dynamique (art. R2162-49 à R2162-51)](#557)
-            - [Section 5 : Catalogues électroniques (art. R2162-52 à R2162-56)](#558)
-            - [Section 6 : Enchères électroniques (art. R2162-57 à R2162-66)](#559)
-        - [Titre VII : RÈGLES APPLICABLES A CERTAINS MARCHÉS (art. R2171-1 à R2172-38)](#560)
-          - [Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX (art. R2171-1 à R2171-22)](#561)
-            - [Section 1 : Caractéristiques des marchés globaux (art. R2171-1 à D2171-14)](#562)
-              - [Sous-section 1 : Marché de conception-réalisation (art. R2171-1)](#563)
-              - [Sous-section 2 : Marché global de performance (art. R2171-2 à R2171-3)](#564)
-              - [Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment (art. D2171-4 à D2171-14)](#565)
-                - [Paragraphe 1 : Les études d'esquisse (art. D2171-5)](#566)
-                - [Paragraphe 2 : Les études d'avant-projet (art. D2171-6 à D2171-9)](#567)
-                - [Paragraphe 3 : Les études de projet (art. D2171-10)](#568)
-                - [Paragraphe 4 : Les études d'exécution (art. D2171-11 à D2171-12)](#569)
-                - [Paragraphe 5 : Le suivi de la réalisation des travaux (art. D2171-13)](#570)
-                - [Paragraphe 6 : L'assistance aux opérations de réception et à la mise en œuvre de la garantie de parfait achèvement (art. D2171-14)](#571)
-            - [Section 2 : Procédure de passation des marchés globaux applicable aux acheteurs soumis au livre IV (art. R2171-15 à R2171-18)](#572)
-            - [Section 3 : Versement d'une prime (art. R2171-19 à R2171-22)](#573)
-          - [Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS EN FONCTION DE LEUR OBJET (art. R2172-1 à R2172-38)](#574)
-            - [Section 1 : Marchés de maîtrise d'œuvre (art. R2172-1 à R2172-6)](#575)
-              - [Sous-section 1 : Définition (art. R2172-1)](#576)
-              - [Sous-section 2 : Procédures applicables (art. R2172-2 à R2172-3)](#577)
-              - [Sous-section 3 : Primes (art. R2172-4 à R2172-6)](#578)
-            - [Section 2 : Marchés de décoration des constructions publiques (art. R2172-7 à R2172-19)](#579)
-              - [Sous-section 1 : Marchés inférieurs aux seuils européens (art. R2172-8 à R2172-16)](#580)
-                - [Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer (art. R2172-8 à R2172-14)](#581)
-                - [Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes (art. R2172-15 à R2172-16)](#582)
-              - [Sous-section 2 : Marchés supérieurs aux seuils européens (art. R2172-17)](#583)
-              - [Sous-section 3 : Composition et fonctionnement du comité artistique (art. R2172-18 à R2172-19)](#584)
-            - [Section 3 : Partenariats d'innovation (art. R2172-20 à R2172-32)](#585)
-              - [Sous-section 1 : Contenu du partenariat d'innovation (art. R2172-21 à R2172-25)](#586)
-              - [Sous-section 2 : Passation du partenariat d'innovation (art. R2172-26 à R2172-30)](#587)
-              - [Sous-section 3 : Déroulement du partenariat d'innovation (art. R2172-31 à R2172-32)](#588)
-            - [Section 4 : Marchés réalisés dans le cadre de programmes expérimentaux (art. R2172-33 à R2172-34)](#589)
-            - [Section 5 : Marchés relatifs à l'achat de véhicules à moteur (art. R2172-35 à R2172-38)](#590)
-        - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE (art. R2181-1 à R2185-2)](#591)
-          - [Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS (art. R2181-1 à R2181-6)](#592)
-            - [Section 1 : Marchés passés selon une procédure adaptée (art. R2181-2)](#593)
-            - [Section 2 : Marchés passés selon une procédure formalisée (art. R2181-3 à R2181-4)](#594)
-            - [Section 3 : Informations des candidats et soumissionnaires évincés dans le cadre d'un système de qualification passé par une entité adjudicatrice (art. R2181-5 à R2181-6)](#595)
-          - [Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ (art. R2182-1 à R2182-5)](#596)
-            - [Section 1 : Signature du marché (art. R2182-1 à R2182-3)](#597)
-            - [Section 2 : Notification du marché (art. R2182-4 à R2182-5)](#598)
-          - [Chapitre III : AVIS D'ATTRIBUTION (art. R2183-1 à R2183-7)](#599)
-            - [Section 1 : Modalités de publication (art. R2183-1 à R2183-4)](#600)
-              - [Sous-section 1 : Dispositions générales (art. R2183-1 à R2183-2)](#601)
-              - [Sous-section 2 : Dispositions propres à certains marchés (art. R2183-3 à R2183-4)](#602)
-            - [Section 2 : Dispositions particulières au contenu des avis d'attribution (art. R2183-5 à R2183-7)](#603)
-          - [Chapitre IV : CONSERVATION DES INFORMATIONS (art. R2184-1 à R2184-13)](#604)
-            - [Section 1 : Rapport de présentation de la procédure menée par les pouvoirs adjudicateurs (art. R2184-1 à R2184-6)](#605)
-            - [Section 2 : Informations conservées par les entités adjudicatrices (art. R2184-7 à R2184-11)](#606)
-            - [Section 3 : Durée de conservation (art. R2184-12 à R2184-13)](#607)
-          - [Chapitre V : ABANDON DE LA PROCÉDURE (art. R2185-1 à R2185-2)](#608)
-        - [Titre IX : EXÉCUTION DU MARCHÉ (art. R2191-1 à R2197-25)](#609)
-          - [Chapitre Ier : EXÉCUTION FINANCIÈRE (art. R2191-1 à R2191-63)](#610)
-            - [Section 1 : Avances (art. R2191-3 à R2191-19)](#611)
-              - [Sous-section 1 : Dispositions générales (art. R2191-3 à R2191-12)](#612)
-                - [Paragraphe 1 : Principe de versement d'une avance (art. R2191-3 à R2191-5)](#613)
-                - [Paragraphe 2 : Modalités de calcul du montant de l'avance (art. R2191-6 à R2191-10)](#614)
-                - [Paragraphe 3 : Modalités de remboursement de l'avance (art. R2191-11 à R2191-12)](#615)
-              - [Sous-section 2 : Dispositions particulières (art. R2191-13 à R2191-19)](#616)
-                - [Paragraphe 1 : Marchés à tranches (art. R2191-13 à R2191-14)](#617)
-                - [Paragraphe 2 : Marchés reconductibles (art. R2191-15)](#618)
-                - [Paragraphe 3 : Accords-cadres à bons de commande (art. R2191-16 à R2191-19)](#619)
-            - [Section 2 : Acomptes (art. R2191-20 à R2191-22)](#620)
-            - [Section 3 : Régime des paiements (art. R2191-23 à R2191-31)](#621)
-              - [Sous-section 1 : Dispositions générales (art. R2191-23 à R2191-25)](#622)
-              - [Sous-section 2 : Règlement partiel définitif (art. R2191-26)](#623)
-              - [Sous-section 3 : Mise en œuvre de la clause de variation de prix (art. R2191-27 à R2191-29)](#624)
-              - [Sous-section 4 : Règles applicables en cas de résiliation du marché (art. R2191-30 à R2191-31)](#625)
-            - [Section 4 : Garanties (art. R2191-32 à R2191-44)](#626)
-              - [Sous-section 1 : Retenue de garantie (art. R2191-32 à R2191-35)](#627)
-              - [Sous-section 2 : Garantie à première demande et caution personnelle et solidaire (art. R2191-36 à R2191-42)](#628)
-              - [Sous-section 3 : Autres garanties (art. R2191-43 à R2191-44)](#629)
-            - [Section 5 : Cession ou nantissement des créances (art. R2191-45 à R2191-63)](#630)
-              - [Sous-section 1 : Exemplaire unique et certificat de cessibilité (art. R2191-46 à R2191-53)](#631)
-                - [Paragraphe 1 : Modalités de remise de l'exemplaire unique et du certificat de cessibilité (art. R2191-46 à R2191-47)](#632)
-                - [Paragraphe 2 : Contenu et modification de l'exemplaire unique ou du certificat de cessibilité (art. R2191-48 à R2191-50)](#633)
-                - [Paragraphe 3 : Dispositions propres aux accords-cadres à bons de commande et aux marchés à tranches optionnelles (art. R2191-51)](#634)
-                - [Paragraphe 4 : Dispositions propres aux groupements d'opérateurs économiques (art. R2191-52 à R2191-53)](#635)
-              - [Sous-section 2 : Notification au comptable assignataire et encaissement de la créance (art. R2191-54 à R2191-58)](#636)
-                - [Paragraphe 1 : Notification au comptable assignataire (art. R2191-54 à R2191-55)](#637)
-                - [Paragraphe 2 : Encaissement de la créance (art. R2191-56 à R2191-58)](#638)
-              - [Sous-section 3 : Information des bénéficiaires (art. R2191-59 à R2191-62)](#639)
-                - [Paragraphe 1 : Renseignements communiqués par l'acheteur (art. R2191-60 à R2191-61)](#640)
-                - [Paragraphe 2 : Renseignements communiqués par le comptable (art. R2191-62)](#641)
-              - [Sous-section 4 : Privilège résultant de l'article L. 3253-22 du code du travail (art. R2191-63)](#642)
-          - [Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT (art. R2192-10 à R2192-37)](#643)
-            - [Section 2 : Délais de paiement (art. R2192-10 à R2192-36)](#644)
-              - [Sous-section 1 : Fixation du délai de paiement (art. R2192-10 à R2192-11)](#645)
-              - [Sous-section 2 : Déclenchement du délai de paiement (art. R2192-12 à R2192-26)](#646)
-                - [Paragraphe 1 : Dispositions générales (art. R2192-12 à R2192-15)](#647)
-                - [Paragraphe 2 : Dispositions propres à certains marchés (art. R2192-16 à R2192-17)](#648)
-                - [Paragraphe 3 : Dispositions propres à l'intervention d'un tiers habilité à recevoir les demandes de paiement (art. R2192-18 à R2192-21)](#649)
-                - [Paragraphe 4 : Dispositions propres aux sous-traitants bénéficiant du paiement direct (art. R2192-22 à R2192-23)](#650)
-                - [Paragraphe 5 : Dispositions propres aux avances, aux garanties et aux indemnités de résiliation (art. R2192-24 à R2192-26)](#651)
-              - [Sous-section 3 : Interruption du délai de paiement (art. R2192-27 à R2192-30)](#652)
-              - [Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. D2192-35 à R2192-36)](#653)
-            - [Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public (art. R2192-37)](#654)
-          - [Chapitre III : SOUS-TRAITANCE (art. R2193-1 à R2193-22)](#655)
-            - [Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement (art. R2193-1 à R2193-9)](#656)
-              - [Sous-section 1 : Modalités d'acceptation et d'agrément (art. R2193-1 à R2193-4)](#657)
-                - [Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre (art. R2193-1 à R2193-2)](#658)
-                - [Paragraphe 2 : Déclaration de sous-traitance après la notification du marché public (art. R2193-3 à R2193-4)](#659)
-              - [Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct (art. R2193-5 à R2193-8)](#660)
-              - [Sous-section 3 : Offres anormalement basses des sous-traitants (art. R2193-9)](#661)
-            - [Section 2 : Paiement du sous-traitant (art. R2193-10 à R2193-16)](#662)
-            - [Section 3 : Régime financier (art. R2193-17 à R2193-22)](#663)
-              - [Sous-section 1 : Avances (art. R2193-17 à R2193-21)](#664)
-              - [Sous-section 2 : Cession ou nantissement de créances (art. R2193-22)](#665)
-          - [Chapitre IV : MODIFICATION DU MARCHÉ (art. R2194-1 à R2194-10)](#666)
-            - [Section 1 : Modifications autorisées (art. R2194-1 à R2194-9)](#667)
-              - [Sous-section 1 : Clauses contractuelles (art. R2194-1)](#668)
-              - [Sous-section 2 : Travaux, fournitures ou services supplémentaires devenus nécessaires (art. R2194-2 à R2194-4)](#669)
-              - [Sous-section 3 : Circonstances imprévues (art. R2194-5)](#670)
-              - [Sous-section 4 : Substitution d'un nouveau titulaire (art. R2194-6)](#671)
-              - [Sous-section 5 : Modification non substantielle (art. R2194-7)](#672)
-              - [Sous-section 6 : Modification de faible montant (art. R2194-8 à R2194-9)](#673)
-            - [Section 2 : Avis de modification (art. R2194-10)](#674)
-          - [Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT (art. R2196-1 à R2196-12)](#675)
-            - [Section 1 : Mise à disposition des données essentielles (art. R2196-1)](#676)
-            - [Section 2 : Recensement économique (art. R2196-2 à D2196-7)](#677)
-              - [Sous-section 1 : Observatoire économique de la commande publique (art. R2196-2 à R2196-4)](#678)
-              - [Sous-section 2 : Modalités du recensement économique (art. D2196-5 à D2196-7)](#679)
-            - [Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. R2196-8 à R2196-12)](#680)
-          - [Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS (art. R2197-1 à R2197-25)](#681)
-            - [Section 1 : Comités consultatifs de règlement amiable des différends (art. R2197-1 à D2197-22)](#682)
-              - [Sous-section 1 : Compétences des comités consultatifs de règlement amiable des différends (art. R2197-2 à R2197-5)](#683)
-              - [Sous-section 2 : Composition des comités consultatifs de règlement amiable des différends (art. R2197-6 à R2197-7)](#684)
-              - [Sous-section 3 : Nomination des membres des comités consultatifs de règlement amiable des différends (art. R2197-8 à R2197-12)](#685)
-              - [Sous-section 4 : Animation, coordination et secrétariat des comités consultatifs de règlement amiable des différends (art. D2197-13)](#686)
-              - [Sous-section 5 : Dispositions financières relatives aux comités consultatifs de règlement amiable des différends (art. D2197-14)](#687)
-              - [Sous-section 6 : Saisine des comités consultatifs de règlement amiable des différends (art. D2197-15 à R2197-16)](#688)
-              - [Sous-section 7 : Modalités de fonctionnement des comités consultatifs de règlement amiable des différends (art. D2197-18 à D2197-20)](#689)
-              - [Sous-section 8 : Notification des avis des comités consultatifs de règlement amiable des différends (art. D2197-21 à D2197-22)](#690)
-            - [Section 2 : Le médiateur des entreprises (art. R2197-23 à R2197-24)](#691)
-            - [Section 3 : Arbitrage (art. R2197-25)](#692)
-      - [Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT (art. R2200-1 à R2236-1)](#693)
-        - [Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT (art. R2211-1 à R2213-5)](#694)
-          - [Chapitre Ier : CONDITIONS DE RECOURS AU MARCHÉ DE PARTENARIAT (art. R2211-1 à R2211-4)](#695)
-            - [Section 1 : Seuils (art. R2211-1 à R2211-2)](#696)
-            - [Section 2 : Bilan plus favorable (art. R2211-3 à R2211-4)](#697)
-          - [Chapitre II : INSTRUCTION DU PROJET (art. R2212-1 à R2212-13)](#698)
-            - [Section 1 : Dispositions communes à la phase d'instruction (art. R2212-2 à R2212-3)](#699)
-            - [Section 2 : Evaluation du mode de réalisation du projet (art. R2212-4 à R2212-8)](#700)
-            - [Section 3 : Etude de soutenabilité budgétaire (art. R2212-9 à R2212-10)](#701)
-            - [Section 4 : Instruction des projets pour le compte des acheteurs non autorisés (art. R2212-11 à R2212-13)](#702)
-          - [Chapitre III : CONTENU DU MARCHÉ DE PARTENARIAT (art. R2213-1 à R2213-5)](#703)
-            - [Section 1 : Rémunération du titulaire (art. R2213-1 à R2213-4)](#704)
-            - [Section 2 : Part d'exécution du contrat réservée aux PME (art. R2213-5)](#705)
-        - [Titre II : PASSATION DU MARCHÉ DE PARTENARIAT (art. R2221-1 à R2223-5)](#706)
-          - [Chapitre Ier : AUTORISATIONS PRÉALABLES À L'ENGAGEMENT DE LA PROCÉDURE (art. R2221-1 à R2221-3)](#707)
-            - [Section unique :  Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. R2221-1 à R2221-3)](#708)
-          - [Chapitre II : PRÉSENTATION DES DOCUMENTS DE LA CONSULTATION, DES OFFRES ET CRITÈRES D'ATTRIBUTION (art. R2222-1 à R2222-3)](#709)
-            - [Section 1 : Caractère ajustable des modalités de financement (art. R2222-1)](#710)
-            - [Section 2 : Constitution d'une société de projet (art. R2222-2 à R2222-3)](#711)
-          - [Chapitre III : ACHÈVEMENT DE LA PROCÉDURE (art. R2223-1 à R2223-5)](#712)
-            - [Section 1 : Accord préalable à la signature (art. R2223-1 à R2223-4)](#713)
-              - [Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. R2223-1 à R2223-3)](#714)
-              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux (art. R2223-4)](#715)
-            - [Section 2 : Signature du marché de partenariat pour le compte des acheteurs non autorisés (art. R2223-5)](#716)
-        - [Titre III : EXÉCUTION DU MARCHÉ DE PARTENARIAT (art. R2232-1 à R2236-1)](#717)
-          - [Chapitre II : EXÉCUTION FINANCIÈRE (art. R2232-1)](#718)
-          - [Chapitre IV : SUIVI ET CONTRÔLE DE L'EXÉCUTION DU MARCHÉ DE PARTENARIAT (art. R2234-1 à R2234-8)](#719)
-            - [Section 1 : Rapport annuel du titulaire (art. R2234-1 à R2234-4)](#720)
-            - [Section 2 : Contrôle de l'exécution du marché de partenariat par l'acheteur (art. R2234-5 à R2234-8)](#721)
-          - [Chapitre VI : RECOURS A L'ARBITRAGE (art. R2236-1)](#722)
-      - [Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. R2300-1 à R2397-4)](#723)
-        - [Titre Ier : PRÉPARATION DU MARCHÉ (art. R2311-1 à R2313-3)](#724)
-          - [Chapitre Ier : DÉFINITION DU BESOIN (art. R2311-1 à R2311-9)](#725)
-            - [Section 1 : Aide à la définition du besoin (art. R2311-1)](#726)
-            - [Section 2 : Formalisation du besoin par des spécifications techniques (art. R2311-2 à R2311-7)](#727)
-              - [Sous-section 1 : Contenu des spécifications techniques (art. R2311-2 à R2311-3)](#728)
-              - [Sous-section 2 : Formulation des spécifications techniques (art. R2311-4 à R2311-7)](#729)
-            - [Section 3 : Utilisation d'écolabels (art. R2311-8 à R2311-9)](#730)
-          - [Chapitre II : CONTENU DU MARCHÉ (art. R2312-1 à R2312-14)](#731)
-            - [Section 1 : Règles générales (art. R2312-1 à R2312-4)](#732)
-            - [Section 2 : Durée (art. R2312-5)](#733)
-            - [Section 3 : Prix (art. R2312-6 à R2312-14)](#734)
-              - [Sous-section 1 : Forme des prix (art. R2312-7)](#735)
-              - [Sous-section 2 : Prix définitifs (art. R2312-8 à R2312-12)](#736)
-              - [Sous-section 3 : Prix provisoires (art. R2312-13 à R2312-14)](#737)
-          - [Chapitre III : ORGANISATION DE L'ACHAT (art. R2313-1 à R2313-3)](#738)
-            - [Section 1 : Allotissement (art. R2313-1)](#739)
-            - [Section 2 : Marchés à tranches (art. R2313-2)](#740)
-            - [Section 3 : Réservation de marchés (art. R2313-3)](#741)
-        - [Titre II : CHOIX DE LA PROCÉDURE DE PASSATION (art. R2321-1 à R2324-4)](#742)
-          - [Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN (art. R2321-1 à R2321-6)](#743)
-            - [Section 1 : Dispositions générales (art. R2321-1 à R2321-3)](#744)
-            - [Section 2 : Prise en compte de la nature des prestations (art. R2321-4)](#745)
-            - [Section 3 : Dispositions propres aux accords-cadres et aux partenariats d'innovation (art. R2321-5 à R2321-6)](#746)
-          - [Chapitre II : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES (art. R2322-1 à R2322-14)](#747)
-          - [Chapitre III : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE ADAPTÉE (art. R2323-1 à R2323-4)](#748)
-            - [Section 1 : Conditions de recours à une procédure adaptée (art. R2323-1 à R2323-3)](#749)
-            - [Section 2 : Règles applicables (art. R2323-4)](#750)
-          - [Chapitre IV : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE FORMALISÉE (art. R2324-1 à R2324-4)](#751)
-            - [Section 1 : Appel d'offres restreint (art. R2324-2)](#752)
-            - [Section 2 : Procédure avec négociation (art. R2324-3)](#753)
-            - [Section 3 : Dialogue compétitif (art. R2324-4)](#754)
-        - [Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. R2331-1 à R2332-18)](#755)
-          - [Chapitre Ier : PUBLICITÉ PRÉALABLE (art. R2331-1 à R2331-11)](#756)
-            - [Section 1 : Support de publicité (art. R2331-1 à R2331-9)](#757)
-              - [Sous-section 1 : Avis de préinformation (art. R2331-1 à R2331-4)](#758)
-              - [Sous-section 2 : Avis de marché (art. R2331-5 à R2331-9)](#759)
-                - [Paragraphe 1 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur montant (art. R2331-5 à R2331-6)](#760)
-                - [Paragraphe 2 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur objet (art. R2331-7)](#761)
-                - [Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée (art. R2331-8)](#762)
-                - [Paragraphe 4 : Publicité supplémentaire de l'avis de marché (art. R2331-9)](#763)
-            - [Section 2 : Publication (art. R2331-10 à R2331-11)](#764)
-          - [Chapitre II : COMMUNICATION ET ÉCHANGES D'INFORMATIONS (art. R2332-1 à R2332-18)](#765)
-            - [Section unique :  Dématérialisation des communications et échanges d'informations (art. R2332-1 à R2332-18)](#766)
-              - [Sous-section 1 : Mise à disposition des documents de la consultation (art. R2332-1 à R2332-5)](#767)
-              - [Sous-section 2 : Support des communications et échanges d'informations (art. R2332-6 à R2332-18)](#768)
-        - [Titre IV : PHASE DE CANDIDATURE (art. R2342-1 à R2344-10)](#769)
-          - [Chapitre II : CONDITIONS DE PARTICIPATION (art. R2342-1 à R2342-15)](#770)
-            - [Section 1 : Dispositions générales (art. R2342-1 à R2342-8)](#771)
-              - [Sous-section 1 : Conditions générales (art. R2342-1 à R2342-3)](#772)
-              - [Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle (art. R2342-4)](#773)
-              - [Sous-section 3 : Conditions relatives aux capacités économiques et financières (art. R2342-5)](#774)
-              - [Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles (art. R2342-6)](#775)
-              - [Sous-section 5 : Conditions de participation des opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen (art. R2342-7 à R2342-8)](#776)
-            - [Section 2 : Réduction du nombre de candidats (art. R2342-9 à R2342-11)](#777)
-            - [Section 3 : Groupements d'opérateurs économiques (art. R2342-12 à R2342-15)](#778)
-          - [Chapitre III : CONTENU DES CANDIDATURES (art. R2343-1 à R2343-19)](#779)
-            - [Section 1 : Présentation des candidatures (art. R2343-1 à R2343-6)](#780)
-              - [Sous-section 1 : Délai de réception des candidatures (art. R2343-1 à R2343-2)](#781)
-              - [Sous-section 2 : Eléments à produire par le candidat (art. R2343-3 à R2343-6)](#782)
-            - [Section 2 : Documents justificatifs et autres moyens de preuve (art. R2343-7 à R2343-18)](#783)
-              - [Sous-section 1 : Dispositions générales (art. R2343-7)](#784)
-              - [Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion (art. R2343-8 à R2343-10)](#785)
-              - [Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation (art. R2343-11 à R2343-13)](#786)
-              - [Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve (art. R2343-14 à R2343-15)](#787)
-              - [Sous-section 5 : Opérateurs agréés et certifiés (art. R2343-16 à R2343-18)](#788)
-            - [Section 3 : Traduction en français (art. R2343-19)](#789)
-          - [Chapitre IV : EXAMEN DES CANDIDATURES (art. R2344-1 à R2344-10)](#790)
-            - [Section 1 : Modalités de vérification (art. R2344-1 à R2344-8)](#791)
-              - [Sous-section 1 : Dispositions générales (art. R2344-1 à R2344-5)](#792)
-              - [Sous-section 2 : Dispositions particulières aux opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen (art. R2344-6 à R2344-8)](#793)
-            - [Section 2 : Invitation des candidats sélectionnés (art. R2344-9 à R2344-10)](#794)
-        - [Titre V : PHASE D'OFFRE (art. R2351-1 à R2352-9)](#795)
-          - [Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES (art. R2351-1 à R2351-17)](#796)
-            - [Section 1 : Présentation des offres (art. R2351-1 à R2351-10)](#797)
-              - [Sous-section 1 : Délais de réception (art. R2351-1 à R2351-5)](#798)
-              - [Sous-section 2 : Modalités de remise (art. R2351-6 à R2351-7)](#799)
-              - [Sous-section 3 : Variantes (art. R2351-8 à R2351-10)](#800)
-            - [Section 2 : Informations et documents à produire dans l'offre (art. R2351-11 à R2351-17)](#801)
-          - [Chapitre II : EXAMEN DES OFFRES (art. R2352-1 à R2352-9)](#802)
-            - [Section 1 : Offres irrégulières, inacceptables ou inappropriées (art. R2352-1)](#803)
-            - [Section 2 : Offres anormalement basses (art. R2352-2 à R2352-3)](#804)
-            - [Section 3 : Choix de l'offre économiquement la plus avantageuse (art. R2352-4 à R2352-8)](#805)
-              - [Sous-section 1 : Choix des critères d'attribution (art. R2352-4 à R2352-6)](#806)
-              - [Sous-section 2 : Publicité des critères et de leurs modalités de mise en œuvre (art. R2352-7 à R2352-8)](#807)
-            - [Section 4 : Mise au point du marché (art. R2352-9)](#808)
-        - [Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT (art. R2361-1 à R2362-18)](#809)
-          - [Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES (art. R2361-1 à R2361-19)](#810)
-            - [Section 1 : Appel d'offres restreint (art. R2361-2 à R2361-7)](#811)
-            - [Section 2 : Procédure avec négociation (art. R2361-8 à R2361-12)](#812)
-            - [Section 3 : Dialogue compétitif (art. R2361-13 à R2361-19)](#813)
-          - [Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT (art. R2362-1 à R2362-18)](#814)
-            - [Section 1 : Accords-cadres (art. R2362-1 à R2362-8)](#815)
-              - [Sous-section 1 : Dispositions générales (art. R2362-1 à R2362-6)](#816)
-              - [Sous-section 2 : Dispositions propres aux marchés subséquents (art. R2362-7)](#817)
-              - [Sous-section 3 : Dispositions propres aux bons de commande (art. R2362-8)](#818)
-            - [Section 2 : Catalogues électroniques (art. R2362-9 à R2362-12)](#819)
-            - [Section 3 : Enchères électroniques (art. R2362-13 à R2362-18)](#820)
-        - [Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. R2371-1 à R2373-1)](#821)
-          - [Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX (art. R2371-1 à R2371-9)](#822)
-            - [Section 1 : Caractéristiques des marchés globaux (art. R2371-1 à D2371-3)](#823)
-              - [Sous-section 1 : Marchés de conception-réalisation (art. R2371-1)](#824)
-              - [Sous-section 2 : Marchés globaux de performance (art. R2371-2)](#825)
-              - [Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment (art. D2371-3)](#826)
-            - [Section 2 : Procédure de passation des marchés globaux (art. R2371-4 à R2371-7)](#827)
-            - [Section 3 : Versement d'une prime (art. R2371-8 à R2371-9)](#828)
-          - [Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ EN FONCTION DE LEUR OBJET (art. R2372-1 à R2372-24)](#829)
-            - [Section 1 : Marchés de maîtrise d'œuvre (art. R2372-1 à R2372-9)](#830)
-              - [Sous-section 1 : Définition (art. R2372-1)](#831)
-              - [Sous-section 2 : Procédures applicables (art. R2372-2 à R2372-5)](#832)
-              - [Sous-section 3 : Primes (art. R2372-6 à R2372-9)](#833)
-            - [Section 2 : Marchés de décoration des constructions publiques (art. R2372-10 à R2372-16)](#834)
-              - [Sous-section 1 : Marchés inférieurs aux seuils européens (art. R2372-11 à R2372-14)](#835)
-                - [Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer (art. R2372-11 à R2372-13)](#836)
-                - [Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes (art. R2372-14)](#837)
-              - [Sous-section 2 : Marchés de décoration des constructions publiques supérieurs aux seuils européens (art. R2372-15)](#838)
-              - [Sous-section 3 : Composition et fonctionnement du comité artistique (art. R2372-16)](#839)
-            - [Section 3 : Partenariats d'innovation (art. R2372-17 à R2372-18)](#840)
-            - [Section 4 : Marchés présentant des aléas techniques importants (art. R2372-19 à R2372-21)](#841)
-            - [Section 5 : Marchés relatifs à l'achat de véhicules à moteur (art. R2372-22 à R2372-24)](#842)
-          - [Chapitre III : MARCHÉS DE PARTENARIAT DE DÉFENSE OU DE SÉCURITÉ (art. R2373-1)](#843)
-        - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE DE PASSATION (art. R2381-1 à R2385-1)](#844)
-          - [Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS DE LA PROCÉDURE DE PASSATION (art. R2381-1)](#845)
-          - [Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ (art. R2382-1 à R2382-4)](#846)
-            - [Section 1 : Signature du marché (art. R2382-1 à R2382-3)](#847)
-            - [Section 2 : Notification du marché (art. R2382-4)](#848)
-          - [Chapitre III : AVIS D'ATTRIBUTION DU MARCHÉ (art. R2383-1 à R2383-3)](#849)
-            - [Section 1 : Modalités de publication (art. R2383-1 à R2383-2)](#850)
-            - [Section 2 : Dispositions particulières relatives au contenu des avis d'attribution (art. R2383-3)](#851)
-          - [Chapitre IV : CONSERVATION DES INFORMATIONS DU MARCHÉ (art. R2384-1 à R2384-5)](#852)
-            - [Section 1 : Rapport de présentation de la procédure menée par les acheteurs (art. R2384-1 à R2384-4)](#853)
-            - [Section 2 : Durée de conservation (art. R2384-5)](#854)
-          - [Chapitre V : ABANDON DE LA PROCÉDURE DE PASSATION DU MARCHÉ (art. R2385-1)](#855)
-        - [Titre IX : EXÉCUTION DU MARCHÉ (art. R2391-1 à R2397-4)](#856)
-          - [Chapitre Ier : EXÉCUTION FINANCIÈRE DU MARCHÉ (art. R2391-1 à R2391-28)](#857)
-            - [Section 1 : Avances (art. R2391-1 à R2391-15)](#858)
-              - [Sous-section 1 : Dispositions générales (art. R2391-1 à R2391-7)](#859)
-                - [Paragraphe 1 : Principe de versement d'une avance (art. R2391-1 à R2391-2)](#860)
-                - [Paragraphe 2 : Modalités de calcul du montant de l'avance (art. R2391-3 à R2391-6)](#861)
-                - [Paragraphe 3 : Modalités de remboursement de l'avance (art. R2391-7)](#862)
-              - [Sous-section 2 : Dispositions particulières (art. R2391-8 à R2391-15)](#863)
-                - [Paragraphe 1 : Marchés à tranches (art. R2391-8 à R2391-10)](#864)
-                - [Paragraphe 2 : Marchés reconductibles (art. R2391-11)](#865)
-                - [Paragraphe 3 : Accords-cadres à bons de commande (art. R2391-12 à R2391-15)](#866)
-            - [Section 2 : Acomptes (art. R2391-16 à R2391-17)](#867)
-            - [Section 3 : Régime des paiements (art. R2391-18 à R2391-20)](#868)
-              - [Sous-section 1 : Dispositions générales (art. R2391-18 à R2391-19)](#869)
-              - [Sous-section 2 : Règlement partiel définitif (art. R2391-20)](#870)
-            - [Section 4 : Garanties (art. R2391-21 à R2391-27)](#871)
-              - [Sous-section 1 : Retenue de garantie (art. R2391-21 à R2391-24)](#872)
-              - [Sous-section 2 : Garantie à première demande et caution personnelle et solidaire (art. R2391-25)](#873)
-              - [Sous-section 3 : Autres garanties (art. R2391-26 à R2391-27)](#874)
-            - [Section 5 : Cession ou nantissement de créances (art. R2391-28)](#875)
-          - [Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT (art. D2392-11 à R2392-13)](#876)
-            - [Section 2 : Délais de paiement (art. D2392-11 à R2392-12)](#877)
-            - [Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public (art. R2392-13)](#878)
-          - [Chapitre III : DISPOSITIONS RELATIVES AUX SOUS-CONTRATS (art. R2393-1 à R2393-44)](#879)
-            - [Section 1 : Dispositions communes aux sous-contrats (art. R2393-2 à R2393-23)](#880)
-              - [Sous-section 1 : Obligation du titulaire de mettre en concurrence les sous-contractants (art. R2393-4 à R2393-6)](#881)
-              - [Sous-section 2 : Obligation du titulaire de sous-contracter (art. R2393-7 à R2393-12)](#882)
-              - [Sous-section 3 : Procédure de mise en concurrence des sous-contractants (art. R2393-13 à R2393-20)](#883)
-                - [Paragraphe 1 : Règles de passation communes aux sous-contrats (art. R2393-14 à R2393-16)](#884)
-                - [Paragraphe 2 : Passation des sous-contrats dont la valeur estimée du besoin est inférieure aux seuils de procédure formalisée (art. R2393-17)](#885)
-                - [Paragraphe 3 : Passation des sous-contrats dont la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée (art. R2393-18 à R2393-20)](#886)
-              - [Sous-section 4 : Conditions de rejet par l'acheteur du sous-contractant proposé par le titulaire (art. R2393-21 à R2393-22)](#887)
-              - [Sous-section 5 : Communication des sous-contrats à l'acheteur (art. R2393-23)](#888)
-            - [Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traités (art. R2393-24 à R2393-40)](#889)
-              - [Sous-section 1 : Modalités d'acceptation (art. R2393-24 à R2393-28)](#890)
-                - [Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre (art. R2393-25 à R2393-26)](#891)
-                - [Paragraphe 2 : Déclaration de sous-traitance après la notification du marché (art. R2393-27 à R2393-28)](#892)
-              - [Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct (art. R2393-29 à R2393-32)](#893)
-              - [Sous-section 3 : Paiement du sous-traitant (art. R2393-33 à R2393-34)](#894)
-              - [Sous-section 4 : Régime financier (art. R2393-35 à R2393-40)](#895)
-                - [Paragraphe 1 : Avances (art. R2393-36 à R2393-39)](#896)
-                - [Paragraphe 2 : Cession ou nantissement de créances (art. R2393-40)](#897)
-            - [Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités (art. R2393-41 à R2393-44)](#898)
-          - [Chapitre IV : MODIFICATION DU MARCHÉ (art. R2394-1)](#899)
-          - [Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT (art. D2396-2 à R2396-6)](#900)
-            - [Section 1 : Recensement économique (art. D2396-2 à R2396-1)](#901)
-            - [Section 2 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. R2396-3 à R2396-5)](#902)
-            - [Section 3 : Eléments de sécurité pouvant être demandés par l'acheteur (art. R2396-6)](#903)
-          - [Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS (art. D2397-2 à R2397-4)](#904)
-            - [Section 1 : Comités consultatifs de règlement amiable des différends (art. D2397-2 à R2397-1)](#905)
-            - [Section 2 : Le médiateur des entreprises (art. R2397-3)](#906)
-            - [Section 3 : Arbitrage (art. R2397-4)](#907)
-      - [Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAITRISE D'OUVRAGE PUBLIQUE ET À LA MAITRISE D'ŒUVRE (art. R2412-1 à R2432-7)](#908)
-        - [Titre Ier : CHAMP D'APPLICATION (art. R2412-1)](#909)
-          - [Chapitre II : OUVRAGES (art. R2412-1)](#910)
-        - [Titre III : MAITRISE D'ŒUVRE PRIVÉE (art. R2431-1 à R2432-7)](#911)
-          - [Chapitre Ier : MISSION DE MAITRISE D'ŒUVRE PRIVÉE (art. R2431-1 à R2431-37)](#912)
-            - [Section 1 : Dispositions générales (art. R2431-1 à R2431-3)](#913)
-            - [Section 2 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages de bâtiment (art. R2431-4 à R2431-23)](#914)
-              - [Sous-section 1 : Mission de base (art. R2431-4 à R2431-7)](#915)
-              - [Sous-section 2 : Dispositions propres aux opérations de construction neuve de bâtiment (art. R2431-8 à R2431-18)](#916)
-              - [Sous-section 3 : Dispositions propres aux opérations de réhabilitation de bâtiment (art. R2431-19 à R2431-23)](#917)
-            - [Section 3 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages d'infrastructure (art. R2431-24 à R2431-31)](#918)
-            - [Section 4 : Eléments de mission de maîtrise d'œuvre privée spécifiques (art. R2431-32 à R2431-35)](#919)
-            - [Section 5 : Eléments de mission de maîtrise d'œuvre privée portant sur des ouvrages réalisés à titre de recherche, d'essais ou d'expérimentation (art. R2431-36)](#920)
-            - [Section 6 : Dispositions diverses (art. R2431-37)](#921)
-          - [Chapitre II : MARCHÉ PUBLIC DE MAÎTRISE D'ŒUVRE PRIVÉE (art. R2432-1 à R2432-7)](#922)
-            - [Section 1 : Dispositions générales (art. R2432-1)](#923)
-            - [Section 2 : Engagements du maître d'œuvre privé (art. R2432-2 à R2432-5)](#924)
-            - [Section 3 : Rémunération du maître d'œuvre privé (art. R2432-6 à R2432-7)](#925)
-      - [Livre V : AUTRES MARCHÉS PUBLICS (art. R2521-1 à R2521-4)](#926)
-        - [Titre II : RÈGLES APPLICABLES (art. R2521-1 à R2521-4)](#927)
-          - [Chapitre unique. (art. R2521-1 à R2521-4)](#928)
-      - [Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D2611-2 à R2691-1)](#929)
-        - [Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE (art. D2611-2 à R2614-6)](#930)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D2611-2 à R2611-1)](#931)
-          - [Chapitre IV : DISPOSITIONS PARTICULIÈRES AU LIVRE IV (art. R2614-1 à R2614-6)](#932)
-        - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHELEMY (art. R2621-1 à R2623-1)](#933)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. R2621-1)](#934)
-          - [Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III (art. R2623-1)](#935)
-        - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. R2631-1 à R2633-1)](#936)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. R2631-1)](#937)
-          - [Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III (art. R2633-1)](#938)
-        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. R2641-1 à R2643-1)](#939)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. R2641-1)](#940)
-          - [Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III (art. R2643-1)](#941)
-        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA (art. D2651-2 à R2651-4)](#942)
-          - [Chapitre unique. (art. D2651-2 à R2651-4)](#943)
-            - [Section 1 : Dispositions générales (art. D2651-2 à R2651-1)](#944)
-            - [Section 2 : Dispositions d'adaptation (art. R2651-3 à R2651-4)](#945)
-        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. D2661-2 à R2661-4)](#946)
-          - [Chapitre unique. (art. D2661-2 à R2661-4)](#947)
-            - [Section 1 : Dispositions générales (art. D2661-2 à R2661-1)](#948)
-            - [Section 2 : Dispositions d'adaptation (art. R2661-3 à R2661-4)](#949)
-        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE CALÉDONIE (art. D2671-2 à R2671-4)](#950)
-          - [Chapitre unique. (art. D2671-2 à R2671-4)](#951)
-            - [Section 1 : Dispositions générales (art. D2671-2 à R2671-1)](#952)
-            - [Section 2 : Dispositions d'adaptation (art. R2671-3 à R2671-4)](#953)
-        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D2681-2 à R2681-4)](#954)
-          - [Chapitre unique. (art. D2681-2 à R2681-4)](#955)
-            - [Section 1 : Dispositions générales (art. D2681-2 à R2681-1)](#956)
-            - [Section 2 : Dispositions d'adaptation (art. R2681-3 à R2681-4)](#957)
-        - [Titre IX : DISPOSITIONS COMMUNES A PLUSIEURS COLLECTIVITES (art. R2691-1)](#958)
-          - [Chapitre unique. (art. R2691-1)](#959)
-    - [TROISIÈME PARTIE : CONCESSIONS (art. R3111-1 à R3381-4)](#960)
-      - [Livre Ier : DISPOSITIONS GÉNÉRALES (art. R3111-1 à R3135-10)](#961)
-        - [Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION (art. R3111-1 à R3114-5)](#962)
-          - [Chapitre Ier : DÉFINITION DU BESOIN (art. R3111-1 à R3111-3)](#963)
-          - [Chapitre III : RÉSERVATION (art. R3113-1)](#964)
-          - [Chapitre IV : CONTENU DU CONTRAT DE CONCESSION (art. D3114-3 à R3114-5)](#965)
-            - [Section 1 : Durée (art. D3114-3 à R3114-2)](#966)
-            - [Section 2 : Conditions de paiement (art. R3114-4)](#967)
-            - [Section 3 : Part du contrat exécutée par des tiers (art. R3114-5)](#968)
-        - [Titre II : PROCÉDURE DE PASSATION (art. R3121-1 à R3126-14)](#969)
-          - [Chapitre Ier : DÉTERMINATION DES RÈGLES PROCÉDURALES APPLICABLES (art. R3121-1 à R3121-6)](#970)
-            - [Section 1 : Calcul de la valeur estimée du contrat de concession (art. R3121-1 à R3121-4)](#971)
-            - [Section 2 : Passation des contrats de concessions (art. R3121-5 à R3121-6)](#972)
-              - [Sous-section 1 : Contrats de concession passés avec publicité et mise en concurrence préalables (art. R3121-5)](#973)
-              - [Sous-section 2 : Contrats de concession passés sans publicité ni mise en concurrence préalables (art. R3121-6)](#974)
-          - [Chapitre II : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. R3122-1 à R3122-18)](#975)
-            - [Section 1 : Publicité préalable (art. R3122-1 à R3122-6)](#976)
-              - [Sous-section 1 : Avis de concession (art. R3122-1)](#977)
-              - [Sous-section 2 : Supports de publication (art. R3122-2 à R3122-3)](#978)
-              - [Sous-section 3 : Modalités de publication des avis de concession (art. R3122-4 à R3122-6)](#979)
-            - [Section 2 : Communications et échanges d'informations (art. R3122-7 à R3122-18)](#980)
-              - [Sous-section 1 : Mise à disposition des documents de la consultation (art. R3122-7 à R3122-12)](#981)
-              - [Sous-section 2 : Moyens de communication et échanges d'informations (art. R3122-13 à R3122-18)](#982)
-          - [Chapitre III : PHASE DE CANDIDATURE (art. R3123-1 à R3123-21)](#983)
-            - [Section 1 : Conditions de participation (art. R3123-1 à R3123-13)](#984)
-              - [Sous-section 1 : Exigences générales de l'autorité concédante (art. R3123-1 à R3123-5)](#985)
-              - [Sous-section 2 : Conditions de participation propres aux contrats de concession de défense ou de sécurité (art. R3123-6 à R3123-8)](#986)
-              - [Sous-section 3 : Groupements d'opérateurs économiques (art. R3123-9 à R3123-10)](#987)
-              - [Sous-section 4 : Réduction du nombre de candidats (art. R3123-11 à R3123-13)](#988)
-            - [Section 2 : Présentation et analyse des candidatures (art. R3123-14 à R3123-21)](#989)
-              - [Sous-section 1 : Délai de réception des candidatures (art. R3123-14 à R3123-15)](#990)
-              - [Sous-section 2 : Eléments à produire par le candidat (art. R3123-16 à R3123-19)](#991)
-              - [Sous-section 3 : Examen des candidatures (art. R3123-20 à R3123-21)](#992)
-          - [Chapitre IV : PHASE D'OFFRE (art. R3124-1 à R3124-6)](#993)
-            - [Section 1 : Organisation de la négociation des offres (art. R3124-1)](#994)
-            - [Section 2 : Délais de remise des offres (art. R3124-2 à R3124-3)](#995)
-            - [Section 3 : Choix de l'offre (art. R3124-4 à R3124-6)](#996)
-          - [Chapitre V : ACHEVEMENT DE LA PROCÉDURE (art. R3125-1 à R3125-7)](#997)
-            - [Section 1 : Information des candidats et des soumissionnaires évincés (art. R3125-1 à R3125-4)](#998)
-              - [Sous-section 1 : Obligation d'information des candidats et soumissionnaires évincés (art. R3125-1 à R3125-2)](#999)
-              - [Sous-section 2 : Informations communiquées sur demande des candidats ou soumissionnaires évincés (art. R3125-3)](#1000)
-              - [Sous-section 3 : Information en cas de déclaration sans suite de la procédure de passation (art. R3125-4)](#1001)
-            - [Section 2 : Signature du contrat de concession (art. R3125-5)](#1002)
-            - [Section 3 : Avis d'attribution (art. R3125-6 à R3125-7)](#1003)
-          - [Chapitre VI : RÈGLES PARTICULIÈRES À LA PASSATION DE CERTAINS CONTRATS DE CONCESSION (art. R3126-1 à R3126-14)](#1004)
-            - [Section 1 : Publicité préalable (art. R3126-3 à R3126-6)](#1005)
-            - [Section 2 : Communications et échanges d'information (art. R3126-7)](#1006)
-            - [Section 3 : Candidatures (art. R3126-8)](#1007)
-            - [Section 4 : Offres (art. R3126-9 à R3126-10)](#1008)
-            - [Section 5 : Achèvement de la procédure (art. R3126-11 à R3126-13)](#1009)
-            - [Section 6 : Dispositions particulières aux contrats de concession de services publics de transport de voyageurs par chemin de fer et par route (art. R3126-14)](#1010)
-        - [Titre III : EXÉCUTION DU CONTRAT DE CONCESSION (art. R3131-1 à R3135-10)](#1011)
-          - [Chapitre Ier : TRANSPARENCE ET RAPPORT D'INFORMATION DE L'AUTORITÉ CONCÉDANTE (art. R3131-1 à R3131-5)](#1012)
-            - [Section 1 : Mise à disposition des données essentielles (art. R3131-1)](#1013)
-            - [Section 2 : Rapport d'information à l'autorité concédante (art. R3131-2 à R3131-4)](#1014)
-            - [Section 3 : Observatoire économique de la commande publique (art. R3131-5)](#1015)
-          - [Chapitre III : EXÉCUTION FINANCIÈRE (art. R3133-10 à R3133-28)](#1016)
-            - [Section 2 : Délais de paiement (art. R3133-10 à R3133-28)](#1017)
-              - [Sous-section 1 : Fixation des délais de paiement (art. R3133-10 à R3133-11)](#1018)
-              - [Sous-section 2 : Déclenchement du délai de paiement (art. R3133-12 à R3133-20)](#1019)
-                - [Paragraphe 1 : Dispositions générales (art. R3133-12 à R3133-15)](#1020)
-                - [Paragraphe 2 : Dispositions propres à certains contrats de concession (art. R3133-16)](#1021)
-                - [Paragraphe 3 : Disposition propre à l'intervention d'un tiers habilité à recevoir les demandes de paiement (art. R3133-17)](#1022)
-                - [Paragraphe 4 : Disposition propre aux indemnités de résiliation (art. R3133-18 à R3133-20)](#1023)
-              - [Sous-section 3 : Interruption du délai de paiement (art. R3133-21 à R3133-24)](#1024)
-              - [Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. D3133-27 à R3133-28)](#1025)
-          - [Chapitre IV : EXÉCUTION DU CONTRAT DE CONCESSION PAR DES TIERS (art. R3134-1 à R3134-4)](#1026)
-          - [Chapitre V : MODIFICATION DU CONTRAT DE CONCESSION (art. R3135-1 à R3135-10)](#1027)
-            - [Section 1 : Modifications autorisées (art. R3135-1 à R3135-9)](#1028)
-              - [Sous-section 1 : Clauses contractuelles (art. R3135-1)](#1029)
-              - [Sous-section 2 : Travaux ou services supplémentaires devenus nécessaires (art. R3135-2 à R3135-4)](#1030)
-              - [Sous-section 3 : Circonstances imprévues (art. R3135-5)](#1031)
-              - [Sous-section 4 : Substitution d'un nouveau concessionnaire (art. R3135-6)](#1032)
-              - [Sous-section 5 : Modification non substantielle (art. R3135-7)](#1033)
-              - [Sous-section 6 : Modification de faible montant (art. R3135-8 à R3135-9)](#1034)
-            - [Section 2 : Avis de modification (art. R3135-10)](#1035)
-      - [Livre II : AUTRES CONTRATS DE CONCESSION (art. R3200-1 à R3221-3)](#1036)
-        - [Titre II : RÈGLES APPLICABLES (art. R3221-1 à R3221-3)](#1037)
-          - [Chapitre unique. (art. R3221-1 à R3221-3)](#1038)
-      - [Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D3311-1 à R3381-4)](#1039)
-        - [Titre Ier : DISPOSITIONS PARTICULIÈRES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE (art. D3311-1)](#1040)
-          - [Chapitre unique. (art. D3311-1)](#1041)
-        - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLÉMY (art. D3321-1 à R3321-2)](#1042)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D3321-1 à R3321-2)](#1043)
-        - [Titre III : DISPOSITIONS PARTICULIÈRES A SAINT-MARTIN (art. D3331-1 à R3331-2)](#1044)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D3331-1 à R3331-2)](#1045)
-        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. D3341-1 à R3341-2)](#1046)
-          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D3341-1 à R3341-2)](#1047)
-        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA (art. D3351-2 à R3351-3)](#1048)
-          - [Chapitre unique. (art. D3351-2 à R3351-3)](#1049)
-            - [Section 1 : Dispositions générales (art. D3351-2 à R3351-1)](#1050)
-            - [Section 2 : Dispositions d'adaptation (art. R3351-3)](#1051)
-        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. D3361-2 à R3361-3)](#1052)
-          - [Chapitre unique. (art. D3361-2 à R3361-3)](#1053)
-            - [Section 1 : Dispositions générales (art. D3361-2 à R3361-1)](#1054)
-            - [Section 2 : Dispositions d'adaptation (art. R3361-3)](#1055)
-        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALEDONIE (art. D3371-2 à R3371-3)](#1056)
-          - [Chapitre unique. (art. D3371-2 à R3371-3)](#1057)
-            - [Section 1 : Dispositions générales (art. D3371-2 à R3371-1)](#1058)
-            - [Section 2 : Dispositions d'adaptation (art. R3371-3)](#1059)
-        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D3381-2 à R3381-4)](#1060)
-          - [Chapitre unique. (art. D3381-2 à R3381-4)](#1061)
-            - [Section 1 : Dispositions générales (art. D3381-2 à R3381-1)](#1062)
-            - [Section 2 : Dispositions d'adaptation (art. D3381-3 à R3381-4)](#1063)
-  - [Annexe (art. Annexe préliminaire)](#1064)
+          - [Chapitre II : Modalités de facturation et de paiement (art. L2192-1 à L2192-15)](#110)
+            - [Section 1 : Facturation électronique (art. L2192-1 à L2192-7)](#111)
+              - [Sous-section 1 : Transmission et réception des factures sous forme électronique (art. L2192-1 à L2192-4)](#112)
+              - [Sous-section 2 : Portail public de facturation (art. L2192-5 à L2192-7)](#113)
+            - [Section 2 : Délais de paiement (art. L2192-10 à L2192-15)](#114)
+              - [Sous-section 1 : Fixation du délai de paiement (art. L2192-10 à L2192-11)](#115)
+              - [Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. L2192-12 à L2192-14)](#116)
+              - [Sous-section 3 : Amende administrative en cas de retard de paiement (art. L2192-15)](#117)
+          - [Chapitre III : Sous-traitance (art. L2193-1 à L2193-14)](#118)
+            - [Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement (art. L2193-4 à L2193-9)](#119)
+              - [Sous-section 1 : Modalités d'acceptation et d'agrément (art. L2193-4 à L2193-7)](#120)
+              - [Sous-section 2 : Offres anormalement basses des sous-traitants (art. L2193-8 à L2193-9)](#121)
+            - [Section 2 : Paiement du sous-traitant (art. L2193-10 à L2193-13)](#122)
+              - [Sous-section 1 : Paiement direct du sous-traitant (art. L2193-11 à L2193-12)](#123)
+              - [Sous-section 2 : Modalités de paiement (art. L2193-13)](#124)
+            - [Section 3 : Régime financier (art. L2193-14)](#125)
+          - [Chapitre IV : Modification du marché (art. L2194-1 à L2194-3)](#126)
+          - [Chapitre V : Résiliation du marché (art. L2195-1 à L2195-6)](#127)
+          - [Chapitre VI : Informations relatives à l'achat (art. L2196-1 à L2196-6)](#128)
+            - [Section 1 : Obligation de conservation des documents (art. L2196-1)](#129)
+            - [Section 2 : Mise à disposition des données essentielles (art. L2196-2)](#130)
+            - [Section 3 : Recensement économique (art. L2196-3)](#131)
+            - [Section 4 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. L2196-4 à L2196-6)](#132)
+          - [Chapitre VII : Règlement alternatif des differends (art. L2197-1 à L2197-7)](#133)
+            - [Section 1 : Conciliation et médiation (art. L2197-1 à L2197-4)](#134)
+              - [Sous-section 1 : Dispositions générales (art. L2197-1 à L2197-2)](#135)
+              - [Sous-section 2 : Comités consultatifs de règlement amiable des différends (art. L2197-3)](#136)
+              - [Sous-section 3 : Le médiateur des entreprises (art. L2197-4)](#137)
+            - [Section 2 : Transaction (art. L2197-5)](#138)
+            - [Section 3 : Arbitrage (art. L2197-6 à L2197-7)](#139)
+              - [Sous-section 1 : Recours à l'arbitrage par les acheteurs de droit public (art. L2197-6)](#140)
+              - [Sous-section 2 : Recours à l'arbitrage par les acheteurs de droit privé (art. L2197-7)](#141)
+      - [Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT (art. L2200-1 à L2236-1)](#142)
+        - [Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT (art. L2211-1 à L2213-14)](#143)
+          - [Chapitre Ier : Conditions de recours au marché de partenariat (art. L2211-1 à L2211-6)](#144)
+            - [Section 1 : Acheteurs autorisés (art. L2211-1 à L2211-4)](#145)
+            - [Section 2 : Seuils (art. L2211-5)](#146)
+            - [Section 3 : Bilan plus favorable (art. L2211-6)](#147)
+          - [Chapitre II : Instruction du projet (art. L2212-1 à L2212-4)](#148)
+            - [Section 1 : Evaluation du mode de réalisation du projet (art. L2212-1 à L2212-2)](#149)
+            - [Section 2 : Etude de soutenabilité budgétaire (art. L2212-3 à L2212-4)](#150)
+          - [Chapitre III : Contenu du marché de partenariat (art. L2213-1 à L2213-14)](#151)
+            - [Section 1 : Durée du marché de partenariat (art. L2213-2)](#152)
+            - [Section 2 : Conditions d'exécution du marché de partenariat (art. L2213-3)](#153)
+            - [Section 3 : Financement du projet et rémunération du titulaire (art. L2213-4 à L2213-9)](#154)
+              - [Sous-section 1 : Financement des investissements (art. L2213-4 à L2213-7)](#155)
+                - [Paragraphe 1 : Dispositions générales (art. L2213-4 à L2213-5)](#156)
+                - [Paragraphe 2 : Dispositions applicables à la constitution d'une société dédiée à la réalisation du projet (art. L2213-6 à L2213-7)](#157)
+              - [Sous-section 2 : Rémunération du titulaire (art. L2213-8 à L2213-9)](#158)
+            - [Section 4 : Dispositions relatives à l'occupation domaniale par le titulaire du marché de partenariat (art. L2213-10 à L2213-13)](#159)
+              - [Sous-section 1 : Autorisation d'occupation du domaine public (art. L2213-10)](#160)
+              - [Sous-section 2 : Mise à disposition de l'acheteur des ouvrages, équipements ou biens immatériels (art. L2213-11)](#161)
+              - [Sous-section 3 : Acquisition des installations édifiées dans le cadre du contrat (art. L2213-12)](#162)
+              - [Sous-section 4 : Propriété des ouvrages, équipements ou biens immatériels en fin de contrat (art. L2213-13)](#163)
+            - [Section 5 : Part d'exécution du contrat réservée aux PME (art. L2213-14)](#164)
+        - [Titre II : PASSATION DU MARCHÉ DE PARTENARIAT (art. L2221-1 à L2223-4)](#165)
+          - [Chapitre Ier : Autorisations préalables à l'engagement de la procédure (art. L2221-1 à L2221-3)](#166)
+            - [Section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. L2221-1)](#167)
+            - [Section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux (art. L2221-2)](#168)
+            - [Section 3 : Dispositions applicables aux autres acheteurs (art. L2221-3)](#169)
+          - [Chapitre II : Présentation des documents de la consultation, des offres et critères d'attribution (art. L2222-1 à L2222-5)](#170)
+            - [Section 1 : Caractère ajustable des modalités de financement (art. L2222-1 à L2222-2)](#171)
+            - [Section 2 : Contenu de l'offre du soumissionnaire en cas de conception d'ouvrages, d'équipements ou de biens immatériels (art. L2222-3)](#172)
+            - [Section 3 : Critères d'attribution (art. L2222-4 à L2222-5)](#173)
+          - [Chapitre III : Achèvement de la procédure (art. L2223-1 à L2223-4)](#174)
+            - [Section 1 : Accord préalable à la signature (art. L2223-1 à L2223-3)](#175)
+              - [Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. L2223-1)](#176)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux (art. L2223-2)](#177)
+              - [Sous-section 3 : Dispositions applicables aux autres acheteurs (art. L2223-3)](#178)
+            - [Section 2 : Transmission à l'organisme expert (art. L2223-4)](#179)
+        - [Titre III : EXECUTION DU MARCHÉ DE PARTENARIAT (art. L2231-1 à L2236-1)](#180)
+          - [Chapitre Ier : Acquisition des biens et cession de contrats (art. L2231-1)](#181)
+          - [Chapitre II : Exécution financière (art. L2232-1 à L2232-7)](#182)
+            - [Section 1 : Règles applicables au titulaire du marché de partenariat (art. L2232-1 à L2232-5)](#183)
+              - [Sous-section 1 : Avances et acomptes (art. L2232-1)](#184)
+              - [Sous-section 2 : Cessions de créance, crédits-bails et hypothèques (art. L2232-2 à L2232-4)](#185)
+              - [Sous-section 3 : Encaissement des paiements des usagers (art. L2232-5)](#186)
+            - [Section 2 : Règles applicables aux relations entre le titulaire et ses fournisseurs (art. L2232-6 à L2232-7)](#187)
+          - [Chapitre III : Valorisation domaniale par le titulaire du marché de partenariat (art. L2233-1 à L2233-3)](#188)
+          - [Chapitre IV : Suivi et controle de l'exécution du marché de partenariat (art. L2234-1 à L2234-3)](#189)
+          - [Chapitre V : Indemnisation en cas d'annulation ou de résiliation du marché de partenariat (art. L2235-1 à L2235-3)](#190)
+          - [Chapitre VI : Recours à l'arbitrage (art. L2236-1)](#191)
+      - [Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. L2300-1 à L2397-3)](#192)
+        - [Titre Ier : PRÉPARATION DU MARCHÉ (art. L2311-1 à L2313-6)](#193)
+          - [Chapitre Ier : Définition du besoin (art. L2311-1)](#194)
+          - [Chapitre II : Contenu du marché (art. L2312-1 à L2312-2)](#195)
+          - [Chapitre III : Organisation de l'achat (art. L2313-1 à L2313-6)](#196)
+            - [Section 1 : Mutualisation de l'achat (art. L2313-2 à L2313-4)](#197)
+            - [Section 2 : Allotissement (art. L2313-5)](#198)
+            - [Section 3 : Réservation (art. L2313-6)](#199)
+        - [Titre II : CHOIX DE LA PROCÉDURE DE PASSATION (art. L2320-1 à L2325-1)](#200)
+          - [Chapitre II : Marchés passes sans publicite ni mise en concurrence préalables (art. L2322-1)](#201)
+          - [Chapitre III : Marchés passes selon une procédure adaptée (art. L2323-1)](#202)
+          - [Chapitre IV : Marchés passés selon une procédure formalisée (art. L2324-1 à L2324-4)](#203)
+            - [Section 1 : Appel d'offres restreint (art. L2324-2)](#204)
+            - [Section 2 : Procédure avec négociation (art. L2324-3)](#205)
+            - [Section 3 : Dialogue compétitif (art. L2324-4)](#206)
+          - [Chapitre V : Techniques d'achat (art. L2325-1)](#207)
+        - [Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. L2331-1 à L2332-2)](#208)
+          - [Chapitre Ier : Publicité prealable (art. L2331-1)](#209)
+          - [Chapitre II : Communication et échanges d'informations (art. L2332-1 à L2332-2)](#210)
+            - [Section 1 : Confidentialité (art. L2332-1)](#211)
+            - [Section 2 : Dématérialisation des communications et échanges d'informations (art. L2332-2)](#212)
+        - [Titre IV : PHASE DE CANDIDATURE (art. L2341-1 à L2342-2)](#213)
+          - [Chapitre Ier : Motifs d'exclusions de la procédure de passation (art. L2341-1 à L2341-7)](#214)
+            - [Section 1 : Exclusions de plein droit (art. L2341-1 à L2341-4)](#215)
+            - [Section 2 : Exclusions à l'appréciation de l'acheteur (art. L2341-5)](#216)
+            - [Section 3 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion (art. L2341-6)](#217)
+            - [Section 4 : Groupements d'opérateurs économiques et sous-traitants (art. L2341-7)](#218)
+          - [Chapitre II : Conditions de participation (art. L2342-1 à L2342-2)](#219)
+        - [Titre V : PHASE D'OFFRE (art. L2351-1 à L2353-2)](#220)
+          - [Chapitre Ier : Présentation et contenu des offres (art. L2351-1)](#221)
+          - [Chapitre II : Examen des offres (art. L2352-1)](#222)
+          - [Chapitre III : Offres présentées par des opérateurs économiques ou comportant des produits d'Etats tiers (art. L2353-1 à L2353-2)](#223)
+        - [Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. L2371-1 à L2373-1)](#224)
+          - [Chapitre Ier : Règles applicables à certains marchés globaux (art. L2371-1)](#225)
+          - [Chapitre II : Règles applicables à certains marchés de défense ou de sécurité en fonction de leur objet (art. L2372-1)](#226)
+          - [Chapitre III : Marchés de partenariat de défense ou de sécurité (art. L2373-1)](#227)
+        - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE (art. L2381-1 à L2384-1)](#228)
+          - [Chapitre Ier : Information des candidats et des soumissionnaires évincés (art. L2381-1)](#229)
+          - [Chapitre III : Avis d'attribution (art. L2383-1)](#230)
+          - [Chapitre IV : Conservation des informations (art. L2384-1)](#231)
+        - [Titre IX : EXÉCUTION DU MARCHÉ (art. L2391-1 à L2397-3)](#232)
+          - [Chapitre Ier : Exécution financiere (art. L2391-1 à L2391-8)](#233)
+            - [Section 1 : Avances (art. L2391-2 à L2391-3)](#234)
+            - [Section 2 : Acomptes (art. L2391-4)](#235)
+            - [Section 3 : Régime des paiements (art. L2391-5 à L2391-6)](#236)
+            - [Section 4 : Garanties (art. L2391-7)](#237)
+            - [Section 5 : Cession ou nantissement des créances (art. L2391-8)](#238)
+          - [Chapitre II : Modalités de facturation et de paiement (art. L2392-1 à L2392-10)](#239)
+            - [Section 1 : Facturation électronique (art. L2392-1 à L2392-7)](#240)
+              - [Sous-section 1 : Transmission et réception des factures sous forme électronique (art. L2392-1 à L2392-4)](#241)
+              - [Sous-section 2 : Portail public de facturation (art. L2392-5 à L2392-7)](#242)
+            - [Section 2 : Délais de paiement (art. L2392-10)](#243)
+          - [Chapitre III : Dispositions relatives aux sous-contrats (art. L2393-1 à L2393-15)](#244)
+            - [Section 1 : Dispositions communes aux sous-contrats (art. L2393-3 à L2393-9)](#245)
+            - [Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traité (art. L2393-10 à L2393-14)](#246)
+            - [Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités (art. L2393-15)](#247)
+          - [Chapitre IV : Modification du marché (art. L2394-1 à L2394-2)](#248)
+          - [Chapitre V : Résiliation du marché (art. L2395-1 à L2395-2)](#249)
+          - [Chapitre VI : Informations relatives à l'achat (art. L2396-1 à L2396-4)](#250)
+            - [Section 1 : Obligation de conservation des documents (art. L2396-1)](#251)
+            - [Section 2 : Recensement économique (art. L2396-2)](#252)
+            - [Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. L2396-3 à L2396-4)](#253)
+          - [Chapitre VII : Règlement alternatif des differends (art. L2397-1 à L2397-3)](#254)
+            - [Section 1 : Conciliation et médiation (art. L2397-1)](#255)
+            - [Section 2 : Transaction (art. L2397-2)](#256)
+            - [Section 3 : Arbitrage (art. L2397-3)](#257)
+      - [Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAÎTRISE D'OUVRAGE PUBLIQUE ET À LA MAÎTRISE D'ŒUVRE PRIVÉE (art. L2410-1 à L2432-2)](#258)
+        - [Titre Ier : CHAMP D'APPLICATION (art. L2410-1 à L2412-2)](#259)
+          - [Chapitre Ier : Maîtres d'ouvrage (art. L2411-1)](#260)
+          - [Chapitre II : Ouvrages (art. L2412-1 à L2412-2)](#261)
+        - [Titre II : MAÎTRISE D'OUVRAGE (art. L2421-1 à L2422-13)](#262)
+          - [Chapitre Ier : Attributions du maître d'ouvrage (art. L2421-1 à L2421-5)](#263)
+            - [Section 1 : Dispositions générales (art. L2421-1)](#264)
+            - [Section 2 : Programme et enveloppe financière prévisionnelle de l'opération (art. L2421-2 à L2421-5)](#265)
+          - [Chapitre II : Organisation de la maîtrise d'ouvrage (art. L2422-1 à L2422-13)](#266)
+            - [Section 1 : Assistance à maîtrise d'ouvrage (art. L2422-2)](#267)
+            - [Section 2 : Conduite d'opération (art. L2422-3 à L2422-4)](#268)
+            - [Section 3 : Mandat de maîtrise d'ouvrage (art. L2422-5 à L2422-11)](#269)
+              - [Sous-section 1 : Attributions du mandataire (art. L2422-6)](#270)
+              - [Sous-section 2 : Contenu du contrat de mandat de maîtrise d'ouvrage (art. L2422-7)](#271)
+              - [Sous-section 3 : Obligations et responsabilités du mandataire (art. L2422-8 à L2422-10)](#272)
+              - [Sous-section 4 : Incompatibilités (art. L2422-11)](#273)
+            - [Section 4 : Transfert de maîtrise d'ouvrage (art. L2422-12 à L2422-13)](#274)
+        - [Titre III : MAÎTRISE D'ŒUVRE PRIVÉE (art. L2430-1 à L2432-2)](#275)
+          - [Chapitre Ier : Mission de maîtrise d'œuvre privée (art. L2431-1 à L2431-3)](#276)
+          - [Chapitre II : Marché public de maîtrise d'œuvre privée (art. L2432-1 à L2432-2)](#277)
+      - [Livre V : AUTRES MARCHÉS PUBLICS (art. L2500-1 à L2522-1)](#278)
+        - [Titre Ier : CHAMP D'APPLICATION (art. L2511-1 à L2515-1)](#279)
+          - [Chapitre Ier : Relations internes au secteur public (art. L2511-1 à L2511-9)](#280)
+            - [Section 1 : Quasi-régie (art. L2511-1 à L2511-5)](#281)
+            - [Section 2 : Coopération entre pouvoirs adjudicateurs (art. L2511-6)](#282)
+            - [Section 3 : Marchés publics attribués par une entité adjudicatrice à une entreprise liée (art. L2511-7 à L2511-8)](#283)
+            - [Section 4 : Marchés publics attribués par une entité adjudicatrice à une coentreprise (art. L2511-9)](#284)
+          - [Chapitre II : Marchés publics conclus par un acheteur (art. L2512-1 à L2512-5)](#285)
+            - [Section 1 : Marchés publics conclus en application de règles internationales (art. L2512-1 à L2512-2)](#286)
+            - [Section 2 : Marchés publics liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat (art. L2512-3)](#287)
+            - [Section 3 : Autres marchés (art. L2512-4 à L2512-5)](#288)
+          - [Chapitre III : Marchés publics conclus par un pouvoir adjudicateur (art. L2513-1 à L2513-5)](#289)
+          - [Chapitre IV : Marchés publics conclus par une entité adjudicatrice (art. L2514-1 à L2514-5)](#290)
+          - [Chapitre V : Marché de défense ou de sécurité (art. L2515-1)](#291)
+        - [Titre II : RÈGLES APPLICABLES (art. L2521-1 à L2522-1)](#292)
+          - [Chapitre Ier : Règles générales applicables aux marchés publics mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer (art. L2521-1 à L2521-5)](#293)
+          - [Chapitre II : Règles propres aux marchés publics portant sur le service public de transport de voyageurs par chemin de fer (art. L2522-1)](#294)
+      - [Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L2614-1 à L2691-2)](#295)
+        - [Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE (art. L2614-1)](#296)
+          - [Chapitre IV : Dispositions particulières au livre IV (art. L2614-1)](#297)
+        - [Titre II : DISPOSITIONS PARTICULIERES A SAINT-BARTHELEMY (art. L2621-1 à L2625-1)](#298)
+          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L2621-1)](#299)
+          - [Chapitre III : Dispositions particulières au livre III (art. L2623-1)](#300)
+          - [Chapitre IV : Dispositions particulières au livre IV (art. L2624-1)](#301)
+          - [Chapitre V : Dispositions particulières au livre V (art. L2625-1)](#302)
+        - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. L2631-1 à L2634-1)](#303)
+          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L2631-1)](#304)
+          - [Chapitre III : Dispositions particulières au livre III (art. L2633-1)](#305)
+          - [Chapitre IV : Dispositions particulières au livre IV (art. L2634-1)](#306)
+        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L2641-1 à L2645-1)](#307)
+          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L2641-1)](#308)
+          - [Chapitre III : Dispositions particulières au livre III (art. L2643-1)](#309)
+          - [Chapitre IV : Dispositions particulières au livre IV (art. L2644-1)](#310)
+          - [Chapitre V : Dispositions particulières au livre V (art. L2645-1)](#311)
+        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L2651-1 à L2651-6)](#312)
+          - [Chapitre unique. (art. L2651-1 à L2651-6)](#313)
+            - [Section 1 : Dispositions générales (art. L2651-1)](#314)
+            - [Section 2 : Dispositions d'adaptation (art. L2651-2 à L2651-6)](#315)
+        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L2661-1 à L2661-6)](#316)
+          - [Chapitre unique. (art. L2661-1 à L2661-6)](#317)
+            - [Section 1 : Dispositions générales (art. L2661-1)](#318)
+            - [Section 2 : Dispositions d'adaptation (art. L2661-2 à L2661-6)](#319)
+        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L2671-1 à L2671-6)](#320)
+          - [Chapitre unique. (art. L2671-1 à L2671-6)](#321)
+            - [Section 1 : Dispositions générales (art. L2671-1)](#322)
+            - [Section 2 : Dispositions d'adaptation (art. L2671-2 à L2671-6)](#323)
+        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L2681-1 à L2681-6)](#324)
+          - [Chapitre unique. (art. L2681-1 à L2681-6)](#325)
+            - [Section 1 : Dispositions générales (art. L2681-1)](#326)
+            - [Section 2 : Dispositions d'adaptation (art. L2681-2 à L2681-6)](#327)
+        - [Titre IX : DISPOSITIONS COMMUNES À PLUSIEURS COLLECTIVITÉS (art. L2691-1 à L2691-2)](#328)
+          - [Chapitre unique. (art. L2691-1 à L2691-2)](#329)
+    - [TROISIÈME PARTIE : CONCESSIONS (art. L3000-1 à L3381-3)](#330)
+      - [Livre préliminaire  CONTRATS DE CONCESSION MIXTES (art. L3000-1 à L3000-4)](#331)
+      - [Livre Ier : DISPOSITIONS GÉNÉRALES (art. L3100-1 à L3137-5)](#332)
+        - [Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION (art. L3111-1 à L3114-10)](#333)
+          - [Chapitre Ier : Définition du besoin (art. L3111-1 à L3111-2)](#334)
+          - [Chapitre II : Mutualisation (art. L3112-1 à L3112-4)](#335)
+          - [Chapitre III : Réservation (art. L3113-1 à L3113-3)](#336)
+          - [Chapitre IV : Contenu du contrat de concession (art. L3114-1 à L3114-10)](#337)
+            - [Section 1 : Règles générales relatives aux conditions d'exécution (art. L3114-1 à L3114-3)](#338)
+            - [Section 2 : Droits d'entrée, redevances et tarifs (art. L3114-4 à L3114-6)](#339)
+            - [Section 3 : Durée (art. L3114-7 à L3114-8)](#340)
+            - [Section 4 : Part du contrat exécutée par des tiers (art. L3114-9 à L3114-10)](#341)
+        - [Titre II : PROCÉDURE DE PASSATION (art. L3120-1 à L3126-3)](#342)
+          - [Chapitre Ier : Détermination des règles procédurales applicables (art. L3121-1 à L3121-2)](#343)
+          - [Chapitre II : Engagement de la procédure de passation (art. L3122-1 à L3122-5)](#344)
+            - [Section 1 : Publicité préalable (art. L3122-1)](#345)
+            - [Section 2 : Communications et échanges d'informations (art. L3122-2 à L3122-5)](#346)
+              - [Sous-section 1 : Consignation des étapes de la procédure (art. L3122-2)](#347)
+              - [Sous-section 2 : Confidentialité (art. L3122-3)](#348)
+              - [Sous-section 3 : Mise à disposition des documents de la consultation (art. L3122-4)](#349)
+              - [Sous-section 4 : Moyens de communication et échanges d'informations (art. L3122-5)](#350)
+          - [Chapitre III : Phase de candidature (art. L3123-1 à L3123-21)](#351)
+            - [Section 1 : Motifs d'exclusion de la procédure de passation des contrats de concession (art. L3123-1 à L3123-17)](#352)
+              - [Sous-section 1 : Exclusions de plein droit (art. L3123-1 à L3123-6)](#353)
+              - [Sous-section 2 : Exclusions à l'appréciation de l'autorité concédante (art. L3123-7 à L3123-11)](#354)
+              - [Sous-section 3 : Exclusions de plein droit propres aux contrats de concession de défense ou de sécurité (art. L3123-12 à L3123-14)](#355)
+              - [Sous-section 4 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion (art. L3123-15)](#356)
+              - [Sous-section 5 : Groupements d'opérateurs économiques et travaux ou services confiés à des tiers (art. L3123-16 à L3123-17)](#357)
+            - [Section 2 : Conditions de participation (art. L3123-18 à L3123-21)](#358)
+          - [Chapitre IV : Phase d'offre (art. L3124-1 à L3124-7)](#359)
+            - [Section 1 : Organisation de la négociation des offres (art. L3124-1)](#360)
+            - [Section 2 : Choix de l'offre (art. L3124-2 à L3124-5)](#361)
+              - [Sous-section 1 : Offres irrégulières ou inappropriées (art. L3124-2 à L3124-4)](#362)
+              - [Sous-section 2 : Choix de l'offre présentant le meilleur avantage économique global (art. L3124-5)](#363)
+            - [Section 3 : Accès aux contrats de concession de défense ou de sécurité d'opérateurs économiques ou de produits d'Etats tiers (art. L3124-6 à L3124-7)](#364)
+          - [Chapitre V : Achèvement de la procédure (art. L3125-1 à L3125-2)](#365)
+            - [Section 1 : Information des candidats et des soumissionnaires évincés (art. L3125-1)](#366)
+            - [Section 2 : Avis d'attribution (art. L3125-2)](#367)
+          - [Chapitre VI : Règles particulières à la passation de certains contrats de concession (art. L3126-1 à L3126-3)](#368)
+        - [Titre III : EXÉCUTION DU CONTRAT DE CONCESSION (art. L3131-1 à L3137-5)](#369)
+          - [Chapitre Ier : Transparence et rapport d'information de l'autorité concédante (art. L3131-1 à L3131-5)](#370)
+            - [Section 1 : Mise à disposition des données essentielles (art. L3131-1 à L3131-4)](#371)
+              - [Sous-section 1 : Mise à disposition des données essentielles par l'autorité concédante (art. L3131-1)](#372)
+              - [Sous-section 2 : Mise à disposition de données par le concessionnaire en cas de gestion concédée d'un service public (art. L3131-2 à L3131-4)](#373)
+            - [Section 2 : Rapport d'information à l'autorité concédante (art. L3131-5)](#374)
+          - [Chapitre II : Occupation domaniale et biens de la concession (art. L3132-1 à L3132-6)](#375)
+          - [Chapitre III : Exécution financière (art. L3133-1 à L3133-14)](#376)
+            - [Section 1 : Facturation électronique (art. L3133-1 à L3133-8)](#377)
+              - [Sous-section 1 : Transmission et réception des factures sous forme électronique (art. L3133-1 à L3133-5)](#378)
+              - [Sous-section 2 : Portail public de facturation (art. L3133-6 à L3133-8)](#379)
+            - [Section 2 : Délais de paiement (art. L3133-10 à L3133-14)](#380)
+              - [Sous-section 1 : Fixation du délai de paiement (art. L3133-10 à L3133-11)](#381)
+              - [Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. L3133-12 à L3133-13)](#382)
+              - [Sous-section 3 : Amende administrative en cas de retard de paiement (art. L3133-14)](#383)
+          - [Chapitre IV : Exécution du contrat de concession par des tiers (art. L3134-1 à L3134-3)](#384)
+          - [Chapitre V : Modification du contrat de concession (art. L3135-1 à L3135-2)](#385)
+          - [Chapitre VI : Fin des relations contractuelles (art. L3136-1 à L3136-10)](#386)
+            - [Section 1 : Résiliation des contrats de concession (art. L3136-1 à L3136-6)](#387)
+            - [Section 2 : Modalités particulières d'indemnisation du concessionnaire (art. L3136-7 à L3136-10)](#388)
+          - [Chapitre VII : Règlement alternatif des différends (art. L3137-1 à L3137-5)](#389)
+            - [Section 1 : Conciliation et médiation (art. L3137-1 à L3137-2)](#390)
+            - [Section 2 : Transaction (art. L3137-3)](#391)
+            - [Section 3 : Arbitrage (art. L3137-4 à L3137-5)](#392)
+      - [Livre II : AUTRES CONTRATS DE CONCESSION (art. L3200-1 à L3222-1)](#393)
+        - [Titre Ier : CHAMP D'APPLICATION (art. L3211-1 à L3215-1)](#394)
+          - [Chapitre Ier : Relations internes au secteur public (art. L3211-1 à L3211-9)](#395)
+            - [Section 1 : Quasi-régie (art. L3211-1 à L3211-5)](#396)
+            - [Section 2 : Coopération entre pouvoirs adjudicateurs (art. L3211-6)](#397)
+            - [Section 3 : Contrats de concession attribués par une entité adjudicatrice à une entreprise liée (art. L3211-7 à L3211-8)](#398)
+            - [Section 4 : Contrats de concession attribués par une entité adjudicatrice à une coentreprise (art. L3211-9)](#399)
+          - [Chapitre II : Contrats de concession conclus par une autorité concédante (art. L3212-1 à L3212-4)](#400)
+            - [Section 1 : Contrats de concession conclus en application de règles internationales (art. L3212-1 à L3212-2)](#401)
+            - [Section 2 : Contrats de concession liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat (art. L3212-3)](#402)
+            - [Section 3 : Autres contrats de concession (art. L3212-4)](#403)
+          - [Chapitre III : Contrats de concession conclus par un pouvoir adjudicateur (art. L3213-1 à L3213-2)](#404)
+          - [Chapitre IV : Contrats de concession conclus par une entité adjudicatrice (art. L3214-1 à L3214-2)](#405)
+          - [Chapitre V : Contrats de concession de défense ou de sécurité (art. L3215-1)](#406)
+        - [Titre II : RÈGLES APPLICABLES (art. L3221-1 à L3222-1)](#407)
+          - [Chapitre Ier : Règles générales applicables aux contrats de concession mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer (art. L3221-1 à L3221-7)](#408)
+          - [Chapitre II : Règles propres aux contrats de concession portant sur le service public de transport de voyageurs par chemin de fer (art. L3222-1)](#409)
+      - [Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3321-1 à L3381-3)](#410)
+        - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY (art. L3321-1 à L3322-1)](#411)
+          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L3321-1)](#412)
+          - [Chapitre II : Dispositions particulières au livre II (art. L3322-1)](#413)
+        - [Titre III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN (art. L3331-1 à L3332-1)](#414)
+          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L3331-1)](#415)
+          - [Chapitre II : Dispositions particulières au livre II (art. L3332-1)](#416)
+        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L3341-1 à L3342-1)](#417)
+          - [Chapitre Ier : Dispositions particulières au livre Ier (art. L3341-1)](#418)
+          - [Chapitre II : Dispositions particulières au livre II (art. L3342-1)](#419)
+        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L3351-1 à L3351-3)](#420)
+          - [Chapitre unique. (art. L3351-1 à L3351-3)](#421)
+            - [Section 1 : Dispositions générales (art. L3351-1)](#422)
+            - [Section 2 : Dispositions d'adaptation (art. L3351-2 à L3351-3)](#423)
+        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. L3361-1 à L3361-3)](#424)
+          - [Chapitre unique. (art. L3361-1 à L3361-3)](#425)
+            - [Section 1 : Dispositions générales (art. L3361-1)](#426)
+            - [Section 2 : Dispositions d'adaptation (art. L3361-2 à L3361-3)](#427)
+        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L3371-1 à L3371-3)](#428)
+          - [Chapitre unique. (art. L3371-1 à L3371-3)](#429)
+            - [Section 1 : Dispositions générales (art. L3371-1)](#430)
+            - [Section 2 : Dispositions d'adaptation (art. L3371-2 à L3371-3)](#431)
+        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. L3381-1 à L3381-3)](#432)
+          - [Chapitre unique. (art. L3381-1 à L3381-3)](#433)
+            - [Section 1 : Dispositions générales (art. L3381-1)](#434)
+            - [Section 2 : Dispositions d'adaptation (art. L3381-2 à L3381-3)](#435)
+  - [Partie réglementaire (art. R2100-1 à R3381-4)](#436)
+    - [DEUXIÈME PARTIE : MARCHÉS PUBLICS (art. R2100-1 à R2691-1)](#437)
+      - [Livre Ier : DISPOSITIONS GÉNÉRALES (art. R2100-1 à R2197-25)](#438)
+        - [Titre Ier : PRÉPARATION DU MARCHÉ (art. R2111-1 à R2113-8)](#439)
+          - [Chapitre Ier : DÉFINITION DU BESOIN (art. R2111-1 à R2111-17)](#440)
+            - [Section 1 : Aide à la définition du besoin (art. R2111-1 à D2111-3)](#441)
+              - [Sous-section 1 : Etudes et échanges préalables avec les opérateurs économiques (art. R2111-1)](#442)
+              - [Sous-section 2 : Participation d'un opérateur économique à la préparation du marché (art. R2111-2)](#443)
+              - [Sous-section 3 : Schéma de promotion des achats (art. D2111-3)](#444)
+            - [Section 2 : Formalisation du besoin par des spécifications techniques (art. R2111-4 à R2111-11)](#445)
+              - [Sous-section 1 : Contenu des spécifications techniques (art. R2111-4 à R2111-6)](#446)
+              - [Sous-section 2 : Formulation des spécifications techniques (art. R2111-7 à R2111-11)](#447)
+            - [Section 3 : Utilisation de labels (art. R2111-12 à R2111-17)](#448)
+          - [Chapitre II : CONTENU DU MARCHÉ (art. R2112-1 à R2112-18)](#449)
+            - [Section 1 : Règles générales (art. R2112-1 à R2112-3)](#450)
+            - [Section 2 : Durée (art. R2112-4)](#451)
+            - [Section 3 : Prix (art. R2112-5 à R2112-18)](#452)
+              - [Sous-section 1 : Forme des prix (art. R2112-6)](#453)
+              - [Sous-section 2 : Prix définitifs (art. R2112-7 à R2112-14)](#454)
+                - [Paragraphe 1 : Prix fermes (art. R2112-9 à R2112-12)](#455)
+                - [Paragraphe 2 : Prix révisables (art. R2112-13)](#456)
+                - [Paragraphe 3 : Prix affecté par les fluctuations des cours mondiaux (art. R2112-14)](#457)
+              - [Sous-section 3 : Prix provisoires (art. R2112-15 à R2112-18)](#458)
+          - [Chapitre III : ORGANISATION DE L'ACHAT (art. R2113-1 à R2113-8)](#459)
+            - [Section 1 : Allotissement (art. R2113-1 à R2113-3)](#460)
+            - [Section 2 : Marchés à tranches (art. R2113-4 à R2113-6)](#461)
+            - [Section 3 : Réservation de marchés (art. R2113-7 à R2113-8)](#462)
+              - [Sous-section 1 : Réservation de marchés aux opérateurs économiques qui emploient des travailleurs handicapés et défavorisés (art. R2113-7)](#463)
+              - [Sous-section 2 : Réservation de marchés aux entreprises de l'économie sociale et solidaire (art. R2113-8)](#464)
+        - [Titre II : CHOIX DE LA PROCÉDURE DE PASSATION (art. R2121-1 à R2124-6)](#465)
+          - [Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN (art. R2121-1 à R2121-9)](#466)
+            - [Section 1 : Dispositions générales (art. R2121-1 à R2121-4)](#467)
+            - [Section 2 : Prise en compte de la nature des prestations (art. R2121-5 à R2121-7)](#468)
+            - [Section 3 : Dispositions propres aux accords-cadres, systèmes d'acquisition dynamique et partenariats d'innovation (art. R2121-8 à R2121-9)](#469)
+          - [Chapitre II : MARCHÉS PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES (art. R2122-1 à R2122-11)](#470)
+            - [Section 1 : Marchés passés sans publicité ni mise en concurrence en raison de leur montant ou de leur objet (art. R2122-1 à R2122-9)](#471)
+            - [Section 2 : Marchés passés sans publicité ni mise en concurrence en raison de la qualité de l'acheteur (art. R2122-10 à R2122-11)](#472)
+          - [Chapitre III : MARCHÉS PASSÉS SELON UNE PROCÉDURE ADAPTÉE (art. R2123-1 à R2123-8)](#473)
+            - [Section 1 : Conditions de recours à une procédure adaptée (art. R2123-1 à R2123-3)](#474)
+            - [Section 2 : Règles applicables (art. R2123-4 à R2123-7)](#475)
+            - [Section 3 : Règles particulières aux services juridiques (art. R2123-8)](#476)
+          - [Chapitre IV : MARCHÉS PASSÉS SELON UNE PROCÉDURE FORMALISÉE (art. R2124-1 à R2124-6)](#477)
+            - [Section 1 : Appel d'offres (art. R2124-2)](#478)
+            - [Section 2 : Procédure avec négociation (art. R2124-3 à R2124-4)](#479)
+            - [Section 3 : Dialogue compétitif (art. R2124-5 à R2124-6)](#480)
+        - [Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. R2131-1 à R2132-14)](#481)
+          - [Chapitre Ier : PUBLICITÉ PRÉALABLE (art. R2131-1 à R2131-20)](#482)
+            - [Section 1 : Supports de publication (art. R2131-1 à R2131-18)](#483)
+              - [Sous-section 1 : Avis de préinformation et avis périodique indicatif manifestant l'intention des acheteurs de passer un marché (art. R2131-1 à R2131-3)](#484)
+              - [Sous-section 2 : Avis de préinformation et avis périodique indicatif constituant un appel à la concurrence (art. R2131-4 à R2131-11)](#485)
+                - [Paragraphe 1 : Dispositions applicables aux marchés autres que ceux relatifs aux services sociaux et autres services spécifiques (art. R2131-4 à R2131-6)](#486)
+                - [Paragraphe 2 : Dispositions applicables aux marchés de services sociaux et autres services spécifiques (art. R2131-7 à R2131-9)](#487)
+                - [Paragraphe 3 : Dispositions communes relatives à l'invitation à confirmer l'intérêt (art. R2131-10 à R2131-11)](#488)
+              - [Sous-section 3 : Avis de marché (art. R2131-12 à R2131-18)](#489)
+                - [Paragraphe 1 : Avis de marché pour certains marchés passés selon une procédure adaptée (art. R2131-12 à R2131-13)](#490)
+                - [Paragraphe 2 : Modalités de publicité pour les marchés de services sociaux et autres services spécifiques (art. R2131-14 à R2131-15)](#491)
+                - [Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée (art. R2131-16 à R2131-17)](#492)
+                - [Paragraphe 4 : Publicité supplémentaire (art. R2131-18)](#493)
+            - [Section 2 : Publication (art. R2131-19 à R2131-20)](#494)
+          - [Chapitre II : COMMUNICATIONS ET ÉCHANGES D'INFORMATION (art. R2132-1 à R2132-14)](#495)
+            - [Section unique :  Dématérialisation des communications et échanges d'informations (art. R2132-1 à R2132-14)](#496)
+              - [Sous-section 1 : Mise à disposition des documents de la consultation (art. R2132-1 à R2132-6)](#497)
+              - [Sous-section 2 : Support des communications et échanges d'informations (art. R2132-7 à R2132-14)](#498)
+        - [Titre IV : PHASE DE CANDIDATURE (art. R2142-1 à R2144-9)](#499)
+          - [Chapitre II : CONDITIONS DE PARTICIPATION (art. R2142-1 à R2142-27)](#500)
+            - [Section 1 : Dispositions générales (art. R2142-1 à R2142-14)](#501)
+              - [Sous-section 1 : Conditions générales (art. R2142-1 à R2142-4)](#502)
+              - [Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle (art. R2142-5)](#503)
+              - [Sous-section 3 : Conditions relatives aux capacités économiques et financières (art. R2142-6 à R2142-12)](#504)
+              - [Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles (art. R2142-13 à R2142-14)](#505)
+            - [Section 2 : Réduction du nombre de candidats (art. R2142-15 à R2142-18)](#506)
+            - [Section 3 : Groupements d'opérateurs économiques (art. R2142-19 à R2142-27)](#507)
+          - [Chapitre III : CONTENU DES CANDIDATURES (art. R2143-1 à R2143-16)](#508)
+            - [Section 1 : Présentation des candidatures (art. R2143-1 à R2143-4)](#509)
+              - [Sous-section 1 : Délai de réception des candidatures (art. R2143-1 à R2143-2)](#510)
+              - [Sous-section 2 : Eléments à produire par le candidat (art. R2143-3 à R2143-4)](#511)
+            - [Section 2 : Documents justificatifs et autres moyens de preuve (art. R2143-5 à R2143-15)](#512)
+              - [Sous-section 1 : Dispositions générales (art. R2143-5)](#513)
+              - [Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion (art. R2143-6 à R2143-10)](#514)
+              - [Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation (art. R2143-11 à R2143-12)](#515)
+              - [Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve (art. R2143-13 à R2143-14)](#516)
+              - [Sous-section 5 : Opérateurs agréés et certifiés (art. R2143-15)](#517)
+            - [Section 3 : Traduction en français (art. R2143-16)](#518)
+          - [Chapitre IV : EXAMEN DES CANDIDATURES (art. R2144-1 à R2144-9)](#519)
+            - [Section 1 : Modalités de vérification (art. R2144-1 à R2144-7)](#520)
+            - [Section 2 : Invitation des candidats sélectionnés (art. R2144-8 à R2144-9)](#521)
+        - [Titre V : PHASE D'OFFRE (art. R2151-1 à R2153-5)](#522)
+          - [Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES (art. R2151-1 à R2151-16)](#523)
+            - [Section 1 : Présentation des offres (art. R2151-1 à R2151-11)](#524)
+              - [Sous-section 1 : Délais de réception (art. R2151-1 à R2151-5)](#525)
+              - [Sous-section 2 : Modalités de remise (art. R2151-6 à R2151-7)](#526)
+              - [Sous-section 3 : Variantes (art. R2151-8 à R2151-11)](#527)
+            - [Section 2 : Informations et documents à produire dans l'offre (art. R2151-12 à R2151-16)](#528)
+          - [Chapitre II : EXAMEN DES OFFRES (art. R2152-1 à R2152-13)](#529)
+            - [Section 1 : Offres irrégulières, inacceptables ou inappropriées (art. R2152-1 à R2152-2)](#530)
+            - [Section 2 : Offres anormalement basses (art. R2152-3 à R2152-5)](#531)
+            - [Section 3 : Choix de l'offre économiquement la plus avantageuse (art. R2152-6 à R2152-12)](#532)
+              - [Sous-section 1 : Choix des critères d'attribution (art. R2152-6 à R2152-8)](#533)
+              - [Sous-section 2 : Utilisation du coût du cycle de vie comme critère d'attribution (art. R2152-9 à R2152-10)](#534)
+              - [Sous-section 3 : Publicité des critères et de leurs modalités de mise en œuvre (art. R2152-11 à R2152-12)](#535)
+            - [Section 4 : Mise au point du marché (art. R2152-13)](#536)
+          - [Chapitre III : OFFRES PRÉSENTÉES PAR DES OPÉRATEURS ÉCONOMIQUES OU COMPORTANT DES PRODUITS D'ÉTATS TIERS (art. R2153-1 à R2153-5)](#537)
+            - [Section 1 : Principes généraux (art. R2153-1 à R2153-2)](#538)
+            - [Section 2 : Marchés de fournitures des entités adjudicatrices (art. R2153-3 à R2153-5)](#539)
+        - [Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT (art. R2161-1 à R2162-66)](#540)
+          - [Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES (art. R2161-1 à R2161-31)](#541)
+            - [Section 1 : Appel d'offres (art. R2161-2 à R2161-11)](#542)
+              - [Sous-section 1 : Appel d'offres ouvert (art. R2161-2 à R2161-5)](#543)
+              - [Sous-section 2 : Appel d'offres restreint (art. R2161-6 à R2161-11)](#544)
+            - [Section 2 : Procédure avec négociation (art. R2161-12 à R2161-23)](#545)
+              - [Sous-section 1 : Règles applicables aux pouvoirs adjudicateurs (art. R2161-12 à R2161-20)](#546)
+              - [Sous-section 2 : Règles applicables aux entités adjudicatrices (art. R2161-21 à R2161-23)](#547)
+            - [Section 3 : Dialogue compétitif (art. R2161-24 à R2161-31)](#548)
+          - [Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT (art. R2162-1 à R2162-66)](#549)
+            - [Section 1 : Accords-cadres (art. R2162-1 à R2162-14)](#550)
+              - [Sous-section 1 : Dispositions générales (art. R2162-1 à R2162-6)](#551)
+              - [Sous-section 2 : Dispositions propres aux marchés subséquents (art. R2162-7 à R2162-12)](#552)
+              - [Sous-section 3 : Dispositions propres aux bons de commande (art. R2162-13 à R2162-14)](#553)
+            - [Section 2 : Concours (art. R2162-15 à R2162-26)](#554)
+              - [Sous-section 1 : Déroulement du concours (art. R2162-15 à R2162-21)](#555)
+              - [Sous-section 2 : Composition du jury (art. R2162-22 à R2162-26)](#556)
+            - [Section 3 : Système de qualification des entités adjudicatrices (art. R2162-27 à R2162-36)](#557)
+              - [Sous-section 1 : Règles de publicité (art. R2162-28 à R2162-29)](#558)
+              - [Sous-section 2 : Qualification des opérateurs économiques (art. R2162-30 à R2162-34)](#559)
+              - [Sous-section 3 : Règles de passation des marchés conclus sur la base d'un système de qualification (art. R2162-35 à R2162-36)](#560)
+            - [Section 4 : Système d'acquisition dynamique (art. R2162-37 à R2162-51)](#561)
+              - [Sous-section 1 : Mise en place du système d'acquisition dynamique (art. R2162-37 à R2162-42)](#562)
+                - [Paragraphe 1 : Formalités de publicité (art. R2162-39 à R2162-40)](#563)
+                - [Paragraphe 2 : Documents de la consultation (art. R2162-41 à R2162-42)](#564)
+              - [Sous-section 2 : Sélection des opérateurs économiques participant au système d'acquisition dynamique (art. R2162-43 à R2162-48)](#565)
+              - [Sous-section 3 : Règles de passation des marchés spécifiques conclus sur la base d'un système d'acquisition dynamique (art. R2162-49 à R2162-51)](#566)
+            - [Section 5 : Catalogues électroniques (art. R2162-52 à R2162-56)](#567)
+            - [Section 6 : Enchères électroniques (art. R2162-57 à R2162-66)](#568)
+        - [Titre VII : RÈGLES APPLICABLES A CERTAINS MARCHÉS (art. R2171-1 à R2172-38)](#569)
+          - [Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX (art. R2171-1 à R2171-22)](#570)
+            - [Section 1 : Caractéristiques des marchés globaux (art. R2171-1 à D2171-14)](#571)
+              - [Sous-section 1 : Marché de conception-réalisation (art. R2171-1)](#572)
+              - [Sous-section 2 : Marché global de performance (art. R2171-2 à R2171-3)](#573)
+              - [Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment (art. D2171-4 à D2171-14)](#574)
+                - [Paragraphe 1 : Les études d'esquisse (art. D2171-5)](#575)
+                - [Paragraphe 2 : Les études d'avant-projet (art. D2171-6 à D2171-9)](#576)
+                - [Paragraphe 3 : Les études de projet (art. D2171-10)](#577)
+                - [Paragraphe 4 : Les études d'exécution (art. D2171-11 à D2171-12)](#578)
+                - [Paragraphe 5 : Le suivi de la réalisation des travaux (art. D2171-13)](#579)
+                - [Paragraphe 6 : L'assistance aux opérations de réception et à la mise en œuvre de la garantie de parfait achèvement (art. D2171-14)](#580)
+            - [Section 2 : Procédure de passation des marchés globaux applicable aux acheteurs soumis au livre IV (art. R2171-15 à R2171-18)](#581)
+            - [Section 3 : Versement d'une prime (art. R2171-19 à R2171-22)](#582)
+          - [Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS EN FONCTION DE LEUR OBJET (art. R2172-1 à R2172-38)](#583)
+            - [Section 1 : Marchés de maîtrise d'œuvre (art. R2172-1 à R2172-6)](#584)
+              - [Sous-section 1 : Définition (art. R2172-1)](#585)
+              - [Sous-section 2 : Procédures applicables (art. R2172-2 à R2172-3)](#586)
+              - [Sous-section 3 : Primes (art. R2172-4 à R2172-6)](#587)
+            - [Section 2 : Marchés de décoration des constructions publiques (art. R2172-7 à R2172-19)](#588)
+              - [Sous-section 1 : Marchés inférieurs aux seuils européens (art. R2172-8 à R2172-16)](#589)
+                - [Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer (art. R2172-8 à R2172-14)](#590)
+                - [Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes (art. R2172-15 à R2172-16)](#591)
+              - [Sous-section 2 : Marchés supérieurs aux seuils européens (art. R2172-17)](#592)
+              - [Sous-section 3 : Composition et fonctionnement du comité artistique (art. R2172-18 à R2172-19)](#593)
+            - [Section 3 : Partenariats d'innovation (art. R2172-20 à R2172-32)](#594)
+              - [Sous-section 1 : Contenu du partenariat d'innovation (art. R2172-21 à R2172-25)](#595)
+              - [Sous-section 2 : Passation du partenariat d'innovation (art. R2172-26 à R2172-30)](#596)
+              - [Sous-section 3 : Déroulement du partenariat d'innovation (art. R2172-31 à R2172-32)](#597)
+            - [Section 4 : Marchés réalisés dans le cadre de programmes expérimentaux (art. R2172-33 à R2172-34)](#598)
+            - [Section 5 : Marchés relatifs à l'achat de véhicules à moteur (art. R2172-35 à R2172-38)](#599)
+        - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE (art. R2181-1 à R2185-2)](#600)
+          - [Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS (art. R2181-1 à R2181-6)](#601)
+            - [Section 1 : Marchés passés selon une procédure adaptée (art. R2181-2)](#602)
+            - [Section 2 : Marchés passés selon une procédure formalisée (art. R2181-3 à R2181-4)](#603)
+            - [Section 3 : Informations des candidats et soumissionnaires évincés dans le cadre d'un système de qualification passé par une entité adjudicatrice (art. R2181-5 à R2181-6)](#604)
+          - [Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ (art. R2182-1 à R2182-5)](#605)
+            - [Section 1 : Signature du marché (art. R2182-1 à R2182-3)](#606)
+            - [Section 2 : Notification du marché (art. R2182-4 à R2182-5)](#607)
+          - [Chapitre III : AVIS D'ATTRIBUTION (art. R2183-1 à R2183-7)](#608)
+            - [Section 1 : Modalités de publication (art. R2183-1 à R2183-4)](#609)
+              - [Sous-section 1 : Dispositions générales (art. R2183-1 à R2183-2)](#610)
+              - [Sous-section 2 : Dispositions propres à certains marchés (art. R2183-3 à R2183-4)](#611)
+            - [Section 2 : Dispositions particulières au contenu des avis d'attribution (art. R2183-5 à R2183-7)](#612)
+          - [Chapitre IV : CONSERVATION DES INFORMATIONS (art. R2184-1 à R2184-13)](#613)
+            - [Section 1 : Rapport de présentation de la procédure menée par les pouvoirs adjudicateurs (art. R2184-1 à R2184-6)](#614)
+            - [Section 2 : Informations conservées par les entités adjudicatrices (art. R2184-7 à R2184-11)](#615)
+            - [Section 3 : Durée de conservation (art. R2184-12 à R2184-13)](#616)
+          - [Chapitre V : ABANDON DE LA PROCÉDURE (art. R2185-1 à R2185-2)](#617)
+        - [Titre IX : EXÉCUTION DU MARCHÉ (art. R2191-1 à R2197-25)](#618)
+          - [Chapitre Ier : EXÉCUTION FINANCIÈRE (art. R2191-1 à R2191-63)](#619)
+            - [Section 1 : Avances (art. R2191-3 à R2191-19)](#620)
+              - [Sous-section 1 : Dispositions générales (art. R2191-3 à R2191-12)](#621)
+                - [Paragraphe 1 : Principe de versement d'une avance (art. R2191-3 à R2191-5)](#622)
+                - [Paragraphe 2 : Modalités de calcul du montant de l'avance (art. R2191-6 à R2191-10)](#623)
+                - [Paragraphe 3 : Modalités de remboursement de l'avance (art. R2191-11 à R2191-12)](#624)
+              - [Sous-section 2 : Dispositions particulières (art. R2191-13 à R2191-19)](#625)
+                - [Paragraphe 1 : Marchés à tranches (art. R2191-13 à R2191-14)](#626)
+                - [Paragraphe 2 : Marchés reconductibles (art. R2191-15)](#627)
+                - [Paragraphe 3 : Accords-cadres à bons de commande (art. R2191-16 à R2191-19)](#628)
+            - [Section 2 : Acomptes (art. R2191-20 à R2191-22)](#629)
+            - [Section 3 : Régime des paiements (art. R2191-23 à R2191-31)](#630)
+              - [Sous-section 1 : Dispositions générales (art. R2191-23 à R2191-25)](#631)
+              - [Sous-section 2 : Règlement partiel définitif (art. R2191-26)](#632)
+              - [Sous-section 3 : Mise en œuvre de la clause de variation de prix (art. R2191-27 à R2191-29)](#633)
+              - [Sous-section 4 : Règles applicables en cas de résiliation du marché (art. R2191-30 à R2191-31)](#634)
+            - [Section 4 : Garanties (art. R2191-32 à R2191-44)](#635)
+              - [Sous-section 1 : Retenue de garantie (art. R2191-32 à R2191-35)](#636)
+              - [Sous-section 2 : Garantie à première demande et caution personnelle et solidaire (art. R2191-36 à R2191-42)](#637)
+              - [Sous-section 3 : Autres garanties (art. R2191-43 à R2191-44)](#638)
+            - [Section 5 : Cession ou nantissement des créances (art. R2191-45 à R2191-63)](#639)
+              - [Sous-section 1 : Exemplaire unique et certificat de cessibilité (art. R2191-46 à R2191-53)](#640)
+                - [Paragraphe 1 : Modalités de remise de l'exemplaire unique et du certificat de cessibilité (art. R2191-46 à R2191-47)](#641)
+                - [Paragraphe 2 : Contenu et modification de l'exemplaire unique ou du certificat de cessibilité (art. R2191-48 à R2191-50)](#642)
+                - [Paragraphe 3 : Dispositions propres aux accords-cadres à bons de commande et aux marchés à tranches optionnelles (art. R2191-51)](#643)
+                - [Paragraphe 4 : Dispositions propres aux groupements d'opérateurs économiques (art. R2191-52 à R2191-53)](#644)
+              - [Sous-section 2 : Notification au comptable assignataire et encaissement de la créance (art. R2191-54 à R2191-58)](#645)
+                - [Paragraphe 1 : Notification au comptable assignataire (art. R2191-54 à R2191-55)](#646)
+                - [Paragraphe 2 : Encaissement de la créance (art. R2191-56 à R2191-58)](#647)
+              - [Sous-section 3 : Information des bénéficiaires (art. R2191-59 à R2191-62)](#648)
+                - [Paragraphe 1 : Renseignements communiqués par l'acheteur (art. R2191-60 à R2191-61)](#649)
+                - [Paragraphe 2 : Renseignements communiqués par le comptable (art. R2191-62)](#650)
+              - [Sous-section 4 : Privilège résultant de l'article L. 3253-22 du code du travail (art. R2191-63)](#651)
+          - [Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT (art. D2192-1 à R2192-37)](#652)
+            - [Section 1 : Facturation électronique (art. D2192-1 à R2192-3)](#653)
+              - [Sous-section 1 : Transmission et réception des factures sous forme électronique (art. D2192-1 à D2192-2)](#654)
+                - [Paragraphe 1 : Norme de facturation électronique (art. D2192-1)](#655)
+                - [Paragraphe 2 : Mentions obligatoires des factures sous forme électronique (art. D2192-2)](#656)
+              - [Sous-section 2 : Portail public de facturation (art. R2192-3)](#657)
+            - [Section 2 : Délais de paiement (art. R2192-10 à R2192-36)](#658)
+              - [Sous-section 1 : Fixation du délai de paiement (art. R2192-10 à R2192-11)](#659)
+              - [Sous-section 2 : Déclenchement du délai de paiement (art. R2192-12 à R2192-26)](#660)
+                - [Paragraphe 1 : Dispositions générales (art. R2192-12 à R2192-15)](#661)
+                - [Paragraphe 2 : Dispositions propres à certains marchés (art. R2192-16 à R2192-17)](#662)
+                - [Paragraphe 3 : Dispositions propres à l'intervention d'un tiers habilité à recevoir les demandes de paiement (art. R2192-18 à R2192-21)](#663)
+                - [Paragraphe 4 : Dispositions propres aux sous-traitants bénéficiant du paiement direct (art. R2192-22 à R2192-23)](#664)
+                - [Paragraphe 5 : Dispositions propres aux avances, aux garanties et aux indemnités de résiliation (art. R2192-24 à R2192-26)](#665)
+              - [Sous-section 3 : Interruption du délai de paiement (art. R2192-27 à R2192-30)](#666)
+              - [Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. D2192-35 à R2192-36)](#667)
+            - [Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public (art. R2192-37)](#668)
+          - [Chapitre III : SOUS-TRAITANCE (art. R2193-1 à R2193-22)](#669)
+            - [Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement (art. R2193-1 à R2193-9)](#670)
+              - [Sous-section 1 : Modalités d'acceptation et d'agrément (art. R2193-1 à R2193-4)](#671)
+                - [Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre (art. R2193-1 à R2193-2)](#672)
+                - [Paragraphe 2 : Déclaration de sous-traitance après la notification du marché public (art. R2193-3 à R2193-4)](#673)
+              - [Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct (art. R2193-5 à R2193-8)](#674)
+              - [Sous-section 3 : Offres anormalement basses des sous-traitants (art. R2193-9)](#675)
+            - [Section 2 : Paiement du sous-traitant (art. R2193-10 à R2193-16)](#676)
+            - [Section 3 : Régime financier (art. R2193-17 à R2193-22)](#677)
+              - [Sous-section 1 : Avances (art. R2193-17 à R2193-21)](#678)
+              - [Sous-section 2 : Cession ou nantissement de créances (art. R2193-22)](#679)
+          - [Chapitre IV : MODIFICATION DU MARCHÉ (art. R2194-1 à R2194-10)](#680)
+            - [Section 1 : Modifications autorisées (art. R2194-1 à R2194-9)](#681)
+              - [Sous-section 1 : Clauses contractuelles (art. R2194-1)](#682)
+              - [Sous-section 2 : Travaux, fournitures ou services supplémentaires devenus nécessaires (art. R2194-2 à R2194-4)](#683)
+              - [Sous-section 3 : Circonstances imprévues (art. R2194-5)](#684)
+              - [Sous-section 4 : Substitution d'un nouveau titulaire (art. R2194-6)](#685)
+              - [Sous-section 5 : Modification non substantielle (art. R2194-7)](#686)
+              - [Sous-section 6 : Modification de faible montant (art. R2194-8 à R2194-9)](#687)
+            - [Section 2 : Avis de modification (art. R2194-10)](#688)
+          - [Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT (art. R2196-1 à R2196-12)](#689)
+            - [Section 1 : Mise à disposition des données essentielles (art. R2196-1)](#690)
+            - [Section 2 : Recensement économique (art. R2196-2 à D2196-7)](#691)
+              - [Sous-section 1 : Observatoire économique de la commande publique (art. R2196-2 à R2196-4)](#692)
+              - [Sous-section 2 : Modalités du recensement économique (art. D2196-5 à D2196-7)](#693)
+            - [Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. R2196-8 à R2196-12)](#694)
+          - [Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS (art. R2197-1 à R2197-25)](#695)
+            - [Section 1 : Comités consultatifs de règlement amiable des différends (art. R2197-1 à D2197-22)](#696)
+              - [Sous-section 1 : Compétences des comités consultatifs de règlement amiable des différends (art. R2197-2 à R2197-5)](#697)
+              - [Sous-section 2 : Composition des comités consultatifs de règlement amiable des différends (art. R2197-6 à R2197-7)](#698)
+              - [Sous-section 3 : Nomination des membres des comités consultatifs de règlement amiable des différends (art. R2197-8 à R2197-12)](#699)
+              - [Sous-section 4 : Animation, coordination et secrétariat des comités consultatifs de règlement amiable des différends (art. D2197-13)](#700)
+              - [Sous-section 5 : Dispositions financières relatives aux comités consultatifs de règlement amiable des différends (art. D2197-14)](#701)
+              - [Sous-section 6 : Saisine des comités consultatifs de règlement amiable des différends (art. D2197-15 à R2197-16)](#702)
+              - [Sous-section 7 : Modalités de fonctionnement des comités consultatifs de règlement amiable des différends (art. D2197-18 à D2197-20)](#703)
+              - [Sous-section 8 : Notification des avis des comités consultatifs de règlement amiable des différends (art. D2197-21 à D2197-22)](#704)
+            - [Section 2 : Le médiateur des entreprises (art. R2197-23 à R2197-24)](#705)
+            - [Section 3 : Arbitrage (art. R2197-25)](#706)
+      - [Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT (art. R2200-1 à R2236-1)](#707)
+        - [Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT (art. R2211-1 à R2213-5)](#708)
+          - [Chapitre Ier : CONDITIONS DE RECOURS AU MARCHÉ DE PARTENARIAT (art. R2211-1 à R2211-4)](#709)
+            - [Section 1 : Seuils (art. R2211-1 à R2211-2)](#710)
+            - [Section 2 : Bilan plus favorable (art. R2211-3 à R2211-4)](#711)
+          - [Chapitre II : INSTRUCTION DU PROJET (art. R2212-1 à R2212-13)](#712)
+            - [Section 1 : Dispositions communes à la phase d'instruction (art. R2212-2 à R2212-3)](#713)
+            - [Section 2 : Evaluation du mode de réalisation du projet (art. R2212-4 à R2212-8)](#714)
+            - [Section 3 : Etude de soutenabilité budgétaire (art. R2212-9 à R2212-10)](#715)
+            - [Section 4 : Instruction des projets pour le compte des acheteurs non autorisés (art. R2212-11 à R2212-13)](#716)
+          - [Chapitre III : CONTENU DU MARCHÉ DE PARTENARIAT (art. R2213-1 à R2213-5)](#717)
+            - [Section 1 : Rémunération du titulaire (art. R2213-1 à R2213-4)](#718)
+            - [Section 2 : Part d'exécution du contrat réservée aux PME (art. R2213-5)](#719)
+        - [Titre II : PASSATION DU MARCHÉ DE PARTENARIAT (art. R2221-1 à R2223-5)](#720)
+          - [Chapitre Ier : AUTORISATIONS PRÉALABLES À L'ENGAGEMENT DE LA PROCÉDURE (art. R2221-1 à R2221-3)](#721)
+            - [Section unique :  Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. R2221-1 à R2221-3)](#722)
+          - [Chapitre II : PRÉSENTATION DES DOCUMENTS DE LA CONSULTATION, DES OFFRES ET CRITÈRES D'ATTRIBUTION (art. R2222-1 à R2222-3)](#723)
+            - [Section 1 : Caractère ajustable des modalités de financement (art. R2222-1)](#724)
+            - [Section 2 : Constitution d'une société de projet (art. R2222-2 à R2222-3)](#725)
+          - [Chapitre III : ACHÈVEMENT DE LA PROCÉDURE (art. R2223-1 à R2223-5)](#726)
+            - [Section 1 : Accord préalable à la signature (art. R2223-1 à R2223-4)](#727)
+              - [Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés (art. R2223-1 à R2223-3)](#728)
+              - [Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux (art. R2223-4)](#729)
+            - [Section 2 : Signature du marché de partenariat pour le compte des acheteurs non autorisés (art. R2223-5)](#730)
+        - [Titre III : EXÉCUTION DU MARCHÉ DE PARTENARIAT (art. R2232-1 à R2236-1)](#731)
+          - [Chapitre II : EXÉCUTION FINANCIÈRE (art. R2232-1)](#732)
+          - [Chapitre IV : SUIVI ET CONTRÔLE DE L'EXÉCUTION DU MARCHÉ DE PARTENARIAT (art. R2234-1 à R2234-8)](#733)
+            - [Section 1 : Rapport annuel du titulaire (art. R2234-1 à R2234-4)](#734)
+            - [Section 2 : Contrôle de l'exécution du marché de partenariat par l'acheteur (art. R2234-5 à R2234-8)](#735)
+          - [Chapitre VI : RECOURS A L'ARBITRAGE (art. R2236-1)](#736)
+      - [Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. R2300-1 à R2397-4)](#737)
+        - [Titre Ier : PRÉPARATION DU MARCHÉ (art. R2311-1 à R2313-3)](#738)
+          - [Chapitre Ier : DÉFINITION DU BESOIN (art. R2311-1 à R2311-9)](#739)
+            - [Section 1 : Aide à la définition du besoin (art. R2311-1)](#740)
+            - [Section 2 : Formalisation du besoin par des spécifications techniques (art. R2311-2 à R2311-7)](#741)
+              - [Sous-section 1 : Contenu des spécifications techniques (art. R2311-2 à R2311-3)](#742)
+              - [Sous-section 2 : Formulation des spécifications techniques (art. R2311-4 à R2311-7)](#743)
+            - [Section 3 : Utilisation d'écolabels (art. R2311-8 à R2311-9)](#744)
+          - [Chapitre II : CONTENU DU MARCHÉ (art. R2312-1 à R2312-14)](#745)
+            - [Section 1 : Règles générales (art. R2312-1 à R2312-4)](#746)
+            - [Section 2 : Durée (art. R2312-5)](#747)
+            - [Section 3 : Prix (art. R2312-6 à R2312-14)](#748)
+              - [Sous-section 1 : Forme des prix (art. R2312-7)](#749)
+              - [Sous-section 2 : Prix définitifs (art. R2312-8 à R2312-12)](#750)
+              - [Sous-section 3 : Prix provisoires (art. R2312-13 à R2312-14)](#751)
+          - [Chapitre III : ORGANISATION DE L'ACHAT (art. R2313-1 à R2313-3)](#752)
+            - [Section 1 : Allotissement (art. R2313-1)](#753)
+            - [Section 2 : Marchés à tranches (art. R2313-2)](#754)
+            - [Section 3 : Réservation de marchés (art. R2313-3)](#755)
+        - [Titre II : CHOIX DE LA PROCÉDURE DE PASSATION (art. R2321-1 à R2324-4)](#756)
+          - [Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN (art. R2321-1 à R2321-6)](#757)
+            - [Section 1 : Dispositions générales (art. R2321-1 à R2321-3)](#758)
+            - [Section 2 : Prise en compte de la nature des prestations (art. R2321-4)](#759)
+            - [Section 3 : Dispositions propres aux accords-cadres et aux partenariats d'innovation (art. R2321-5 à R2321-6)](#760)
+          - [Chapitre II : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES (art. R2322-1 à R2322-14)](#761)
+          - [Chapitre III : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE ADAPTÉE (art. R2323-1 à R2323-4)](#762)
+            - [Section 1 : Conditions de recours à une procédure adaptée (art. R2323-1 à R2323-3)](#763)
+            - [Section 2 : Règles applicables (art. R2323-4)](#764)
+          - [Chapitre IV : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE FORMALISÉE (art. R2324-1 à R2324-4)](#765)
+            - [Section 1 : Appel d'offres restreint (art. R2324-2)](#766)
+            - [Section 2 : Procédure avec négociation (art. R2324-3)](#767)
+            - [Section 3 : Dialogue compétitif (art. R2324-4)](#768)
+        - [Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. R2331-1 à R2332-18)](#769)
+          - [Chapitre Ier : PUBLICITÉ PRÉALABLE (art. R2331-1 à R2331-11)](#770)
+            - [Section 1 : Support de publicité (art. R2331-1 à R2331-9)](#771)
+              - [Sous-section 1 : Avis de préinformation (art. R2331-1 à R2331-4)](#772)
+              - [Sous-section 2 : Avis de marché (art. R2331-5 à R2331-9)](#773)
+                - [Paragraphe 1 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur montant (art. R2331-5 à R2331-6)](#774)
+                - [Paragraphe 2 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur objet (art. R2331-7)](#775)
+                - [Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée (art. R2331-8)](#776)
+                - [Paragraphe 4 : Publicité supplémentaire de l'avis de marché (art. R2331-9)](#777)
+            - [Section 2 : Publication (art. R2331-10 à R2331-11)](#778)
+          - [Chapitre II : COMMUNICATION ET ÉCHANGES D'INFORMATIONS (art. R2332-1 à R2332-18)](#779)
+            - [Section unique :  Dématérialisation des communications et échanges d'informations (art. R2332-1 à R2332-18)](#780)
+              - [Sous-section 1 : Mise à disposition des documents de la consultation (art. R2332-1 à R2332-5)](#781)
+              - [Sous-section 2 : Support des communications et échanges d'informations (art. R2332-6 à R2332-18)](#782)
+        - [Titre IV : PHASE DE CANDIDATURE (art. R2342-1 à R2344-10)](#783)
+          - [Chapitre II : CONDITIONS DE PARTICIPATION (art. R2342-1 à R2342-15)](#784)
+            - [Section 1 : Dispositions générales (art. R2342-1 à R2342-8)](#785)
+              - [Sous-section 1 : Conditions générales (art. R2342-1 à R2342-3)](#786)
+              - [Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle (art. R2342-4)](#787)
+              - [Sous-section 3 : Conditions relatives aux capacités économiques et financières (art. R2342-5)](#788)
+              - [Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles (art. R2342-6)](#789)
+              - [Sous-section 5 : Conditions de participation des opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen (art. R2342-7 à R2342-8)](#790)
+            - [Section 2 : Réduction du nombre de candidats (art. R2342-9 à R2342-11)](#791)
+            - [Section 3 : Groupements d'opérateurs économiques (art. R2342-12 à R2342-15)](#792)
+          - [Chapitre III : CONTENU DES CANDIDATURES (art. R2343-1 à R2343-19)](#793)
+            - [Section 1 : Présentation des candidatures (art. R2343-1 à R2343-6)](#794)
+              - [Sous-section 1 : Délai de réception des candidatures (art. R2343-1 à R2343-2)](#795)
+              - [Sous-section 2 : Eléments à produire par le candidat (art. R2343-3 à R2343-6)](#796)
+            - [Section 2 : Documents justificatifs et autres moyens de preuve (art. R2343-7 à R2343-18)](#797)
+              - [Sous-section 1 : Dispositions générales (art. R2343-7)](#798)
+              - [Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion (art. R2343-8 à R2343-10)](#799)
+              - [Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation (art. R2343-11 à R2343-13)](#800)
+              - [Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve (art. R2343-14 à R2343-15)](#801)
+              - [Sous-section 5 : Opérateurs agréés et certifiés (art. R2343-16 à R2343-18)](#802)
+            - [Section 3 : Traduction en français (art. R2343-19)](#803)
+          - [Chapitre IV : EXAMEN DES CANDIDATURES (art. R2344-1 à R2344-10)](#804)
+            - [Section 1 : Modalités de vérification (art. R2344-1 à R2344-8)](#805)
+              - [Sous-section 1 : Dispositions générales (art. R2344-1 à R2344-5)](#806)
+              - [Sous-section 2 : Dispositions particulières aux opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen (art. R2344-6 à R2344-8)](#807)
+            - [Section 2 : Invitation des candidats sélectionnés (art. R2344-9 à R2344-10)](#808)
+        - [Titre V : PHASE D'OFFRE (art. R2351-1 à R2352-9)](#809)
+          - [Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES (art. R2351-1 à R2351-17)](#810)
+            - [Section 1 : Présentation des offres (art. R2351-1 à R2351-10)](#811)
+              - [Sous-section 1 : Délais de réception (art. R2351-1 à R2351-5)](#812)
+              - [Sous-section 2 : Modalités de remise (art. R2351-6 à R2351-7)](#813)
+              - [Sous-section 3 : Variantes (art. R2351-8 à R2351-10)](#814)
+            - [Section 2 : Informations et documents à produire dans l'offre (art. R2351-11 à R2351-17)](#815)
+          - [Chapitre II : EXAMEN DES OFFRES (art. R2352-1 à R2352-9)](#816)
+            - [Section 1 : Offres irrégulières, inacceptables ou inappropriées (art. R2352-1)](#817)
+            - [Section 2 : Offres anormalement basses (art. R2352-2 à R2352-3)](#818)
+            - [Section 3 : Choix de l'offre économiquement la plus avantageuse (art. R2352-4 à R2352-8)](#819)
+              - [Sous-section 1 : Choix des critères d'attribution (art. R2352-4 à R2352-6)](#820)
+              - [Sous-section 2 : Publicité des critères et de leurs modalités de mise en œuvre (art. R2352-7 à R2352-8)](#821)
+            - [Section 4 : Mise au point du marché (art. R2352-9)](#822)
+        - [Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT (art. R2361-1 à R2362-18)](#823)
+          - [Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES (art. R2361-1 à R2361-19)](#824)
+            - [Section 1 : Appel d'offres restreint (art. R2361-2 à R2361-7)](#825)
+            - [Section 2 : Procédure avec négociation (art. R2361-8 à R2361-12)](#826)
+            - [Section 3 : Dialogue compétitif (art. R2361-13 à R2361-19)](#827)
+          - [Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT (art. R2362-1 à R2362-18)](#828)
+            - [Section 1 : Accords-cadres (art. R2362-1 à R2362-8)](#829)
+              - [Sous-section 1 : Dispositions générales (art. R2362-1 à R2362-6)](#830)
+              - [Sous-section 2 : Dispositions propres aux marchés subséquents (art. R2362-7)](#831)
+              - [Sous-section 3 : Dispositions propres aux bons de commande (art. R2362-8)](#832)
+            - [Section 2 : Catalogues électroniques (art. R2362-9 à R2362-12)](#833)
+            - [Section 3 : Enchères électroniques (art. R2362-13 à R2362-18)](#834)
+        - [Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ (art. R2371-1 à R2373-1)](#835)
+          - [Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX (art. R2371-1 à R2371-9)](#836)
+            - [Section 1 : Caractéristiques des marchés globaux (art. R2371-1 à D2371-3)](#837)
+              - [Sous-section 1 : Marchés de conception-réalisation (art. R2371-1)](#838)
+              - [Sous-section 2 : Marchés globaux de performance (art. R2371-2)](#839)
+              - [Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment (art. D2371-3)](#840)
+            - [Section 2 : Procédure de passation des marchés globaux (art. R2371-4 à R2371-7)](#841)
+            - [Section 3 : Versement d'une prime (art. R2371-8 à R2371-9)](#842)
+          - [Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ EN FONCTION DE LEUR OBJET (art. R2372-1 à R2372-24)](#843)
+            - [Section 1 : Marchés de maîtrise d'œuvre (art. R2372-1 à R2372-9)](#844)
+              - [Sous-section 1 : Définition (art. R2372-1)](#845)
+              - [Sous-section 2 : Procédures applicables (art. R2372-2 à R2372-5)](#846)
+              - [Sous-section 3 : Primes (art. R2372-6 à R2372-9)](#847)
+            - [Section 2 : Marchés de décoration des constructions publiques (art. R2372-10 à R2372-16)](#848)
+              - [Sous-section 1 : Marchés inférieurs aux seuils européens (art. R2372-11 à R2372-14)](#849)
+                - [Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer (art. R2372-11 à R2372-13)](#850)
+                - [Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes (art. R2372-14)](#851)
+              - [Sous-section 2 : Marchés de décoration des constructions publiques supérieurs aux seuils européens (art. R2372-15)](#852)
+              - [Sous-section 3 : Composition et fonctionnement du comité artistique (art. R2372-16)](#853)
+            - [Section 3 : Partenariats d'innovation (art. R2372-17 à R2372-18)](#854)
+            - [Section 4 : Marchés présentant des aléas techniques importants (art. R2372-19 à R2372-21)](#855)
+            - [Section 5 : Marchés relatifs à l'achat de véhicules à moteur (art. R2372-22 à R2372-24)](#856)
+          - [Chapitre III : MARCHÉS DE PARTENARIAT DE DÉFENSE OU DE SÉCURITÉ (art. R2373-1)](#857)
+        - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE DE PASSATION (art. R2381-1 à R2385-1)](#858)
+          - [Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS DE LA PROCÉDURE DE PASSATION (art. R2381-1)](#859)
+          - [Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ (art. R2382-1 à R2382-4)](#860)
+            - [Section 1 : Signature du marché (art. R2382-1 à R2382-3)](#861)
+            - [Section 2 : Notification du marché (art. R2382-4)](#862)
+          - [Chapitre III : AVIS D'ATTRIBUTION DU MARCHÉ (art. R2383-1 à R2383-3)](#863)
+            - [Section 1 : Modalités de publication (art. R2383-1 à R2383-2)](#864)
+            - [Section 2 : Dispositions particulières relatives au contenu des avis d'attribution (art. R2383-3)](#865)
+          - [Chapitre IV : CONSERVATION DES INFORMATIONS DU MARCHÉ (art. R2384-1 à R2384-5)](#866)
+            - [Section 1 : Rapport de présentation de la procédure menée par les acheteurs (art. R2384-1 à R2384-4)](#867)
+            - [Section 2 : Durée de conservation (art. R2384-5)](#868)
+          - [Chapitre V : ABANDON DE LA PROCÉDURE DE PASSATION DU MARCHÉ (art. R2385-1)](#869)
+        - [Titre IX : EXÉCUTION DU MARCHÉ (art. R2391-1 à R2397-4)](#870)
+          - [Chapitre Ier : EXÉCUTION FINANCIÈRE DU MARCHÉ (art. R2391-1 à R2391-28)](#871)
+            - [Section 1 : Avances (art. R2391-1 à R2391-15)](#872)
+              - [Sous-section 1 : Dispositions générales (art. R2391-1 à R2391-7)](#873)
+                - [Paragraphe 1 : Principe de versement d'une avance (art. R2391-1 à R2391-2)](#874)
+                - [Paragraphe 2 : Modalités de calcul du montant de l'avance (art. R2391-3 à R2391-6)](#875)
+                - [Paragraphe 3 : Modalités de remboursement de l'avance (art. R2391-7)](#876)
+              - [Sous-section 2 : Dispositions particulières (art. R2391-8 à R2391-15)](#877)
+                - [Paragraphe 1 : Marchés à tranches (art. R2391-8 à R2391-10)](#878)
+                - [Paragraphe 2 : Marchés reconductibles (art. R2391-11)](#879)
+                - [Paragraphe 3 : Accords-cadres à bons de commande (art. R2391-12 à R2391-15)](#880)
+            - [Section 2 : Acomptes (art. R2391-16 à R2391-17)](#881)
+            - [Section 3 : Régime des paiements (art. R2391-18 à R2391-20)](#882)
+              - [Sous-section 1 : Dispositions générales (art. R2391-18 à R2391-19)](#883)
+              - [Sous-section 2 : Règlement partiel définitif (art. R2391-20)](#884)
+            - [Section 4 : Garanties (art. R2391-21 à R2391-27)](#885)
+              - [Sous-section 1 : Retenue de garantie (art. R2391-21 à R2391-24)](#886)
+              - [Sous-section 2 : Garantie à première demande et caution personnelle et solidaire (art. R2391-25)](#887)
+              - [Sous-section 3 : Autres garanties (art. R2391-26 à R2391-27)](#888)
+            - [Section 5 : Cession ou nantissement de créances (art. R2391-28)](#889)
+          - [Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT (art. D2392-1 à R2392-13)](#890)
+            - [Section 1 : Facturation électronique (art. D2392-1 à R2392-3)](#891)
+              - [Sous-section 1 : Transmission et réception des factures sous forme électronique (art. D2392-1 à D2392-2)](#892)
+                - [Paragraphe 1 : Norme de facturation électronique (art. D2392-1)](#893)
+                - [Paragraphe 2 : Mentions obligatoires des factures sous forme électronique (art. D2392-2)](#894)
+              - [Sous-section 2 : Portail public de facturation (art. R2392-3)](#895)
+            - [Section 2 : Délais de paiement (art. D2392-11 à R2392-12-1)](#896)
+            - [Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public (art. R2392-13)](#897)
+          - [Chapitre III : DISPOSITIONS RELATIVES AUX SOUS-CONTRATS (art. R2393-1 à R2393-44)](#898)
+            - [Section 1 : Dispositions communes aux sous-contrats (art. R2393-2 à R2393-23)](#899)
+              - [Sous-section 1 : Obligation du titulaire de mettre en concurrence les sous-contractants (art. R2393-4 à R2393-6)](#900)
+              - [Sous-section 2 : Obligation du titulaire de sous-contracter (art. R2393-7 à R2393-12)](#901)
+              - [Sous-section 3 : Procédure de mise en concurrence des sous-contractants (art. R2393-13 à R2393-20)](#902)
+                - [Paragraphe 1 : Règles de passation communes aux sous-contrats (art. R2393-14 à R2393-16)](#903)
+                - [Paragraphe 2 : Passation des sous-contrats dont la valeur estimée du besoin est inférieure aux seuils de procédure formalisée (art. R2393-17)](#904)
+                - [Paragraphe 3 : Passation des sous-contrats dont la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée (art. R2393-18 à R2393-20)](#905)
+              - [Sous-section 4 : Conditions de rejet par l'acheteur du sous-contractant proposé par le titulaire (art. R2393-21 à R2393-22)](#906)
+              - [Sous-section 5 : Communication des sous-contrats à l'acheteur (art. R2393-23)](#907)
+            - [Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traités (art. R2393-24 à R2393-40)](#908)
+              - [Sous-section 1 : Modalités d'acceptation (art. R2393-24 à R2393-28)](#909)
+                - [Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre (art. R2393-25 à R2393-26)](#910)
+                - [Paragraphe 2 : Déclaration de sous-traitance après la notification du marché (art. R2393-27 à R2393-28)](#911)
+              - [Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct (art. R2393-29 à R2393-32)](#912)
+              - [Sous-section 3 : Paiement du sous-traitant (art. R2393-33 à R2393-34-1)](#913)
+              - [Sous-section 4 : Régime financier (art. R2393-35 à R2393-40)](#914)
+                - [Paragraphe 1 : Avances (art. R2393-36 à R2393-39)](#915)
+                - [Paragraphe 2 : Cession ou nantissement de créances (art. R2393-40)](#916)
+            - [Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités (art. R2393-41 à R2393-44)](#917)
+          - [Chapitre IV : MODIFICATION DU MARCHÉ (art. R2394-1)](#918)
+          - [Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT (art. D2396-2 à R2396-6)](#919)
+            - [Section 1 : Recensement économique (art. D2396-2 à R2396-1)](#920)
+            - [Section 2 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics (art. R2396-3 à R2396-5)](#921)
+            - [Section 3 : Eléments de sécurité pouvant être demandés par l'acheteur (art. R2396-6)](#922)
+          - [Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS (art. D2397-2 à R2397-4)](#923)
+            - [Section 1 : Comités consultatifs de règlement amiable des différends (art. D2397-2 à R2397-1)](#924)
+            - [Section 2 : Le médiateur des entreprises (art. R2397-3)](#925)
+            - [Section 3 : Arbitrage (art. R2397-4)](#926)
+      - [Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAITRISE D'OUVRAGE PUBLIQUE ET À LA MAITRISE D'ŒUVRE (art. R2412-1 à R2432-7)](#927)
+        - [Titre Ier : CHAMP D'APPLICATION (art. R2412-1)](#928)
+          - [Chapitre II : OUVRAGES (art. R2412-1)](#929)
+        - [Titre III : MAITRISE D'ŒUVRE PRIVÉE (art. R2431-1 à R2432-7)](#930)
+          - [Chapitre Ier : MISSION DE MAITRISE D'ŒUVRE PRIVÉE (art. R2431-1 à R2431-37)](#931)
+            - [Section 1 : Dispositions générales (art. R2431-1 à R2431-3)](#932)
+            - [Section 2 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages de bâtiment (art. R2431-4 à R2431-23)](#933)
+              - [Sous-section 1 : Mission de base (art. R2431-4 à R2431-7)](#934)
+              - [Sous-section 2 : Dispositions propres aux opérations de construction neuve de bâtiment (art. R2431-8 à R2431-18)](#935)
+              - [Sous-section 3 : Dispositions propres aux opérations de réhabilitation de bâtiment (art. R2431-19 à R2431-23)](#936)
+            - [Section 3 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages d'infrastructure (art. R2431-24 à R2431-31)](#937)
+            - [Section 4 : Eléments de mission de maîtrise d'œuvre privée spécifiques (art. R2431-32 à R2431-35)](#938)
+            - [Section 5 : Eléments de mission de maîtrise d'œuvre privée portant sur des ouvrages réalisés à titre de recherche, d'essais ou d'expérimentation (art. R2431-36)](#939)
+            - [Section 6 : Dispositions diverses (art. R2431-37)](#940)
+          - [Chapitre II : MARCHÉ PUBLIC DE MAÎTRISE D'ŒUVRE PRIVÉE (art. R2432-1 à R2432-7)](#941)
+            - [Section 1 : Dispositions générales (art. R2432-1)](#942)
+            - [Section 2 : Engagements du maître d'œuvre privé (art. R2432-2 à R2432-5)](#943)
+            - [Section 3 : Rémunération du maître d'œuvre privé (art. R2432-6 à R2432-7)](#944)
+      - [Livre V : AUTRES MARCHÉS PUBLICS (art. D2521-5 à R2521-6)](#945)
+        - [Titre II : RÈGLES APPLICABLES (art. D2521-5 à R2521-6)](#946)
+          - [Chapitre unique. (art. D2521-5 à R2521-6)](#947)
+      - [Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D2611-2 à R2691-1)](#948)
+        - [Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE (art. D2611-2 à R2614-6)](#949)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D2611-2 à R2611-1)](#950)
+          - [Chapitre IV : DISPOSITIONS PARTICULIÈRES AU LIVRE IV (art. R2614-1 à R2614-6)](#951)
+        - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHELEMY (art. D2621-2 à R2623-1)](#952)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D2621-2 à R2621-1)](#953)
+          - [Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III (art. D2623-2 à R2623-1)](#954)
+        - [Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN (art. R2631-1 à R2633-1)](#955)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. R2631-1)](#956)
+          - [Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III (art. R2633-1)](#957)
+        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. D2641-2 à R2643-1)](#958)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D2641-2 à R2641-1)](#959)
+          - [Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III (art. D2643-2 à R2643-1)](#960)
+        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA (art. D2651-2 à R2651-4)](#961)
+          - [Chapitre unique. (art. D2651-2 à R2651-4)](#962)
+            - [Section 1 : Dispositions générales (art. D2651-2 à R2651-1)](#963)
+            - [Section 2 : Dispositions d'adaptation (art. D2651-3-1 à R2651-4)](#964)
+        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. D2661-2 à R2661-4)](#965)
+          - [Chapitre unique. (art. D2661-2 à R2661-4)](#966)
+            - [Section 1 : Dispositions générales (art. D2661-2 à R2661-1)](#967)
+            - [Section 2 : Dispositions d'adaptation (art. D2661-3-1 à R2661-4)](#968)
+        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE CALÉDONIE (art. D2671-2 à R2671-4)](#969)
+          - [Chapitre unique. (art. D2671-2 à R2671-4)](#970)
+            - [Section 1 : Dispositions générales (art. D2671-2 à R2671-1)](#971)
+            - [Section 2 : Dispositions d'adaptation (art. D2671-3-1 à R2671-4)](#972)
+        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D2681-2 à R2681-4)](#973)
+          - [Chapitre unique. (art. D2681-2 à R2681-4)](#974)
+            - [Section 1 : Dispositions générales (art. D2681-2 à R2681-1)](#975)
+            - [Section 2 : Dispositions d'adaptation (art. D2681-3-1 à R2681-4)](#976)
+        - [Titre IX : DISPOSITIONS COMMUNES A PLUSIEURS COLLECTIVITES (art. R2691-1)](#977)
+          - [Chapitre unique. (art. R2691-1)](#978)
+    - [TROISIÈME PARTIE : CONCESSIONS (art. R3111-1 à R3381-4)](#979)
+      - [Livre Ier : DISPOSITIONS GÉNÉRALES (art. R3111-1 à R3135-10)](#980)
+        - [Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION (art. R3111-1 à R3114-5)](#981)
+          - [Chapitre Ier : DÉFINITION DU BESOIN (art. R3111-1 à R3111-3)](#982)
+          - [Chapitre III : RÉSERVATION (art. R3113-1)](#983)
+          - [Chapitre IV : CONTENU DU CONTRAT DE CONCESSION (art. D3114-3 à R3114-5)](#984)
+            - [Section 1 : Durée (art. D3114-3 à R3114-2)](#985)
+            - [Section 2 : Conditions de paiement (art. R3114-4)](#986)
+            - [Section 3 : Part du contrat exécutée par des tiers (art. R3114-5)](#987)
+        - [Titre II : PROCÉDURE DE PASSATION (art. R3121-1 à R3126-14)](#988)
+          - [Chapitre Ier : DÉTERMINATION DES RÈGLES PROCÉDURALES APPLICABLES (art. R3121-1 à R3121-6)](#989)
+            - [Section 1 : Calcul de la valeur estimée du contrat de concession (art. R3121-1 à R3121-4)](#990)
+            - [Section 2 : Passation des contrats de concessions (art. R3121-5 à R3121-6)](#991)
+              - [Sous-section 1 : Contrats de concession passés avec publicité et mise en concurrence préalables (art. R3121-5)](#992)
+              - [Sous-section 2 : Contrats de concession passés sans publicité ni mise en concurrence préalables (art. R3121-6)](#993)
+          - [Chapitre II : ENGAGEMENT DE LA PROCÉDURE DE PASSATION (art. R3122-1 à R3122-18)](#994)
+            - [Section 1 : Publicité préalable (art. R3122-1 à R3122-6)](#995)
+              - [Sous-section 1 : Avis de concession (art. R3122-1)](#996)
+              - [Sous-section 2 : Supports de publication (art. R3122-2 à R3122-3)](#997)
+              - [Sous-section 3 : Modalités de publication des avis de concession (art. R3122-4 à R3122-6)](#998)
+            - [Section 2 : Communications et échanges d'informations (art. R3122-7 à R3122-18)](#999)
+              - [Sous-section 1 : Mise à disposition des documents de la consultation (art. R3122-7 à R3122-12)](#1000)
+              - [Sous-section 2 : Moyens de communication et échanges d'informations (art. R3122-13 à R3122-18)](#1001)
+          - [Chapitre III : PHASE DE CANDIDATURE (art. R3123-1 à R3123-21)](#1002)
+            - [Section 1 : Conditions de participation (art. R3123-1 à R3123-13)](#1003)
+              - [Sous-section 1 : Exigences générales de l'autorité concédante (art. R3123-1 à R3123-5)](#1004)
+              - [Sous-section 2 : Conditions de participation propres aux contrats de concession de défense ou de sécurité (art. R3123-6 à R3123-8)](#1005)
+              - [Sous-section 3 : Groupements d'opérateurs économiques (art. R3123-9 à R3123-10)](#1006)
+              - [Sous-section 4 : Réduction du nombre de candidats (art. R3123-11 à R3123-13)](#1007)
+            - [Section 2 : Présentation et analyse des candidatures (art. R3123-14 à R3123-21)](#1008)
+              - [Sous-section 1 : Délai de réception des candidatures (art. R3123-14 à R3123-15)](#1009)
+              - [Sous-section 2 : Eléments à produire par le candidat (art. R3123-16 à R3123-19)](#1010)
+              - [Sous-section 3 : Examen des candidatures (art. R3123-20 à R3123-21)](#1011)
+          - [Chapitre IV : PHASE D'OFFRE (art. R3124-1 à R3124-6)](#1012)
+            - [Section 1 : Organisation de la négociation des offres (art. R3124-1)](#1013)
+            - [Section 2 : Délais de remise des offres (art. R3124-2 à R3124-3)](#1014)
+            - [Section 3 : Choix de l'offre (art. R3124-4 à R3124-6)](#1015)
+          - [Chapitre V : ACHEVEMENT DE LA PROCÉDURE (art. R3125-1 à R3125-7)](#1016)
+            - [Section 1 : Information des candidats et des soumissionnaires évincés (art. R3125-1 à R3125-4)](#1017)
+              - [Sous-section 1 : Obligation d'information des candidats et soumissionnaires évincés (art. R3125-1 à R3125-2)](#1018)
+              - [Sous-section 2 : Informations communiquées sur demande des candidats ou soumissionnaires évincés (art. R3125-3)](#1019)
+              - [Sous-section 3 : Information en cas de déclaration sans suite de la procédure de passation (art. R3125-4)](#1020)
+            - [Section 2 : Signature du contrat de concession (art. R3125-5)](#1021)
+            - [Section 3 : Avis d'attribution (art. R3125-6 à R3125-7)](#1022)
+          - [Chapitre VI : RÈGLES PARTICULIÈRES À LA PASSATION DE CERTAINS CONTRATS DE CONCESSION (art. R3126-1 à R3126-14)](#1023)
+            - [Section 1 : Publicité préalable (art. R3126-3 à R3126-6)](#1024)
+            - [Section 2 : Communications et échanges d'information (art. R3126-7)](#1025)
+            - [Section 3 : Candidatures (art. R3126-8)](#1026)
+            - [Section 4 : Offres (art. R3126-9 à R3126-10)](#1027)
+            - [Section 5 : Achèvement de la procédure (art. R3126-11 à R3126-13)](#1028)
+            - [Section 6 : Dispositions particulières aux contrats de concession de services publics de transport de voyageurs par chemin de fer et par route (art. R3126-14)](#1029)
+        - [Titre III : EXÉCUTION DU CONTRAT DE CONCESSION (art. R3131-1 à R3135-10)](#1030)
+          - [Chapitre Ier : TRANSPARENCE ET RAPPORT D'INFORMATION DE L'AUTORITÉ CONCÉDANTE (art. R3131-1 à R3131-5)](#1031)
+            - [Section 1 : Mise à disposition des données essentielles (art. R3131-1)](#1032)
+            - [Section 2 : Rapport d'information à l'autorité concédante (art. R3131-2 à R3131-4)](#1033)
+            - [Section 3 : Observatoire économique de la commande publique (art. R3131-5)](#1034)
+          - [Chapitre III : EXÉCUTION FINANCIÈRE (art. D3133-1 à R3133-28)](#1035)
+            - [Section 1 : Facturation électronique (art. D3133-1 à R3133-3)](#1036)
+              - [Sous-section 1 : Transmission et réception des factures sous forme électronique (art. D3133-1 à D3133-2)](#1037)
+                - [Paragraphe 1 : Norme de facturation électronique (art. D3133-1)](#1038)
+                - [Paragraphe 2 : Mentions obligatoires des factures sous forme électronique (art. D3133-2)](#1039)
+              - [Sous-section 2 : Portail public de facturation (art. R3133-3)](#1040)
+            - [Section 2 : Délais de paiement (art. R3133-10 à R3133-28)](#1041)
+              - [Sous-section 1 : Fixation des délais de paiement (art. R3133-10 à R3133-11)](#1042)
+              - [Sous-section 2 : Déclenchement du délai de paiement (art. R3133-12 à R3133-20)](#1043)
+                - [Paragraphe 1 : Dispositions générales (art. R3133-12 à R3133-15)](#1044)
+                - [Paragraphe 2 : Dispositions propres à certains contrats de concession (art. R3133-16)](#1045)
+                - [Paragraphe 3 : Disposition propre à l'intervention d'un tiers habilité à recevoir les demandes de paiement (art. R3133-17)](#1046)
+                - [Paragraphe 4 : Disposition propre aux indemnités de résiliation (art. R3133-18 à R3133-20)](#1047)
+              - [Sous-section 3 : Interruption du délai de paiement (art. R3133-21 à R3133-24)](#1048)
+              - [Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement (art. D3133-27 à R3133-28)](#1049)
+          - [Chapitre IV : EXÉCUTION DU CONTRAT DE CONCESSION PAR DES TIERS (art. R3134-1 à R3134-4)](#1050)
+          - [Chapitre V : MODIFICATION DU CONTRAT DE CONCESSION (art. R3135-1 à R3135-10)](#1051)
+            - [Section 1 : Modifications autorisées (art. R3135-1 à R3135-9)](#1052)
+              - [Sous-section 1 : Clauses contractuelles (art. R3135-1)](#1053)
+              - [Sous-section 2 : Travaux ou services supplémentaires devenus nécessaires (art. R3135-2 à R3135-4)](#1054)
+              - [Sous-section 3 : Circonstances imprévues (art. R3135-5)](#1055)
+              - [Sous-section 4 : Substitution d'un nouveau concessionnaire (art. R3135-6)](#1056)
+              - [Sous-section 5 : Modification non substantielle (art. R3135-7)](#1057)
+              - [Sous-section 6 : Modification de faible montant (art. R3135-8 à R3135-9)](#1058)
+            - [Section 2 : Avis de modification (art. R3135-10)](#1059)
+      - [Livre II : AUTRES CONTRATS DE CONCESSION (art. R3200-1 à R3221-5)](#1060)
+        - [Titre II : RÈGLES APPLICABLES (art. D3221-4 à R3221-5)](#1061)
+          - [Chapitre unique. (art. D3221-4 à R3221-5)](#1062)
+      - [Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D3311-1 à R3381-4)](#1063)
+        - [Titre Ier : DISPOSITIONS PARTICULIÈRES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE (art. D3311-1)](#1064)
+          - [Chapitre unique. (art. D3311-1)](#1065)
+        - [Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLÉMY (art. D3321-1 à R3321-2)](#1066)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D3321-1 à R3321-2)](#1067)
+        - [Titre III : DISPOSITIONS PARTICULIÈRES A SAINT-MARTIN (art. D3331-1)](#1068)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D3331-1)](#1069)
+        - [Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. D3341-1 à R3341-2)](#1070)
+          - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier (art. D3341-1 à R3341-2)](#1071)
+        - [Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA (art. D3351-2 à R3351-3)](#1072)
+          - [Chapitre unique. (art. D3351-2 à R3351-3)](#1073)
+            - [Section 1 : Dispositions générales (art. D3351-2 à R3351-1)](#1074)
+            - [Section 2 : Dispositions d'adaptation (art. D3351-4 à R3351-3)](#1075)
+        - [Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE (art. D3361-2 à R3361-3)](#1076)
+          - [Chapitre unique. (art. D3361-2 à R3361-3)](#1077)
+            - [Section 1 : Dispositions générales (art. D3361-2 à R3361-1)](#1078)
+            - [Section 2 : Dispositions d'adaptation (art. D3361-4 à R3361-3)](#1079)
+        - [Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALEDONIE (art. D3371-2 à R3371-3)](#1080)
+          - [Chapitre unique. (art. D3371-2 à R3371-3)](#1081)
+            - [Section 1 : Dispositions générales (art. D3371-2 à R3371-1)](#1082)
+            - [Section 2 : Dispositions d'adaptation (art. D3371-4 à R3371-3)](#1083)
+        - [Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D3381-2 à R3381-4)](#1084)
+          - [Chapitre unique. (art. D3381-2 à R3381-4)](#1085)
+            - [Section 1 : Dispositions générales (art. D3381-2 à R3381-1)](#1086)
+            - [Section 2 : Dispositions d'adaptation (art. D3381-3 à R3381-4)](#1087)
+  - [Annexe (art. Annexe préliminaire)](#1088)
 # Partie législative<a id=1></a>
 
 ## Titre Préliminaire<a id=2></a>
@@ -6381,9 +6405,171 @@ _Cité par_:
 
 ##### Chapitre II : Modalités de facturation et de paiement<a id=110></a>
 
-##### Section 2 : Délais de paiement<a id=111></a>
+##### Section 1 : Facturation électronique<a id=111></a>
 
-##### Sous-section 1 : Fixation du délai de paiement<a id=112></a>
+##### Sous-section 1 : Transmission et réception des factures sous forme électronique<a id=112></a>
+
+###### Article L2192-1
+
+Les titulaires de marchés conclus avec l'Etat, les collectivités territoriales et les établissements publics, ainsi que leurs
+sous-traitants admis au paiement direct, transmettent leurs factures sous forme électronique.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur. Ces dispositions s'appliquent aux marchés
+publics ou aux contrats de concession en cours d'exécution ou conclus postérieurement au 1er janvier 2020 pour les
+microentreprises telles que définies pour l'application de l'article 51 de la loi n° 2008-776 du 4 août 2008 de modernisation
+de l'économie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2192-2
+
+L'Etat, les collectivités territoriales et les établissements publics acceptent les factures transmises sous forme
+électronique par les titulaires de marchés mentionnés à l'article L. 2192-1 et leurs sous-traitants admis au paiement direct.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2192-3
+
+Sans préjudice de l'article L. 2192-2, les acheteurs acceptent les factures conformes à la norme de facturation électronique
+définie par voie réglementaire et transmises sous forme électronique par les titulaires de marchés et leurs sous-traitants
+admis au paiement direct.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur. Ces dispositions en tant qu'elles
+renvoient respectivement aux articles L. 2192-3 et L. 3133-3 s'appliquent aux factures relatives aux marchés publics ou aux
+contrats de concession en cours d'exécution ou conclus postérieurement au 1er avril 2020 pour les factures reçues par les
+acheteurs et les autorités concédantes autres que les autorités publiques centrales dont la liste figure dans un avis annexé
+au code de la commande publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2192-4
+
+Les modalités d'application de la présente sous-section, notamment les mentions obligatoires que doivent contenir les
+factures électroniques, sont définies par voie réglementaire.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Sous-section 2 : Portail public de facturation<a id=113></a>
+
+###### Article L2192-5
+
+Une solution mutualisée, mise à disposition par l'Etat et dénommée “ portail public de facturation ”, permet le dépôt, la
+réception et la transmission des factures sous forme électronique.
+
+Pour la mise en œuvre des obligations fixées à la sous-section 1 de la présente section, utilisent le portail public de
+facturation :
+
+1° L'Etat, les collectivités territoriales et les établissements publics ;
+
+2° Les titulaires de marchés conclus avec un acheteur mentionné au 1° ainsi que leurs sous-traitants admis au paiement
+direct.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2192-6
+
+Ne sont pas soumises à la présente sous-section les factures émises en exécution des marchés passés par :
+
+1° L'Etat et ses établissements publics en cas d'impératif de défense ou de sécurité nationale ;
+
+2° La Caisse des dépôts et consignations ;
+
+3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
+
+4° La SNCF, SNCF Réseau et SNCF Mobilités.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Cite_:
+
+  - Code des transports - art. L2142-1 (V)
+
+
+###### Article L2192-7
+
+Les modalités d'application de la présente sous-section sont précisées par voie réglementaire.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Section 2 : Délais de paiement<a id=114></a>
+
+##### Sous-section 1 : Fixation du délai de paiement<a id=115></a>
 
 ###### Article L2192-10
 
@@ -6447,7 +6633,7 @@ _Cité par_:
   - Code de la commande publique - art. L2671-2 (VD)
 
 
-##### Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=113></a>
+##### Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=116></a>
 
 ###### Article L2192-12
 
@@ -6536,7 +6722,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Sous-section 3 : Amende administrative en cas de retard de paiement<a id=114></a>
+##### Sous-section 3 : Amende administrative en cas de retard de paiement<a id=117></a>
 
 ###### Article L2192-15
 
@@ -6581,7 +6767,7 @@ _Cité par_:
   - Code de la commande publique - art. L1212-2 (VD)
 
 
-##### Chapitre III : Sous-traitance<a id=115></a>
+##### Chapitre III : Sous-traitance<a id=118></a>
 
 ###### Article L2193-1
 
@@ -6666,9 +6852,9 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement<a id=116></a>
+##### Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement<a id=119></a>
 
-##### Sous-section 1 : Modalités d'acceptation et d'agrément<a id=117></a>
+##### Sous-section 1 : Modalités d'acceptation et d'agrément<a id=120></a>
 
 ###### Article L2193-4
 
@@ -6750,7 +6936,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 2 : Offres anormalement basses des sous-traitants<a id=118></a>
+##### Sous-section 2 : Offres anormalement basses des sous-traitants<a id=121></a>
 
 ###### Article L2193-8
 
@@ -6794,7 +6980,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Paiement du sous-traitant<a id=119></a>
+##### Section 2 : Paiement du sous-traitant<a id=122></a>
 
 ###### Article L2193-10
 
@@ -6834,7 +7020,7 @@ _Cité par_:
   - Code de la commande publique - art. R2193-10 (V)
 
 
-##### Sous-section 1 : Paiement direct du sous-traitant<a id=120></a>
+##### Sous-section 1 : Paiement direct du sous-traitant<a id=123></a>
 
 ###### Article L2193-11
 
@@ -6887,7 +7073,7 @@ _Cité par_:
   - Code de la commande publique - art. L2393-14 (VD)
 
 
-##### Sous-section 2 : Modalités de paiement<a id=121></a>
+##### Sous-section 2 : Modalités de paiement<a id=124></a>
 
 ###### Article L2193-13
 
@@ -6909,7 +7095,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 3 : Régime financier<a id=122></a>
+##### Section 3 : Régime financier<a id=125></a>
 
 ###### Article L2193-14
 
@@ -6936,7 +7122,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre IV : Modification du marché<a id=123></a>
+##### Chapitre IV : Modification du marché<a id=126></a>
 
 ###### Article L2194-1
 
@@ -7023,7 +7209,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (VD)
 
 
-##### Chapitre V : Résiliation du marché<a id=124></a>
+##### Chapitre V : Résiliation du marché<a id=127></a>
 
 ###### Article L2195-1
 
@@ -7207,9 +7393,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre VI : Informations relatives à l'achat<a id=125></a>
+##### Chapitre VI : Informations relatives à l'achat<a id=128></a>
 
-##### Section 1 : Obligation de conservation des documents<a id=126></a>
+##### Section 1 : Obligation de conservation des documents<a id=129></a>
 
 ###### Article L2196-1
 
@@ -7234,7 +7420,7 @@ _Cité par_:
   - Code de la commande publique - art. L2396-1 (VD)
 
 
-##### Section 2 : Mise à disposition des données essentielles<a id=127></a>
+##### Section 2 : Mise à disposition des données essentielles<a id=130></a>
 
 ###### Article L2196-2
 
@@ -7262,7 +7448,7 @@ _Cite_:
   - Code de la commande publique - art. L2132-1 (VD)
 
 
-##### Section 3 : Recensement économique<a id=128></a>
+##### Section 3 : Recensement économique<a id=131></a>
 
 ###### Article L2196-3
 
@@ -7291,7 +7477,7 @@ _Cité par_:
   - Code de la commande publique - art. L2396-2 (VD)
 
 
-##### Section 4 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=129></a>
+##### Section 4 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=132></a>
 
 ###### Article L2196-4
 
@@ -7386,11 +7572,11 @@ _Cite_:
   - Code de la commande publique - art. L2196-5 (VD)
 
 
-##### Chapitre VII : Règlement alternatif des differends<a id=130></a>
+##### Chapitre VII : Règlement alternatif des differends<a id=133></a>
 
-##### Section 1 : Conciliation et médiation<a id=131></a>
+##### Section 1 : Conciliation et médiation<a id=134></a>
 
-##### Sous-section 1 : Dispositions générales<a id=132></a>
+##### Sous-section 1 : Dispositions générales<a id=135></a>
 
 ###### Article L2197-1
 
@@ -7441,7 +7627,7 @@ _Cite_:
   - Code de procédure civile -  Chapitre Ier : La conciliation (V)
 
 
-##### Sous-section 2 : Comités consultatifs de règlement amiable des différends<a id=133></a>
+##### Sous-section 2 : Comités consultatifs de règlement amiable des différends<a id=136></a>
 
 ###### Article L2197-3
 
@@ -7471,7 +7657,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Sous-section 3 : Le médiateur des entreprises<a id=134></a>
+##### Sous-section 3 : Le médiateur des entreprises<a id=137></a>
 
 ###### Article L2197-4
 
@@ -7506,7 +7692,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-2 (VD)
 
 
-##### Section 2 : Transaction<a id=135></a>
+##### Section 2 : Transaction<a id=138></a>
 
 ###### Article L2197-5
 
@@ -7533,9 +7719,9 @@ _Cité par_:
   - Code de la commande publique - art. L2671-2 (VD)
 
 
-##### Section 3 : Arbitrage<a id=136></a>
+##### Section 3 : Arbitrage<a id=139></a>
 
-##### Sous-section 1 : Recours à l'arbitrage par les acheteurs de droit public<a id=137></a>
+##### Sous-section 1 : Recours à l'arbitrage par les acheteurs de droit public<a id=140></a>
 
 ###### Article L2197-6
 
@@ -7573,7 +7759,7 @@ _Cité par_:
   - Code de la commande publique - art. R2197-25 (V)
 
 
-##### Sous-section 2 : Recours à l'arbitrage par les acheteurs de droit privé<a id=138></a>
+##### Sous-section 2 : Recours à l'arbitrage par les acheteurs de droit privé<a id=141></a>
 
 ###### Article L2197-7
 
@@ -7595,7 +7781,7 @@ _Cite_:
   - Code de procédure civile -  Livre IV : L'arbitrage. (V)
 
 
-### Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT<a id=139></a>
+### Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT<a id=142></a>
 
 ###### Article L2200-1
 
@@ -7638,11 +7824,11 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT<a id=140></a>
+#### Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT<a id=143></a>
 
-##### Chapitre Ier : Conditions de recours au marché de partenariat<a id=141></a>
+##### Chapitre Ier : Conditions de recours au marché de partenariat<a id=144></a>
 
-##### Section 1 : Acheteurs autorisés<a id=142></a>
+##### Section 1 : Acheteurs autorisés<a id=145></a>
 
 ###### Article L2211-1
 
@@ -7747,7 +7933,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Seuils<a id=143></a>
+##### Section 2 : Seuils<a id=146></a>
 
 ###### Article L2211-5
 
@@ -7774,7 +7960,7 @@ _Cité par_:
   - Code de la commande publique - art. R2373-1 (V)
 
 
-##### Section 3 : Bilan plus favorable<a id=144></a>
+##### Section 3 : Bilan plus favorable<a id=147></a>
 
 ###### Article L2211-6
 
@@ -7805,9 +7991,9 @@ _Cité par_:
   - Code de la commande publique - art. R2211-3 (V)
 
 
-##### Chapitre II : Instruction du projet<a id=145></a>
+##### Chapitre II : Instruction du projet<a id=148></a>
 
-##### Section 1 : Evaluation du mode de réalisation du projet<a id=146></a>
+##### Section 1 : Evaluation du mode de réalisation du projet<a id=149></a>
 
 ###### Article L2212-1
 
@@ -7857,7 +8043,7 @@ _Cité par_:
   - Code de la commande publique - art. L2223-4 (VD)
 
 
-##### Section 2 : Etude de soutenabilité budgétaire<a id=147></a>
+##### Section 2 : Etude de soutenabilité budgétaire<a id=150></a>
 
 ###### Article L2212-3
 
@@ -7898,7 +8084,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre III : Contenu du marché de partenariat<a id=148></a>
+##### Chapitre III : Contenu du marché de partenariat<a id=151></a>
 
 ###### Article L2213-1
 
@@ -7926,7 +8112,7 @@ _Cite_:
   - Code de la commande publique - art. L1112-1 (VD)
 
 
-##### Section 1 : Durée du marché de partenariat<a id=149></a>
+##### Section 1 : Durée du marché de partenariat<a id=152></a>
 
 ###### Article L2213-2
 
@@ -7948,7 +8134,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Conditions d'exécution du marché de partenariat<a id=150></a>
+##### Section 2 : Conditions d'exécution du marché de partenariat<a id=153></a>
 
 ###### Article L2213-3
 
@@ -7979,11 +8165,11 @@ _Cite_:
   - Code de la commande publique - art. L2431-3 (VD)
 
 
-##### Section 3 : Financement du projet et rémunération du titulaire<a id=151></a>
+##### Section 3 : Financement du projet et rémunération du titulaire<a id=154></a>
 
-##### Sous-section 1 : Financement des investissements<a id=152></a>
+##### Sous-section 1 : Financement des investissements<a id=155></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=153></a>
+##### Paragraphe 1 : Dispositions générales<a id=156></a>
 
 ###### Article L2213-4
 
@@ -8024,7 +8210,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Paragraphe 2 : Dispositions applicables à la constitution d'une société dédiée à la réalisation du projet<a id=154></a>
+##### Paragraphe 2 : Dispositions applicables à la constitution d'une société dédiée à la réalisation du projet<a id=157></a>
 
 ###### Article L2213-6
 
@@ -8078,7 +8264,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 2 : Rémunération du titulaire<a id=155></a>
+##### Sous-section 2 : Rémunération du titulaire<a id=158></a>
 
 ###### Article L2213-8
 
@@ -8135,9 +8321,9 @@ _Cité par_:
   - Code de la commande publique - art. R2234-3 (V)
 
 
-##### Section 4 : Dispositions relatives à l'occupation domaniale par le titulaire du marché de partenariat<a id=156></a>
+##### Section 4 : Dispositions relatives à l'occupation domaniale par le titulaire du marché de partenariat<a id=159></a>
 
-##### Sous-section 1 : Autorisation d'occupation du domaine public<a id=157></a>
+##### Sous-section 1 : Autorisation d'occupation du domaine public<a id=160></a>
 
 ###### Article L2213-10
 
@@ -8161,7 +8347,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 2 : Mise à disposition de l'acheteur des ouvrages, équipements ou biens immatériels<a id=158></a>
+##### Sous-section 2 : Mise à disposition de l'acheteur des ouvrages, équipements ou biens immatériels<a id=161></a>
 
 ###### Article L2213-11
 
@@ -8184,7 +8370,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 3 : Acquisition des installations édifiées dans le cadre du contrat<a id=159></a>
+##### Sous-section 3 : Acquisition des installations édifiées dans le cadre du contrat<a id=162></a>
 
 ###### Article L2213-12
 
@@ -8206,7 +8392,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 4 : Propriété des ouvrages, équipements ou biens immatériels en fin de contrat<a id=160></a>
+##### Sous-section 4 : Propriété des ouvrages, équipements ou biens immatériels en fin de contrat<a id=163></a>
 
 ###### Article L2213-13
 
@@ -8228,7 +8414,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 5 : Part d'exécution du contrat réservée aux PME<a id=161></a>
+##### Section 5 : Part d'exécution du contrat réservée aux PME<a id=164></a>
 
 ###### Article L2213-14
 
@@ -8257,11 +8443,11 @@ _Cité par_:
   - Code de la commande publique - art. R2234-3 (V)
 
 
-#### Titre II : PASSATION DU MARCHÉ DE PARTENARIAT<a id=162></a>
+#### Titre II : PASSATION DU MARCHÉ DE PARTENARIAT<a id=165></a>
 
-##### Chapitre Ier : Autorisations préalables à l'engagement de la procédure<a id=163></a>
+##### Chapitre Ier : Autorisations préalables à l'engagement de la procédure<a id=166></a>
 
-##### Section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=164></a>
+##### Section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=167></a>
 
 ###### Article L2221-1
 
@@ -8294,7 +8480,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux<a id=165></a>
+##### Section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux<a id=168></a>
 
 ###### Article L2221-2
 
@@ -8321,7 +8507,7 @@ _Cité par_:
   - Code de la commande publique - art. L2373-1 (VD)
 
 
-##### Section 3 : Dispositions applicables aux autres acheteurs<a id=166></a>
+##### Section 3 : Dispositions applicables aux autres acheteurs<a id=169></a>
 
 ###### Article L2221-3
 
@@ -8347,9 +8533,9 @@ _Cité par_:
   - Code de la commande publique - art. L2373-1 (VD)
 
 
-##### Chapitre II : Présentation des documents de la consultation, des offres et critères d'attribution<a id=167></a>
+##### Chapitre II : Présentation des documents de la consultation, des offres et critères d'attribution<a id=170></a>
 
-##### Section 1 : Caractère ajustable des modalités de financement<a id=168></a>
+##### Section 1 : Caractère ajustable des modalités de financement<a id=171></a>
 
 ###### Article L2222-1
 
@@ -8406,7 +8592,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Contenu de l'offre du soumissionnaire en cas de conception d'ouvrages, d'équipements ou de biens immatériels<a id=169></a>
+##### Section 2 : Contenu de l'offre du soumissionnaire en cas de conception d'ouvrages, d'équipements ou de biens immatériels<a id=172></a>
 
 ###### Article L2222-3
 
@@ -8428,7 +8614,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 3 : Critères d'attribution<a id=170></a>
+##### Section 3 : Critères d'attribution<a id=173></a>
 
 ###### Article L2222-4
 
@@ -8471,11 +8657,11 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre III : Achèvement de la procédure<a id=171></a>
+##### Chapitre III : Achèvement de la procédure<a id=174></a>
 
-##### Section 1 : Accord préalable à la signature<a id=172></a>
+##### Section 1 : Accord préalable à la signature<a id=175></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=173></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=176></a>
 
 ###### Article L2223-1
 
@@ -8504,7 +8690,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux<a id=174></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux<a id=177></a>
 
 ###### Article L2223-2
 
@@ -8530,7 +8716,7 @@ _Cité par_:
   - Code de la commande publique - art. L2373-1 (VD)
 
 
-##### Sous-section 3 : Dispositions applicables aux autres acheteurs<a id=175></a>
+##### Sous-section 3 : Dispositions applicables aux autres acheteurs<a id=178></a>
 
 ###### Article L2223-3
 
@@ -8555,7 +8741,7 @@ _Cité par_:
   - Code de la commande publique - art. L2373-1 (VD)
 
 
-##### Section 2 : Transmission à l'organisme expert<a id=176></a>
+##### Section 2 : Transmission à l'organisme expert<a id=179></a>
 
 ###### Article L2223-4
 
@@ -8590,9 +8776,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre III : EXECUTION DU MARCHÉ DE PARTENARIAT<a id=177></a>
+#### Titre III : EXECUTION DU MARCHÉ DE PARTENARIAT<a id=180></a>
 
-##### Chapitre Ier : Acquisition des biens et cession de contrats<a id=178></a>
+##### Chapitre Ier : Acquisition des biens et cession de contrats<a id=181></a>
 
 ###### Article L2231-1
 
@@ -8624,11 +8810,11 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre II : Exécution financière<a id=179></a>
+##### Chapitre II : Exécution financière<a id=182></a>
 
-##### Section 1 : Règles applicables au titulaire du marché de partenariat<a id=180></a>
+##### Section 1 : Règles applicables au titulaire du marché de partenariat<a id=183></a>
 
-##### Sous-section 1 : Avances et acomptes<a id=181></a>
+##### Sous-section 1 : Avances et acomptes<a id=184></a>
 
 ###### Article L2232-1
 
@@ -8654,7 +8840,7 @@ _Cite_:
   - Code de la commande publique - art. L2213-8 (VD)
 
 
-##### Sous-section 2 : Cessions de créance, crédits-bails et hypothèques<a id=182></a>
+##### Sous-section 2 : Cessions de créance, crédits-bails et hypothèques<a id=185></a>
 
 ###### Article L2232-2
 
@@ -8726,7 +8912,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 3 : Encaissement des paiements des usagers<a id=183></a>
+##### Sous-section 3 : Encaissement des paiements des usagers<a id=186></a>
 
 ###### Article L2232-5
 
@@ -8748,7 +8934,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Règles applicables aux relations entre le titulaire et ses fournisseurs<a id=184></a>
+##### Section 2 : Règles applicables aux relations entre le titulaire et ses fournisseurs<a id=187></a>
 
 ###### Article L2232-6
 
@@ -8803,7 +8989,7 @@ _Cité par_:
   - Code de la commande publique - art. R2232-1 (V)
 
 
-##### Chapitre III : Valorisation domaniale par le titulaire du marché de partenariat<a id=185></a>
+##### Chapitre III : Valorisation domaniale par le titulaire du marché de partenariat<a id=188></a>
 
 ###### Article L2233-1
 
@@ -8878,7 +9064,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre IV : Suivi et controle de l'exécution du marché de partenariat<a id=186></a>
+##### Chapitre IV : Suivi et controle de l'exécution du marché de partenariat<a id=189></a>
 
 ###### Article L2234-1
 
@@ -8966,7 +9152,7 @@ _Cité par_:
   - Code de la commande publique - art. L2373-1 (VD)
 
 
-##### Chapitre V : Indemnisation en cas d'annulation ou de résiliation du marché de partenariat<a id=187></a>
+##### Chapitre V : Indemnisation en cas d'annulation ou de résiliation du marché de partenariat<a id=190></a>
 
 ###### Article L2235-1
 
@@ -9045,7 +9231,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre VI : Recours à l'arbitrage<a id=188></a>
+##### Chapitre VI : Recours à l'arbitrage<a id=191></a>
 
 ###### Article L2236-1
 
@@ -9074,7 +9260,7 @@ _Cité par_:
   - Code de la commande publique - art. R2236-1 (V)
 
 
-### Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=189></a>
+### Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=192></a>
 
 ###### Article L2300-1
 
@@ -9104,9 +9290,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre Ier : PRÉPARATION DU MARCHÉ<a id=190></a>
+#### Titre Ier : PRÉPARATION DU MARCHÉ<a id=193></a>
 
-##### Chapitre Ier : Définition du besoin<a id=191></a>
+##### Chapitre Ier : Définition du besoin<a id=194></a>
 
 ###### Article L2311-1
 
@@ -9143,7 +9329,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-4 (V)
 
 
-##### Chapitre II : Contenu du marché<a id=192></a>
+##### Chapitre II : Contenu du marché<a id=195></a>
 
 ###### Article L2312-1
 
@@ -9204,7 +9390,7 @@ _Cité par_:
   - Code de la commande publique - art. R2352-5 (V)
 
 
-##### Chapitre III : Organisation de l'achat<a id=193></a>
+##### Chapitre III : Organisation de l'achat<a id=196></a>
 
 ###### Article L2313-1
 
@@ -9235,7 +9421,7 @@ _Cite_:
   - Code de la commande publique -  Section 3 : Réservation (V)
 
 
-##### Section 1 : Mutualisation de l'achat<a id=194></a>
+##### Section 1 : Mutualisation de l'achat<a id=197></a>
 
 ###### Article L2313-2
 
@@ -9329,7 +9515,7 @@ _Cite_:
   - Code de la commande publique - art. L2113-9 (VD)
 
 
-##### Section 2 : Allotissement<a id=195></a>
+##### Section 2 : Allotissement<a id=198></a>
 
 ###### Article L2313-5
 
@@ -9354,7 +9540,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 3 : Réservation<a id=196></a>
+##### Section 3 : Réservation<a id=199></a>
 
 ###### Article L2313-6
 
@@ -9384,7 +9570,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre II : CHOIX DE LA PROCÉDURE DE PASSATION<a id=197></a>
+#### Titre II : CHOIX DE LA PROCÉDURE DE PASSATION<a id=200></a>
 
 ###### Article L2320-1
 
@@ -9424,7 +9610,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre II : Marchés passes sans publicite ni mise en concurrence préalables<a id=198></a>
+##### Chapitre II : Marchés passes sans publicite ni mise en concurrence préalables<a id=201></a>
 
 ###### Article L2322-1
 
@@ -9444,7 +9630,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre III : Marchés passes selon une procédure adaptée<a id=199></a>
+##### Chapitre III : Marchés passes selon une procédure adaptée<a id=202></a>
 
 ###### Article L2323-1
 
@@ -9469,7 +9655,7 @@ _Cite_:
   - Code de la commande publique - art. L2123-1 (VD)
 
 
-##### Chapitre IV : Marchés passés selon une procédure formalisée<a id=200></a>
+##### Chapitre IV : Marchés passés selon une procédure formalisée<a id=203></a>
 
 ###### Article L2324-1
 
@@ -9497,7 +9683,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 1 : Appel d'offres restreint<a id=201></a>
+##### Section 1 : Appel d'offres restreint<a id=204></a>
 
 ###### Article L2324-2
 
@@ -9522,7 +9708,7 @@ _Cite_:
   - Code de la commande publique - art. L2124-2 (VD)
 
 
-##### Section 2 : Procédure avec négociation<a id=202></a>
+##### Section 2 : Procédure avec négociation<a id=205></a>
 
 ###### Article L2324-3
 
@@ -9547,7 +9733,7 @@ _Cite_:
   - Code de la commande publique - art. L2124-3 (VD)
 
 
-##### Section 3 : Dialogue compétitif<a id=203></a>
+##### Section 3 : Dialogue compétitif<a id=206></a>
 
 ###### Article L2324-4
 
@@ -9572,7 +9758,7 @@ _Cite_:
   - Code de la commande publique - art. L2124-4 (VD)
 
 
-##### Chapitre V : Techniques d'achat<a id=204></a>
+##### Chapitre V : Techniques d'achat<a id=207></a>
 
 ###### Article L2325-1
 
@@ -9622,9 +9808,9 @@ _Cité par_:
   - Code de la commande publique - art. R2393-16 (V)
 
 
-#### Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=205></a>
+#### Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=208></a>
 
-##### Chapitre Ier : Publicité prealable<a id=206></a>
+##### Chapitre Ier : Publicité prealable<a id=209></a>
 
 ###### Article L2331-1
 
@@ -9656,9 +9842,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre II : Communication et échanges d'informations<a id=207></a>
+##### Chapitre II : Communication et échanges d'informations<a id=210></a>
 
-##### Section 1 : Confidentialité<a id=208></a>
+##### Section 1 : Confidentialité<a id=211></a>
 
 ###### Article L2332-1
 
@@ -9692,7 +9878,7 @@ _Cité par_:
   - Code de la commande publique - art. R2383-3 (V)
 
 
-##### Section 2 : Dématérialisation des communications et échanges d'informations<a id=209></a>
+##### Section 2 : Dématérialisation des communications et échanges d'informations<a id=212></a>
 
 ###### Article L2332-2
 
@@ -9718,11 +9904,11 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre IV : PHASE DE CANDIDATURE<a id=210></a>
+#### Titre IV : PHASE DE CANDIDATURE<a id=213></a>
 
-##### Chapitre Ier : Motifs d'exclusions de la procédure de passation<a id=211></a>
+##### Chapitre Ier : Motifs d'exclusions de la procédure de passation<a id=214></a>
 
-##### Section 1 : Exclusions de plein droit<a id=212></a>
+##### Section 1 : Exclusions de plein droit<a id=215></a>
 
 ###### Article L2341-1
 
@@ -9891,7 +10077,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Exclusions à l'appréciation de l'acheteur<a id=213></a>
+##### Section 2 : Exclusions à l'appréciation de l'acheteur<a id=216></a>
 
 ###### Article L2341-5
 
@@ -9920,7 +10106,7 @@ _Cité par_:
   - Code de la commande publique - art. L2395-2 (VD)
 
 
-##### Section 3 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion<a id=214></a>
+##### Section 3 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion<a id=217></a>
 
 ###### Article L2341-6
 
@@ -9950,7 +10136,7 @@ _Cite_:
   - Code de la commande publique -  Section 2 : Exclusions à l'appréciation de l'ac... (V)
 
 
-##### Section 4 : Groupements d'opérateurs économiques et sous-traitants<a id=215></a>
+##### Section 4 : Groupements d'opérateurs économiques et sous-traitants<a id=218></a>
 
 ###### Article L2341-7
 
@@ -9975,7 +10161,7 @@ _Cite_:
   - Code de la commande publique - art. L2141-13 (VD)
 
 
-##### Chapitre II : Conditions de participation<a id=216></a>
+##### Chapitre II : Conditions de participation<a id=219></a>
 
 ###### Article L2342-1
 
@@ -10034,9 +10220,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-4 (V)
 
 
-#### Titre V : PHASE D'OFFRE<a id=217></a>
+#### Titre V : PHASE D'OFFRE<a id=220></a>
 
-##### Chapitre Ier : Présentation et contenu des offres<a id=218></a>
+##### Chapitre Ier : Présentation et contenu des offres<a id=221></a>
 
 ###### Article L2351-1
 
@@ -10068,7 +10254,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre II : Examen des offres<a id=219></a>
+##### Chapitre II : Examen des offres<a id=222></a>
 
 ###### Article L2352-1
 
@@ -10102,7 +10288,7 @@ _Cite_:
   - Code de la commande publique - art. L2152-8 (VD)
 
 
-##### Chapitre III : Offres présentées par des opérateurs économiques ou comportant des produits d'Etats tiers<a id=220></a>
+##### Chapitre III : Offres présentées par des opérateurs économiques ou comportant des produits d'Etats tiers<a id=223></a>
 
 ###### Article L2353-1
 
@@ -10171,9 +10357,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=221></a>
+#### Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=224></a>
 
-##### Chapitre Ier : Règles applicables à certains marchés globaux<a id=222></a>
+##### Chapitre Ier : Règles applicables à certains marchés globaux<a id=225></a>
 
 ###### Article L2371-1
 
@@ -10208,7 +10394,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-4 (V)
 
 
-##### Chapitre II : Règles applicables à certains marchés de défense ou de sécurité en fonction de leur objet<a id=223></a>
+##### Chapitre II : Règles applicables à certains marchés de défense ou de sécurité en fonction de leur objet<a id=226></a>
 
 ###### Article L2372-1
 
@@ -10229,7 +10415,7 @@ _Cite_:
   - Code de la commande publique - art. L2172-2 (VD)
 
 
-##### Chapitre III : Marchés de partenariat de défense ou de sécurité<a id=224></a>
+##### Chapitre III : Marchés de partenariat de défense ou de sécurité<a id=227></a>
 
 ###### Article L2373-1
 
@@ -10280,9 +10466,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE<a id=225></a>
+#### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE<a id=228></a>
 
-##### Chapitre Ier : Information des candidats et des soumissionnaires évincés<a id=226></a>
+##### Chapitre Ier : Information des candidats et des soumissionnaires évincés<a id=229></a>
 
 ###### Article L2381-1
 
@@ -10314,7 +10500,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre III : Avis d'attribution<a id=227></a>
+##### Chapitre III : Avis d'attribution<a id=230></a>
 
 ###### Article L2383-1
 
@@ -10339,7 +10525,7 @@ _Cite_:
   - Code de la commande publique - art. L2183-1 (VD)
 
 
-##### Chapitre IV : Conservation des informations<a id=228></a>
+##### Chapitre IV : Conservation des informations<a id=231></a>
 
 ###### Article L2384-1
 
@@ -10369,9 +10555,9 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre IX : EXÉCUTION DU MARCHÉ<a id=229></a>
+#### Titre IX : EXÉCUTION DU MARCHÉ<a id=232></a>
 
-##### Chapitre Ier : Exécution financiere<a id=230></a>
+##### Chapitre Ier : Exécution financiere<a id=233></a>
 
 ###### Article L2391-1
 
@@ -10400,7 +10586,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Section 1 : Avances<a id=231></a>
+##### Section 1 : Avances<a id=234></a>
 
 ###### Article L2391-2
 
@@ -10445,7 +10631,7 @@ _Cite_:
   - Code de la commande publique - art. L2191-3 (VD)
 
 
-##### Section 2 : Acomptes<a id=232></a>
+##### Section 2 : Acomptes<a id=235></a>
 
 ###### Article L2391-4
 
@@ -10469,7 +10655,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 3 : Régime des paiements<a id=233></a>
+##### Section 3 : Régime des paiements<a id=236></a>
 
 ###### Article L2391-5
 
@@ -10522,7 +10708,7 @@ _Cite_:
   - Code de la commande publique - art. L2191-6 (VD)
 
 
-##### Section 4 : Garanties<a id=234></a>
+##### Section 4 : Garanties<a id=237></a>
 
 ###### Article L2391-7
 
@@ -10547,7 +10733,7 @@ _Cite_:
   - Code de la commande publique - art. L2191-7 (VD)
 
 
-##### Section 5 : Cession ou nantissement des créances<a id=235></a>
+##### Section 5 : Cession ou nantissement des créances<a id=238></a>
 
 ###### Article L2391-8
 
@@ -10573,9 +10759,166 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre II : Modalités de facturation et de paiement<a id=236></a>
+##### Chapitre II : Modalités de facturation et de paiement<a id=239></a>
 
-##### Section 2 : Délais de paiement<a id=237></a>
+##### Section 1 : Facturation électronique<a id=240></a>
+
+##### Sous-section 1 : Transmission et réception des factures sous forme électronique<a id=241></a>
+
+###### Article L2392-1
+
+Les titulaires de marchés de défense ou de sécurité conclus avec l'Etat ou ses établissements publics, ainsi que leurs sous-
+traitants admis au paiement direct, peuvent transmettre leurs factures sous forme électronique.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur. Ces dispositions s'appliquent aux marchés
+publics ou aux contrats de concession en cours d'exécution ou conclus postérieurement au 1er janvier 2020 pour les
+microentreprises telles que définies pour l'application de l'article 51 de la loi n° 2008-776 du 4 août 2008 de modernisation
+de l'économie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2392-2
+
+L'Etat et ses établissements publics acceptent les factures transmises sous forme électronique par les titulaires de marchés
+de défense ou de sécurité mentionnés à l'article L. 2392-1 et leurs sous-traitants admis au paiement direct, sauf lorsque la
+passation et l'exécution de ces marchés sont déclarées secrètes ou doivent s'accompagner de mesures particulières de
+sécurité.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2392-3
+
+Sans préjudice de l'article L. 2392-2, l'Etat et ses établissements publics acceptent les factures conformes à la norme de
+facturation électronique définie par voie réglementaire et transmises sous forme électronique par les titulaires de marchés
+de défense ou de sécurité et leurs sous-traitants admis au paiement direct.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2392-4
+
+Les modalités d'application de la présente sous-section, notamment les éléments essentiels que doivent contenir les factures
+électroniques, sont définies par voie réglementaire.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Sous-section 2 : Portail public de facturation<a id=242></a>
+
+###### Article L2392-5
+
+Une solution mutualisée, mise à disposition par l'Etat et dénommée “ portail public de facturation ” permet le dépôt, la
+réception et la transmission des factures sous forme électronique.
+
+Pour la mise en œuvre des obligations fixées à la sous-section 1 de la présente section, utilisent le portail public de
+facturation :
+
+1° L'Etat et ses établissements publics ;
+
+2° Les titulaires de marchés de défense ou de sécurité conclus avec un acheteur mentionné au 1°, ainsi que leurs sous-
+traitants admis au paiement direct, lorsqu'ils transmettent leurs factures par voie électronique.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L2392-6
+
+Ne sont pas soumises à la présente sous-section les factures émises en exécution des marchés de défense ou de sécurité passés
+par :
+
+1° L'Etat et ses établissements publics en cas d'impératif de défense ou de sécurité nationale ;
+
+2° La Caisse des dépôts et consignations ;
+
+3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
+
+4° La SNCF, SNCF Réseau et SNCF Mobilités.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Cite_:
+
+  - Code des transports - art. L2142-1 (V)
+
+
+###### Article L2392-7
+
+Les modalités d'application de la présente sous-section sont précisées par voie réglementaire.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Section 2 : Délais de paiement<a id=243></a>
 
 ###### Article L2392-10
 
@@ -10612,7 +10955,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre III : Dispositions relatives aux sous-contrats<a id=238></a>
+##### Chapitre III : Dispositions relatives aux sous-contrats<a id=244></a>
 
 ###### Article L2393-1
 
@@ -10676,7 +11019,7 @@ _Cite_:
   - Code de la commande publique -  Section 3 : Dispositions applicables aux sous-c... (V)
 
 
-##### Section 1 : Dispositions communes aux sous-contrats<a id=239></a>
+##### Section 1 : Dispositions communes aux sous-contrats<a id=245></a>
 
 ###### Article L2393-3
 
@@ -10859,7 +11202,7 @@ _Cite_:
   - Code de la commande publique - art. L2325-1 (VD)
 
 
-##### Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traité<a id=240></a>
+##### Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traité<a id=246></a>
 
 ###### Article L2393-10
 
@@ -10988,7 +11331,7 @@ _Cite_:
   - Code de la commande publique - art. L2193-12 (VD)
 
 
-##### Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités<a id=241></a>
+##### Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités<a id=247></a>
 
 ###### Article L2393-15
 
@@ -11010,7 +11353,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre IV : Modification du marché<a id=242></a>
+##### Chapitre IV : Modification du marché<a id=248></a>
 
 ###### Article L2394-1
 
@@ -11065,7 +11408,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (VD)
 
 
-##### Chapitre V : Résiliation du marché<a id=243></a>
+##### Chapitre V : Résiliation du marché<a id=249></a>
 
 ###### Article L2395-1
 
@@ -11142,9 +11485,9 @@ _Cité par_:
   - Code de la commande publique - art. L2671-4 (V)
 
 
-##### Chapitre VI : Informations relatives à l'achat<a id=244></a>
+##### Chapitre VI : Informations relatives à l'achat<a id=250></a>
 
-##### Section 1 : Obligation de conservation des documents<a id=245></a>
+##### Section 1 : Obligation de conservation des documents<a id=251></a>
 
 ###### Article L2396-1
 
@@ -11169,7 +11512,7 @@ _Cite_:
   - Code de la commande publique - art. L2196-1 (VD)
 
 
-##### Section 2 : Recensement économique<a id=246></a>
+##### Section 2 : Recensement économique<a id=252></a>
 
 ###### Article L2396-2
 
@@ -11196,7 +11539,7 @@ _Cite_:
   - Code de la commande publique - art. L2196-3 (VD)
 
 
-##### Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=247></a>
+##### Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=253></a>
 
 ###### Article L2396-3
 
@@ -11250,9 +11593,9 @@ _Cite_:
   - Code de la commande publique - art. L2196-5 (VD)
 
 
-##### Chapitre VII : Règlement alternatif des differends<a id=248></a>
+##### Chapitre VII : Règlement alternatif des differends<a id=254></a>
 
-##### Section 1 : Conciliation et médiation<a id=249></a>
+##### Section 1 : Conciliation et médiation<a id=255></a>
 
 ###### Article L2397-1
 
@@ -11280,7 +11623,7 @@ _Cite_:
   - Code de la commande publique - art. L2197-4 (VD)
 
 
-##### Section 2 : Transaction<a id=250></a>
+##### Section 2 : Transaction<a id=256></a>
 
 ###### Article L2397-2
 
@@ -11301,7 +11644,7 @@ _Cite_:
   - Code de la commande publique - art. L2197-5 (VD)
 
 
-##### Section 3 : Arbitrage<a id=251></a>
+##### Section 3 : Arbitrage<a id=257></a>
 
 ###### Article L2397-3
 
@@ -11332,9 +11675,9 @@ _Cité par_:
   - Code de la commande publique - art. R2397-4 (V)
 
 
-### Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAÎTRISE D'OUVRAGE PUBLIQUE ET À LA MAÎTRISE D'ŒUVRE PRIVÉE<a id=252></a>
+### Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAÎTRISE D'OUVRAGE PUBLIQUE ET À LA MAÎTRISE D'ŒUVRE PRIVÉE<a id=258></a>
 
-#### Titre Ier : CHAMP D'APPLICATION<a id=253></a>
+#### Titre Ier : CHAMP D'APPLICATION<a id=259></a>
 
 ###### Article L2410-1
 
@@ -11366,7 +11709,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre Ier : Maîtres d'ouvrage<a id=254></a>
+##### Chapitre Ier : Maîtres d'ouvrage<a id=260></a>
 
 ###### Article L2411-1
 
@@ -11419,7 +11762,7 @@ _Cité par_:
   - Code de la commande publique - art. R2521-4 (V)
 
 
-##### Chapitre II : Ouvrages<a id=255></a>
+##### Chapitre II : Ouvrages<a id=261></a>
 
 ###### Article L2412-1
 
@@ -11506,11 +11849,11 @@ _Cité par_:
   - Code de la commande publique - art. R2521-4 (V)
 
 
-#### Titre II : MAÎTRISE D'OUVRAGE<a id=256></a>
+#### Titre II : MAÎTRISE D'OUVRAGE<a id=262></a>
 
-##### Chapitre Ier : Attributions du maître d'ouvrage<a id=257></a>
+##### Chapitre Ier : Attributions du maître d'ouvrage<a id=263></a>
 
-##### Section 1 : Dispositions générales<a id=258></a>
+##### Section 1 : Dispositions générales<a id=264></a>
 
 ###### Article L2421-1
 
@@ -11552,7 +11895,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Section 2 : Programme et enveloppe financière prévisionnelle de l'opération<a id=259></a>
+##### Section 2 : Programme et enveloppe financière prévisionnelle de l'opération<a id=265></a>
 
 ###### Article L2421-2
 
@@ -11641,7 +11984,7 @@ _Cite_:
   - Code de la commande publique -  Chapitre IV : Modification du marché (V)
 
 
-##### Chapitre II : Organisation de la maîtrise d'ouvrage<a id=260></a>
+##### Chapitre II : Organisation de la maîtrise d'ouvrage<a id=266></a>
 
 ###### Article L2422-1
 
@@ -11667,7 +12010,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 1 : Assistance à maîtrise d'ouvrage<a id=261></a>
+##### Section 1 : Assistance à maîtrise d'ouvrage<a id=267></a>
 
 ###### Article L2422-2
 
@@ -11686,7 +12029,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Conduite d'opération<a id=262></a>
+##### Section 2 : Conduite d'opération<a id=268></a>
 
 ###### Article L2422-3
 
@@ -11736,7 +12079,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-5 (V)
 
 
-##### Section 3 : Mandat de maîtrise d'ouvrage<a id=263></a>
+##### Section 3 : Mandat de maîtrise d'ouvrage<a id=269></a>
 
 ###### Article L2422-5
 
@@ -11767,7 +12110,7 @@ _Cité par_:
   - Code de la commande publique - art. L2614-1 (VD)
 
 
-##### Sous-section 1 : Attributions du mandataire<a id=264></a>
+##### Sous-section 1 : Attributions du mandataire<a id=270></a>
 
 ###### Article L2422-6
 
@@ -11807,7 +12150,7 @@ _Cité par_:
   - Code de la commande publique - art. L2422-5 (VD)
 
 
-##### Sous-section 2 : Contenu du contrat de mandat de maîtrise d'ouvrage<a id=265></a>
+##### Sous-section 2 : Contenu du contrat de mandat de maîtrise d'ouvrage<a id=271></a>
 
 ###### Article L2422-7
 
@@ -11840,7 +12183,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 3 : Obligations et responsabilités du mandataire<a id=266></a>
+##### Sous-section 3 : Obligations et responsabilités du mandataire<a id=272></a>
 
 ###### Article L2422-8
 
@@ -11894,7 +12237,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 4 : Incompatibilités<a id=267></a>
+##### Sous-section 4 : Incompatibilités<a id=273></a>
 
 ###### Article L2422-11
 
@@ -11928,7 +12271,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-5 (V)
 
 
-##### Section 4 : Transfert de maîtrise d'ouvrage<a id=268></a>
+##### Section 4 : Transfert de maîtrise d'ouvrage<a id=274></a>
 
 ###### Article L2422-12
 
@@ -11969,7 +12312,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre III : MAÎTRISE D'ŒUVRE PRIVÉE<a id=269></a>
+#### Titre III : MAÎTRISE D'ŒUVRE PRIVÉE<a id=275></a>
 
 ###### Article L2430-1
 
@@ -12023,7 +12366,7 @@ _Cité par_:
   - Code de la commande publique - art. L2644-1 (VD)
 
 
-##### Chapitre Ier : Mission de maîtrise d'œuvre privée<a id=270></a>
+##### Chapitre Ier : Mission de maîtrise d'œuvre privée<a id=276></a>
 
 ###### Article L2431-1
 
@@ -12112,7 +12455,7 @@ _Cité par_:
   - Code de la commande publique - art. L2213-3 (VD)
 
 
-##### Chapitre II : Marché public de maîtrise d'œuvre privée<a id=271></a>
+##### Chapitre II : Marché public de maîtrise d'œuvre privée<a id=277></a>
 
 ###### Article L2432-1
 
@@ -12161,7 +12504,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-### Livre V : AUTRES MARCHÉS PUBLICS<a id=272></a>
+### Livre V : AUTRES MARCHÉS PUBLICS<a id=278></a>
 
 ###### Article L2500-1
 
@@ -12217,11 +12560,11 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-#### Titre Ier : CHAMP D'APPLICATION<a id=273></a>
+#### Titre Ier : CHAMP D'APPLICATION<a id=279></a>
 
-##### Chapitre Ier : Relations internes au secteur public<a id=274></a>
+##### Chapitre Ier : Relations internes au secteur public<a id=280></a>
 
-##### Section 1 : Quasi-régie<a id=275></a>
+##### Section 1 : Quasi-régie<a id=281></a>
 
 ###### Article L2511-1
 
@@ -12386,7 +12729,7 @@ _Cité par_:
   - Code de la commande publique - art. L2511-6 (VD)
 
 
-##### Section 2 : Coopération entre pouvoirs adjudicateurs<a id=276></a>
+##### Section 2 : Coopération entre pouvoirs adjudicateurs<a id=282></a>
 
 ###### Article L2511-6
 
@@ -12416,7 +12759,7 @@ _Cite_:
   - Code de la commande publique - art. L2511-5 (VD)
 
 
-##### Section 3 : Marchés publics attribués par une entité adjudicatrice à une entreprise liée<a id=277></a>
+##### Section 3 : Marchés publics attribués par une entité adjudicatrice à une entreprise liée<a id=283></a>
 
 ###### Article L2511-7
 
@@ -12498,7 +12841,7 @@ _Cité par_:
   - Code de la commande publique - art. L2422-4 (VD)
 
 
-##### Section 4 : Marchés publics attribués par une entité adjudicatrice à une coentreprise<a id=278></a>
+##### Section 4 : Marchés publics attribués par une entité adjudicatrice à une coentreprise<a id=284></a>
 
 ###### Article L2511-9
 
@@ -12527,9 +12870,9 @@ _Cite_:
   - Code de la commande publique -  Titre II : RÈGLES APPLICABLES (V)
 
 
-##### Chapitre II : Marchés publics conclus par un acheteur<a id=279></a>
+##### Chapitre II : Marchés publics conclus par un acheteur<a id=285></a>
 
-##### Section 1 : Marchés publics conclus en application de règles internationales<a id=280></a>
+##### Section 1 : Marchés publics conclus en application de règles internationales<a id=286></a>
 
 ###### Article L2512-1
 
@@ -12591,7 +12934,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Marchés publics liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat<a id=281></a>
+##### Section 2 : Marchés publics liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat<a id=287></a>
 
 ###### Article L2512-3
 
@@ -12615,7 +12958,7 @@ _Cite_:
   - Code de la commande publique -  Titre II : RÈGLES APPLICABLES (V)
 
 
-##### Section 3 : Autres marchés<a id=282></a>
+##### Section 3 : Autres marchés<a id=288></a>
 
 ###### Article L2512-4
 
@@ -12722,7 +13065,7 @@ _Cite_:
   - Code monétaire et financier - art. L211-1 (V)
 
 
-##### Chapitre III : Marchés publics conclus par un pouvoir adjudicateur<a id=283></a>
+##### Chapitre III : Marchés publics conclus par un pouvoir adjudicateur<a id=289></a>
 
 ###### Article L2513-1
 
@@ -12851,7 +13194,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-6 (V)
 
 
-##### Chapitre IV : Marchés publics conclus par une entité adjudicatrice<a id=284></a>
+##### Chapitre IV : Marchés publics conclus par une entité adjudicatrice<a id=290></a>
 
 ###### Article L2514-1
 
@@ -12980,7 +13323,7 @@ _Cité par_:
   - Code de la commande publique - art. L2681-6 (V)
 
 
-##### Chapitre V : Marché de défense ou de sécurité<a id=285></a>
+##### Chapitre V : Marché de défense ou de sécurité<a id=291></a>
 
 ###### Article L2515-1
 
@@ -13053,9 +13396,9 @@ _Cité par_:
   - Code de la commande publique - art. R2323-2 (V)
 
 
-#### Titre II : RÈGLES APPLICABLES<a id=286></a>
+#### Titre II : RÈGLES APPLICABLES<a id=292></a>
 
-##### Chapitre Ier : Règles générales applicables aux marchés publics mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer<a id=287></a>
+##### Chapitre Ier : Règles générales applicables aux marchés publics mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer<a id=293></a>
 
 ###### Article L2521-1
 
@@ -13162,7 +13505,33 @@ _Cité par_:
   - Code de la commande publique - art. L2681-1 (V)
 
 
-##### Chapitre II : Règles propres aux marchés publics portant sur le service public de transport de voyageurs par chemin de fer<a id=288></a>
+###### Article L2521-5
+
+Les marchés publics mentionnés aux chapitres Ier à IV du titre Ier du présent livre sont soumis aux règles relatives à la
+facturation électronique prévues à la section 1 du chapitre II du titre IX du livre Ier de la présente partie.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur. Ces dispositions en tant qu'elles
+renvoient respectivement aux articles L. 2192-3 et L. 3133-3 s'appliquent aux factures relatives aux marchés publics ou aux
+contrats de concession en cours d'exécution ou conclus postérieurement au 1er avril 2020 pour les factures reçues par les
+acheteurs et les autorités concédantes autres que les autorités publiques centrales dont la liste figure dans un avis annexé
+au code de la commande publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Chapitre II : Règles propres aux marchés publics portant sur le service public de transport de voyageurs par chemin de fer<a id=294></a>
 
 ###### Article L2522-1
 
@@ -13183,11 +13552,11 @@ _Cite_:
   - Code de la commande publique - art. L2512-5 (V)
 
 
-### Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=289></a>
+### Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=295></a>
 
-#### Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE<a id=290></a>
+#### Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE<a id=296></a>
 
-##### Chapitre IV : Dispositions particulières au livre IV<a id=291></a>
+##### Chapitre IV : Dispositions particulières au livre IV<a id=297></a>
 
 ###### Article L2614-1
 
@@ -13215,39 +13584,46 @@ _Cité par_:
   - Code de la commande publique - art. R2614-1 (V)
 
 
-#### Titre II : DISPOSITIONS PARTICULIERES A SAINT-BARTHELEMY<a id=292></a>
+#### Titre II : DISPOSITIONS PARTICULIERES A SAINT-BARTHELEMY<a id=298></a>
 
-##### Chapitre Ier : Dispositions particulières au livre Ier<a id=293></a>
+##### Chapitre Ier : Dispositions particulières au livre Ier<a id=299></a>
 
 ###### Article L2621-1
 
-Pour l'application des dispositions législatives du livre Ier à Saint-Barthélemy : 
+Pour l'application des dispositions législatives du livre Ier à Saint-Barthélemy :
 
 1° A l'article L. 2112-4, les mots : " des Etats membres de l'Union européenne " sont remplacés par les mots : " de la
-République " ; 
+République " ;
 
-2° A l'article L. 2113-5, le mot : " autre " est supprimé ; 
+2° A l'article L. 2113-5, le mot : " autre " est supprimé ;
 
-3° A l'article L. 2113-8, le mot : " autres " est supprimé ; 
+3° A l'article L. 2113-8, le mot : " autres " est supprimé ;
 
 4° A l'article L. 2141-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références ayant le même objet applicables localement et les mots : ", ainsi que pour les infractions équivalentes
-prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
-5° L'article L. 2153-1 est supprimé ; 
+5° L'article L. 2153-1 est supprimé ;
 
 6° A l'article L. 2153-2, les mots : " avec lesquels l'Union européenne n'a pas conclu, dans un cadre multilatéral ou
 bilatéral, un accord assurant un accès comparable et effectif des entreprises de l'Union européenne aux marchés de ces pays,
 ou auxquels le bénéfice d'un tel accord n'a pas été étendu par une décision du Conseil de l'Union européenne " sont
-supprimés ; 
+supprimés ;
 
 7° A l'article L. 2171-2, les mots " mentionnés au 1° de l'article L. 301-2 du code de la construction et de l'habitation "
-sont remplacés par les références aux dispositions applicables localement ayant le même objet ; 
+sont remplacés par les références aux dispositions applicables localement ayant le même objet ;
 
 8° A l'article L. 2172-4, la référence au 1° de l'article L. 110-1 du code de la route est remplacée par une référence
-applicable localement ayant le même objet ; 
+applicable localement ayant le même objet ;
+
+8° bis A l'article L. 2192-1, le mot : “ transmettent ” est remplacée par les mots : “ peuvent transmettre ” ;
 
 9° L'article L. 2195-5 est supprimé.
+
+**Nota:**
+
+Conformément au III de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à
+une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -13255,30 +13631,30 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code de la construction et de l'habitation. - art. L301-2 (V)
-  - Code de la route. - art. L110-1 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L2112-4 (VD)
-  - Code de la commande publique - art. L2113-5 (VD)
-  - Code de la commande publique - art. L2113-8 (VD)
-  - Code de la commande publique - art. L2141-1 (VD)
-  - Code de la commande publique - art. L2153-1 (VD)
-  - Code de la commande publique - art. L2153-2 (VD)
-  - Code de la commande publique - art. L2171-2 (VD)
-  - Code de la commande publique - art. L2172-4 (VD)
-  - Code de la commande publique - art. L2195-5 (VD)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code de la construction et de l'habitation. - art. L301-2
+  - Code de la route. - art. L110-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2112-4
+  - Code de la commande publique - art. L2113-5
+  - Code de la commande publique - art. L2113-8
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2153-1
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-2
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2195-5
 
 
-##### Chapitre III : Dispositions particulières au livre III<a id=294></a>
+##### Chapitre III : Dispositions particulières au livre III<a id=300></a>
 
 ###### Article L2623-1
 
@@ -13333,7 +13709,7 @@ _Cite_:
   - Code de la commande publique - art. L2395-1 (VD)
 
 
-##### Chapitre IV : Dispositions particulières au livre IV<a id=295></a>
+##### Chapitre IV : Dispositions particulières au livre IV<a id=301></a>
 
 ###### Article L2624-1
 
@@ -13383,7 +13759,7 @@ _Cite_:
   - Code de la commande publique - art. L2430-2 (VD)
 
 
-##### Chapitre V : Dispositions particulières au livre V<a id=296></a>
+##### Chapitre V : Dispositions particulières au livre V<a id=302></a>
 
 ###### Article L2625-1
 
@@ -13440,9 +13816,9 @@ _Cite_:
   - Code de la commande publique - art. L2515-1 (VD)
 
 
-#### Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=297></a>
+#### Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=303></a>
 
-##### Chapitre Ier : Dispositions particulières au livre Ier<a id=298></a>
+##### Chapitre Ier : Dispositions particulières au livre Ier<a id=304></a>
 
 ###### Article L2631-1
 
@@ -13480,7 +13856,7 @@ _Cite_:
   - Code de la commande publique - art. L2171-4 (VD)
 
 
-##### Chapitre III : Dispositions particulières au livre III<a id=299></a>
+##### Chapitre III : Dispositions particulières au livre III<a id=305></a>
 
 ###### Article L2633-1
 
@@ -13505,7 +13881,7 @@ _Cite_:
   - Code de la commande publique - art. L2341-1 (VD)
 
 
-##### Chapitre IV : Dispositions particulières au livre IV<a id=300></a>
+##### Chapitre IV : Dispositions particulières au livre IV<a id=306></a>
 
 ###### Article L2634-1
 
@@ -13555,39 +13931,46 @@ _Cite_:
   - Code de la commande publique - art. L2430-2 (VD)
 
 
-#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=301></a>
+#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=307></a>
 
-##### Chapitre Ier : Dispositions particulières au livre Ier<a id=302></a>
+##### Chapitre Ier : Dispositions particulières au livre Ier<a id=308></a>
 
 ###### Article L2641-1
 
-Pour l'application des dispositions législatives du livre Ier à Saint-Pierre-et-Miquelon : 
+Pour l'application des dispositions législatives du livre Ier à Saint-Pierre-et-Miquelon :
 
 1° A l'article L. 2112-4, les mots : " des Etats membres de l'Union européenne " sont remplacés par les mots : " de la
-République " ; 
+République " ;
 
-2° A l'article L. 2113-5, le mot : " autre " est supprimé ; 
+2° A l'article L. 2113-5, le mot : " autre " est supprimé ;
 
-3° A l'article L. 2113-8, le mot : " autres " est supprimé ; 
+3° A l'article L. 2113-8, le mot : " autres " est supprimé ;
 
 4° A l'article L. 2141-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références ayant le même objet applicables localement et les mots : ", ainsi que pour les infractions équivalentes
-prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
-5° L'article L. 2153-1 est supprimé ; 
+5° L'article L. 2153-1 est supprimé ;
 
 6° A l'article L. 2153-2, les mots : " avec lesquels l'Union européenne n'a pas conclu, dans un cadre multilatéral ou
 bilatéral, un accord assurant un accès comparable et effectif des entreprises de l'Union européenne aux marchés de ces pays,
 ou auxquels le bénéfice d'un tel accord n'a pas été étendu par une décision du Conseil de l'Union européenne " sont
-supprimés ; 
+supprimés ;
 
 7° A l'article L. 2171-2, les mots : " mentionnés au 1° de l'article L. 301-2 du code de la construction et de l'habitation "
-sont remplacés par les références aux dispositions applicables localement ayant le même objet ; 
+sont remplacés par les références aux dispositions applicables localement ayant le même objet ;
 
 8° A l'article L. 2172-4, la référence au 1° de l'article L. 110-1 du code de la route est remplacée par une référence
-applicable localement ayant le même objet ; 
+applicable localement ayant le même objet ;
+
+8° bis A l'article L. 2192-1, le mot : “ transmettent ” est remplacée par les mots : “ peuvent transmettre ” ;
 
 9° L'article L. 2195-5 est supprimé.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -13595,30 +13978,30 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code de la construction et de l'habitation. - art. L301-2 (V)
-  - Code de la route. - art. L110-1 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L2112-4 (VD)
-  - Code de la commande publique - art. L2113-5 (VD)
-  - Code de la commande publique - art. L2113-8 (VD)
-  - Code de la commande publique - art. L2141-1 (VD)
-  - Code de la commande publique - art. L2153-1 (VD)
-  - Code de la commande publique - art. L2153-2 (VD)
-  - Code de la commande publique - art. L2171-2 (VD)
-  - Code de la commande publique - art. L2172-4 (VD)
-  - Code de la commande publique - art. L2195-5 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code de la construction et de l'habitation. - art. L301-2
+  - Code de la route. - art. L110-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2112-4
+  - Code de la commande publique - art. L2113-5
+  - Code de la commande publique - art. L2113-8
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2153-1
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-2
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2195-5
 
 
-##### Chapitre III : Dispositions particulières au livre III<a id=303></a>
+##### Chapitre III : Dispositions particulières au livre III<a id=309></a>
 
 ###### Article L2643-1
 
@@ -13673,7 +14056,7 @@ _Cite_:
   - Code de la commande publique - art. L2395-1 (VD)
 
 
-##### Chapitre IV : Dispositions particulières au livre IV<a id=304></a>
+##### Chapitre IV : Dispositions particulières au livre IV<a id=310></a>
 
 ###### Article L2644-1
 
@@ -13723,7 +14106,7 @@ _Cite_:
   - Code de la commande publique - art. L2430-2 (VD)
 
 
-##### Chapitre V : Dispositions particulières au livre V<a id=305></a>
+##### Chapitre V : Dispositions particulières au livre V<a id=311></a>
 
 ###### Article L2645-1
 
@@ -13780,11 +14163,11 @@ _Cite_:
   - Code de la commande publique - art. L2515-1 (VD)
 
 
-#### Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=306></a>
+#### Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=312></a>
 
-##### Chapitre unique.<a id=307></a>
+##### Chapitre unique.<a id=313></a>
 
-##### Section 1 : Dispositions générales<a id=308></a>
+##### Section 1 : Dispositions générales<a id=314></a>
 
 ###### Article L2651-1
 
@@ -13955,6 +14338,16 @@ L. 2191-1 à L. 2191-8
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="justify">L. 2192-1 et L. 2192-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2192-4 à L. 2192-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
     <tr>
       <td align="justify">
 L. 2192-10 
@@ -14199,6 +14592,16 @@ L. 2391-1 à L. 2391-8
       <td align="left">
     </td></tr>
     <tr>
+      <td align="justify">L. 2392-1 et L. 2392-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2392-4 à L. 2392-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
       <td align="justify">
 L. 2392-10 à L. 2394-1 
 </td>
@@ -14317,6 +14720,11 @@ L. 2521-1 à L. 2521-4
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="justify">L. 2521-5</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
   </tbody>
 </table>
 
@@ -14379,72 +14787,80 @@ _Cite_:
   - Code de la commande publique - art. L2515-1
   - Code de la commande publique - art. L2521-1
 
-_Codifié par_:
-
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
-
 _Modifié par_:
 
   - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
-##### Section 2 : Dispositions d'adaptation<a id=309></a>
+##### Section 2 : Dispositions d'adaptation<a id=315></a>
 
 ###### Article L2651-2
 
-Pour l'application des dispositions législatives du livre Ier aux îles Wallis et Futuna : 
+Pour l'application des dispositions législatives du livre Ier aux îles Wallis et Futuna :
 
 1° A l'article L. 2112-4, les mots : " des Etats membres de l'Union européenne " sont remplacés par les mots : " de la
-République " ; 
+République " ;
 
-2° A l'article L. 2113-5, le mot : " autre " est supprimé ; 
+2° A l'article L. 2113-5, le mot : " autre " est supprimé ;
 
-3° A l'article L. 2113-8, le mot : " autres " est supprimé ; 
+3° A l'article L. 2113-8, le mot : " autres " est supprimé ;
 
 4° A l'article L. 2113-12, les références aux articles L. 5213-13 du code du travail et L. 344-2 du code de l'action sociale
-et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
 5° A l'article L. 2113-13, la référence à l'article L. 5132-4 du code du travail est remplacée par la référence aux
-dispositions applicables localement ayant le même objet ; 
+dispositions applicables localement ayant le même objet ;
 
 6° A l'article L. 2141-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références ayant le même objet applicables localement et les mots : " ainsi que pour les infractions équivalentes prévues
-par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
-7° A l'article L. 2141-4 : 
+7° A l'article L. 2141-4 :
 
 a) Au 1°, les mots : " pour méconnaissances des obligations prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5, L. 8231-1,
 L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " pour une infraction en matière de
 travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation localement applicable " et les
-mots : " de l'article L. 1146-1 du même code ou " sont supprimés ; 
+mots : " de l'article L. 1146-1 du même code ou " sont supprimés ;
 
 b) Aux 2° et 3°, la référence au 2° de l'article L. 2242-1 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 8° A l'article L. 2141-5, la référence à l'article L. 8272-4 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 9° A l'article L. 2153-2, les mots : " avec lesquels l'Union européenne n'a pas conclu, dans un cadre multilatéral ou
 bilatéral, un accord assurant un accès comparable et effectif des entreprises de l'Union européenne aux marchés de ces pays,
 ou auxquels le bénéfice d'un tel accord n'a pas été étendu par une décision du Conseil de l'Union européenne " sont
-supprimés ; 
+supprimés ;
 
-10° Le dernier alinéa de l'article L. 2171-2 est supprimé ; 
+10° Le dernier alinéa de l'article L. 2171-2 est supprimé ;
 
 11° A l'article L. 2171-5, les mots : " mentionnés à l'article L. 124-4 du code de la sécurité sociale gérant " sont
-remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ; 
+remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ;
 
 12° A l'article L. 2172-4, la référence au 1° de l'article L. 110-1 du code de la route est remplacée par une référence
-applicable localement ayant le même objet ; 
+applicable localement ayant le même objet ;
 
 13° A l'article L. 2191-1, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
 
 14° A l'article L. 2191-5, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
+
+14° bis A l'article L. 2192-1, les mots : “ l'Etat, les collectivités territoriales ou les établissements publics ” sont
+remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé par les mots : “
+peuvent transmettre ” ;
+
+14° ter A l'article L. 2192-2 et au 1° de l'article L. 2192-5, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ” ;
 
 15° A l'article L. 2197-4, les mots : " ou pour les marchés de droit privé, dans les conditions prévues par le code civil "
 sont supprimés.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -14452,46 +14868,46 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2141-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (VT)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de la sécurité sociale. - art. L124-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (VT)
-  - Code de la route. - art. L110-1 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L2112-4 (VD)
-  - Code de la commande publique - art. L2113-12 (VD)
-  - Code de la commande publique - art. L2113-13 (VD)
-  - Code de la commande publique - art. L2113-5 (VD)
-  - Code de la commande publique - art. L2113-8 (VD)
-  - Code de la commande publique - art. L2141-4 (VD)
-  - Code de la commande publique - art. L2141-5 (VD)
-  - Code de la commande publique - art. L2153-2 (VD)
-  - Code de la commande publique - art. L2171-2 (VD)
-  - Code de la commande publique - art. L2171-5 (VD)
-  - Code de la commande publique - art. L2172-4 (VD)
-  - Code de la commande publique - art. L2191-1 (VD)
-  - Code de la commande publique - art. L2191-5 (VD)
-  - Code de la commande publique - art. L2197-4 (VD)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2141-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de la sécurité sociale. - art. L124-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la route. - art. L110-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2112-4
+  - Code de la commande publique - art. L2113-12
+  - Code de la commande publique - art. L2113-13
+  - Code de la commande publique - art. L2113-5
+  - Code de la commande publique - art. L2113-8
+  - Code de la commande publique - art. L2141-4
+  - Code de la commande publique - art. L2141-5
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-2
+  - Code de la commande publique - art. L2171-5
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2191-5
+  - Code de la commande publique - art. L2197-4
 
 
 ###### Article L2651-3
@@ -14676,11 +15092,11 @@ _Cite_:
   - Code de la commande publique - art. L2521-3 (VD)
 
 
-#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=310></a>
+#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=316></a>
 
-##### Chapitre unique.<a id=311></a>
+##### Chapitre unique.<a id=317></a>
 
-##### Section 1 : Dispositions générales<a id=312></a>
+##### Section 1 : Dispositions générales<a id=318></a>
 
 ###### Article L2661-1
 
@@ -14852,6 +15268,16 @@ L. 2191-1 à L. 2191-8
       <td align="left">
     </td></tr>
     <tr>
+      <td align="justify">L. 2192-1 et L. 2192-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2192-4 à L. 2192-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
       <td align="justify">
 L. 2192-10 
 </td>
@@ -14864,16 +15290,20 @@ L. 2192-12 à L. 2192-14
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">L. 2193-1 à L. 2194-2</td>
+      <td align="justify">L. 2193-1 à L. 2194-2 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">L. 2194-3</td>
-      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la transformation des
-entreprises</td>
+      <td align="justify">
+L. 2194-3 
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprise</td>
     </tr>
     <tr>
-      <td align="justify">L. 2195-1 à L. 2195-4</td>
+      <td align="justify">
+L. 2195-1 à L. 2195-4 
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -15089,21 +15519,33 @@ L. 2391-1 à L. 2391-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">L. 2392-10 à L. 2394-1</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">L. 2394-2</td>
-      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et à la transformation des
+      <td align="justify">L. 2392-1 et L. 2392-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
 entreprises</td>
     </tr>
     <tr>
-      <td align="justify">L. 2395-1 à L. 2397-3</td>
+      <td align="justify">L. 2392-4 à L. 2392-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 2392-10 à L. 2394-1 
+</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="justify">
+L. 2394-2 
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
       <td align="left">
-      </td><td align="left">
+L. 2395-1 à L. 2397-3
+</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td align="justify">Au livre IV</td>
@@ -15201,147 +15643,178 @@ L. 2515-1
     </td></tr>
     <tr>
       <td align="justify">
-L. 2521-1 à L. 2521-4
+L. 2521-1 à L. 2521-4 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="justify">L. 2521-5</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément au III de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à
+une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique - art. L2000-1 (VD)
-  - Code de la commande publique - art. L2100-1 (VD)
-  - Code de la commande publique - art. L2111-1 (VD)
-  - Code de la commande publique - art. L2112-1 (VD)
-  - Code de la commande publique - art. L2120-1 (VD)
-  - Code de la commande publique - art. L2131-1 (VD)
-  - Code de la commande publique - art. L2141-1 (VD)
-  - Code de la commande publique - art. L2151-1 (VD)
-  - Code de la commande publique - art. L2153-2 (VD)
-  - Code de la commande publique - art. L2171-1 (VD)
-  - Code de la commande publique - art. L2171-7 (VD)
-  - Code de la commande publique - art. L2172-3 (VD)
-  - Code de la commande publique - art. L2181-1 (VD)
-  - Code de la commande publique - art. L2191-1 (VD)
-  - Code de la commande publique - art. L2192-10 (VD)
-  - Code de la commande publique - art. L2192-12 (VD)
-  - Code de la commande publique - art. L2193-1 (VD)
-  - Code de la commande publique - art. L2195-6 (VD)
-  - Code de la commande publique - art. L2197-3 (VD)
-  - Code de la commande publique - art. L2200-1 (VD)
-  - Code de la commande publique - art. L2211-1 (VD)
-  - Code de la commande publique - art. L2221-1 (VD)
-  - Code de la commande publique - art. L2222-1 (VD)
-  - Code de la commande publique - art. L2223-4 (VD)
-  - Code de la commande publique - art. L2231-1 (VD)
-  - Code de la commande publique - art. L2235-1 (VD)
-  - Code de la commande publique - art. L2300-1 (VD)
-  - Code de la commande publique - art. L2311-1 (VD)
-  - Code de la commande publique - art. L2320-1 (VD)
-  - Code de la commande publique - art. L2331-1 (VD)
-  - Code de la commande publique - art. L2341-1 (VD)
-  - Code de la commande publique - art. L2351-1 (VD)
-  - Code de la commande publique - art. L2371-1 (VD)
-  - Code de la commande publique - art. L2381-1 (VD)
-  - Code de la commande publique - art. L2391-1 (VD)
-  - Code de la commande publique - art. L2392-10 (VD)
-  - Code de la commande publique - art. L2410-1 (VD)
-  - Code de la commande publique - art. L2421-1 (VD)
-  - Code de la commande publique - art. L2430-1 (VD)
-  - Code de la commande publique - art. L2431-1 (VD)
-  - Code de la commande publique - art. L2500-1 (VD)
-  - Code de la commande publique - art. L2511-1 (VD)
-  - Code de la commande publique - art. L2515-1 (VD)
-  - Code de la commande publique - art. L2521-1 (VD)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique - art. L2000-1
+  - Code de la commande publique - art. L2100-1
+  - Code de la commande publique - art. L2111-1
+  - Code de la commande publique - art. L2112-1
+  - Code de la commande publique - art. L2120-1
+  - Code de la commande publique - art. L2131-1
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2151-1
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-1
+  - Code de la commande publique - art. L2171-7
+  - Code de la commande publique - art. L2172-3
+  - Code de la commande publique - art. L2181-1
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2192-10
+  - Code de la commande publique - art. L2192-12
+  - Code de la commande publique - art. L2193-1
+  - Code de la commande publique - art. L2194-3
+  - Code de la commande publique - art. L2195-1
+  - Code de la commande publique - art. L2195-6
+  - Code de la commande publique - art. L2197-3
+  - Code de la commande publique - art. L2200-1
+  - Code de la commande publique - art. L2211-1
+  - Code de la commande publique - art. L2221-1
+  - Code de la commande publique - art. L2222-1
+  - Code de la commande publique - art. L2223-4
+  - Code de la commande publique - art. L2231-1
+  - Code de la commande publique - art. L2235-1
+  - Code de la commande publique - art. L2300-1
+  - Code de la commande publique - art. L2311-1
+  - Code de la commande publique - art. L2320-1
+  - Code de la commande publique - art. L2331-1
+  - Code de la commande publique - art. L2341-1
+  - Code de la commande publique - art. L2351-1
+  - Code de la commande publique - art. L2371-1
+  - Code de la commande publique - art. L2381-1
+  - Code de la commande publique - art. L2391-1
+  - Code de la commande publique - art. L2392-10
+  - Code de la commande publique - art. L2394-2
+  - Code de la commande publique - art. L2395-1
+  - Code de la commande publique - art. L2410-1
+  - Code de la commande publique - art. L2421-1
+  - Code de la commande publique - art. L2430-1
+  - Code de la commande publique - art. L2431-1
+  - Code de la commande publique - art. L2500-1
+  - Code de la commande publique - art. L2511-1
+  - Code de la commande publique - art. L2515-1
+  - Code de la commande publique - art. L2521-1
+
+_Codifié par_:
+
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 _Modifié par_:
 
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
   - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
-##### Section 2 : Dispositions d'adaptation<a id=313></a>
+##### Section 2 : Dispositions d'adaptation<a id=319></a>
 
 ###### Article L2661-2
 
-Pour l'application des dispositions législatives du livre Ier en Polynésie française : 
+Pour l'application des dispositions législatives du livre Ier en Polynésie française :
 
 1° A l'article L. 2112-4, les mots : " des Etats membres de l'Union européenne " sont remplacés par les mots : " de la
-République " ; 
+République " ;
 
-2° A l'article L. 2113-5, le mot : " autre " est supprimé ; 
+2° A l'article L. 2113-5, le mot : " autre " est supprimé ;
 
-3° A l'article L. 2113-8, le mot : " autres " est supprimé ; 
+3° A l'article L. 2113-8, le mot : " autres " est supprimé ;
 
 4° A l'article L. 2113-12, les références aux articles L. 5213-13 du code du travail et L. 344-2 du code de l'action sociale
-et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
 5° A l'article L. 2113-13, la référence à l'article L. 5132-4 du code du travail est remplacée par la référence aux
-dispositions applicables localement ayant le même objet ; 
+dispositions applicables localement ayant le même objet ;
 
 6° A l'article L. 2141-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références ayant le même objet applicables localement, et les mots : " ainsi que pour les infractions équivalentes
-prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 7° A l'article L. 2141-3, les références au code de commerce sont remplacées par les références ayant le même objet
-applicables localement ; 
+applicables localement ;
 
-8° A l'article L. 2141-4 : 
+8° A l'article L. 2141-4 :
 
 a) Au 1°, les mots : " pour méconnaissances des obligations prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5, L. 8231-1,
 L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " pour une infraction en matière de
 travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation localement applicable " et les
-mots : " de l'article L. 1146-1 du même code ou " sont supprimés ; 
+mots : " de l'article L. 1146-1 du même code ou " sont supprimés ;
 
 b) Aux 2° et 3°, la référence au 2° de l'article L. 2242-1 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 9° A l'article L. 2141-5, la référence à l'article L. 8272-4 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 10° A l'article L. 2153-2, les mots : " avec lesquels l'Union européenne n'a pas conclu, dans un cadre multilatéral ou
 bilatéral, un accord assurant un accès comparable et effectif des entreprises de l'Union européenne aux marchés de ces pays,
 ou auxquels le bénéfice d'un tel accord n'a pas été étendu par une décision du Conseil de l'Union européenne " sont
-supprimés ; 
+supprimés ;
 
-11° Le dernier alinéa de l'article L. 2171-2 est supprimé ; 
+11° Le dernier alinéa de l'article L. 2171-2 est supprimé ;
 
 12° A l'article L. 2171-5, les mots : " mentionnés à l'article L. 124-4 du code de la sécurité sociale gérant " sont
-remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ; 
+remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ;
 
 13° A l'article L. 2172-4, la référence au 1° de l'article L. 110-1 du code de la route est remplacée par une référence
-applicable localement ayant le même objet ; 
+applicable localement ayant le même objet ;
 
 14° A l'article L. 2191-1, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
 
 15° A l'article L. 2191-5, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
 
-16° L'article L. 2191-8 est ainsi rédigé : 
+16° L'article L. 2191-8 est ainsi rédigé :
 
 " Art. L. 2191-8.-Le titulaire d'un marché peut céder la créance qu'il détient sur l'acheteur à un établissement de crédit ou
-nantir cette créance auprès d'un établissement de crédit. 
+nantir cette créance auprès d'un établissement de crédit.
 
 " Il peut la céder à un autre cessionnaire ou nantir ladite créance auprès d'un autre créancier conformément aux dispositions
-applicables localement. " ; 
+applicables localement. " ;
+
+16° bis A l'article L. 2192-1, les mots : “ l'Etat, les collectivités territoriales et les établissements publics ” sont
+remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé par les mots : “
+peuvent transmettre ” ;
+
+16° ter A l'article L. 2192-2 et au 1° de l'article L. 2192-5, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ” ;
 
 17° A l'article L. 2192-11, la référence au code de commerce est remplacée par la référence ayant le même objet applicable
-localement ; 
+localement ;
 
 18° A l'article L. 2195-4, la référence au code de commerce est remplacée par une référence ayant le même objet applicable
-localement ; 
+localement ;
 
 19° A l'article L. 2197-4, les mots : " ou pour les marchés de droit privé, dans les conditions prévues par le code civil "
-sont supprimés ; 
+sont supprimés ;
 
-20° A l'article L. 2197-5, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ; 
+20° A l'article L. 2197-5, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ;
 
 21° A l'article L. 2197-6, les mots : " Par dérogation aux dispositions du premier alinéa de l'article 2060 du code civil, "
 sont supprimés.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -15349,54 +15822,54 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code civil - art. 2044 (V)
-  - Code civil - art. 2060 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de la sécurité sociale. - art. L124-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la route. - art. L110-1 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L2112-4 (VD)
-  - Code de la commande publique - art. L2113-12 (VD)
-  - Code de la commande publique - art. L2113-13 (VD)
-  - Code de la commande publique - art. L2113-5 (VD)
-  - Code de la commande publique - art. L2113-8 (VD)
-  - Code de la commande publique - art. L2141-1 (VD)
-  - Code de la commande publique - art. L2141-3 (VD)
-  - Code de la commande publique - art. L2141-4 (VD)
-  - Code de la commande publique - art. L2141-5 (VD)
-  - Code de la commande publique - art. L2153-2 (VD)
-  - Code de la commande publique - art. L2171-2 (VD)
-  - Code de la commande publique - art. L2171-5 (VD)
-  - Code de la commande publique - art. L2172-4 (VD)
-  - Code de la commande publique - art. L2191-1 (VD)
-  - Code de la commande publique - art. L2191-5 (VD)
-  - Code de la commande publique - art. L2191-8 (VD)
-  - Code de la commande publique - art. L2192-11 (VD)
-  - Code de la commande publique - art. L2195-4 (VD)
-  - Code de la commande publique - art. L2197-4 (VD)
-  - Code de la commande publique - art. L2197-5 (VD)
-  - Code de la commande publique - art. L2197-6 (VD)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code civil - art. 2044
+  - Code civil - art. 2060
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de la sécurité sociale. - art. L124-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la route. - art. L110-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2112-4
+  - Code de la commande publique - art. L2113-12
+  - Code de la commande publique - art. L2113-13
+  - Code de la commande publique - art. L2113-5
+  - Code de la commande publique - art. L2113-8
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2141-3
+  - Code de la commande publique - art. L2141-4
+  - Code de la commande publique - art. L2141-5
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-2
+  - Code de la commande publique - art. L2171-5
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2191-5
+  - Code de la commande publique - art. L2191-8
+  - Code de la commande publique - art. L2192-11
+  - Code de la commande publique - art. L2195-4
+  - Code de la commande publique - art. L2197-4
+  - Code de la commande publique - art. L2197-5
+  - Code de la commande publique - art. L2197-6
 
 
 ###### Article L2661-3
@@ -15594,11 +16067,11 @@ _Cite_:
   - Code de la commande publique - art. L2521-3 (VD)
 
 
-#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=314></a>
+#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=320></a>
 
-##### Chapitre unique.<a id=315></a>
+##### Chapitre unique.<a id=321></a>
 
-##### Section 1 : Dispositions générales<a id=316></a>
+##### Section 1 : Dispositions générales<a id=322></a>
 
 ###### Article L2671-1
 
@@ -15770,6 +16243,16 @@ L. 2191-1 à L. 2191-8
       <td align="left">
     </td></tr>
     <tr>
+      <td align="justify">L. 2192-1 et L. 2192-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 2192-4 à L. 2192-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
       <td align="justify">
 L. 2192-10 
 </td>
@@ -15783,16 +16266,21 @@ L. 2192-12 à L. 2192-14
     </td></tr>
     <tr>
       <td align="justify">
-L. 2193-1 à L. 2194-2</td>
+L. 2193-1 à L. 2194-2 
+</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">L. 2194-3</td>
+      <td align="justify">
+L. 2194-3 
+</td>
       <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
 entreprises</td>
     </tr>
     <tr>
-      <td align="justify">L. 2195-1 à L. 2195-4</td>
+      <td align="justify">
+L. 2195-1 à L. 2195-4 
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -16008,22 +16496,33 @@ L. 2391-1 à L. 2391-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">
-L. 2392-10 à L. 2394-1</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">L. 2394-2</td>
+      <td align="justify">L. 2392-1 et L. 2392-2</td>
       <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
 entreprises</td>
     </tr>
     <tr>
-      <td align="justify">L. 2395-1 à L. 2397-3</td>
+      <td align="justify">L. 2392-4 à L. 2392-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+L. 2392-10 à L. 2394-1 
+</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="justify">
+L. 2394-2 
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
       <td align="left">
-      </td><td align="left">
+L. 2395-1 à L. 2397-3
+</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td align="justify">Au livre IV</td>
@@ -16122,182 +16621,216 @@ L. 2515-1
     <tr>
       <td align="justify">
 L. 2521-1à 
-L. 2521-4
+L. 2521-4 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="justify">L. 2521-5</td>
+      <td align="left">
+
+Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises
+
+</td>
+    </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément au III de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à
+une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique - art. L2000-1 (V)
-  - Code de la commande publique - art. L2000-2 (V)
-  - Code de la commande publique - art. L2000-5 (V)
-  - Code de la commande publique - art. L2100-1 (V)
-  - Code de la commande publique - art. L2111-1 (V)
-  - Code de la commande publique - art. L2111-2 (V)
-  - Code de la commande publique - art. L2112-1 (V)
-  - Code de la commande publique - art. L2113-16 (V)
-  - Code de la commande publique - art. L2120-1 (V)
-  - Code de la commande publique - art. L2125-1 (V)
-  - Code de la commande publique - art. L2131-1 (V)
-  - Code de la commande publique - art. L2132-2 (V)
-  - Code de la commande publique - art. L2141-1 (V)
-  - Code de la commande publique - art. L2142-1 (V)
-  - Code de la commande publique - art. L2151-1 (V)
-  - Code de la commande publique - art. L2152-8 (V)
-  - Code de la commande publique - art. L2153-2 (V)
-  - Code de la commande publique - art. L2171-1 (V)
-  - Code de la commande publique - art. L2171-5 (V)
-  - Code de la commande publique - art. L2171-7 (V)
-  - Code de la commande publique - art. L2172-3 (V)
-  - Code de la commande publique - art. L2172-4 (V)
-  - Code de la commande publique - art. L2181-1 (V)
-  - Code de la commande publique - art. L2184-1 (V)
-  - Code de la commande publique - art. L2191-1 (V)
-  - Code de la commande publique - art. L2191-8 (V)
-  - Code de la commande publique - art. L2192-10 (V)
-  - Code de la commande publique - art. L2192-12 (V)
-  - Code de la commande publique - art. L2192-14 (V)
-  - Code de la commande publique - art. L2193-1 (V)
-  - Code de la commande publique - art. L2195-4 (V)
-  - Code de la commande publique - art. L2195-6 (V)
-  - Code de la commande publique - art. L2197-1 (V)
-  - Code de la commande publique - art. L2197-3 (V)
-  - Code de la commande publique - art. L2197-6 (V)
-  - Code de la commande publique - art. L2200-1 (V)
-  - Code de la commande publique - art. L2211-1 (V)
-  - Code de la commande publique - art. L2213-14 (V)
-  - Code de la commande publique - art. L2221-1 (V)
-  - Code de la commande publique - art. L2222-1 (V)
-  - Code de la commande publique - art. L2223-1 (V)
-  - Code de la commande publique - art. L2223-4 (V)
-  - Code de la commande publique - art. L2231-1 (V)
-  - Code de la commande publique - art. L2234-2 (V)
-  - Code de la commande publique - art. L2235-1 (V)
-  - Code de la commande publique - art. L2236-1 (V)
-  - Code de la commande publique - art. L2300-1 (V)
-  - Code de la commande publique - art. L2311-1 (V)
-  - Code de la commande publique - art. L2313-6 (V)
-  - Code de la commande publique - art. L2320-1 (V)
-  - Code de la commande publique - art. L2325-1 (V)
-  - Code de la commande publique - art. L2331-1 (V)
-  - Code de la commande publique - art. L2332-2 (V)
-  - Code de la commande publique - art. L2341-1 (V)
-  - Code de la commande publique - art. L2342-2 (V)
-  - Code de la commande publique - art. L2351-1 (V)
-  - Code de la commande publique - art. L2353-2 (V)
-  - Code de la commande publique - art. L2371-1 (V)
-  - Code de la commande publique - art. L2373-1 (V)
-  - Code de la commande publique - art. L2381-1 (V)
-  - Code de la commande publique - art. L2384-1 (V)
-  - Code de la commande publique - art. L2391-1 (V)
-  - Code de la commande publique - art. L2391-8 (V)
-  - Code de la commande publique - art. L2392-10 (V)
-  - Code de la commande publique - art. L2397-3 (V)
-  - Code de la commande publique - art. L2410-1 (V)
-  - Code de la commande publique - art. L2412-2 (V)
-  - Code de la commande publique - art. L2421-1 (V)
-  - Code de la commande publique - art. L2422-13 (V)
-  - Code de la commande publique - art. L2430-1 (V)
-  - Code de la commande publique - art. L2431-1 (V)
-  - Code de la commande publique - art. L2432-2 (V)
-  - Code de la commande publique - art. L2500-1 (V)
-  - Code de la commande publique - art. L2500-2 (V)
-  - Code de la commande publique - art. L2511-1 (V)
-  - Code de la commande publique - art. L2514-4 (V)
-  - Code de la commande publique - art. L2515-1 (V)
-  - Code de la commande publique - art. L2521-1 (V)
-  - Code de la commande publique - art. L2521-4 (V)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique - art. L2000-1
+  - Code de la commande publique - art. L2000-2
+  - Code de la commande publique - art. L2000-5
+  - Code de la commande publique - art. L2100-1
+  - Code de la commande publique - art. L2111-1
+  - Code de la commande publique - art. L2111-2
+  - Code de la commande publique - art. L2112-1
+  - Code de la commande publique - art. L2113-16
+  - Code de la commande publique - art. L2120-1
+  - Code de la commande publique - art. L2125-1
+  - Code de la commande publique - art. L2131-1
+  - Code de la commande publique - art. L2132-2
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2142-1
+  - Code de la commande publique - art. L2151-1
+  - Code de la commande publique - art. L2152-8
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-1
+  - Code de la commande publique - art. L2171-5
+  - Code de la commande publique - art. L2171-7
+  - Code de la commande publique - art. L2172-3
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2181-1
+  - Code de la commande publique - art. L2184-1
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2191-8
+  - Code de la commande publique - art. L2192-10
+  - Code de la commande publique - art. L2192-12
+  - Code de la commande publique - art. L2192-14
+  - Code de la commande publique - art. L2193-1
+  - Code de la commande publique - art. L2194-3
+  - Code de la commande publique - art. L2195-1
+  - Code de la commande publique - art. L2195-4
+  - Code de la commande publique - art. L2195-6
+  - Code de la commande publique - art. L2197-1
+  - Code de la commande publique - art. L2197-3
+  - Code de la commande publique - art. L2197-6
+  - Code de la commande publique - art. L2200-1
+  - Code de la commande publique - art. L2211-1
+  - Code de la commande publique - art. L2213-14
+  - Code de la commande publique - art. L2221-1
+  - Code de la commande publique - art. L2222-1
+  - Code de la commande publique - art. L2223-1
+  - Code de la commande publique - art. L2223-4
+  - Code de la commande publique - art. L2231-1
+  - Code de la commande publique - art. L2234-2
+  - Code de la commande publique - art. L2235-1
+  - Code de la commande publique - art. L2236-1
+  - Code de la commande publique - art. L2300-1
+  - Code de la commande publique - art. L2311-1
+  - Code de la commande publique - art. L2313-6
+  - Code de la commande publique - art. L2320-1
+  - Code de la commande publique - art. L2325-1
+  - Code de la commande publique - art. L2331-1
+  - Code de la commande publique - art. L2332-2
+  - Code de la commande publique - art. L2341-1
+  - Code de la commande publique - art. L2342-2
+  - Code de la commande publique - art. L2351-1
+  - Code de la commande publique - art. L2353-2
+  - Code de la commande publique - art. L2371-1
+  - Code de la commande publique - art. L2373-1
+  - Code de la commande publique - art. L2381-1
+  - Code de la commande publique - art. L2384-1
+  - Code de la commande publique - art. L2391-1
+  - Code de la commande publique - art. L2391-8
+  - Code de la commande publique - art. L2392-10
+  - Code de la commande publique - art. L2394-2
+  - Code de la commande publique - art. L2395-1
+  - Code de la commande publique - art. L2397-3
+  - Code de la commande publique - art. L2410-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2421-1
+  - Code de la commande publique - art. L2422-13
+  - Code de la commande publique - art. L2430-1
+  - Code de la commande publique - art. L2431-1
+  - Code de la commande publique - art. L2432-2
+  - Code de la commande publique - art. L2500-1
+  - Code de la commande publique - art. L2500-2
+  - Code de la commande publique - art. L2511-1
+  - Code de la commande publique - art. L2514-4
+  - Code de la commande publique - art. L2515-1
+  - Code de la commande publique - art. L2521-1
+  - Code de la commande publique - art. L2521-4
+
+_Codifié par_:
+
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 _Modifié par_:
 
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
   - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
-##### Section 2 : Dispositions d'adaptation<a id=317></a>
+##### Section 2 : Dispositions d'adaptation<a id=323></a>
 
 ###### Article L2671-2
 
-Pour l'application des dispositions législatives du livre Ier en Nouvelle-Calédonie : 
+Pour l'application des dispositions législatives du livre Ier en Nouvelle-Calédonie :
 
 1° A l'article L. 2112-4, les mots : " des Etats membres de l'Union européenne " sont remplacés par les mots : " de la
-République " ; 
+République " ;
 
-2° A l'article L. 2113-5, le mot : " autre " est supprimé ; 
+2° A l'article L. 2113-5, le mot : " autre " est supprimé ;
 
-3° A l'article L. 2113-8, le mot : " autres " est supprimé ; 
+3° A l'article L. 2113-8, le mot : " autres " est supprimé ;
 
 4° A l'article L. 2113-12, les références aux articles L. 5213-13 du code du travail et L. 344-2 du code de l'action sociale
-et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
 5° A l'article L. 2113-13, la référence à l'article L. 5132-4 du code du travail est remplacée par la référence aux
-dispositions applicables localement ayant le même objet ; 
+dispositions applicables localement ayant le même objet ;
 
 6° A l'article L. 2141-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références ayant le même objet applicables localement, et les mots : " ainsi que pour les infractions équivalentes
-prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 7° A l'article L. 2141-3, les références au code de commerce sont remplacées par les références ayant le même objet
-applicables localement ; 
+applicables localement ;
 
-8° A l'article L. 2141-4 : 
+8° A l'article L. 2141-4 :
 
 a) Au 1°, les mots : " pour méconnaissances des obligations prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5, L. 8231-1,
 L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " pour une infraction en matière de
 travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation localement applicable " et les
-mots : " de l'article L. 1146-1 du même code ou " sont supprimés ; 
+mots : " de l'article L. 1146-1 du même code ou " sont supprimés ;
 
 b) Aux 2° et 3°, la référence au 2° de l'article L. 2242-1 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 9° A l'article L. 2141-5, la référence à l'article L. 8272-4 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 10° A l'article L. 2153-2, les mots : " avec lesquels l'Union européenne n'a pas conclu, dans un cadre multilatéral ou
 bilatéral, un accord assurant un accès comparable et effectif des entreprises de l'Union européenne aux marchés de ces pays,
 ou auxquels le bénéfice d'un tel accord n'a pas été étendu par une décision du Conseil de l'Union européenne " sont
-supprimés ; 
+supprimés ;
 
-11° Le dernier alinéa de l'article L. 2171-2 est supprimé ; 
+11° Le dernier alinéa de l'article L. 2171-2 est supprimé ;
 
 12° A l'article L. 2171-5, les mots : " mentionnés à l'article L. 124-4 du code de la sécurité sociale gérant " sont
-remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ; 
+remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ;
 
 13° A l'article L. 2172-4, la référence au 1° de l'article L. 110-1 du code de la route est remplacée par une référence
-applicable localement ayant le même objet ; 
+applicable localement ayant le même objet ;
 
 14° A l'article L. 2191-1, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
 
 15° A l'article L. 2191-5, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
 
-16° L'article L. 2191-8 est ainsi rédigé : 
+16° L'article L. 2191-8 est ainsi rédigé :
 
 " Art. L. 2191-8.-Le titulaire d'un marché peut céder la créance qu'il détient sur l'acheteur à un établissement de crédit ou
-nantir cette créance auprès d'un établissement de crédit. 
+nantir cette créance auprès d'un établissement de crédit.
 
 " Il peut la céder à un autre cessionnaire ou nantir ladite créance auprès d'un autre créancier conformément aux dispositions
-applicables localement. " ; 
+applicables localement. " ;
+
+16° bis A l'article L. 2192-1, les mots : “ l'Etat, les collectivités territoriales et les établissements publics ” sont
+remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé par les mots : “
+peuvent transmettre ” ;
+
+16° ter A l'article L. 2192-2 et au 1° de l'article L. 2192-5, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ” ;
 
 17° A l'article L. 2192-11, la référence au code de commerce est remplacée par la référence ayant le même objet applicable
-localement ; 
+localement ;
 
 18° A l'article L. 2195-4, la référence au code de commerce est remplacée par la référence ayant le même objet applicable
-localement ; 
+localement ;
 
 19° A l'article L. 2197-4, les mots : " ou pour les marchés de droit privé, dans les conditions prévues par le code civil "
-sont supprimés ; 
+sont supprimés ;
 
-20° A l'article L. 2197-5, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ; 
+20° A l'article L. 2197-5, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ;
 
 21° A l'article L. 2197-6, les mots : " Par dérogation aux dispositions du premier alinéa de l'article 2060 du code civil, "
 sont supprimés.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -16305,55 +16838,55 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1743 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code civil - art. 2044 (V)
-  - Code civil - art. 2060 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de la sécurité sociale. - art. L124-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la route. - art. L110-1 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L2112-4 (V)
-  - Code de la commande publique - art. L2113-12 (V)
-  - Code de la commande publique - art. L2113-13 (V)
-  - Code de la commande publique - art. L2113-5 (V)
-  - Code de la commande publique - art. L2113-8 (V)
-  - Code de la commande publique - art. L2141-1 (V)
-  - Code de la commande publique - art. L2141-3 (V)
-  - Code de la commande publique - art. L2141-4 (V)
-  - Code de la commande publique - art. L2141-5 (V)
-  - Code de la commande publique - art. L2153-2 (V)
-  - Code de la commande publique - art. L2171-2 (V)
-  - Code de la commande publique - art. L2171-5 (V)
-  - Code de la commande publique - art. L2172-4 (V)
-  - Code de la commande publique - art. L2191-1 (V)
-  - Code de la commande publique - art. L2191-5 (V)
-  - Code de la commande publique - art. L2191-8 (V)
-  - Code de la commande publique - art. L2192-11 (V)
-  - Code de la commande publique - art. L2195-4 (V)
-  - Code de la commande publique - art. L2197-4 (V)
-  - Code de la commande publique - art. L2197-5 (V)
-  - Code de la commande publique - art. L2197-6 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1743
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code civil - art. 2044
+  - Code civil - art. 2060
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de la sécurité sociale. - art. L124-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la route. - art. L110-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2112-4
+  - Code de la commande publique - art. L2113-12
+  - Code de la commande publique - art. L2113-13
+  - Code de la commande publique - art. L2113-5
+  - Code de la commande publique - art. L2113-8
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2141-3
+  - Code de la commande publique - art. L2141-4
+  - Code de la commande publique - art. L2141-5
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-2
+  - Code de la commande publique - art. L2171-5
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2191-5
+  - Code de la commande publique - art. L2191-8
+  - Code de la commande publique - art. L2192-11
+  - Code de la commande publique - art. L2195-4
+  - Code de la commande publique - art. L2197-4
+  - Code de la commande publique - art. L2197-5
+  - Code de la commande publique - art. L2197-6
 
 
 ###### Article L2671-3
@@ -16553,11 +17086,11 @@ _Cite_:
   - Code de la commande publique - art. L2521-3 (V)
 
 
-#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=318></a>
+#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=324></a>
 
-##### Chapitre unique.<a id=319></a>
+##### Chapitre unique.<a id=325></a>
 
-##### Section 1 : Dispositions générales<a id=320></a>
+##### Section 1 : Dispositions générales<a id=326></a>
 
 ###### Article L2681-1
 
@@ -16570,7 +17103,11 @@ sauf mention contraire dans le tableau ci-après.
   <tbody>
     <tr>
       <th>DISPOSITIONS APPLICABLES</th>
-      <th>DANS LEUR REDACTION</th>
+      <th>
+
+DANS LEUR REDACTION
+
+</th>
     </tr>
     <tr>
       <td align="justify">
@@ -16730,7 +17267,27 @@ L. 2191-1 à L. 2191-8
     </td></tr>
     <tr>
       <td align="justify">
+
+L. 2192-1 et L. 2192-2
+
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 2192-4 à L. 2192-7
+
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
 L. 2192-10 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16742,27 +17299,42 @@ L. 2192-12 à L. 2192-14
     </td></tr>
     <tr>
       <td align="justify">
-L. 2193-1 à L. 2194-2</td>
+
+L. 2193-1 à L. 2194-2 
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">L. 2194-3</td>
+      <td align="justify">
+
+L. 2194-3 
+
+</td>
       <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
 entreprises</td>
     </tr>
     <tr>
-      <td align="justify">L. 2195-1 à L. 2195-4</td>
+      <td align="justify">
+
+L. 2195-1 à L. 2195-4 
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2195-6 à L. 2197-1 
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2197-3 à L. 2197-6 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16771,12 +17343,18 @@ L. 2197-3 à L. 2197-6
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre II</td>
+      <td align="justify">
+
+Au livre II
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2200-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16785,7 +17363,11 @@ L. 2200-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier</td>
+      <td align="center">
+
+Au titre Ier
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -16799,24 +17381,34 @@ L. 2211-1 à L. 2213-14
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II</td>
+      <td align="center">
+
+Au titre II
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2221-1 
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2222-1 à L. 2223-1 
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2223-4 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16825,18 +17417,26 @@ L. 2223-4
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III</td>
+      <td align="center">
+
+Au titre III
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2231-1 à L. 2234-2 
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2235-1 à L. 2236-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16845,12 +17445,18 @@ L. 2235-1 à L. 2236-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre III</td>
+      <td align="justify">
+
+Au livre III
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2300-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16859,12 +17465,18 @@ L. 2300-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier</td>
+      <td align="center">
+
+Au titre Ier
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2311-1 à L. 2313-6 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16873,12 +17485,18 @@ L. 2311-1 à L. 2313-6
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II</td>
+      <td align="center">
+
+Au titre II
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2320-1 à L. 2325-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16887,12 +17505,18 @@ L. 2320-1 à L. 2325-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III</td>
+      <td align="center">
+
+Au titre III
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2331-1 à L. 2332-2 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16901,12 +17525,18 @@ L. 2331-1 à L. 2332-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV</td>
+      <td align="center">
+
+Au titre IV
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2341-1 à L. 2342-2 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16915,12 +17545,18 @@ L. 2341-1 à L. 2342-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V</td>
+      <td align="center">
+
+Au titre V
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2351-1 à L. 2353-2 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16929,12 +17565,18 @@ L. 2351-1 à L. 2353-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII</td>
+      <td align="center">
+
+Au titre VII
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2371-1 à L. 2373-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16943,12 +17585,18 @@ L. 2371-1 à L. 2373-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII</td>
+      <td align="center">
+
+Au titre VIII
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2381-1 à L. 2384-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -16957,48 +17605,89 @@ L. 2381-1 à L. 2384-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">
-L. 2391-1 à L. 2391-8 
+      <td align="center">
+
+Au titre IX
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
-L. 2392-10 à L. 2394-1</td>
+
+L. 2391-1 à L. 2391-8 
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">L. 2394-2</td>
+      <td align="justify">
+
+L. 2392-1 et L. 2392-2
+
+</td>
       <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
 entreprises</td>
     </tr>
     <tr>
-      <td align="justify">L. 2395-1 à L. 2397-3</td>
+      <td align="justify">
+
+L. 2392-4 à L. 2392-7
+
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 2392-10 à L. 2394-1 
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-      </td><td align="left">
-    </td></tr>
+
+L. 2394-2 
+
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
     <tr>
-      <td align="justify">Au livre IV</td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier</td>
+
+L. 2395-1 à L. 2397-3
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
+Au livre IV
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">
+
+Au titre Ier
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
 L. 2410-1 à L. 2412-2 
+
 </td>
       <td align="left">
     </td></tr>
@@ -17007,12 +17696,18 @@ L. 2410-1 à L. 2412-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II</td>
+      <td align="center">
+
+Au titre II
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2421-1 à L. 2422-13 
+
 </td>
       <td align="left">
     </td></tr>
@@ -17021,18 +17716,26 @@ L. 2421-1 à L. 2422-13
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III</td>
+      <td align="center">
+
+Au titre III
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2430-1 
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2431-1 à L. 2432-2 
+
 </td>
       <td align="left">
     </td></tr>
@@ -17041,12 +17744,18 @@ L. 2431-1 à L. 2432-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre V</td>
+      <td align="justify">
+
+Au livre V
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2500-1 et L. 2500-2 
+
 </td>
       <td align="left">
     </td></tr>
@@ -17055,18 +17764,26 @@ L. 2500-1 et L. 2500-2
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier</td>
+      <td align="center">
+
+Au titre Ier
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2511-1 à L. 2514-4 
+
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2515-1 
+
 </td>
       <td align="left">
     </td></tr>
@@ -17075,162 +17792,207 @@ L. 2515-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II</td>
+      <td align="center">
+
+Au titre II
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="justify">
+
 L. 2521-1à 
-L. 2521-4
+L. 2521-4 
+
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 2521-5
+
+</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Conformément au III de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à
+une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique - art. L2000-1 (V)
-  - Code de la commande publique - art. L2000-2 (V)
-  - Code de la commande publique - art. L2000-5 (V)
-  - Code de la commande publique - art. L2100-1 (V)
-  - Code de la commande publique - art. L2111-1 (V)
-  - Code de la commande publique - art. L2111-2 (V)
-  - Code de la commande publique - art. L2112-1 (V)
-  - Code de la commande publique - art. L2113-16 (V)
-  - Code de la commande publique - art. L2120-1 (V)
-  - Code de la commande publique - art. L2125-1 (V)
-  - Code de la commande publique - art. L2131-1 (V)
-  - Code de la commande publique - art. L2132-2 (V)
-  - Code de la commande publique - art. L2141-1 (V)
-  - Code de la commande publique - art. L2142-1 (V)
-  - Code de la commande publique - art. L2151-1 (V)
-  - Code de la commande publique - art. L2152-8 (V)
-  - Code de la commande publique - art. L2153-2 (V)
-  - Code de la commande publique - art. L2171-1 (V)
-  - Code de la commande publique - art. L2171-5 (V)
-  - Code de la commande publique - art. L2171-7 (V)
-  - Code de la commande publique - art. L2172-3 (V)
-  - Code de la commande publique - art. L2172-4 (V)
-  - Code de la commande publique - art. L2181-1 (V)
-  - Code de la commande publique - art. L2184-1 (V)
-  - Code de la commande publique - art. L2191-1 (V)
-  - Code de la commande publique - art. L2191-8 (V)
-  - Code de la commande publique - art. L2192-10 (V)
-  - Code de la commande publique - art. L2192-12 (V)
-  - Code de la commande publique - art. L2192-14 (V)
-  - Code de la commande publique - art. L2193-1 (V)
-  - Code de la commande publique - art. L2195-4 (V)
-  - Code de la commande publique - art. L2195-6 (V)
-  - Code de la commande publique - art. L2197-1 (V)
-  - Code de la commande publique - art. L2197-3 (V)
-  - Code de la commande publique - art. L2197-6 (V)
-  - Code de la commande publique - art. L2200-1 (V)
-  - Code de la commande publique - art. L2211-1 (V)
-  - Code de la commande publique - art. L2213-14 (V)
-  - Code de la commande publique - art. L2221-1 (V)
-  - Code de la commande publique - art. L2222-1 (V)
-  - Code de la commande publique - art. L2223-1 (V)
-  - Code de la commande publique - art. L2223-4 (V)
-  - Code de la commande publique - art. L2231-1 (V)
-  - Code de la commande publique - art. L2234-2 (V)
-  - Code de la commande publique - art. L2235-1 (V)
-  - Code de la commande publique - art. L2236-1 (V)
-  - Code de la commande publique - art. L2300-1 (V)
-  - Code de la commande publique - art. L2311-1 (V)
-  - Code de la commande publique - art. L2313-6 (V)
-  - Code de la commande publique - art. L2320-1 (V)
-  - Code de la commande publique - art. L2325-1 (V)
-  - Code de la commande publique - art. L2331-1 (V)
-  - Code de la commande publique - art. L2332-2 (V)
-  - Code de la commande publique - art. L2341-1 (V)
-  - Code de la commande publique - art. L2342-2 (V)
-  - Code de la commande publique - art. L2351-1 (V)
-  - Code de la commande publique - art. L2353-2 (V)
-  - Code de la commande publique - art. L2371-1 (V)
-  - Code de la commande publique - art. L2373-1 (V)
-  - Code de la commande publique - art. L2381-1 (V)
-  - Code de la commande publique - art. L2384-1 (V)
-  - Code de la commande publique - art. L2391-1 (V)
-  - Code de la commande publique - art. L2391-8 (V)
-  - Code de la commande publique - art. L2392-10 (V)
-  - Code de la commande publique - art. L2397-3 (V)
-  - Code de la commande publique - art. L2410-1 (V)
-  - Code de la commande publique - art. L2412-2 (V)
-  - Code de la commande publique - art. L2421-1 (V)
-  - Code de la commande publique - art. L2422-13 (V)
-  - Code de la commande publique - art. L2430-1 (V)
-  - Code de la commande publique - art. L2431-1 (V)
-  - Code de la commande publique - art. L2432-2 (V)
-  - Code de la commande publique - art. L2500-1 (V)
-  - Code de la commande publique - art. L2500-2 (V)
-  - Code de la commande publique - art. L2511-1 (V)
-  - Code de la commande publique - art. L2514-4 (V)
-  - Code de la commande publique - art. L2515-1 (V)
-  - Code de la commande publique - art. L2521-1 (V)
-  - Code de la commande publique - art. L2521-4 (V)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique - art. L2000-1
+  - Code de la commande publique - art. L2000-2
+  - Code de la commande publique - art. L2000-5
+  - Code de la commande publique - art. L2100-1
+  - Code de la commande publique - art. L2111-1
+  - Code de la commande publique - art. L2111-2
+  - Code de la commande publique - art. L2112-1
+  - Code de la commande publique - art. L2113-16
+  - Code de la commande publique - art. L2120-1
+  - Code de la commande publique - art. L2125-1
+  - Code de la commande publique - art. L2131-1
+  - Code de la commande publique - art. L2132-2
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2142-1
+  - Code de la commande publique - art. L2151-1
+  - Code de la commande publique - art. L2152-8
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-1
+  - Code de la commande publique - art. L2171-5
+  - Code de la commande publique - art. L2171-7
+  - Code de la commande publique - art. L2172-3
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2181-1
+  - Code de la commande publique - art. L2184-1
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2191-8
+  - Code de la commande publique - art. L2192-10
+  - Code de la commande publique - art. L2192-12
+  - Code de la commande publique - art. L2192-14
+  - Code de la commande publique - art. L2193-1
+  - Code de la commande publique - art. L2194-3
+  - Code de la commande publique - art. L2195-1
+  - Code de la commande publique - art. L2195-4
+  - Code de la commande publique - art. L2195-6
+  - Code de la commande publique - art. L2197-1
+  - Code de la commande publique - art. L2197-3
+  - Code de la commande publique - art. L2197-6
+  - Code de la commande publique - art. L2200-1
+  - Code de la commande publique - art. L2211-1
+  - Code de la commande publique - art. L2213-14
+  - Code de la commande publique - art. L2221-1
+  - Code de la commande publique - art. L2222-1
+  - Code de la commande publique - art. L2223-1
+  - Code de la commande publique - art. L2223-4
+  - Code de la commande publique - art. L2231-1
+  - Code de la commande publique - art. L2234-2
+  - Code de la commande publique - art. L2235-1
+  - Code de la commande publique - art. L2236-1
+  - Code de la commande publique - art. L2300-1
+  - Code de la commande publique - art. L2311-1
+  - Code de la commande publique - art. L2313-6
+  - Code de la commande publique - art. L2320-1
+  - Code de la commande publique - art. L2325-1
+  - Code de la commande publique - art. L2331-1
+  - Code de la commande publique - art. L2332-2
+  - Code de la commande publique - art. L2341-1
+  - Code de la commande publique - art. L2342-2
+  - Code de la commande publique - art. L2351-1
+  - Code de la commande publique - art. L2353-2
+  - Code de la commande publique - art. L2371-1
+  - Code de la commande publique - art. L2373-1
+  - Code de la commande publique - art. L2381-1
+  - Code de la commande publique - art. L2384-1
+  - Code de la commande publique - art. L2391-1
+  - Code de la commande publique - art. L2391-8
+  - Code de la commande publique - art. L2392-10
+  - Code de la commande publique - art. L2394-2 (V)
+  - Code de la commande publique - art. L2395-1
+  - Code de la commande publique - art. L2397-3
+  - Code de la commande publique - art. L2410-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2421-1
+  - Code de la commande publique - art. L2422-13
+  - Code de la commande publique - art. L2430-1
+  - Code de la commande publique - art. L2431-1
+  - Code de la commande publique - art. L2432-2
+  - Code de la commande publique - art. L2500-1
+  - Code de la commande publique - art. L2500-2
+  - Code de la commande publique - art. L2511-1
+  - Code de la commande publique - art. L2514-4
+  - Code de la commande publique - art. L2515-1
+  - Code de la commande publique - art. L2521-1
+  - Code de la commande publique - art. L2521-4
+
+_Codifié par_:
+
+  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Loi n°2019-486 du 22 mai 2019 - art. 195
 
 
-##### Section 2 : Dispositions d'adaptation<a id=321></a>
+##### Section 2 : Dispositions d'adaptation<a id=327></a>
 
 ###### Article L2681-2
 
-Pour l'application dans les Terres australes et antarctiques françaises des dispositions législatives du livre Ier : 
+Pour l'application dans les Terres australes et antarctiques françaises des dispositions législatives du livre Ier :
 
 1° A l'article L. 2112-4, les mots : " des Etats membres de l'Union européenne " sont remplacés par les mots : " de la
-République " ; 
+République " ;
 
-2° A l'article L. 2113-5, le mot : " autre " est supprimé ; 
+2° A l'article L. 2113-5, le mot : " autre " est supprimé ;
 
-3° A l'article L. 2113-8, le mot : " autres " est supprimé ; 
+3° A l'article L. 2113-8, le mot : " autres " est supprimé ;
 
 4° A l'article L. 2113-12, les références aux articles L. 5213-13 du code du travail et L. 344-2 du code de l'action sociale
-et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+et des familles sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
 5° A l'article L. 2113-13, la référence à l'article L. 5132-4 du code du travail est remplacée par la référence aux
-dispositions applicables localement ayant le même objet ; 
+dispositions applicables localement ayant le même objet ;
 
 6° A l'article L. 2141-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références ayant le même objet applicables localement et les mots : " ainsi que pour les infractions équivalentes prévues
-par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
-7° A l'article L. 2141-4 : 
+7° A l'article L. 2141-4 :
 
 a) Au 1°, les mots : " pour méconnaissances des obligations prévues aux articles L. 8221-1, L. 8221-3, L. 8221-5, L. 8231-1,
 L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " pour une infraction en matière de
 travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation localement applicable " et les
-mots : " de l'article L. 1146-1 du même code ou " sont supprimés ; 
+mots : " de l'article L. 1146-1 du même code ou " sont supprimés ;
 
 b) Aux 2° et 3°, la référence au 2° de l'article L. 2242-1 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 8° A l'article L. 2141-5, la référence à l'article L. 8272-4 du code du travail est remplacée par une référence ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 9° A l'article L. 2153-2, les mots : " avec lesquels l'Union européenne n'a pas conclu, dans un cadre multilatéral ou
 bilatéral, un accord assurant un accès comparable et effectif des entreprises de l'Union européenne aux marchés de ces pays,
 ou auxquels le bénéfice d'un tel accord n'a pas été étendu par une décision du Conseil de l'Union européenne " sont
-supprimés ; 
+supprimés ;
 
-10° Le dernier alinéa de l'article L. 2171-2 est supprimé ; 
+10° Le dernier alinéa de l'article L. 2171-2 est supprimé ;
 
 11° A l'article L. 2171-5, les mots : " mentionnés à l'article L. 124-4 du code de la sécurité sociale gérant " sont
-remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ; 
+remplacés par les mots : " de droit privé autorisés par la réglementation applicable localement à gérer " ;
 
 12° A l'article L. 2172-4, la référence au 1° de l'article L. 110-1 du code de la route est remplacée par une référence
-applicable localement ayant le même objet ; 
+applicable localement ayant le même objet ;
 
 13° A l'article L. 2191-1, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
 
 14° A l'article L. 2191-5, les mots : ", les collectivités territoriales, leurs établissements publics et leurs groupements "
-sont supprimés ; 
+sont supprimés ;
+
+14° bis A l'article L. 2192-1, les mots : “ l'Etat, les collectivités territoriales et les établissements publics ” sont
+remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé par les mots : “
+peuvent transmettre ” ;
+
+14° ter A l'article L. 2192-2 et au 1° de l'article L. 2192-5, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ” ;
 
 15° A l'article L. 2197-4, les mots : " ou pour les marchés de droit privé, dans les conditions prévues par le code civil "
 sont supprimés.
+
+**Nota:**
+
+Conformément au III de l'article 193 de la loi 2019-486, ces dispositions entrent en vigueur à une date fixée par décret, et
+au plus tard le 22 juillet 2019.
 
 **Liens relatifs à cet article**
 
@@ -17238,47 +18000,47 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1743 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de la sécurité sociale. - art. L124-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la route. - art. L110-1 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L2112-4 (V)
-  - Code de la commande publique - art. L2113-12 (V)
-  - Code de la commande publique - art. L2113-13 (V)
-  - Code de la commande publique - art. L2113-5 (V)
-  - Code de la commande publique - art. L2113-8 (V)
-  - Code de la commande publique - art. L2141-1 (V)
-  - Code de la commande publique - art. L2141-4 (V)
-  - Code de la commande publique - art. L2141-5 (V)
-  - Code de la commande publique - art. L2153-2 (V)
-  - Code de la commande publique - art. L2171-2 (V)
-  - Code de la commande publique - art. L2171-5 (V)
-  - Code de la commande publique - art. L2172-4 (V)
-  - Code de la commande publique - art. L2191-1 (V)
-  - Code de la commande publique - art. L2191-5 (V)
-  - Code de la commande publique - art. L2197-4 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1743
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de la sécurité sociale. - art. L124-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la route. - art. L110-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2112-4
+  - Code de la commande publique - art. L2113-12
+  - Code de la commande publique - art. L2113-13
+  - Code de la commande publique - art. L2113-5
+  - Code de la commande publique - art. L2113-8
+  - Code de la commande publique - art. L2141-1
+  - Code de la commande publique - art. L2141-4
+  - Code de la commande publique - art. L2141-5
+  - Code de la commande publique - art. L2153-2
+  - Code de la commande publique - art. L2171-2
+  - Code de la commande publique - art. L2171-5
+  - Code de la commande publique - art. L2172-4
+  - Code de la commande publique - art. L2191-1
+  - Code de la commande publique - art. L2191-5
+  - Code de la commande publique - art. L2197-4
 
 
 ###### Article L2681-3
@@ -17468,9 +18230,9 @@ _Cite_:
   - Code de la commande publique - art. L2521-3 (V)
 
 
-#### Titre IX : DISPOSITIONS COMMUNES À PLUSIEURS COLLECTIVITÉS<a id=322></a>
+#### Titre IX : DISPOSITIONS COMMUNES À PLUSIEURS COLLECTIVITÉS<a id=328></a>
 
-##### Chapitre unique.<a id=323></a>
+##### Chapitre unique.<a id=329></a>
 
 ###### Article L2691-1
 
@@ -17516,9 +18278,9 @@ _Cite_:
   - Code de la commande publique - art. L2691-1 (V)
 
 
-## TROISIÈME PARTIE : CONCESSIONS<a id=324></a>
+## TROISIÈME PARTIE : CONCESSIONS<a id=330></a>
 
-### Livre préliminaire  CONTRATS DE CONCESSION MIXTES<a id=325></a>
+### Livre préliminaire  CONTRATS DE CONCESSION MIXTES<a id=331></a>
 
 ###### Article L3000-1
 
@@ -17634,7 +18396,7 @@ _Cite_:
   - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
 
 
-### Livre Ier : DISPOSITIONS GÉNÉRALES<a id=326></a>
+### Livre Ier : DISPOSITIONS GÉNÉRALES<a id=332></a>
 
 ###### Article L3100-1
 
@@ -17664,9 +18426,9 @@ _Cité par_:
   - Code de la commande publique - art. L3381-1 (VD)
 
 
-#### Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION<a id=327></a>
+#### Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION<a id=333></a>
 
-##### Chapitre Ier : Définition du besoin<a id=328></a>
+##### Chapitre Ier : Définition du besoin<a id=334></a>
 
 ###### Article L3111-1
 
@@ -17707,7 +18469,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre II : Mutualisation<a id=329></a>
+##### Chapitre II : Mutualisation<a id=335></a>
 
 ###### Article L3112-1
 
@@ -17810,7 +18572,7 @@ _Cite_:
   - Code de la commande publique -  TROISIÈME PARTIE : CONCESSIONS (V)
 
 
-##### Chapitre III : Réservation<a id=330></a>
+##### Chapitre III : Réservation<a id=336></a>
 
 ###### Article L3113-1
 
@@ -17895,9 +18657,9 @@ _Cite_:
   - Code de la commande publique - art. L3113-2 (V)
 
 
-##### Chapitre IV : Contenu du contrat de concession<a id=331></a>
+##### Chapitre IV : Contenu du contrat de concession<a id=337></a>
 
-##### Section 1 : Règles générales relatives aux conditions d'exécution<a id=332></a>
+##### Section 1 : Règles générales relatives aux conditions d'exécution<a id=338></a>
 
 ###### Article L3114-1
 
@@ -17965,7 +18727,7 @@ _Cité par_:
   - Code de la commande publique - art. L3126-3 (V)
 
 
-##### Section 2 : Droits d'entrée, redevances et tarifs<a id=333></a>
+##### Section 2 : Droits d'entrée, redevances et tarifs<a id=339></a>
 
 ###### Article L3114-4
 
@@ -18015,7 +18777,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 3 : Durée<a id=334></a>
+##### Section 3 : Durée<a id=340></a>
 
 ###### Article L3114-7
 
@@ -18057,7 +18819,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 4 : Part du contrat exécutée par des tiers<a id=335></a>
+##### Section 4 : Part du contrat exécutée par des tiers<a id=341></a>
 
 ###### Article L3114-9
 
@@ -18126,7 +18888,7 @@ _Cité par_:
   - Code de la commande publique - art. L3371-1 (VD)
 
 
-#### Titre II : PROCÉDURE DE PASSATION<a id=336></a>
+#### Titre II : PROCÉDURE DE PASSATION<a id=342></a>
 
 ###### Article L3120-1
 
@@ -18156,7 +18918,7 @@ _Cité par_:
   - Code de la commande publique - art. L3381-1 (VD)
 
 
-##### Chapitre Ier : Détermination des règles procédurales applicables<a id=337></a>
+##### Chapitre Ier : Détermination des règles procédurales applicables<a id=343></a>
 
 ###### Article L3121-1
 
@@ -18210,9 +18972,9 @@ _Cite_:
   - Code de la commande publique - art. L3121-1 (V)
 
 
-##### Chapitre II : Engagement de la procédure de passation<a id=338></a>
+##### Chapitre II : Engagement de la procédure de passation<a id=344></a>
 
-##### Section 1 : Publicité préalable<a id=339></a>
+##### Section 1 : Publicité préalable<a id=345></a>
 
 ###### Article L3122-1
 
@@ -18231,9 +18993,9 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Communications et échanges d'informations<a id=340></a>
+##### Section 2 : Communications et échanges d'informations<a id=346></a>
 
-##### Sous-section 1 : Consignation des étapes de la procédure<a id=341></a>
+##### Sous-section 1 : Consignation des étapes de la procédure<a id=347></a>
 
 ###### Article L3122-2
 
@@ -18254,7 +19016,7 @@ _Cité par_:
   - Code de la commande publique - art. L3126-2 (V)
 
 
-##### Sous-section 2 : Confidentialité<a id=342></a>
+##### Sous-section 2 : Confidentialité<a id=348></a>
 
 ###### Article L3122-3
 
@@ -18284,7 +19046,7 @@ _Cité par_:
   - Code de la commande publique - art. L3131-1 (V)
 
 
-##### Sous-section 3 : Mise à disposition des documents de la consultation<a id=343></a>
+##### Sous-section 3 : Mise à disposition des documents de la consultation<a id=349></a>
 
 ###### Article L3122-4
 
@@ -18302,7 +19064,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 4 : Moyens de communication et échanges d'informations<a id=344></a>
+##### Sous-section 4 : Moyens de communication et échanges d'informations<a id=350></a>
 
 ###### Article L3122-5
 
@@ -18320,11 +19082,11 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre III : Phase de candidature<a id=345></a>
+##### Chapitre III : Phase de candidature<a id=351></a>
 
-##### Section 1 : Motifs d'exclusion de la procédure de passation des contrats de concession<a id=346></a>
+##### Section 1 : Motifs d'exclusion de la procédure de passation des contrats de concession<a id=352></a>
 
-##### Sous-section 1 : Exclusions de plein droit<a id=347></a>
+##### Sous-section 1 : Exclusions de plein droit<a id=353></a>
 
 ###### Article L3123-1
 
@@ -18597,7 +19359,7 @@ _Cité par_:
   - Code de la commande publique - art. L3123-14 (V)
 
 
-##### Sous-section 2 : Exclusions à l'appréciation de l'autorité concédante<a id=348></a>
+##### Sous-section 2 : Exclusions à l'appréciation de l'autorité concédante<a id=354></a>
 
 ###### Article L3123-7
 
@@ -18696,7 +19458,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 3 : Exclusions de plein droit propres aux contrats de concession de défense ou de sécurité<a id=349></a>
+##### Sous-section 3 : Exclusions de plein droit propres aux contrats de concession de défense ou de sécurité<a id=355></a>
 
 ###### Article L3123-12
 
@@ -18779,7 +19541,7 @@ _Cite_:
   - Code de la commande publique - art. L3123-6 (V)
 
 
-##### Sous-section 4 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion<a id=350></a>
+##### Sous-section 4 : Changement de situation des opérateurs économiques au regard des motifs d'exclusion<a id=356></a>
 
 ###### Article L3123-15
 
@@ -18805,7 +19567,7 @@ _Cite_:
   - Code de la commande publique -  Sous-section 1 : Exclusions de plein droit (V)
 
 
-##### Sous-section 5 : Groupements d'opérateurs économiques et travaux ou services confiés à des tiers<a id=351></a>
+##### Sous-section 5 : Groupements d'opérateurs économiques et travaux ou services confiés à des tiers<a id=357></a>
 
 ###### Article L3123-16
 
@@ -18853,7 +19615,7 @@ _Cité par_:
   - Code de la commande publique - art. L3123-20 (V)
 
 
-##### Section 2 : Conditions de participation<a id=352></a>
+##### Section 2 : Conditions de participation<a id=358></a>
 
 ###### Article L3123-18
 
@@ -18946,9 +19708,9 @@ _Cité par_:
   - Code de la commande publique - art. L3381-2 (VD)
 
 
-##### Chapitre IV : Phase d'offre<a id=353></a>
+##### Chapitre IV : Phase d'offre<a id=359></a>
 
-##### Section 1 : Organisation de la négociation des offres<a id=354></a>
+##### Section 1 : Organisation de la négociation des offres<a id=360></a>
 
 ###### Article L3124-1
 
@@ -18973,9 +19735,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L1411-5 (VD)
 
 
-##### Section 2 : Choix de l'offre<a id=355></a>
+##### Section 2 : Choix de l'offre<a id=361></a>
 
-##### Sous-section 1 : Offres irrégulières ou inappropriées<a id=356></a>
+##### Sous-section 1 : Offres irrégulières ou inappropriées<a id=362></a>
 
 ###### Article L3124-2
 
@@ -19024,7 +19786,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Sous-section 2 : Choix de l'offre présentant le meilleur avantage économique global<a id=357></a>
+##### Sous-section 2 : Choix de l'offre présentant le meilleur avantage économique global<a id=363></a>
 
 ###### Article L3124-5
 
@@ -19049,7 +19811,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 3 : Accès aux contrats de concession de défense ou de sécurité d'opérateurs économiques ou de produits d'Etats tiers<a id=358></a>
+##### Section 3 : Accès aux contrats de concession de défense ou de sécurité d'opérateurs économiques ou de produits d'Etats tiers<a id=364></a>
 
 ###### Article L3124-6
 
@@ -19101,9 +19863,9 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre V : Achèvement de la procédure<a id=359></a>
+##### Chapitre V : Achèvement de la procédure<a id=365></a>
 
-##### Section 1 : Information des candidats et des soumissionnaires évincés<a id=360></a>
+##### Section 1 : Information des candidats et des soumissionnaires évincés<a id=366></a>
 
 ###### Article L3125-1
 
@@ -19121,7 +19883,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Section 2 : Avis d'attribution<a id=361></a>
+##### Section 2 : Avis d'attribution<a id=367></a>
 
 ###### Article L3125-2
 
@@ -19139,7 +19901,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre VI : Règles particulières à la passation de certains contrats de concession<a id=362></a>
+##### Chapitre VI : Règles particulières à la passation de certains contrats de concession<a id=368></a>
 
 ###### Article L3126-1
 
@@ -19221,13 +19983,13 @@ _Cité par_:
   - Code de la commande publique - art. R3126-1 (V)
 
 
-#### Titre III : EXÉCUTION DU CONTRAT DE CONCESSION<a id=363></a>
+#### Titre III : EXÉCUTION DU CONTRAT DE CONCESSION<a id=369></a>
 
-##### Chapitre Ier : Transparence et rapport d'information de l'autorité concédante<a id=364></a>
+##### Chapitre Ier : Transparence et rapport d'information de l'autorité concédante<a id=370></a>
 
-##### Section 1 : Mise à disposition des données essentielles<a id=365></a>
+##### Section 1 : Mise à disposition des données essentielles<a id=371></a>
 
-##### Sous-section 1 : Mise à disposition des données essentielles par l'autorité concédante<a id=366></a>
+##### Sous-section 1 : Mise à disposition des données essentielles par l'autorité concédante<a id=372></a>
 
 ###### Article L3131-1
 
@@ -19257,7 +20019,7 @@ _Cité par_:
   - Code de la commande publique - art. L3381-1 (VD)
 
 
-##### Sous-section 2 : Mise à disposition de données par le concessionnaire en cas de gestion concédée d'un service public<a id=367></a>
+##### Sous-section 2 : Mise à disposition de données par le concessionnaire en cas de gestion concédée d'un service public<a id=373></a>
 
 ###### Article L3131-2
 
@@ -19335,7 +20097,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
-##### Section 2 : Rapport d'information à l'autorité concédante<a id=368></a>
+##### Section 2 : Rapport d'information à l'autorité concédante<a id=374></a>
 
 ###### Article L3131-5
 
@@ -19365,7 +20127,7 @@ _Cite_:
   - Code de la commande publique - art. L1121-4 (V)
 
 
-##### Chapitre II : Occupation domaniale et biens de la concession<a id=369></a>
+##### Chapitre II : Occupation domaniale et biens de la concession<a id=375></a>
 
 ###### Article L3132-1
 
@@ -19502,11 +20264,192 @@ _Cité par_:
   - Code de la commande publique - art. L3371-1 (VD)
 
 
-##### Chapitre III : Exécution financière<a id=370></a>
+##### Chapitre III : Exécution financière<a id=376></a>
 
-##### Section 2 : Délais de paiement<a id=371></a>
+##### Section 1 : Facturation électronique<a id=377></a>
 
-##### Sous-section 1 : Fixation du délai de paiement<a id=372></a>
+##### Sous-section 1 : Transmission et réception des factures sous forme électronique<a id=378></a>
+
+###### Article L3133-1
+
+Les titulaires de contrats de concession conclus avec l'Etat, les collectivités territoriales et les établissements publics
+transmettent leurs factures sous forme électronique.
+
+Le présent article n'est pas applicable aux contrats de concession de défense ou de sécurité.
+
+**Nota:**
+
+Conformément aux III et IV l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur
+à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux contrats
+en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur. Ces dispositions s'appliquent aux marchés
+publics ou aux contrats de concession en cours d'exécution ou conclus postérieurement au 1er janvier 2020 pour les
+microentreprises telles que définies pour l'application de l'article 51 de la loi n° 2008-776 du 4 août 2008 de modernisation
+de l'économie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L3133-2
+
+L'Etat, les collectivités territoriales et les établissements publics acceptent les factures transmises sous forme
+électronique par les titulaires de contrats de concession mentionnés à l'article L. 3133-1.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L3133-3
+
+Sans préjudice de l'article L. 3133-2, les autorités concédantes acceptent les factures conformes à la norme de facturation
+électronique définie par voie réglementaire et transmises sous forme électronique par les titulaires de contrats de
+concession.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur. Ces dispositions en tant qu'elles
+renvoient respectivement aux articles L. 2192-3 et L. 3133-3 s'appliquent aux factures relatives aux marchés publics ou aux
+contrats de concession en cours d'exécution ou conclus postérieurement au 1er avril 2020 pour les factures reçues par les
+acheteurs et les autorités concédantes autres que les autorités publiques centrales dont la liste figure dans un avis annexé
+au code de la commande publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L3133-4
+
+Les articles L. 3133-2 et L. 3133-3 ne sont pas applicables aux contrats de concession de défense ou de sécurité lorsque leur
+passation et leur exécution sont déclarées secrètes ou doivent s'accompagner de mesures particulières de sécurité.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L3133-5
+
+Les modalités d'application de la présente sous-section, notamment les éléments essentiels que doivent contenir les factures
+électroniques, sont définies par voie réglementaire.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Sous-section 2 : Portail public de facturation<a id=379></a>
+
+###### Article L3133-6
+
+Une solution mutualisée, mise à disposition par l'Etat et dénommée “ portail public de facturation ”, permet le dépôt, la
+réception et la transmission des factures sous forme électronique.
+
+Pour la mise en œuvre des obligations résultant de la sous-section 1 de la présente section, utilisent le portail public de
+facturation :
+
+1° L'Etat, les collectivités territoriales et les établissements publics ;
+
+2° Les titulaires de contrats de concession conclus avec une autorité concédante mentionnée au 1°.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+###### Article L3133-7
+
+Ne sont pas soumises à la présente sous-section les factures émises en exécution des contrats de concession passés par :
+
+1° L'Etat et ses établissements publics en cas d'impératif de défense ou de sécurité nationale ;
+
+2° La Caisse des dépôts et consignations ;
+
+3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
+
+4° La SNCF, SNCF Réseau et SNCF Mobilités.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+_Cite_:
+
+  - Code des transports - art. L2142-1 (V)
+
+
+###### Article L3133-8
+
+Les modalités d'application de la présente sous-section sont précisées par voie réglementaire.
+
+**Nota:**
+
+Conformément aux III et IV de l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en
+vigueur à une date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi et s'appliquent aux
+contrats en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+
+
+##### Section 2 : Délais de paiement<a id=380></a>
+
+##### Sous-section 1 : Fixation du délai de paiement<a id=381></a>
 
 ###### Article L3133-10
 
@@ -19564,7 +20507,7 @@ _Cité par_:
   - Code de la commande publique - art. L3371-2 (VT)
 
 
-##### Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=373></a>
+##### Sous-section 2 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=382></a>
 
 ###### Article L3133-12
 
@@ -19623,7 +20566,7 @@ _Cité par_:
   - Code de la commande publique - art. L3381-1 (VD)
 
 
-##### Sous-section 3 : Amende administrative en cas de retard de paiement<a id=374></a>
+##### Sous-section 3 : Amende administrative en cas de retard de paiement<a id=383></a>
 
 ###### Article L3133-14
 
@@ -19660,7 +20603,7 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre IV : Exécution du contrat de concession par des tiers<a id=375></a>
+##### Chapitre IV : Exécution du contrat de concession par des tiers<a id=384></a>
 
 ###### Article L3134-1
 
@@ -19739,7 +20682,7 @@ _Cité par_:
   - Code de la commande publique - art. R3134-4 (V)
 
 
-##### Chapitre V : Modification du contrat de concession<a id=376></a>
+##### Chapitre V : Modification du contrat de concession<a id=385></a>
 
 ###### Article L3135-1
 
@@ -19799,9 +20742,9 @@ _Cite_:
   - Code de la commande publique - art. L6 (V)
 
 
-##### Chapitre VI : Fin des relations contractuelles<a id=377></a>
+##### Chapitre VI : Fin des relations contractuelles<a id=386></a>
 
-##### Section 1 : Résiliation des contrats de concession<a id=378></a>
+##### Section 1 : Résiliation des contrats de concession<a id=387></a>
 
 ###### Article L3136-1
 
@@ -19946,7 +20889,7 @@ _Cité par_:
   - Code de la commande publique - art. L3381-1 (VD)
 
 
-##### Section 2 : Modalités particulières d'indemnisation du concessionnaire<a id=379></a>
+##### Section 2 : Modalités particulières d'indemnisation du concessionnaire<a id=388></a>
 
 ###### Article L3136-7
 
@@ -20037,9 +20980,9 @@ _Créé par_:
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
 
-##### Chapitre VII : Règlement alternatif des différends<a id=380></a>
+##### Chapitre VII : Règlement alternatif des différends<a id=389></a>
 
-##### Section 1 : Conciliation et médiation<a id=381></a>
+##### Section 1 : Conciliation et médiation<a id=390></a>
 
 ###### Article L3137-1
 
@@ -20091,7 +21034,7 @@ _Cite_:
   - Code de procédure civile -  Chapitre Ier : La conciliation (V)
 
 
-##### Section 2 : Transaction<a id=382></a>
+##### Section 2 : Transaction<a id=391></a>
 
 ###### Article L3137-3
 
@@ -20121,7 +21064,7 @@ _Cité par_:
   - Code de la commande publique - art. L3381-1 (VD)
 
 
-##### Section 3 : Arbitrage<a id=383></a>
+##### Section 3 : Arbitrage<a id=392></a>
 
 ###### Article L3137-4
 
@@ -20173,7 +21116,7 @@ _Cite_:
   - Code de procédure civile -  Livre IV : L'arbitrage. (V)
 
 
-### Livre II : AUTRES CONTRATS DE CONCESSION<a id=384></a>
+### Livre II : AUTRES CONTRATS DE CONCESSION<a id=393></a>
 
 ###### Article L3200-1
 
@@ -20208,11 +21151,11 @@ _Cité par_:
   - Code de la commande publique - art. L3381-3 (V)
 
 
-#### Titre Ier : CHAMP D'APPLICATION<a id=385></a>
+#### Titre Ier : CHAMP D'APPLICATION<a id=394></a>
 
-##### Chapitre Ier : Relations internes au secteur public<a id=386></a>
+##### Chapitre Ier : Relations internes au secteur public<a id=395></a>
 
-##### Section 1 : Quasi-régie<a id=387></a>
+##### Section 1 : Quasi-régie<a id=396></a>
 
 ###### Article L3211-1
 
@@ -20373,7 +21316,7 @@ _Cité par_:
   - Code de la commande publique - art. L3211-6 (V)
 
 
-##### Section 2 : Coopération entre pouvoirs adjudicateurs<a id=388></a>
+##### Section 2 : Coopération entre pouvoirs adjudicateurs<a id=397></a>
 
 ###### Article L3211-6
 
@@ -20405,7 +21348,7 @@ _Cite_:
   - Code de la commande publique - art. L3211-5 (V)
 
 
-##### Section 3 : Contrats de concession attribués par une entité adjudicatrice à une entreprise liée<a id=389></a>
+##### Section 3 : Contrats de concession attribués par une entité adjudicatrice à une entreprise liée<a id=398></a>
 
 ###### Article L3211-7
 
@@ -20482,7 +21425,7 @@ _Cité par_:
   - Code de la commande publique - art. L3114-10 (V)
 
 
-##### Section 4 : Contrats de concession attribués par une entité adjudicatrice à une coentreprise<a id=390></a>
+##### Section 4 : Contrats de concession attribués par une entité adjudicatrice à une coentreprise<a id=399></a>
 
 ###### Article L3211-9
 
@@ -20511,9 +21454,9 @@ _Cite_:
   - Code de la commande publique -  Titre II : RÈGLES APPLICABLES (V)
 
 
-##### Chapitre II : Contrats de concession conclus par une autorité concédante<a id=391></a>
+##### Chapitre II : Contrats de concession conclus par une autorité concédante<a id=400></a>
 
-##### Section 1 : Contrats de concession conclus en application de règles internationales<a id=392></a>
+##### Section 1 : Contrats de concession conclus en application de règles internationales<a id=401></a>
 
 ###### Article L3212-1
 
@@ -20576,7 +21519,7 @@ _Cite_:
   - Code de la commande publique -  Titre II : RÈGLES APPLICABLES (V)
 
 
-##### Section 2 : Contrats de concession liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat<a id=393></a>
+##### Section 2 : Contrats de concession liés à la sécurité ou à la protection d'intérêts essentiels de l'Etat<a id=402></a>
 
 ###### Article L3212-3
 
@@ -20600,7 +21543,7 @@ _Cite_:
   - Code de la commande publique -  Titre II : RÈGLES APPLICABLES (V)
 
 
-##### Section 3 : Autres contrats de concession<a id=394></a>
+##### Section 3 : Autres contrats de concession<a id=403></a>
 
 ###### Article L3212-4
 
@@ -20690,7 +21633,7 @@ _Cite_:
   - Code de la commande publique -  Titre II : RÈGLES APPLICABLES (V)
 
 
-##### Chapitre III : Contrats de concession conclus par un pouvoir adjudicateur<a id=395></a>
+##### Chapitre III : Contrats de concession conclus par un pouvoir adjudicateur<a id=404></a>
 
 ###### Article L3213-1
 
@@ -20751,7 +21694,7 @@ _Cité par_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-##### Chapitre IV : Contrats de concession conclus par une entité adjudicatrice<a id=396></a>
+##### Chapitre IV : Contrats de concession conclus par une entité adjudicatrice<a id=405></a>
 
 ###### Article L3214-1
 
@@ -20816,7 +21759,7 @@ _Cité par_:
   - Code de la commande publique - art. L3342-1 (V)
 
 
-##### Chapitre V : Contrats de concession de défense ou de sécurité<a id=397></a>
+##### Chapitre V : Contrats de concession de défense ou de sécurité<a id=406></a>
 
 ###### Article L3215-1
 
@@ -20885,9 +21828,9 @@ _Cité par_:
   - Code de la commande publique - art. L3381-3 (V)
 
 
-#### Titre II : RÈGLES APPLICABLES<a id=398></a>
+#### Titre II : RÈGLES APPLICABLES<a id=407></a>
 
-##### Chapitre Ier : Règles générales applicables aux contrats de concession mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer<a id=399></a>
+##### Chapitre Ier : Règles générales applicables aux contrats de concession mentionnés au titre Ier à l'exception de ceux portant sur le service public de transport de voyageurs par chemin de fer<a id=408></a>
 
 ###### Article L3221-1
 
@@ -21046,7 +21989,7 @@ _Créé par_:
   - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 
-##### Chapitre II : Règles propres aux contrats de concession portant sur le service public de transport de voyageurs par chemin de fer<a id=400></a>
+##### Chapitre II : Règles propres aux contrats de concession portant sur le service public de transport de voyageurs par chemin de fer<a id=409></a>
 
 ###### Article L3222-1
 
@@ -21066,38 +22009,46 @@ _Cite_:
   - Code de la commande publique - art. L3212-4 (V)
 
 
-### Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=401></a>
+### Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=410></a>
 
-#### Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY<a id=402></a>
+#### Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY<a id=411></a>
 
-##### Chapitre Ier : Dispositions particulières au livre Ier<a id=403></a>
+##### Chapitre Ier : Dispositions particulières au livre Ier<a id=412></a>
 
 ###### Article L3321-1
 
-Pour l'application des dispositions législatives du livre Ier à Saint-Barthélemy : 
+Pour l'application des dispositions législatives du livre Ier à Saint-Barthélemy :
 
-1° A l'article L. 3112-3, le mot : " autres " est supprimé ; 
+1° A l'article L. 3112-3, le mot : " autres " est supprimé ;
 
 2° A l'article L. 3114-9, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant la
-définition des micro, petites et moyennes entreprises " sont supprimés ; 
+définition des micro, petites et moyennes entreprises " sont supprimés ;
 
 3° A l'article L. 3123-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références aux dispositions ayant le même objet applicables localement et les mots : " ainsi que pour les infractions
-équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 4° A l'article L. 3123-21, les mots : " hors du territoire de l'Union européenne " sont remplacés par les mots : " dans un
-Etat tiers " ; 
+Etat tiers " ;
 
-5° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé : 
+5° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé :
 
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
-européenne. " ; 
+européenne. " ;
 
-6° L'article L. 3126-3 est supprimé ; 
+6° L'article L. 3126-3 est supprimé ;
 
-7° L'article L. 3134-3 est supprimé ; 
+6° bis Au premier alinéa de l'article L. 3133-1, le mot : “ transmettent ” est remplacé par les mots : “ peuvent transmettre
+” ;
+
+7° L'article L. 3134-3 est supprimé ;
 
 8° L'article L. 3136-5 est supprimé.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21105,27 +22056,27 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L3112-3 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3123-21 (V)
-  - Code de la commande publique - art. L3124-6 (V)
-  - Code de la commande publique - art. L3126-3 (V)
-  - Code de la commande publique - art. L3134-3 (V)
-  - Code de la commande publique - art. L3136-5 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code de la commande publique
+  - Code de la commande publique - art. L3112-3
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3123-1
+  - Code de la commande publique - art. L3123-21
+  - Code de la commande publique - art. L3124-6
+  - Code de la commande publique - art. L3126-3
+  - Code de la commande publique - art. L3134-3
+  - Code de la commande publique - art. L3136-5
 
 
-##### Chapitre II : Dispositions particulières au livre II<a id=404></a>
+##### Chapitre II : Dispositions particulières au livre II<a id=413></a>
 
 ###### Article L3322-1
 
@@ -21187,9 +22138,9 @@ _Cite_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-#### Titre III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=405></a>
+#### Titre III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN<a id=414></a>
 
-##### Chapitre Ier : Dispositions particulières au livre Ier<a id=406></a>
+##### Chapitre Ier : Dispositions particulières au livre Ier<a id=415></a>
 
 ###### Article L3331-1
 
@@ -21216,7 +22167,7 @@ _Cite_:
   - Code de la commande publique - art. L3123-1 (V)
 
 
-##### Chapitre II : Dispositions particulières au livre II<a id=407></a>
+##### Chapitre II : Dispositions particulières au livre II<a id=416></a>
 
 ###### Article L3332-1
 
@@ -21239,36 +22190,44 @@ _Cite_:
   - Code de la commande publique - art. L3200-1 (V)
 
 
-#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=408></a>
+#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=417></a>
 
-##### Chapitre Ier : Dispositions particulières au livre Ier<a id=409></a>
+##### Chapitre Ier : Dispositions particulières au livre Ier<a id=418></a>
 
 ###### Article L3341-1
 
-Pour l'application des dispositions législatives du livre Ier à Saint-Pierre-et-Miquelon : 
+Pour l'application des dispositions législatives du livre Ier à Saint-Pierre-et-Miquelon :
 
-1° A l'article L. 3112-3, le mot : " autres " est supprimé ; 
+1° A l'article L. 3112-3, le mot : " autres " est supprimé ;
 
 2° A l'article L. 3114-9, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant la
-définition des micro, petites et moyennes entreprises " sont supprimés ; 
+définition des micro, petites et moyennes entreprises " sont supprimés ;
 
 3° A l'article L. 3123-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références aux dispositions ayant le même objet applicables localement et les mots : " ainsi que pour les infractions
-équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 4° A l'article L. 3123-21, les mots : " hors du territoire de l'Union européenne " sont remplacés par les mots : " dans un
-Etat tiers " ; 
+Etat tiers " ;
 
-5° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé : 
+5° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé :
 
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
-européenne. " ; 
+européenne. " ;
 
-6° L'article L. 3126-3 est supprimé ; 
+6° L'article L. 3126-3 est supprimé ;
 
-7° L'article L. 3134-3 est supprimé ; 
+6° bis Au premier alinéa de l'article L. 3133-1, le mot : “ transmettent ” est remplacé par les mots : “ peuvent transmettre
+” ;
+
+7° L'article L. 3134-3 est supprimé ;
 
 8° L'article L. 3136-5 est supprimé.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21276,27 +22235,27 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L3112-3 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3123-21 (V)
-  - Code de la commande publique - art. L3124-6 (V)
-  - Code de la commande publique - art. L3126-3 (V)
-  - Code de la commande publique - art. L3134-3 (V)
-  - Code de la commande publique - art. L3136-5 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code de la commande publique
+  - Code de la commande publique - art. L3112-3
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3123-1
+  - Code de la commande publique - art. L3123-21
+  - Code de la commande publique - art. L3124-6
+  - Code de la commande publique - art. L3126-3
+  - Code de la commande publique - art. L3134-3
+  - Code de la commande publique - art. L3136-5
 
 
-##### Chapitre II : Dispositions particulières au livre II<a id=410></a>
+##### Chapitre II : Dispositions particulières au livre II<a id=419></a>
 
 ###### Article L3342-1
 
@@ -21358,11 +22317,11 @@ _Cite_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-#### Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=411></a>
+#### Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=420></a>
 
-##### Chapitre unique.<a id=412></a>
+##### Chapitre unique.<a id=421></a>
 
-##### Section 1 : Dispositions générales<a id=413></a>
+##### Section 1 : Dispositions générales<a id=422></a>
 
 ###### Article L3351-1
 
@@ -21370,281 +22329,280 @@ Sous la réserve des adaptations prévues par le présent titre, les disposition
 Wallis et Futuna aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que par les autres
 organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif,
 dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le tableau ci-
-après. 
+après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="left" valign="bottom">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 L. 3000-1 à L. 3000-4 
 </td>
-        <td align="center" valign="bottom">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3100-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3111-1 à L. 3114-7 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3114-9 et L. 3114-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3120-1 à L. 3126-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3131-1 à L. 3132-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 3133-1 et L. 3133-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 3133-4 à L. 3133-8</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 3133-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3133-12 et L. 3133-13 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3134-1 et L. 3134-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3135-1 à L. 3136-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3136-6 à L. 3136-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-3 et L. 3137-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3211-1 à L. 3214-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3215-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3221-1 à L. 3221-6
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 3221-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique -  Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLE... (V)
-  - Code de la commande publique - art. L3000-1 (V)
-  - Code de la commande publique - art. L3100-1 (V)
-  - Code de la commande publique - art. L3111-1 (V)
-  - Code de la commande publique - art. L3114-10 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3120-1 (V)
-  - Code de la commande publique - art. L3126-2 (V)
-  - Code de la commande publique - art. L3131-1 (V)
-  - Code de la commande publique - art. L3132-6 (V)
-  - Code de la commande publique - art. L3133-10 (V)
-  - Code de la commande publique - art. L3133-12 (V)
-  - Code de la commande publique - art. L3133-13 (V)
-  - Code de la commande publique - art. L3134-1 (V)
-  - Code de la commande publique - art. L3134-2 (V)
-  - Code de la commande publique - art. L3135-1 (V)
-  - Code de la commande publique - art. L3136-6 (V)
-  - Code de la commande publique - art. L3137-1 (V)
-  - Code de la commande publique - art. L3137-3 (V)
-  - Code de la commande publique - art. L3137-4 (V)
-  - Code de la commande publique - art. L3200-1 (V)
-  - Code de la commande publique - art. L3211-1 (V)
-  - Code de la commande publique - art. L3215-1 (V)
-  - Code de la commande publique - art. L3221-1 (V)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique
+  - Code de la commande publique - art. L3000-1
+  - Code de la commande publique - art. L3100-1
+  - Code de la commande publique - art. L3111-1
+  - Code de la commande publique - art. L3114-10
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3120-1
+  - Code de la commande publique - art. L3126-2
+  - Code de la commande publique - art. L3131-1
+  - Code de la commande publique - art. L3132-6
+  - Code de la commande publique - art. L3133-10
+  - Code de la commande publique - art. L3133-12
+  - Code de la commande publique - art. L3133-13
+  - Code de la commande publique - art. L3134-1
+  - Code de la commande publique - art. L3134-2
+  - Code de la commande publique - art. L3135-1
+  - Code de la commande publique - art. L3136-6
+  - Code de la commande publique - art. L3137-1
+  - Code de la commande publique - art. L3137-3
+  - Code de la commande publique - art. L3137-4
+  - Code de la commande publique - art. L3200-1
+  - Code de la commande publique - art. L3211-1
+  - Code de la commande publique - art. L3215-1
+  - Code de la commande publique - art. L3221-1
 
 _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 
-##### Section 2 : Dispositions d'adaptation<a id=414></a>
+##### Section 2 : Dispositions d'adaptation<a id=423></a>
 
 ###### Article L3351-2
 
-Pour l'application des dispositions législatives du livre Ier dans les îles Wallis et Futuna : 
+Pour l'application des dispositions législatives du livre Ier dans les îles Wallis et Futuna :
 
-1° A l'article L. 3112-3, le mot : " autres " est supprimé ; 
+1° A l'article L. 3112-3, le mot : " autres " est supprimé ;
 
 2° A l'article L. 3113-1, les mots : " mentionnées à l'article L. 5213-13 du code du travail ", et " mentionnés à l'article
 L. 344-2 du code de l'action sociale et des familles et ainsi qu'à des structures équivalentes " sont remplacés par les
-mots : " créées en application de la réglementation locale " ; 
+mots : " créées en application de la réglementation locale " ;
 
 3° A l'article L. 3113-2, les mots : " mentionnées à l'article L. 5132-4 du code du travail et à des structures équivalentes
-" sont remplacés par les mots : " créées en application de la réglementation locale " ; 
+" sont remplacés par les mots : " créées en application de la réglementation locale " ;
 
 4° A l'article L. 3114-9, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant la
-définition des micro, petites et moyennes entreprises " sont supprimés ; 
+définition des micro, petites et moyennes entreprises " sont supprimés ;
 
 5° A l'article L. 3123-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références aux dispositions ayant le même objet applicables localement et les mots : " ainsi que pour les infractions
-équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 6° A l'article L. 3123-4, les mots : " méconnaissances des obligations prévues aux articles L. 1146-1, L. 8221-1, L. 8221-3,
 L. 8221-5, L. 8231-1, L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " avoir commis une
 infraction en matière de travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation
 localement applicable " et les références au 2° de l'article L. 2242-1 du code du travail sont remplacées par la référence
-aux dispositions ayant le même objet applicable localement ; 
+aux dispositions ayant le même objet applicable localement ;
 
 7° A l'article L. 3123-5, la référence à l'article L. 8272-4 du code du travail est remplacée par la référence aux
-dispositions ayant le même objet applicable localement ; 
+dispositions ayant le même objet applicable localement ;
 
 8° A l'article L. 3123-21, les mots : " hors du territoire de l'Union européenne " sont remplacés par les mots : " dans un
-Etat tiers " ; 
+Etat tiers " ;
 
-9° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé : 
+9° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé :
 
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
 européenne. "
+
+10° Au premier alinéa de l'article L. 3133-1, les mots : “ l'Etat, les collectivités territoriales et les établissements
+publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé
+par les mots : “ peuvent transmettre ” ;
+
+11° A l'article L. 3133-2 et au 1° de l'article L. 3133-6, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ”.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -21652,38 +22610,38 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L3112-3 (V)
-  - Code de la commande publique - art. L3113-1 (V)
-  - Code de la commande publique - art. L3113-2 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3123-21 (V)
-  - Code de la commande publique - art. L3123-4 (V)
-  - Code de la commande publique - art. L3123-5 (V)
-  - Code de la commande publique - art. L3124-6 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L3112-3
+  - Code de la commande publique - art. L3113-1
+  - Code de la commande publique - art. L3113-2
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3123-1
+  - Code de la commande publique - art. L3123-21
+  - Code de la commande publique - art. L3123-4
+  - Code de la commande publique - art. L3123-5
+  - Code de la commande publique - art. L3124-6
 
 
 ###### Article L3351-3
@@ -21743,301 +22701,306 @@ _Cite_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=415></a>
+#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=424></a>
 
-##### Chapitre unique.<a id=416></a>
+##### Chapitre unique.<a id=425></a>
 
-##### Section 1 : Dispositions générales<a id=417></a>
+##### Section 1 : Dispositions générales<a id=426></a>
 
 ###### Article L3361-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Polynésie
 française aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
 à cette collectivité, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire
-dans le tableau ci-après. 
+dans le tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="left" valign="bottom">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 L. 3000-1 à L. 3000-4 
 </td>
-        <td align="center" valign="bottom">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3100-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3111-1 à L. 3114-7 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3114-9 et L. 3114-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3120-1 à L. 3126-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3131-1 à L. 3132-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
+L. 3133-1 et L. 3133-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+L. 3133-4 à L. 3133-8</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 3133-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3133-12 et L. 3133-13 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3134-1 et L. 3134-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3135-1 à L. 3136-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3136-6 à L. 3136-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-3 et L. 3137-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3211-1 à L. 3214-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3215-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3221-1 à L. 3221-6
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+L. 3221-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique - art. L3000-1 (V)
-  - Code de la commande publique - art. L3100-1 (V)
-  - Code de la commande publique - art. L3111-1 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3120-1 (V)
-  - Code de la commande publique - art. L3131-1 (V)
-  - Code de la commande publique - art. L3133-10 (V)
-  - Code de la commande publique - art. L3133-12 (V)
-  - Code de la commande publique - art. L3133-13 (V)
-  - Code de la commande publique - art. L3134-1 (V)
-  - Code de la commande publique - art. L3134-2 (V)
-  - Code de la commande publique - art. L3135-1 (V)
-  - Code de la commande publique - art. L3136-6 (V)
-  - Code de la commande publique - art. L3137-1 (V)
-  - Code de la commande publique - art. L3137-3 (V)
-  - Code de la commande publique - art. L3200-1 (V)
-  - Code de la commande publique - art. L3211-1 (V)
-  - Code de la commande publique - art. L3215-1 (V)
-  - Code de la commande publique - art. L3221-1 (V)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique - art. L3000-1
+  - Code de la commande publique - art. L3100-1
+  - Code de la commande publique - art. L3111-1
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3120-1
+  - Code de la commande publique - art. L3131-1
+  - Code de la commande publique - art. L3133-10
+  - Code de la commande publique - art. L3133-12
+  - Code de la commande publique - art. L3133-13
+  - Code de la commande publique - art. L3134-1
+  - Code de la commande publique - art. L3134-2
+  - Code de la commande publique - art. L3135-1
+  - Code de la commande publique - art. L3136-6
+  - Code de la commande publique - art. L3137-1
+  - Code de la commande publique - art. L3137-3
+  - Code de la commande publique - art. L3200-1
+  - Code de la commande publique - art. L3211-1
+  - Code de la commande publique - art. L3215-1
+  - Code de la commande publique - art. L3221-1
 
 _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 
-##### Section 2 : Dispositions d'adaptation<a id=418></a>
+##### Section 2 : Dispositions d'adaptation<a id=427></a>
 
 ###### Article L3361-2
 
-Pour l'application des dispositions législatives du livre Ier en Polynésie française : 
+Pour l'application des dispositions législatives du livre Ier en Polynésie française :
 
-1° A l'article L. 3112-3, le mot : " autres " est supprimé ; 
+1° A l'article L. 3112-3, le mot : " autres " est supprimé ;
 
 2° A l'article L. 3113-1, les mots : " mentionnées à l'article L. 5213-13 du code du travail " et " mentionnés à l'article L.
 344-2 du code de l'action sociale et des familles et ainsi qu'à des structures équivalentes " sont remplacés par les mots : "
-créées en application de la réglementation locale " ; 
+créées en application de la réglementation locale " ;
 
 3° A l'article L. 3113-2, les mots : " mentionnées à l'article L. 5132-4 du code du travail et à des structures équivalentes
-" sont remplacés par les mots : " créées en application de la réglementation locale " ; 
+" sont remplacés par les mots : " créées en application de la réglementation locale " ;
 
 4° A l'article L. 3114-9, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant la
-définition des micro, petites et moyennes entreprises " sont supprimés ; 
+définition des micro, petites et moyennes entreprises " sont supprimés ;
 
 5° A l'article L. 3123-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références aux dispositions ayant le même objet applicables localement et les mots : " ainsi que pour les infractions
-équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 6° A l'article L. 3123-3, les références aux articles L. 640-1, L. 653-1 à L. 653-8 et L. 631-1 du code de commerce sont
-remplacées par les références aux dispositions ayant le même objet applicables localement ; 
+remplacées par les références aux dispositions ayant le même objet applicables localement ;
 
 7° A l'article L. 3123-4, les mots : " méconnaissances des obligations prévues aux articles L. 1146-1, L. 8221-1, L. 8221-3,
 L. 8221-5, L. 8231-1, L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " avoir commis une
 infraction en matière de travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation
 localement applicable " et les références au 2° de l'article L. 2242-1 du code du travail sont remplacées par la référence
-aux dispositions ayant le même objet applicable localement ; 
+aux dispositions ayant le même objet applicable localement ;
 
 8° A l'article L. 3123-5, la référence à l'article L. 8272-4 du code du travail est remplacée par la référence aux
-dispositions ayant le même objet applicable localement ; 
+dispositions ayant le même objet applicable localement ;
 
 9° A l'article L. 3123-21, les mots : " hors du territoire de l'Union européenne " sont remplacés par les mots : " dans un
-Etat tiers " ; 
+Etat tiers " ;
 
-10° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé : 
+10° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé :
 
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
-européenne. " ; 
+européenne. " ;
 
-11° A l'article L. 3133-11, les mots : " au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de
-commerce " sont remplacés par les mots : " par la réglementation applicable localement " ; 
+10° bis A l'article L. 3133-1, les mots : “ l'Etat, les collectivités territoriales et les établissements publics ” sont
+remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé par les mots : “
+peuvent transmettre ” ;
+
+10° ter A l'article L. 3133-2 et au 1° de l'article L. 3133-6, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ”
+
+11° A l'article L. 3133-11, les mots : " à l'article L. 441-6 du code de commerce " sont remplacés par les mots : " par la
+réglementation applicable localement " ;
 
 12° A l'article L. 3136-4, la référence à l'article L. 631-1 du code de commerce est remplacée par la référence aux
-dispositions ayant le même objet applicables localement ; 
+dispositions ayant le même objet applicables localement ;
 
-13° A l'article L. 3137-3, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ; 
+13° A l'article L. 3137-3, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ;
 
 14° A l'article L. 3137-4, les mots : " Ainsi qu'en dispose le premier alinéa de l'article 2060 du code civil, " sont
 supprimés.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -22047,12 +23010,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code de commerce - art. L441-10
-  - Code de commerce - art. L441-11
   - Code de commerce - art. L441-6
   - Code de commerce - art. L631-1
   - Code de commerce - art. L640-1
@@ -22150,308 +23111,307 @@ _Cite_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=419></a>
+#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=428></a>
 
-##### Chapitre unique.<a id=420></a>
+##### Chapitre unique.<a id=429></a>
 
-##### Section 1 : Dispositions générales<a id=421></a>
+##### Section 1 : Dispositions générales<a id=430></a>
 
 ###### Article L3371-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
 Calédonie aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
 à cette collectivité, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire
-dans le tableau ci-après. 
+dans le tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="left" valign="bottom">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
 L. 3000-1 à L. 3000-4 
 </td>
-        <td valign="bottom" align="center">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3100-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3111-1 à L. 3114-7 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3114-9 et L. 3114-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3120-1 à L. 3126-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3131-1 à L. 3132-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 3133-1 et L. 3133-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 3133-4 à L. 3133-8</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 3133-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3133-12 et L. 3133-13
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3134-1 et L. 3134-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3135-1 à L. 3136-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3136-6 à L. 3136-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-3 et L. 3137-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3211-1 à L. 3214-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3215-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3221-1 à L. 3221-6
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 3221-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique - art. L3000-1 (V)
-  - Code de la commande publique - art. L3100-1 (V)
-  - Code de la commande publique - art. L3111-1 (V)
-  - Code de la commande publique - art. L3114-10 (V)
-  - Code de la commande publique - art. L3114-7 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3120-1 (V)
-  - Code de la commande publique - art. L3126-2 (V)
-  - Code de la commande publique - art. L3131-1 (V)
-  - Code de la commande publique - art. L3132-6 (V)
-  - Code de la commande publique - art. L3133-10 (V)
-  - Code de la commande publique - art. L3133-12 (V)
-  - Code de la commande publique - art. L3133-13 (V)
-  - Code de la commande publique - art. L3134-1 (V)
-  - Code de la commande publique - art. L3134-2 (V)
-  - Code de la commande publique - art. L3135-1 (V)
-  - Code de la commande publique - art. L3136-4 (V)
-  - Code de la commande publique - art. L3136-6 (V)
-  - Code de la commande publique - art. L3137-1 (V)
-  - Code de la commande publique - art. L3137-3 (V)
-  - Code de la commande publique - art. L3137-4 (V)
-  - Code de la commande publique - art. L3200-1 (V)
-  - Code de la commande publique - art. L3211-1 (V)
-  - Code de la commande publique - art. L3214-1 (V)
-  - Code de la commande publique - art. L3215-1 (V)
-  - Code de la commande publique - art. L3221-1 (V)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique - art. L3000-1
+  - Code de la commande publique - art. L3100-1
+  - Code de la commande publique - art. L3111-1
+  - Code de la commande publique - art. L3114-10
+  - Code de la commande publique - art. L3114-7
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3120-1
+  - Code de la commande publique - art. L3126-2
+  - Code de la commande publique - art. L3131-1
+  - Code de la commande publique - art. L3132-6
+  - Code de la commande publique - art. L3133-10
+  - Code de la commande publique - art. L3133-12
+  - Code de la commande publique - art. L3133-13
+  - Code de la commande publique - art. L3134-1
+  - Code de la commande publique - art. L3134-2
+  - Code de la commande publique - art. L3135-1
+  - Code de la commande publique - art. L3136-4
+  - Code de la commande publique - art. L3136-6
+  - Code de la commande publique - art. L3137-1
+  - Code de la commande publique - art. L3137-3
+  - Code de la commande publique - art. L3137-4
+  - Code de la commande publique - art. L3200-1
+  - Code de la commande publique - art. L3211-1
+  - Code de la commande publique - art. L3214-1
+  - Code de la commande publique - art. L3215-1
+  - Code de la commande publique - art. L3221-1
 
 _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 
-##### Section 2 : Dispositions d'adaptation<a id=422></a>
+##### Section 2 : Dispositions d'adaptation<a id=431></a>
 
 ###### Article L3371-2
 
-Pour l'application des dispositions législatives du livre Ier en Nouvelle-Calédonie : 
+Pour l'application des dispositions législatives du livre Ier en Nouvelle-Calédonie :
 
-1° A l'article L. 3112-3, le mot : " autres " est supprimé ; 
+1° A l'article L. 3112-3, le mot : " autres " est supprimé ;
 
 2° A l'article L. 3113-1, les mots : " mentionnées à l'article L. 5213-13 du code du travail " et " mentionnés à l'article L.
 344-2 du code de l'action sociale et des familles et ainsi qu'à des structures équivalentes " sont remplacés par les mots : "
-créées en application de la réglementation locale " ; 
+créées en application de la réglementation locale " ;
 
 3° A l'article L. 3113-2, les mots : " mentionnées à l'article L. 5132-4 du code du travail et à des structures équivalentes
-" sont remplacés par les mots : " créées en application de la réglementation locale " ; 
+" sont remplacés par les mots : " créées en application de la réglementation locale " ;
 
 4° A l'article L. 3114-9, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant la
-définition des micro, petites et moyennes entreprises " sont supprimés ; 
+définition des micro, petites et moyennes entreprises " sont supprimés ;
 
 5° A l'article L. 3123-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références aux dispositions ayant le même objet applicables localement et les mots : " ainsi que pour les infractions
-équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 6° A l'article L. 3123-3, les références aux articles L. 640-1, L. 653-1 à L. 653-8 et L. 631-1 du code de commerce sont
-remplacées par les références aux dispositions ayant le même objet applicables localement ; 
+remplacées par les références aux dispositions ayant le même objet applicables localement ;
 
 7° A l'article L. 3123-4, les mots : " méconnaissances des obligations prévues aux articles L. 1146-1, L. 8221-1, L. 8221-3,
 L. 8221-5, L. 8231-1, L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " avoir commis une
 infraction en matière de travail dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation
 localement applicable " et les références au 2° de l'article L. 2242-1 du code du travail sont remplacées par la référence
-aux dispositions ayant le même objet applicable localement ; 
+aux dispositions ayant le même objet applicable localement ;
 
 8° A l'article L. 3123-5, la référence à l'article L. 8272-4 du code du travail est remplacée par la référence aux
-dispositions ayant le même objet applicable localement ; 
+dispositions ayant le même objet applicable localement ;
 
 9° A l'article L. 3123-21, les mots : " hors du territoire de l'Union européenne " sont remplacés par les mots : " dans un
-Etat tiers " ; 
+Etat tiers " ;
 
-10° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé : 
+10° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé :
 
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
-européenne. " ; 
+européenne. " ;
 
-11° A l'article L. 3133-11, les mots : " au I de l'article L. 441-10 et au 5° du II de l'article L. 441-11 du code de
-commerce " sont remplacés par les mots : " par la réglementation applicable localement " ; 
+10° bis A l'article L. 3133-1, les mots : “ l'Etat, les collectivités territoriales et les établissements publics ” sont
+remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé par les mots : “
+peuvent transmettre ” ;
+
+10° ter A l'article L. 3133-2 et au 1° de l'article L. 3133-6, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ”
+
+11° A l'article L. 3133-11, les mots : " à l'article L. 441-6 du code de commerce " sont remplacés par les mots : " par la
+réglementation applicable localement " ;
 
 12° A l'article L. 3136-4, la référence à l'article L. 631-1 du code de commerce est remplacée par la référence aux
-dispositions ayant le même objet applicables localement ; 
+dispositions ayant le même objet applicables localement ;
 
-13° A l'article L. 3137-3, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ; 
+13° A l'article L. 3137-3, les mots : " ainsi que le prévoit l'article 2044 du code civil " sont supprimés ;
 
 14° A l'article L. 3137-4, les mots : " Ainsi qu'en dispose le premier alinéa de l'article 2060 du code civil, " sont
 supprimés.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -22461,12 +23421,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code de commerce - art. L441-10
-  - Code de commerce - art. L441-11
   - Code de commerce - art. L441-6
   - Code de commerce - art. L631-1
   - Code de commerce - art. L640-1
@@ -22500,7 +23458,7 @@ _Cite_:
   - Code de la commande publique - art. L3123-4
   - Code de la commande publique - art. L3123-5
   - Code de la commande publique - art. L3124-6
-  - Code de la commande publique - art. L3133-11 (V)
+  - Code de la commande publique - art. L3133-11
   - Code de la commande publique - art. L3136-4
   - Code de la commande publique - art. L3137-3
   - Code de la commande publique - art. L3137-4
@@ -22563,11 +23521,11 @@ _Cite_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=423></a>
+#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=432></a>
 
-##### Chapitre unique.<a id=424></a>
+##### Chapitre unique.<a id=433></a>
 
-##### Section 1 : Dispositions générales<a id=425></a>
+##### Section 1 : Dispositions générales<a id=434></a>
 
 ###### Article L3381-1
 
@@ -22575,275 +23533,275 @@ Sous la réserve des adaptations prévues par le présent titre, les disposition
 australes et antarctiques françaises aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que
 par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public
 administratif, dans leur rédaction résultant de l'ordonnance n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après. 
+tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES </th>
-        <th>
-
-DANS LEUR REDACTION </th>
-      </tr>
-      <tr>
-        <td align="justify">
-
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 3000-1 à L. 3000-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3100-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3111-1 à L. 3114-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3120-1 à L. 3126-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3131-1 à L. 3132-6 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 3133-1 et L. 3133-2</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 3133-4 à L. 3133-8</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+    <tr>
+      <td align="justify">
 L. 3133-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3133-12 et L. 3133-13 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3134-1 et L. 3134-2 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3135-1 à L. 3136-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3136-6 à L. 3136-10 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3137-3 et L. 3137-4 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-Au livre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3200-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3211-1 à L. 3214-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3215-1 
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre II </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 L. 3221-1 à L. 3221-6
 </td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">L. 3221-7</td>
+      <td align="left">Résultant de la loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des
+entreprises</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 (V)
-  - Code de la commande publique -  Titre VIII : DISPOSITIONS APPLICABLES DANS LES ... (V)
-  - Code de la commande publique - art. L3000-1 (V)
-  - Code de la commande publique - art. L3100-1 (V)
-  - Code de la commande publique - art. L3111-1 (V)
-  - Code de la commande publique - art. L3120-1 (V)
-  - Code de la commande publique - art. L3131-1 (V)
-  - Code de la commande publique - art. L3133-10 (V)
-  - Code de la commande publique - art. L3133-12 (V)
-  - Code de la commande publique - art. L3133-13 (V)
-  - Code de la commande publique - art. L3134-1 (V)
-  - Code de la commande publique - art. L3134-2 (V)
-  - Code de la commande publique - art. L3135-1 (V)
-  - Code de la commande publique - art. L3136-6 (V)
-  - Code de la commande publique - art. L3137-1 (V)
-  - Code de la commande publique - art. L3137-3 (V)
-  - Code de la commande publique - art. L3137-4 (V)
-  - Code de la commande publique - art. L3200-1 (V)
-  - Code de la commande publique - art. L3211-1 (V)
-  - Code de la commande publique - art. L3215-1 (V)
-  - Code de la commande publique - art. L3221-1 (V)
+  - Ordonnance n°2018-1074 du 26 novembre 2018
+  - Code de la commande publique
+  - Code de la commande publique - art. L3000-1
+  - Code de la commande publique - art. L3100-1
+  - Code de la commande publique - art. L3111-1
+  - Code de la commande publique - art. L3120-1
+  - Code de la commande publique - art. L3131-1
+  - Code de la commande publique - art. L3133-10
+  - Code de la commande publique - art. L3133-12
+  - Code de la commande publique - art. L3133-13
+  - Code de la commande publique - art. L3134-1
+  - Code de la commande publique - art. L3134-2
+  - Code de la commande publique - art. L3135-1
+  - Code de la commande publique - art. L3136-6
+  - Code de la commande publique - art. L3137-1
+  - Code de la commande publique - art. L3137-3
+  - Code de la commande publique - art. L3137-4
+  - Code de la commande publique - art. L3200-1
+  - Code de la commande publique - art. L3211-1
+  - Code de la commande publique - art. L3215-1
+  - Code de la commande publique - art. L3221-1
 
 _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 
-##### Section 2 : Dispositions d'adaptation<a id=426></a>
+##### Section 2 : Dispositions d'adaptation<a id=435></a>
 
 ###### Article L3381-2
 
-Pour l'application des dispositions législatives du livre Ier dans les Terres australes et antarctiques françaises : 
+Pour l'application des dispositions législatives du livre Ier dans les Terres australes et antarctiques françaises :
 
-1° A l'article L. 3112-3, le mot : " autres " est supprimé ; 
+1° A l'article L. 3112-3, le mot : " autres " est supprimé ;
 
 2° A l'article L. 3113-1, les mots : " mentionnées à l'article L. 5213-13 du code du travail " et " mentionnés à l'article L.
 344-2 du code de l'action sociale et des familles et ainsi qu'à des structures équivalentes " sont remplacés par les mots : "
-créées en application de la réglementation locale " ; 
+créées en application de la réglementation locale " ;
 
 3° A l'article L. 3113-2, les mots : " mentionnées à l'article L. 5132-4 du code du travail et à des structures équivalentes
-" sont remplacés par les mots : " créées en application de la réglementation locale " ; 
+" sont remplacés par les mots : " créées en application de la réglementation locale " ;
 
 4° A l'article L. 3114-9, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant la
-définition des micro, petites et moyennes entreprises " sont supprimés ; 
+définition des micro, petites et moyennes entreprises " sont supprimés ;
 
 5° A l'article L. 3123-1, les références aux articles 1741 à 1743,1746 et 1747 du code général des impôts sont remplacées par
 les références aux dispositions ayant le même objet applicables localement et les mots : " ainsi que pour les infractions
-équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ; 
+équivalentes prévues par la législation d'un autre Etat membre de l'Union européenne " sont supprimés ;
 
 6° A l'article L. 3123-4, les mots : " méconnaissances des obligations prévues aux articles L. 1146-1, L. 8221-1, L. 8221-3,
 L. 8221-5, L. 8231-1, L. 8241-1, 
 L. 8251-1 et L. 8251-2 du code du travail " sont remplacés par les mots : " avoir commis une infraction en matière de travail
 dissimulé, d'emploi illégal d'étranger et de marchandage définies par la législation localement applicable " et les
 références au 2° de l'article L. 2242-1 du code du travail sont remplacées par la référence aux dispositions ayant le même
-objet applicable localement ; 
+objet applicable localement ;
 
 7° A l'article L. 3123-5, la référence à l'article L. 8272-4 du code du travail est remplacée par la référence aux
-dispositions ayant le même objet applicable localement ; 
+dispositions ayant le même objet applicable localement ;
 
 8° A l'article L. 3123-21, les mots : " hors du territoire de l'Union européenne " sont remplacés par les mots : " dans un
-Etat tiers " ; 
+Etat tiers " ;
 
-9° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé : 
+9° Le premier alinéa de l'article L. 3124-6 est ainsi rédigé :
 
 " Les concessions de défense ou de sécurité sont passées avec des opérateurs économiques d'Etats membres de l'Union
 européenne. ".
+
+10° Au premier alinéa de l'article L. 3133-1, les mots : “ l'Etat, les collectivités territoriales et les établissements
+publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ” et le mot : “ transmettent ” est remplacé
+par les mots : “ peuvent transmettre ” ;
+
+11° A l'article L. 3133-2 et au 1° de l'article L. 3133-6, les mots : “ l'Etat, les collectivités territoriales et les
+établissements publics ” sont remplacés par les mots : “ l'Etat et ses établissements publics ”.
+
+**Nota:**
+
+Conformément au III l’article 193 de la loi n° 2019-486 du 22 mai 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret, et au plus tard deux mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -22851,38 +23809,38 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1741 (V)
-  - Code général des impôts, CGI. - art. 1746 (V)
-  - Code général des impôts, CGI. - art. 1747 (V)
-  - Code du travail - art. L1146-1 (V)
-  - Code du travail - art. L2242-1 (V)
-  - Code du travail - art. L5132-4 (V)
-  - Code du travail - art. L5213-13 (V)
-  - Code du travail - art. L8221-1 (V)
-  - Code du travail - art. L8221-3 (V)
-  - Code du travail - art. L8221-5 (V)
-  - Code du travail - art. L8231-1 (V)
-  - Code du travail - art. L8241-1 (V)
-  - Code du travail - art. L8251-1 (V)
-  - Code du travail - art. L8251-2 (V)
-  - Code du travail - art. L8272-4 (V)
-  - Code de l'action sociale et des familles - art. L344-2 (V)
-  - Code de la commande publique -  Livre Ier : DISPOSITIONS GÉNÉRALES (V)
-  - Code de la commande publique - art. L3112-3 (V)
-  - Code de la commande publique - art. L3113-1 (V)
-  - Code de la commande publique - art. L3113-2 (V)
-  - Code de la commande publique - art. L3114-9 (V)
-  - Code de la commande publique - art. L3123-1 (V)
-  - Code de la commande publique - art. L3123-21 (V)
-  - Code de la commande publique - art. L3123-4 (V)
-  - Code de la commande publique - art. L3123-5 (V)
-  - Code de la commande publique - art. L3124-6 (V)
+  - Code général des impôts, CGI. - art. 1741
+  - Code général des impôts, CGI. - art. 1746
+  - Code général des impôts, CGI. - art. 1747
+  - Code du travail - art. L1146-1
+  - Code du travail - art. L2242-1
+  - Code du travail - art. L5132-4
+  - Code du travail - art. L5213-13
+  - Code du travail - art. L8221-1
+  - Code du travail - art. L8221-3
+  - Code du travail - art. L8221-5
+  - Code du travail - art. L8231-1
+  - Code du travail - art. L8241-1
+  - Code du travail - art. L8251-1
+  - Code du travail - art. L8251-2
+  - Code du travail - art. L8272-4
+  - Code de l'action sociale et des familles - art. L344-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L3112-3
+  - Code de la commande publique - art. L3113-1
+  - Code de la commande publique - art. L3113-2
+  - Code de la commande publique - art. L3114-9
+  - Code de la commande publique - art. L3123-1
+  - Code de la commande publique - art. L3123-21
+  - Code de la commande publique - art. L3123-4
+  - Code de la commande publique - art. L3123-5
+  - Code de la commande publique - art. L3124-6
 
 
 ###### Article L3381-3
@@ -22942,11 +23900,11 @@ _Cite_:
   - Code de la commande publique - art. L3215-1 (V)
 
 
-# Partie réglementaire<a id=427></a>
+# Partie réglementaire<a id=436></a>
 
-## DEUXIÈME PARTIE : MARCHÉS PUBLICS<a id=428></a>
+## DEUXIÈME PARTIE : MARCHÉS PUBLICS<a id=437></a>
 
-### Livre Ier : DISPOSITIONS GÉNÉRALES<a id=429></a>
+### Livre Ier : DISPOSITIONS GÉNÉRALES<a id=438></a>
 
 ###### Article R2100-1
 
@@ -22977,13 +23935,13 @@ _Cité par_:
   - Code de la commande publique - art. R2671-1 (VT)
 
 
-#### Titre Ier : PRÉPARATION DU MARCHÉ<a id=430></a>
+#### Titre Ier : PRÉPARATION DU MARCHÉ<a id=439></a>
 
-##### Chapitre Ier : DÉFINITION DU BESOIN<a id=431></a>
+##### Chapitre Ier : DÉFINITION DU BESOIN<a id=440></a>
 
-##### Section 1 : Aide à la définition du besoin<a id=432></a>
+##### Section 1 : Aide à la définition du besoin<a id=441></a>
 
-##### Sous-section 1 : Etudes et échanges préalables avec les opérateurs économiques<a id=433></a>
+##### Sous-section 1 : Etudes et échanges préalables avec les opérateurs économiques<a id=442></a>
 
 ###### Article R2111-1
 
@@ -23018,7 +23976,7 @@ _Cité par_:
   - Code de la commande publique - art. R2671-1 (VT)
 
 
-##### Sous-section 2 : Participation d'un opérateur économique à la préparation du marché<a id=434></a>
+##### Sous-section 2 : Participation d'un opérateur économique à la préparation du marché<a id=443></a>
 
 ###### Article R2111-2
 
@@ -23051,7 +24009,7 @@ _Cité par_:
   - Code de la commande publique - art. R2311-1 (V)
 
 
-##### Sous-section 3 : Schéma de promotion des achats<a id=435></a>
+##### Sous-section 3 : Schéma de promotion des achats<a id=444></a>
 
 ###### Article D2111-3
 
@@ -23076,9 +24034,9 @@ _Cite_:
   - Code de la commande publique - art. L2111-3 (VD)
 
 
-##### Section 2 : Formalisation du besoin par des spécifications techniques<a id=436></a>
+##### Section 2 : Formalisation du besoin par des spécifications techniques<a id=445></a>
 
-##### Sous-section 1 : Contenu des spécifications techniques<a id=437></a>
+##### Sous-section 1 : Contenu des spécifications techniques<a id=446></a>
 
 ###### Article R2111-4
 
@@ -23145,7 +24103,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Formulation des spécifications techniques<a id=438></a>
+##### Sous-section 2 : Formulation des spécifications techniques<a id=447></a>
 
 ###### Article R2111-7
 
@@ -23285,7 +24243,7 @@ _Cité par_:
   - Code de la commande publique - art. R2311-6 (V)
 
 
-##### Section 3 : Utilisation de labels<a id=439></a>
+##### Section 3 : Utilisation de labels<a id=448></a>
 
 ###### Article R2111-12
 
@@ -23424,9 +24382,9 @@ _Cite_:
   - Code de la commande publique - art. R2111-15 (VD)
 
 
-##### Chapitre II : CONTENU DU MARCHÉ<a id=440></a>
+##### Chapitre II : CONTENU DU MARCHÉ<a id=449></a>
 
-##### Section 1 : Règles générales<a id=441></a>
+##### Section 1 : Règles générales<a id=450></a>
 
 ###### Article R2112-1
 
@@ -23491,7 +24449,7 @@ _Cité par_:
   - Code de la commande publique - art. R2312-3 (V)
 
 
-##### Section 2 : Durée<a id=442></a>
+##### Section 2 : Durée<a id=451></a>
 
 ###### Article R2112-4
 
@@ -23511,7 +24469,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Prix<a id=443></a>
+##### Section 3 : Prix<a id=452></a>
 
 ###### Article R2112-5
 
@@ -23534,7 +24492,7 @@ _Cité par_:
   - Code de la commande publique - art. R2521-2 (V)
 
 
-##### Sous-section 1 : Forme des prix<a id=444></a>
+##### Sous-section 1 : Forme des prix<a id=453></a>
 
 ###### Article R2112-6
 
@@ -23559,7 +24517,7 @@ _Cité par_:
   - Code de la commande publique - art. R2312-7 (V)
 
 
-##### Sous-section 2 : Prix définitifs<a id=445></a>
+##### Sous-section 2 : Prix définitifs<a id=454></a>
 
 ###### Article R2112-7
 
@@ -23597,7 +24555,7 @@ _Cité par_:
   - Code de la commande publique - art. R2312-9 (V)
 
 
-##### Paragraphe 1 : Prix fermes<a id=446></a>
+##### Paragraphe 1 : Prix fermes<a id=455></a>
 
 ###### Article R2112-9
 
@@ -23704,7 +24662,7 @@ _Cite_:
   - Code de la commande publique - art. R2112-11 (V)
 
 
-##### Paragraphe 2 : Prix révisables<a id=447></a>
+##### Paragraphe 2 : Prix révisables<a id=456></a>
 
 ###### Article R2112-13
 
@@ -23739,7 +24697,7 @@ _Cité par_:
   - Code de la commande publique - art. R2671-1 (VT)
 
 
-##### Paragraphe 3 : Prix affecté par les fluctuations des cours mondiaux<a id=448></a>
+##### Paragraphe 3 : Prix affecté par les fluctuations des cours mondiaux<a id=457></a>
 
 ###### Article R2112-14
 
@@ -23772,7 +24730,7 @@ _Cité par_:
   - Code de la commande publique - art. R2671-1 (VT)
 
 
-##### Sous-section 3 : Prix provisoires<a id=449></a>
+##### Sous-section 3 : Prix provisoires<a id=458></a>
 
 ###### Article R2112-15
 
@@ -23883,9 +24841,9 @@ _Cité par_:
   - Code de la commande publique - art. R2312-14 (V)
 
 
-##### Chapitre III : ORGANISATION DE L'ACHAT<a id=450></a>
+##### Chapitre III : ORGANISATION DE L'ACHAT<a id=459></a>
 
-##### Section 1 : Allotissement<a id=451></a>
+##### Section 1 : Allotissement<a id=460></a>
 
 ###### Article R2113-1
 
@@ -23958,7 +24916,7 @@ _Cite_:
   - Code de la commande publique - art. R2184-8 (V)
 
 
-##### Section 2 : Marchés à tranches<a id=452></a>
+##### Section 2 : Marchés à tranches<a id=461></a>
 
 ###### Article R2113-4
 
@@ -24016,9 +24974,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Réservation de marchés<a id=453></a>
+##### Section 3 : Réservation de marchés<a id=462></a>
 
-##### Sous-section 1 : Réservation de marchés aux opérateurs économiques qui emploient des travailleurs handicapés et défavorisés<a id=454></a>
+##### Sous-section 1 : Réservation de marchés aux opérateurs économiques qui emploient des travailleurs handicapés et défavorisés<a id=463></a>
 
 ###### Article R2113-7
 
@@ -24044,7 +25002,7 @@ _Cite_:
   - Code de la commande publique - art. L2113-13 (V)
 
 
-##### Sous-section 2 : Réservation de marchés aux entreprises de l'économie sociale et solidaire<a id=455></a>
+##### Sous-section 2 : Réservation de marchés aux entreprises de l'économie sociale et solidaire<a id=464></a>
 
 ###### Article R2113-8
 
@@ -24068,11 +25026,11 @@ _Cite_:
   - Code de la commande publique - art. L2113-16 (V)
 
 
-#### Titre II : CHOIX DE LA PROCÉDURE DE PASSATION<a id=456></a>
+#### Titre II : CHOIX DE LA PROCÉDURE DE PASSATION<a id=465></a>
 
-##### Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN<a id=457></a>
+##### Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN<a id=466></a>
 
-##### Section 1 : Dispositions générales<a id=458></a>
+##### Section 1 : Dispositions générales<a id=467></a>
 
 ###### Article R2121-1
 
@@ -24158,7 +25116,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Prise en compte de la nature des prestations<a id=459></a>
+##### Section 2 : Prise en compte de la nature des prestations<a id=468></a>
 
 ###### Article R2121-5
 
@@ -24226,7 +25184,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Dispositions propres aux accords-cadres, systèmes d'acquisition dynamique et partenariats d'innovation<a id=460></a>
+##### Section 3 : Dispositions propres aux accords-cadres, systèmes d'acquisition dynamique et partenariats d'innovation<a id=469></a>
 
 ###### Article R2121-8
 
@@ -24277,9 +25235,9 @@ _Cité par_:
   - Code de la commande publique - art. R2321-6 (V)
 
 
-##### Chapitre II : MARCHÉS PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES<a id=461></a>
+##### Chapitre II : MARCHÉS PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES<a id=470></a>
 
-##### Section 1 : Marchés passés sans publicité ni mise en concurrence en raison de leur montant ou de leur objet<a id=462></a>
+##### Section 1 : Marchés passés sans publicité ni mise en concurrence en raison de leur montant ou de leur objet<a id=471></a>
 
 ###### Article R2122-1
 
@@ -24321,27 +25279,23 @@ _Cité par_:
 L'acheteur peut passer un marché sans publicité ni mise en concurrence préalables lorsque, dans les cas définis ci-après,
 soit aucune candidature ou aucune offre n'a été déposée dans les délais prescrits, soit seules des candidatures irrecevables
 définies à l'article R. 2144-7 ou des offres inappropriées définies à l'article L. 2152-4 ont été présentées, et pour autant
-que les conditions initiales du marché ne soient pas substantiellement modifiées : 
+que les conditions initiales du marché ne soient pas substantiellement modifiées :
 
-1° Appel d'offres lancé par un pouvoir adjudicateur ; 
+1° Appel d'offres lancé par un pouvoir adjudicateur ;
 
-2° Procédure formalisée lancée par une entité adjudicatrice ; 
+2° Procédure formalisée lancée par une entité adjudicatrice ;
 
-3° Marché répondant à un besoin dont la valeur estimée est inférieure aux seuils de procédure formalisée ; 
+3° Marché répondant à un besoin dont la valeur estimée est inférieure aux seuils de procédure formalisée ;
 
-4° Marché relevant des 3° et 4° de l'article R. 2123-1. 
+4° Marché relevant des 3° et 4° de l'article R. 2123-1.
 
-Dans les cas mentionnés aux 1°, 2° et 4° répondant à un besoin dont la valeur estimée est égale ou supérieure au seuil
-européen applicable à ces marchés figurant dans un avis annexé au présent code, un rapport est communiqué à la Commission
-européenne si elle le demande.
+Dans les cas mentionnés aux 1° et 2° du présent article et au 3° de l'article R. 2123-1 répondant à un besoin dont la valeur
+estimée est égale ou supérieure au seuil européen applicable à ces marchés figurant dans un avis annexé au présent code, un
+rapport est communiqué à la Commission européenne si elle le demande.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
@@ -24352,13 +25306,17 @@ _Cité par_:
   - Code de la commande publique - art. R2621-1 (V)
   - Code de la commande publique - art. R2641-1 (V)
   - Code de la commande publique - art. R2651-3 (M)
-  - Code de la commande publique - art. R2661-3 (M)
+  - Code de la commande publique - art. R2661-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique - art. L2152-4 (V)
-  - Code de la commande publique - art. R2123-1 (V)
-  - Code de la commande publique - art. R2144-7 (V)
+  - Code de la commande publique - art. L2152-4
+  - Code de la commande publique - art. R2123-1
+  - Code de la commande publique - art. R2144-7
 
 
 ###### Article R2122-3
@@ -24544,7 +25502,7 @@ _Cite_:
   - Code de la commande publique - art. R2122-8 (V)
 
 
-##### Section 2 : Marchés passés sans publicité ni mise en concurrence en raison de la qualité de l'acheteur<a id=463></a>
+##### Section 2 : Marchés passés sans publicité ni mise en concurrence en raison de la qualité de l'acheteur<a id=472></a>
 
 ###### Article R2122-10
 
@@ -24597,9 +25555,9 @@ _Cité par_:
   - Code de la commande publique - art. R2183-7 (V)
 
 
-##### Chapitre III : MARCHÉS PASSÉS SELON UNE PROCÉDURE ADAPTÉE<a id=464></a>
+##### Chapitre III : MARCHÉS PASSÉS SELON UNE PROCÉDURE ADAPTÉE<a id=473></a>
 
-##### Section 1 : Conditions de recours à une procédure adaptée<a id=465></a>
+##### Section 1 : Conditions de recours à une procédure adaptée<a id=474></a>
 
 ###### Article R2123-1
 
@@ -24723,7 +25681,7 @@ _Cité par_:
   - Code de la commande publique - art. R2671-1 (VT)
 
 
-##### Section 2 : Règles applicables<a id=466></a>
+##### Section 2 : Règles applicables<a id=475></a>
 
 ###### Article R2123-4
 
@@ -24801,7 +25759,7 @@ _Cite_:
   - Code de la commande publique - art. R2123-1 (V)
 
 
-##### Section 3 : Règles particulières aux services juridiques<a id=467></a>
+##### Section 3 : Règles particulières aux services juridiques<a id=476></a>
 
 ###### Article R2123-8
 
@@ -24849,7 +25807,7 @@ _Cite_:
   - Code de la commande publique - art. R2184-13 (V)
 
 
-##### Chapitre IV : MARCHÉS PASSÉS SELON UNE PROCÉDURE FORMALISÉE<a id=468></a>
+##### Chapitre IV : MARCHÉS PASSÉS SELON UNE PROCÉDURE FORMALISÉE<a id=477></a>
 
 ###### Article R2124-1
 
@@ -24877,7 +25835,7 @@ _Modifié par_:
   - Décret n°2019-259 du 29 mars 2019 - art. 1
 
 
-##### Section 1 : Appel d'offres<a id=469></a>
+##### Section 1 : Appel d'offres<a id=478></a>
 
 ###### Article R2124-2
 
@@ -24909,33 +25867,35 @@ _Cité par_:
   - Code de la commande publique - art. R2671-1 (VT)
 
 
-##### Section 2 : Procédure avec négociation<a id=470></a>
+##### Section 2 : Procédure avec négociation<a id=479></a>
 
 ###### Article R2124-3
 
-Le pouvoir adjudicateur peut passer ses marchés selon la procédure avec négociation dans les cas suivants : 
+Le pouvoir adjudicateur peut passer ses marchés selon la procédure avec négociation dans les cas suivants :
 
-1° Lorsque le besoin ne peut être satisfait sans adapter des solutions immédiatement disponibles ; 
+1° Lorsque le besoin ne peut être satisfait sans adapter des solutions immédiatement disponibles ;
 
 2° Lorsque le besoin consiste en une solution innovante. Sont innovants les travaux, fournitures ou services nouveaux ou
 sensiblement améliorés. Le caractère innovant peut consister dans la mise en œuvre de nouveaux procédés de production ou de
 construction, d'une nouvelle méthode de commercialisation ou d'une nouvelle méthode organisationnelle dans les pratiques,
-l'organisation du lieu de travail ou les relations extérieures de l'entreprise ; 
+l'organisation du lieu de travail ou les relations extérieures de l'entreprise ;
 
-3° Lorsque le marché comporte des prestations de conception ; 
+3° Lorsque le marché comporte des prestations de conception ;
 
 4° Lorsque le marché ne peut être attribué sans négociation préalable du fait de circonstances particulières liées à sa
-nature, à sa complexité ou au montage juridique et financier ou en raison des risques qui s'y rattachent ; 
+nature, à sa complexité ou au montage juridique et financier ou en raison des risques qui s'y rattachent ;
 
 5° Lorsque le pouvoir adjudicateur n'est pas en mesure de définir les spécifications techniques avec une précision suffisante
 en se référant à une norme, une évaluation technique européenne, une spécification technique commune ou un référentiel
-technique, définis à la section 2 du chapitre Ier du titre Ier du présent livre ; 
+technique, définis à la section 2 du chapitre Ier du titre Ier du présent livre ;
 
 6° Lorsque, dans le cadre d'un appel d'offres, seules des offres irrégulières ou inacceptables, au sens des articles L.
 2152-2 et L. 2152-3, ont été présentées pour autant que les conditions initiales du marché ne soient pas substantiellement
 modifiées. Le pouvoir adjudicateur n'est pas tenu de publier un avis de marché s'il ne fait participer à la procédure que le
 ou les soumissionnaires qui ont présenté des offres conformes aux exigences relatives aux délais et modalités formelles de
-l'appel d'offres.
+l'appel d'offres. Toutefois, par dérogation aux dispositions de l'article R. 2144-4, ne peuvent participer à la procédure que
+le ou les soumissionnaires ayant justifié au préalable ne pas être dans un cas d'exclusion et satisfaisant aux conditions de
+participation fixées par l'acheteur.
 
 **Liens relatifs à cet article**
 
@@ -24943,21 +25903,21 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique -  Section 2 : Formalisation du besoin par des spé... (V)
-  - Code de la commande publique - art. L2152-2 (V)
-  - Code de la commande publique - art. L2152-3 (V)
+  - Code de la commande publique
+  - Code de la commande publique - art. L2152-2
+  - Code de la commande publique - art. L2152-3
 
 _Cité par_:
 
   - Code de la commande publique - art. R2124-5 (V)
   - Code de la commande publique - art. R2621-1 (V)
-  - Code de la commande publique - art. R2641-1 (M)
+  - Code de la commande publique - art. R2641-1 (V)
   - Code de la commande publique - art. R2651-3 (M)
   - Code de la commande publique - art. R2661-3 (V)
 
@@ -24977,7 +25937,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Dialogue compétitif<a id=471></a>
+##### Section 3 : Dialogue compétitif<a id=480></a>
 
 ###### Article R2124-5
 
@@ -25018,13 +25978,13 @@ _Cité par_:
   - Code de la commande publique - art. R2131-16 (V)
 
 
-#### Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=472></a>
+#### Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=481></a>
 
-##### Chapitre Ier : PUBLICITÉ PRÉALABLE<a id=473></a>
+##### Chapitre Ier : PUBLICITÉ PRÉALABLE<a id=482></a>
 
-##### Section 1 : Supports de publication<a id=474></a>
+##### Section 1 : Supports de publication<a id=483></a>
 
-##### Sous-section 1 : Avis de préinformation et avis périodique indicatif manifestant l'intention des acheteurs de passer un marché<a id=475></a>
+##### Sous-section 1 : Avis de préinformation et avis périodique indicatif manifestant l'intention des acheteurs de passer un marché<a id=484></a>
 
 ###### Article R2131-1
 
@@ -25129,9 +26089,9 @@ _Cite_:
   - Code de la commande publique - art. R2132-12 (V)
 
 
-##### Sous-section 2 : Avis de préinformation et avis périodique indicatif constituant un appel à la concurrence<a id=476></a>
+##### Sous-section 2 : Avis de préinformation et avis périodique indicatif constituant un appel à la concurrence<a id=485></a>
 
-##### Paragraphe 1 : Dispositions applicables aux marchés autres que ceux relatifs aux services sociaux et autres services spécifiques<a id=477></a>
+##### Paragraphe 1 : Dispositions applicables aux marchés autres que ceux relatifs aux services sociaux et autres services spécifiques<a id=486></a>
 
 ###### Article R2131-4
 
@@ -25228,7 +26188,7 @@ _Cite_:
   - Code de la commande publique - art. R2131-4 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux marchés de services sociaux et autres services spécifiques<a id=478></a>
+##### Paragraphe 2 : Dispositions applicables aux marchés de services sociaux et autres services spécifiques<a id=487></a>
 
 ###### Article R2131-7
 
@@ -25319,7 +26279,7 @@ _Cite_:
   - Code de la commande publique - art. R2131-7 (V)
 
 
-##### Paragraphe 3 : Dispositions communes relatives à l'invitation à confirmer l'intérêt<a id=479></a>
+##### Paragraphe 3 : Dispositions communes relatives à l'invitation à confirmer l'intérêt<a id=488></a>
 
 ###### Article R2131-10
 
@@ -25387,9 +26347,9 @@ _Cite_:
   - Code de la commande publique - art. R2132-13 (V)
 
 
-##### Sous-section 3 : Avis de marché<a id=480></a>
+##### Sous-section 3 : Avis de marché<a id=489></a>
 
-##### Paragraphe 1 : Avis de marché pour certains marchés passés selon une procédure adaptée<a id=481></a>
+##### Paragraphe 1 : Avis de marché pour certains marchés passés selon une procédure adaptée<a id=490></a>
 
 ###### Article R2131-12
 
@@ -25462,7 +26422,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Paragraphe 2 : Modalités de publicité pour les marchés de services sociaux et autres services spécifiques<a id=482></a>
+##### Paragraphe 2 : Modalités de publicité pour les marchés de services sociaux et autres services spécifiques<a id=491></a>
 
 ###### Article R2131-14
 
@@ -25530,7 +26490,7 @@ _Cite_:
   - Code de la commande publique - art. R2131-7 (V)
 
 
-##### Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée<a id=483></a>
+##### Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée<a id=492></a>
 
 ###### Article R2131-16
 
@@ -25592,7 +26552,7 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Paragraphe 4 : Publicité supplémentaire<a id=484></a>
+##### Paragraphe 4 : Publicité supplémentaire<a id=493></a>
 
 ###### Article R2131-18
 
@@ -25616,7 +26576,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 2 : Publication<a id=485></a>
+##### Section 2 : Publication<a id=494></a>
 
 ###### Article R2131-19
 
@@ -25685,11 +26645,11 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Chapitre II : COMMUNICATIONS ET ÉCHANGES D'INFORMATION<a id=486></a>
+##### Chapitre II : COMMUNICATIONS ET ÉCHANGES D'INFORMATION<a id=495></a>
 
-##### Section unique :  Dématérialisation des communications et échanges d'informations<a id=487></a>
+##### Section unique :  Dématérialisation des communications et échanges d'informations<a id=496></a>
 
-##### Sous-section 1 : Mise à disposition des documents de la consultation<a id=488></a>
+##### Sous-section 1 : Mise à disposition des documents de la consultation<a id=497></a>
 
 ###### Article R2132-1
 
@@ -25861,7 +26821,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 2 : Support des communications et échanges d'informations<a id=489></a>
+##### Sous-section 2 : Support des communications et échanges d'informations<a id=498></a>
 
 ###### Article R2132-7
 
@@ -26130,13 +27090,13 @@ _Cité par_:
   - Code de la commande publique - art. R2651-1 (VT)
 
 
-#### Titre IV : PHASE DE CANDIDATURE<a id=490></a>
+#### Titre IV : PHASE DE CANDIDATURE<a id=499></a>
 
-##### Chapitre II : CONDITIONS DE PARTICIPATION<a id=491></a>
+##### Chapitre II : CONDITIONS DE PARTICIPATION<a id=500></a>
 
-##### Section 1 : Dispositions générales<a id=492></a>
+##### Section 1 : Dispositions générales<a id=501></a>
 
-##### Sous-section 1 : Conditions générales<a id=493></a>
+##### Sous-section 1 : Conditions générales<a id=502></a>
 
 ###### Article R2142-1
 
@@ -26226,7 +27186,7 @@ _Cité par_:
   - Code de la commande publique - art. R2123-8 (V)
 
 
-##### Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle<a id=494></a>
+##### Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle<a id=503></a>
 
 ###### Article R2142-5
 
@@ -26248,7 +27208,7 @@ _Cité par_:
   - Code de la commande publique - art. R2343-3 (V)
 
 
-##### Sous-section 3 : Conditions relatives aux capacités économiques et financières<a id=495></a>
+##### Sous-section 3 : Conditions relatives aux capacités économiques et financières<a id=504></a>
 
 ###### Article R2142-6
 
@@ -26413,7 +27373,7 @@ _Cité par_:
   - Code de la commande publique - art. R2342-5 (V)
 
 
-##### Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles<a id=496></a>
+##### Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles<a id=505></a>
 
 ###### Article R2142-13
 
@@ -26459,7 +27419,7 @@ _Cité par_:
   - Code de la commande publique - art. R2342-6 (V)
 
 
-##### Section 2 : Réduction du nombre de candidats<a id=497></a>
+##### Section 2 : Réduction du nombre de candidats<a id=506></a>
 
 ###### Article R2142-15
 
@@ -26530,7 +27490,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Groupements d'opérateurs économiques<a id=498></a>
+##### Section 3 : Groupements d'opérateurs économiques<a id=507></a>
 
 ###### Article R2142-19
 
@@ -26720,11 +27680,11 @@ _Cité par_:
   - Code de la commande publique - art. R2342-15 (V)
 
 
-##### Chapitre III : CONTENU DES CANDIDATURES<a id=499></a>
+##### Chapitre III : CONTENU DES CANDIDATURES<a id=508></a>
 
-##### Section 1 : Présentation des candidatures<a id=500></a>
+##### Section 1 : Présentation des candidatures<a id=509></a>
 
-##### Sous-section 1 : Délai de réception des candidatures<a id=501></a>
+##### Sous-section 1 : Délai de réception des candidatures<a id=510></a>
 
 ###### Article R2143-1
 
@@ -26768,7 +27728,7 @@ _Cité par_:
   - Code de la commande publique - art. R2343-2 (V)
 
 
-##### Sous-section 2 : Eléments à produire par le candidat<a id=502></a>
+##### Sous-section 2 : Eléments à produire par le candidat<a id=511></a>
 
 ###### Article R2143-3
 
@@ -26839,9 +27799,9 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Section 2 : Documents justificatifs et autres moyens de preuve<a id=503></a>
+##### Section 2 : Documents justificatifs et autres moyens de preuve<a id=512></a>
 
-##### Sous-section 1 : Dispositions générales<a id=504></a>
+##### Sous-section 1 : Dispositions générales<a id=513></a>
 
 ###### Article R2143-5
 
@@ -26867,7 +27827,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion<a id=505></a>
+##### Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion<a id=514></a>
 
 ###### Article R2143-6
 
@@ -27005,7 +27965,7 @@ _Cite_:
   - Code de la commande publique - art. R2143-6 (V)
 
 
-##### Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation<a id=506></a>
+##### Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation<a id=515></a>
 
 ###### Article R2143-11
 
@@ -27048,7 +28008,7 @@ _Cité par_:
   - Code de la commande publique - art. R2343-12 (V)
 
 
-##### Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve<a id=507></a>
+##### Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve<a id=516></a>
 
 ###### Article R2143-13
 
@@ -27094,7 +28054,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 5 : Opérateurs agréés et certifiés<a id=508></a>
+##### Sous-section 5 : Opérateurs agréés et certifiés<a id=517></a>
 
 ###### Article R2143-15
 
@@ -27128,7 +28088,7 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Section 3 : Traduction en français<a id=509></a>
+##### Section 3 : Traduction en français<a id=518></a>
 
 ###### Article R2143-16
 
@@ -27151,9 +28111,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Chapitre IV : EXAMEN DES CANDIDATURES<a id=510></a>
+##### Chapitre IV : EXAMEN DES CANDIDATURES<a id=519></a>
 
-##### Section 1 : Modalités de vérification<a id=511></a>
+##### Section 1 : Modalités de vérification<a id=520></a>
 
 ###### Article R2144-1
 
@@ -27318,7 +28278,7 @@ _Cité par_:
   - Code de la commande publique - art. R2122-2 (V)
 
 
-##### Section 2 : Invitation des candidats sélectionnés<a id=512></a>
+##### Section 2 : Invitation des candidats sélectionnés<a id=521></a>
 
 ###### Article R2144-8
 
@@ -27382,13 +28342,13 @@ _Cité par_:
   - Code de la commande publique - art. R2162-49 (V)
 
 
-#### Titre V : PHASE D'OFFRE<a id=513></a>
+#### Titre V : PHASE D'OFFRE<a id=522></a>
 
-##### Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES<a id=514></a>
+##### Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES<a id=523></a>
 
-##### Section 1 : Présentation des offres<a id=515></a>
+##### Section 1 : Présentation des offres<a id=524></a>
 
-##### Sous-section 1 : Délais de réception<a id=516></a>
+##### Sous-section 1 : Délais de réception<a id=525></a>
 
 ###### Article R2151-1
 
@@ -27507,7 +28467,7 @@ _Cité par_:
   - Code de la commande publique - art. R2351-5 (V)
 
 
-##### Sous-section 2 : Modalités de remise<a id=517></a>
+##### Sous-section 2 : Modalités de remise<a id=526></a>
 
 ###### Article R2151-6
 
@@ -27553,7 +28513,7 @@ _Cité par_:
   - Code de la commande publique - art. R2351-7 (V)
 
 
-##### Sous-section 3 : Variantes<a id=518></a>
+##### Sous-section 3 : Variantes<a id=527></a>
 
 ###### Article R2151-8
 
@@ -27635,7 +28595,7 @@ _Cité par_:
   - Code de la commande publique - art. R2351-10 (V)
 
 
-##### Section 2 : Informations et documents à produire dans l'offre<a id=519></a>
+##### Section 2 : Informations et documents à produire dans l'offre<a id=528></a>
 
 ###### Article R2151-12
 
@@ -27767,9 +28727,9 @@ _Cité par_:
   - Code de la commande publique - art. R2351-13 (V)
 
 
-##### Chapitre II : EXAMEN DES OFFRES<a id=520></a>
+##### Chapitre II : EXAMEN DES OFFRES<a id=529></a>
 
-##### Section 1 : Offres irrégulières, inacceptables ou inappropriées<a id=521></a>
+##### Section 1 : Offres irrégulières, inacceptables ou inappropriées<a id=530></a>
 
 ###### Article R2152-1
 
@@ -27819,7 +28779,7 @@ _Cité par_:
   - Code de la commande publique - art. R2352-4 (V)
 
 
-##### Section 2 : Offres anormalement basses<a id=522></a>
+##### Section 2 : Offres anormalement basses<a id=531></a>
 
 ###### Article R2152-3
 
@@ -27922,9 +28882,9 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Section 3 : Choix de l'offre économiquement la plus avantageuse<a id=523></a>
+##### Section 3 : Choix de l'offre économiquement la plus avantageuse<a id=532></a>
 
-##### Sous-section 1 : Choix des critères d'attribution<a id=524></a>
+##### Sous-section 1 : Choix des critères d'attribution<a id=533></a>
 
 ###### Article R2152-6
 
@@ -28025,7 +28985,7 @@ _Cite_:
   - Code de la commande publique - art. R2152-7 (V)
 
 
-##### Sous-section 2 : Utilisation du coût du cycle de vie comme critère d'attribution<a id=525></a>
+##### Sous-section 2 : Utilisation du coût du cycle de vie comme critère d'attribution<a id=534></a>
 
 ###### Article R2152-9
 
@@ -28094,7 +29054,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R230-30-2 (VD)
 
 
-##### Sous-section 3 : Publicité des critères et de leurs modalités de mise en œuvre<a id=526></a>
+##### Sous-section 3 : Publicité des critères et de leurs modalités de mise en œuvre<a id=535></a>
 
 ###### Article R2152-11
 
@@ -28132,7 +29092,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 4 : Mise au point du marché<a id=527></a>
+##### Section 4 : Mise au point du marché<a id=536></a>
 
 ###### Article R2152-13
 
@@ -28155,9 +29115,9 @@ _Cité par_:
   - Code de la commande publique - art. R2352-9 (V)
 
 
-##### Chapitre III : OFFRES PRÉSENTÉES PAR DES OPÉRATEURS ÉCONOMIQUES OU COMPORTANT DES PRODUITS D'ÉTATS TIERS<a id=528></a>
+##### Chapitre III : OFFRES PRÉSENTÉES PAR DES OPÉRATEURS ÉCONOMIQUES OU COMPORTANT DES PRODUITS D'ÉTATS TIERS<a id=537></a>
 
-##### Section 1 : Principes généraux<a id=529></a>
+##### Section 1 : Principes généraux<a id=538></a>
 
 ###### Article R2153-1
 
@@ -28207,7 +29167,7 @@ _Cite_:
   - Code de la commande publique - art. R2153-1 (V)
 
 
-##### Section 2 : Marchés de fournitures des entités adjudicatrices<a id=530></a>
+##### Section 2 : Marchés de fournitures des entités adjudicatrices<a id=539></a>
 
 ###### Article R2153-3
 
@@ -28282,9 +29242,9 @@ _Cite_:
   - Code de la commande publique - art. L2153-2 (V)
 
 
-#### Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT<a id=531></a>
+#### Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT<a id=540></a>
 
-##### Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES<a id=532></a>
+##### Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES<a id=541></a>
 
 ###### Article R2161-1
 
@@ -28313,9 +29273,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 1 : Appel d'offres<a id=533></a>
+##### Section 1 : Appel d'offres<a id=542></a>
 
-##### Sous-section 1 : Appel d'offres ouvert<a id=534></a>
+##### Sous-section 1 : Appel d'offres ouvert<a id=543></a>
 
 ###### Article R2161-2
 
@@ -28402,7 +29362,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Appel d'offres restreint<a id=535></a>
+##### Sous-section 2 : Appel d'offres restreint<a id=544></a>
 
 ###### Article R2161-6
 
@@ -28542,9 +29502,9 @@ _Cité par_:
   - Code de la commande publique - art. R2361-7 (V)
 
 
-##### Section 2 : Procédure avec négociation<a id=536></a>
+##### Section 2 : Procédure avec négociation<a id=545></a>
 
-##### Sous-section 1 : Règles applicables aux pouvoirs adjudicateurs<a id=537></a>
+##### Sous-section 1 : Règles applicables aux pouvoirs adjudicateurs<a id=546></a>
 
 ###### Article R2161-12
 
@@ -28755,7 +29715,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Règles applicables aux entités adjudicatrices<a id=538></a>
+##### Sous-section 2 : Règles applicables aux entités adjudicatrices<a id=547></a>
 
 ###### Article R2161-21
 
@@ -28807,7 +29767,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Dialogue compétitif<a id=539></a>
+##### Section 3 : Dialogue compétitif<a id=548></a>
 
 ###### Article R2161-24
 
@@ -28967,11 +29927,11 @@ _Cité par_:
   - Code de la commande publique - art. R2361-19 (V)
 
 
-##### Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT<a id=540></a>
+##### Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT<a id=549></a>
 
-##### Section 1 : Accords-cadres<a id=541></a>
+##### Section 1 : Accords-cadres<a id=550></a>
 
-##### Sous-section 1 : Dispositions générales<a id=542></a>
+##### Sous-section 1 : Dispositions générales<a id=551></a>
 
 ###### Article R2162-1
 
@@ -29103,7 +30063,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Dispositions propres aux marchés subséquents<a id=543></a>
+##### Sous-section 2 : Dispositions propres aux marchés subséquents<a id=552></a>
 
 ###### Article R2162-7
 
@@ -29231,7 +30191,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Dispositions propres aux bons de commande<a id=544></a>
+##### Sous-section 3 : Dispositions propres aux bons de commande<a id=553></a>
 
 ###### Article R2162-13
 
@@ -29277,9 +30237,9 @@ _Cité par_:
   - Code de la commande publique - art. R2362-8 (V)
 
 
-##### Section 2 : Concours<a id=545></a>
+##### Section 2 : Concours<a id=554></a>
 
-##### Sous-section 1 : Déroulement du concours<a id=546></a>
+##### Sous-section 1 : Déroulement du concours<a id=555></a>
 
 ###### Article R2162-15
 
@@ -29426,7 +30386,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Composition du jury<a id=547></a>
+##### Sous-section 2 : Composition du jury<a id=556></a>
 
 ###### Article R2162-22
 
@@ -29539,7 +30499,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Système de qualification des entités adjudicatrices<a id=548></a>
+##### Section 3 : Système de qualification des entités adjudicatrices<a id=557></a>
 
 ###### Article R2162-27
 
@@ -29557,7 +30517,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 1 : Règles de publicité<a id=549></a>
+##### Sous-section 1 : Règles de publicité<a id=558></a>
 
 ###### Article R2162-28
 
@@ -29621,7 +30581,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Sous-section 2 : Qualification des opérateurs économiques<a id=550></a>
+##### Sous-section 2 : Qualification des opérateurs économiques<a id=559></a>
 
 ###### Article R2162-30
 
@@ -29734,7 +30694,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Règles de passation des marchés conclus sur la base d'un système de qualification<a id=551></a>
+##### Sous-section 3 : Règles de passation des marchés conclus sur la base d'un système de qualification<a id=560></a>
 
 ###### Article R2162-35
 
@@ -29780,9 +30740,9 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Section 4 : Système d'acquisition dynamique<a id=552></a>
+##### Section 4 : Système d'acquisition dynamique<a id=561></a>
 
-##### Sous-section 1 : Mise en place du système d'acquisition dynamique<a id=553></a>
+##### Sous-section 1 : Mise en place du système d'acquisition dynamique<a id=562></a>
 
 ###### Article R2162-37
 
@@ -29833,7 +30793,7 @@ _Cite_:
   - Code de la commande publique - art. R2162-49 (V)
 
 
-##### Paragraphe 1 : Formalités de publicité<a id=554></a>
+##### Paragraphe 1 : Formalités de publicité<a id=563></a>
 
 ###### Article R2162-39
 
@@ -29891,7 +30851,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Paragraphe 2 : Documents de la consultation<a id=555></a>
+##### Paragraphe 2 : Documents de la consultation<a id=564></a>
 
 ###### Article R2162-41
 
@@ -29931,7 +30891,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Sélection des opérateurs économiques participant au système d'acquisition dynamique<a id=556></a>
+##### Sous-section 2 : Sélection des opérateurs économiques participant au système d'acquisition dynamique<a id=565></a>
 
 ###### Article R2162-43
 
@@ -30040,7 +31000,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Règles de passation des marchés spécifiques conclus sur la base d'un système d'acquisition dynamique<a id=557></a>
+##### Sous-section 3 : Règles de passation des marchés spécifiques conclus sur la base d'un système d'acquisition dynamique<a id=566></a>
 
 ###### Article R2162-49
 
@@ -30115,7 +31075,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 5 : Catalogues électroniques<a id=558></a>
+##### Section 5 : Catalogues électroniques<a id=567></a>
 
 ###### Article R2162-52
 
@@ -30238,7 +31198,7 @@ _Cite_:
   - Code de la commande publique - art. R2162-55 (V)
 
 
-##### Section 6 : Enchères électroniques<a id=559></a>
+##### Section 6 : Enchères électroniques<a id=568></a>
 
 ###### Article R2162-57
 
@@ -30462,13 +31422,13 @@ _Cite_:
   - Code de la commande publique - art. R2152-3 (V)
 
 
-#### Titre VII : RÈGLES APPLICABLES A CERTAINS MARCHÉS<a id=560></a>
+#### Titre VII : RÈGLES APPLICABLES A CERTAINS MARCHÉS<a id=569></a>
 
-##### Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX<a id=561></a>
+##### Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX<a id=570></a>
 
-##### Section 1 : Caractéristiques des marchés globaux<a id=562></a>
+##### Section 1 : Caractéristiques des marchés globaux<a id=571></a>
 
-##### Sous-section 1 : Marché de conception-réalisation<a id=563></a>
+##### Sous-section 1 : Marché de conception-réalisation<a id=572></a>
 
 ###### Article R2171-1
 
@@ -30496,7 +31456,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 2 : Marché global de performance<a id=564></a>
+##### Sous-section 2 : Marché global de performance<a id=573></a>
 
 ###### Article R2171-2
 
@@ -30534,7 +31494,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment<a id=565></a>
+##### Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment<a id=574></a>
 
 ###### Article D2171-4
 
@@ -30572,7 +31532,7 @@ _Cité par_:
   - Code de la commande publique - art. D2661-2 (V)
 
 
-##### Paragraphe 1 : Les études d'esquisse<a id=566></a>
+##### Paragraphe 1 : Les études d'esquisse<a id=575></a>
 
 ###### Article D2171-5
 
@@ -30599,7 +31559,7 @@ _Cité par_:
   - Code de la commande publique - art. D2661-2 (V)
 
 
-##### Paragraphe 2 : Les études d'avant-projet<a id=567></a>
+##### Paragraphe 2 : Les études d'avant-projet<a id=576></a>
 
 ###### Article D2171-6
 
@@ -30690,7 +31650,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Les études de projet<a id=568></a>
+##### Paragraphe 3 : Les études de projet<a id=577></a>
 
 ###### Article D2171-10
 
@@ -30719,7 +31679,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 4 : Les études d'exécution<a id=569></a>
+##### Paragraphe 4 : Les études d'exécution<a id=578></a>
 
 ###### Article D2171-11
 
@@ -30756,7 +31716,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 5 : Le suivi de la réalisation des travaux<a id=570></a>
+##### Paragraphe 5 : Le suivi de la réalisation des travaux<a id=579></a>
 
 ###### Article D2171-13
 
@@ -30780,7 +31740,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 6 : L'assistance aux opérations de réception et à la mise en œuvre de la garantie de parfait achèvement<a id=571></a>
+##### Paragraphe 6 : L'assistance aux opérations de réception et à la mise en œuvre de la garantie de parfait achèvement<a id=580></a>
 
 ###### Article D2171-14
 
@@ -30806,13 +31766,13 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Procédure de passation des marchés globaux applicable aux acheteurs soumis au livre IV<a id=572></a>
+##### Section 2 : Procédure de passation des marchés globaux applicable aux acheteurs soumis au livre IV<a id=581></a>
 
 ###### Article R2171-15
 
 Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée, les acheteurs soumis au livre
 IV passent des marchés globaux de conception-réalisation ou de performance selon l'une des procédures mentionnées aux
-articles R. 2124-2 à R. 2124-5 sous réserve des dispositions de la présente section.
+articles R. 2124-2 à R. 2124-6 sous réserve des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -30820,26 +31780,26 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique - art. R2124-2 (V)
+  - Code de la commande publique - art. R2124-2
 
 _Cité par_:
 
   - Code de la commande publique - art. R2651-1 (VT)
-  - Code de la commande publique - art. R2661-1 (M)
+  - Code de la commande publique - art. R2661-1 (VT)
 
 
 ###### Article R2171-16
 
-Un jury est désigné par l'acheteur à l'exception des cas suivants : 
+Un jury est désigné par l'acheteur à l'exception des cas suivants :
 
 1° Pour les marchés de conception-réalisation et les marchés globaux de performance passés par les pouvoirs adjudicateurs
-dans les hypothèses énumérées aux 1° et 2° de l'article R. 2172-2 ; 
+dans les hypothèses énumérées aux 1° à 3° de l'article R. 2172-2 ;
 
 2° Pour les marchés de conception-réalisation et les marchés globaux de performance passés par les entités adjudicatrices
 selon la procédure de dialogue compétitif ou selon la procédure avec négociation.
@@ -30850,17 +31810,17 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
 _Cité par_:
 
   - Décret n°2019-37 du 23 janvier 2019 - art. 2 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
+
 _Cite_:
 
-  - Code de la commande publique - art. R2172-2 (V)
+  - Code de la commande publique - art. R2172-2
 
 
 ###### Article R2171-17
@@ -30908,7 +31868,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Versement d'une prime<a id=573></a>
+##### Section 3 : Versement d'une prime<a id=582></a>
 
 ###### Article R2171-19
 
@@ -30984,11 +31944,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS EN FONCTION DE LEUR OBJET<a id=574></a>
+##### Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS EN FONCTION DE LEUR OBJET<a id=583></a>
 
-##### Section 1 : Marchés de maîtrise d'œuvre<a id=575></a>
+##### Section 1 : Marchés de maîtrise d'œuvre<a id=584></a>
 
-##### Sous-section 1 : Définition<a id=576></a>
+##### Sous-section 1 : Définition<a id=585></a>
 
 ###### Article R2172-1
 
@@ -31013,7 +31973,7 @@ _Cite_:
   - Code de la commande publique - art. L2431-1 (V)
 
 
-##### Sous-section 2 : Procédures applicables<a id=577></a>
+##### Sous-section 2 : Procédures applicables<a id=586></a>
 
 ###### Article R2172-2
 
@@ -31077,7 +32037,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Primes<a id=578></a>
+##### Sous-section 3 : Primes<a id=587></a>
 
 ###### Article R2172-4
 
@@ -31146,7 +32106,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 2 : Marchés de décoration des constructions publiques<a id=579></a>
+##### Section 2 : Marchés de décoration des constructions publiques<a id=588></a>
 
 ###### Article R2172-7
 
@@ -31168,9 +32128,9 @@ _Cité par_:
   - Code de la commande publique - art. R2372-10 (V)
 
 
-##### Sous-section 1 : Marchés inférieurs aux seuils européens<a id=580></a>
+##### Sous-section 1 : Marchés inférieurs aux seuils européens<a id=589></a>
 
-##### Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer<a id=581></a>
+##### Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer<a id=590></a>
 
 ###### Article R2172-8
 
@@ -31322,7 +32282,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes<a id=582></a>
+##### Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes<a id=591></a>
 
 ###### Article R2172-15
 
@@ -31373,7 +32333,7 @@ _Cité par_:
   - Code de la commande publique - art. R2372-14 (V)
 
 
-##### Sous-section 2 : Marchés supérieurs aux seuils européens<a id=583></a>
+##### Sous-section 2 : Marchés supérieurs aux seuils européens<a id=592></a>
 
 ###### Article R2172-17
 
@@ -31401,7 +32361,7 @@ _Cité par_:
   - Code de la commande publique - art. R2372-15 (V)
 
 
-##### Sous-section 3 : Composition et fonctionnement du comité artistique<a id=584></a>
+##### Sous-section 3 : Composition et fonctionnement du comité artistique<a id=593></a>
 
 ###### Article R2172-18
 
@@ -31487,7 +32447,7 @@ _Cité par_:
   - Code de la commande publique - art. R2372-16 (V)
 
 
-##### Section 3 : Partenariats d'innovation<a id=585></a>
+##### Section 3 : Partenariats d'innovation<a id=594></a>
 
 ###### Article R2172-20
 
@@ -31512,7 +32472,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 1 : Contenu du partenariat d'innovation<a id=586></a>
+##### Sous-section 1 : Contenu du partenariat d'innovation<a id=595></a>
 
 ###### Article R2172-21
 
@@ -31616,7 +32576,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Passation du partenariat d'innovation<a id=587></a>
+##### Sous-section 2 : Passation du partenariat d'innovation<a id=596></a>
 
 ###### Article R2172-26
 
@@ -31714,7 +32674,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Déroulement du partenariat d'innovation<a id=588></a>
+##### Sous-section 3 : Déroulement du partenariat d'innovation<a id=597></a>
 
 ###### Article R2172-31
 
@@ -31770,7 +32730,7 @@ _Cité par_:
   - Code de la commande publique - art. R2372-17 (V)
 
 
-##### Section 4 : Marchés réalisés dans le cadre de programmes expérimentaux<a id=589></a>
+##### Section 4 : Marchés réalisés dans le cadre de programmes expérimentaux<a id=598></a>
 
 ###### Article R2172-33
 
@@ -31808,7 +32768,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 5 : Marchés relatifs à l'achat de véhicules à moteur<a id=590></a>
+##### Section 5 : Marchés relatifs à l'achat de véhicules à moteur<a id=599></a>
 
 ###### Article R2172-35
 
@@ -31929,9 +32889,9 @@ _Cité par_:
   - Code de la commande publique - art. R2372-24 (V)
 
 
-#### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE<a id=591></a>
+#### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE<a id=600></a>
 
-##### Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS<a id=592></a>
+##### Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS<a id=601></a>
 
 ###### Article R2181-1
 
@@ -31957,7 +32917,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 1 : Marchés passés selon une procédure adaptée<a id=593></a>
+##### Section 1 : Marchés passés selon une procédure adaptée<a id=602></a>
 
 ###### Article R2181-2
 
@@ -31982,7 +32942,7 @@ _Cité par_:
   - Code de la commande publique - art. R2651-1 (VT)
 
 
-##### Section 2 : Marchés passés selon une procédure formalisée<a id=594></a>
+##### Section 2 : Marchés passés selon une procédure formalisée<a id=603></a>
 
 ###### Article R2181-3
 
@@ -32043,7 +33003,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 3 : Informations des candidats et soumissionnaires évincés dans le cadre d'un système de qualification passé par une entité adjudicatrice<a id=595></a>
+##### Section 3 : Informations des candidats et soumissionnaires évincés dans le cadre d'un système de qualification passé par une entité adjudicatrice<a id=604></a>
 
 ###### Article R2181-5
 
@@ -32096,9 +33056,9 @@ _Cité par_:
   - Code de la commande publique - art. R2162-31 (V)
 
 
-##### Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ<a id=596></a>
+##### Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ<a id=605></a>
 
-##### Section 1 : Signature du marché<a id=597></a>
+##### Section 1 : Signature du marché<a id=606></a>
 
 ###### Article R2182-1
 
@@ -32174,7 +33134,7 @@ _Cité par_:
   - Code de la commande publique - art. R2382-3 (V)
 
 
-##### Section 2 : Notification du marché<a id=598></a>
+##### Section 2 : Notification du marché<a id=607></a>
 
 ###### Article R2182-4
 
@@ -32214,11 +33174,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre III : AVIS D'ATTRIBUTION<a id=599></a>
+##### Chapitre III : AVIS D'ATTRIBUTION<a id=608></a>
 
-##### Section 1 : Modalités de publication<a id=600></a>
+##### Section 1 : Modalités de publication<a id=609></a>
 
-##### Sous-section 1 : Dispositions générales<a id=601></a>
+##### Sous-section 1 : Dispositions générales<a id=610></a>
 
 ###### Article R2183-1
 
@@ -32281,7 +33241,7 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Sous-section 2 : Dispositions propres à certains marchés<a id=602></a>
+##### Sous-section 2 : Dispositions propres à certains marchés<a id=611></a>
 
 ###### Article R2183-3
 
@@ -32325,7 +33285,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Dispositions particulières au contenu des avis d'attribution<a id=603></a>
+##### Section 2 : Dispositions particulières au contenu des avis d'attribution<a id=612></a>
 
 ###### Article R2183-5
 
@@ -32392,9 +33352,9 @@ _Cite_:
   - Code de la commande publique - art. R2122-11 (V)
 
 
-##### Chapitre IV : CONSERVATION DES INFORMATIONS<a id=604></a>
+##### Chapitre IV : CONSERVATION DES INFORMATIONS<a id=613></a>
 
-##### Section 1 : Rapport de présentation de la procédure menée par les pouvoirs adjudicateurs<a id=605></a>
+##### Section 1 : Rapport de présentation de la procédure menée par les pouvoirs adjudicateurs<a id=614></a>
 
 ###### Article R2184-1
 
@@ -32454,24 +33414,25 @@ _Créé par_:
 
 ###### Article R2184-3
 
-Le rapport de présentation comporte en outre, lorsqu'il y a lieu, les éléments suivants : 
+Le rapport de présentation comporte en outre, lorsqu'il y a lieu, les éléments suivants :
 
-1° Les motifs du recours à la procédure avec négociation ou au dialogue compétitif ; 
+1° Les motifs du recours à un marché passé sans publicité ni mise en concurrence préalables, à la procédure avec négociation
+ou au dialogue compétitif ;
 
 2° Les motifs pour lesquels le pouvoir adjudicateur n'a pas alloti le marché, s'il ne les a pas indiqués dans les documents
-de la consultation ; 
+de la consultation ;
 
 3° Les raisons pour lesquelles un chiffre d'affaires annuel minimal supérieur au plafond fixé aux articles R. 2142-6 à R.
-2142-12 a été exigé, lorsque celles-ci n'ont pas été indiquées dans les documents de la consultation ; 
+2142-12 a été exigé, lorsque celles-ci n'ont pas été indiquées dans les documents de la consultation ;
 
 4° Les raisons pour lesquelles le pouvoir adjudicateur a sollicité l'utilisation de moyens de communication autres que les
-moyens électroniques pour la transmission des offres ; 
+moyens électroniques pour la transmission des offres ;
 
 5° La description des mesures appropriées prises par le pouvoir adjudicateur pour s'assurer que la concurrence n'a pas été
 faussée par des études et échanges préalables avec des opérateurs économiques ou par la participation d'un opérateur
-économique à la préparation du marché en application des articles R. 2111-1 et R. 2111-2 ; 
+économique à la préparation du marché en application des articles R. 2111-1 et R. 2111-2 ;
 
-6° Les conflits d'intérêts décelés et les mesures prises en conséquence ; 
+6° Les conflits d'intérêts décelés et les mesures prises en conséquence ;
 
 7° Les raisons pour lesquelles le pouvoir adjudicateur a renoncé à passer un marché ou à mettre en place un système
 d'acquisition dynamique.
@@ -32482,15 +33443,15 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique - art. R2111-1 (V)
-  - Code de la commande publique - art. R2111-2 (V)
-  - Code de la commande publique - art. R2142-6 (V)
+  - Code de la commande publique - art. R2111-1
+  - Code de la commande publique - art. R2111-2
+  - Code de la commande publique - art. R2142-6
 
 
 ###### Article R2184-4
@@ -32558,7 +33519,7 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Section 2 : Informations conservées par les entités adjudicatrices<a id=606></a>
+##### Section 2 : Informations conservées par les entités adjudicatrices<a id=615></a>
 
 ###### Article R2184-7
 
@@ -32687,7 +33648,7 @@ _Cité par_:
   - Code de la commande publique - art. R2641-1 (V)
 
 
-##### Section 3 : Durée de conservation<a id=607></a>
+##### Section 3 : Durée de conservation<a id=616></a>
 
 ###### Article R2184-12
 
@@ -32738,7 +33699,7 @@ _Cité par_:
   - Code de la commande publique - art. R2384-5 (V)
 
 
-##### Chapitre V : ABANDON DE LA PROCÉDURE<a id=608></a>
+##### Chapitre V : ABANDON DE LA PROCÉDURE<a id=617></a>
 
 ###### Article R2185-1
 
@@ -32779,9 +33740,9 @@ _Cité par_:
   - Code de la commande publique - art. R2385-1 (V)
 
 
-#### Titre IX : EXÉCUTION DU MARCHÉ<a id=609></a>
+#### Titre IX : EXÉCUTION DU MARCHÉ<a id=618></a>
 
-##### Chapitre Ier : EXÉCUTION FINANCIÈRE<a id=610></a>
+##### Chapitre Ier : EXÉCUTION FINANCIÈRE<a id=619></a>
 
 ###### Article R2191-1
 
@@ -32834,11 +33795,11 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 1 : Avances<a id=611></a>
+##### Section 1 : Avances<a id=620></a>
 
-##### Sous-section 1 : Dispositions générales<a id=612></a>
+##### Sous-section 1 : Dispositions générales<a id=621></a>
 
-##### Paragraphe 1 : Principe de versement d'une avance<a id=613></a>
+##### Paragraphe 1 : Principe de versement d'une avance<a id=622></a>
 
 ###### Article R2191-3
 
@@ -32899,7 +33860,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-2 (V)
 
 
-##### Paragraphe 2 : Modalités de calcul du montant de l'avance<a id=614></a>
+##### Paragraphe 2 : Modalités de calcul du montant de l'avance<a id=623></a>
 
 ###### Article R2191-6
 
@@ -32924,19 +33885,18 @@ _Cité par_:
 ###### Article R2191-7
 
 Lorsque la durée du marché est inférieure ou égale à douze mois, le montant de l'avance est fixé entre 5 % et 30 % du montant
-initial toutes taxes comprises du marché. 
+initial toutes taxes comprises du marché.
 
 Lorsque la durée du marché est supérieure à douze mois, le montant de l'avance est fixé entre 5 % et 30 % d'une somme égale à
-douze fois le montant initial toutes taxes comprises du marché divisé par sa durée exprimée en mois. 
+douze fois le montant initial toutes taxes comprises du marché divisé par sa durée exprimée en mois.
 
 Pour les marchés publics passés par l'Etat, le taux de l'avance est porté à 20 % lorsque le titulaire du marché public ou son
-sous-traitant admis au paiement direct est une petite et moyenne entreprise mentionnée à l'article R. 2151-13. 
+sous-traitant admis au paiement direct est une petite et moyenne entreprise mentionnée à l'article R. 2151-13.
 
 Les collectivités territoriales, leurs établissements publics et leurs groupements peuvent conditionner le versement de
-l'avance à la constitution d'une garantie à première demande conformément aux dispositions des articles R. 2191-36 à R.
-2191-42. Cette garantie peut porter sur tout ou partie de l'avance. Les deux parties peuvent s'accorder pour substituer à
-cette garantie une caution personnelle et solidaire. La constitution de cette garantie n'est toutefois pas exigée des
-personnes publiques titulaires d'un marché.
+l'avance à la constitution d'une garantie à première demande. Cette garantie peut porter sur tout ou partie de l'avance. Les
+deux parties peuvent s'accorder pour substituer à cette garantie une caution personnelle et solidaire. La constitution de
+cette garantie n'est toutefois pas exigée des personnes publiques titulaires d'un marché.
 
 **Liens relatifs à cet article**
 
@@ -32946,17 +33906,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 1
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique - art. R2151-13 (V)
-  - Code de la commande publique - art. R2191-36 (V)
+  - Code de la commande publique - art. R2151-13
+  - Code de la commande publique - art. R2191-36
 
 _Cité par_:
 
   - Code de la commande publique - art. R2191-8 (V)
-  - Code de la commande publique - art. R2651-1 (M)
+  - Code de la commande publique - art. R2651-1 (VT)
   - Code de la commande publique - art. R2651-3 (M)
   - Code de la commande publique - art. R2661-1 (VT)
   - Code de la commande publique - art. R2661-3 (V)
@@ -32964,10 +33924,9 @@ _Cité par_:
 
 ###### Article R2191-8
 
-L'acheteur peut fixer le montant de l'avance calculé conformément aux dispositions de l'article R. 2191-7 à un maximum de 60
-% à la condition que le titulaire constitue une garantie à première demande conformément aux dispositions des articles R.
-2191-36 à R. 2191-42. La constitution de cette garantie n'est toutefois pas exigée des personnes publiques titulaires d'un
-marché.
+L'acheteur peut porter le montant de l'avance de 30 % du montant calculé conformément aux dispositions de l'article R. 2191-7
+à un maximum de 60 % à la condition que le titulaire constitue une garantie à première demande. La constitution de cette
+garantie n'est toutefois pas exigée des personnes publiques titulaires d'un marché.
 
 **Liens relatifs à cet article**
 
@@ -32977,17 +33936,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 1
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique - art. R2191-36 (V)
-  - Code de la commande publique - art. R2191-7 (V)
+  - Code de la commande publique - art. R2191-36
+  - Code de la commande publique - art. R2191-7
 
 _Cité par_:
 
   - Code de la commande publique - art. R2651-1 (VT)
-  - Code de la commande publique - art. R2661-1 (M)
+  - Code de la commande publique - art. R2661-1 (VT)
 
 
 ###### Article R2191-9
@@ -33030,7 +33989,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-6 (V)
 
 
-##### Paragraphe 3 : Modalités de remboursement de l'avance<a id=615></a>
+##### Paragraphe 3 : Modalités de remboursement de l'avance<a id=624></a>
 
 ###### Article R2191-11
 
@@ -33077,9 +34036,9 @@ _Cité par_:
   - Code de la commande publique - art. R2391-7 (V)
 
 
-##### Sous-section 2 : Dispositions particulières<a id=616></a>
+##### Sous-section 2 : Dispositions particulières<a id=625></a>
 
-##### Paragraphe 1 : Marchés à tranches<a id=617></a>
+##### Paragraphe 1 : Marchés à tranches<a id=626></a>
 
 ###### Article R2191-13
 
@@ -33117,7 +34076,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-9 (V)
 
 
-##### Paragraphe 2 : Marchés reconductibles<a id=618></a>
+##### Paragraphe 2 : Marchés reconductibles<a id=627></a>
 
 ###### Article R2191-15
 
@@ -33135,7 +34094,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Accords-cadres à bons de commande<a id=619></a>
+##### Paragraphe 3 : Accords-cadres à bons de commande<a id=628></a>
 
 ###### Article R2191-16
 
@@ -33218,7 +34177,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-15 (V)
 
 
-##### Section 2 : Acomptes<a id=620></a>
+##### Section 2 : Acomptes<a id=629></a>
 
 ###### Article R2191-20
 
@@ -33295,9 +34254,9 @@ _Cite_:
   - Code de la commande publique - art. R2151-13 (V)
 
 
-##### Section 3 : Régime des paiements<a id=621></a>
+##### Section 3 : Régime des paiements<a id=630></a>
 
-##### Sous-section 1 : Dispositions générales<a id=622></a>
+##### Sous-section 1 : Dispositions générales<a id=631></a>
 
 ###### Article R2191-23
 
@@ -33352,7 +34311,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Règlement partiel définitif<a id=623></a>
+##### Sous-section 2 : Règlement partiel définitif<a id=632></a>
 
 ###### Article R2191-26
 
@@ -33376,7 +34335,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-20 (V)
 
 
-##### Sous-section 3 : Mise en œuvre de la clause de variation de prix<a id=624></a>
+##### Sous-section 3 : Mise en œuvre de la clause de variation de prix<a id=633></a>
 
 ###### Article R2191-27
 
@@ -33438,7 +34397,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Règles applicables en cas de résiliation du marché<a id=625></a>
+##### Sous-section 4 : Règles applicables en cas de résiliation du marché<a id=634></a>
 
 ###### Article R2191-30
 
@@ -33481,9 +34440,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 4 : Garanties<a id=626></a>
+##### Section 4 : Garanties<a id=635></a>
 
-##### Sous-section 1 : Retenue de garantie<a id=627></a>
+##### Sous-section 1 : Retenue de garantie<a id=636></a>
 
 ###### Article R2191-32
 
@@ -33580,7 +34539,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-24 (V)
 
 
-##### Sous-section 2 : Garantie à première demande et caution personnelle et solidaire<a id=628></a>
+##### Sous-section 2 : Garantie à première demande et caution personnelle et solidaire<a id=637></a>
 
 ###### Article R2191-36
 
@@ -33721,7 +34680,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Autres garanties<a id=629></a>
+##### Sous-section 3 : Autres garanties<a id=638></a>
 
 ###### Article R2191-43
 
@@ -33761,7 +34720,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-27 (V)
 
 
-##### Section 5 : Cession ou nantissement des créances<a id=630></a>
+##### Section 5 : Cession ou nantissement des créances<a id=639></a>
 
 ###### Article R2191-45
 
@@ -33783,9 +34742,9 @@ _Cité par_:
   - Code de la commande publique - art. R2391-28 (V)
 
 
-##### Sous-section 1 : Exemplaire unique et certificat de cessibilité<a id=631></a>
+##### Sous-section 1 : Exemplaire unique et certificat de cessibilité<a id=640></a>
 
-##### Paragraphe 1 : Modalités de remise de l'exemplaire unique et du certificat de cessibilité<a id=632></a>
+##### Paragraphe 1 : Modalités de remise de l'exemplaire unique et du certificat de cessibilité<a id=641></a>
 
 ###### Article R2191-46
 
@@ -33833,7 +34792,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 2 : Contenu et modification de l'exemplaire unique ou du certificat de cessibilité<a id=633></a>
+##### Paragraphe 2 : Contenu et modification de l'exemplaire unique ou du certificat de cessibilité<a id=642></a>
 
 ###### Article R2191-48
 
@@ -33884,7 +34843,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Dispositions propres aux accords-cadres à bons de commande et aux marchés à tranches optionnelles<a id=634></a>
+##### Paragraphe 3 : Dispositions propres aux accords-cadres à bons de commande et aux marchés à tranches optionnelles<a id=643></a>
 
 ###### Article R2191-51
 
@@ -33903,7 +34862,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 4 : Dispositions propres aux groupements d'opérateurs économiques<a id=635></a>
+##### Paragraphe 4 : Dispositions propres aux groupements d'opérateurs économiques<a id=644></a>
 
 ###### Article R2191-52
 
@@ -33946,9 +34905,9 @@ _Cite_:
   - Code de la commande publique - art. R2191-52 (V)
 
 
-##### Sous-section 2 : Notification au comptable assignataire et encaissement de la créance<a id=636></a>
+##### Sous-section 2 : Notification au comptable assignataire et encaissement de la créance<a id=645></a>
 
-##### Paragraphe 1 : Notification au comptable assignataire<a id=637></a>
+##### Paragraphe 1 : Notification au comptable assignataire<a id=646></a>
 
 ###### Article R2191-54
 
@@ -33989,7 +34948,7 @@ _Cite_:
   - Code monétaire et financier - art. R313-17 (V)
 
 
-##### Paragraphe 2 : Encaissement de la créance<a id=638></a>
+##### Paragraphe 2 : Encaissement de la créance<a id=647></a>
 
 ###### Article R2191-56
 
@@ -34040,7 +34999,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Information des bénéficiaires<a id=639></a>
+##### Sous-section 3 : Information des bénéficiaires<a id=648></a>
 
 ###### Article R2191-59
 
@@ -34061,7 +35020,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 1 : Renseignements communiqués par l'acheteur<a id=640></a>
+##### Paragraphe 1 : Renseignements communiqués par l'acheteur<a id=649></a>
 
 ###### Article R2191-60
 
@@ -34102,7 +35061,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 2 : Renseignements communiqués par le comptable<a id=641></a>
+##### Paragraphe 2 : Renseignements communiqués par le comptable<a id=650></a>
 
 ###### Article R2191-62
 
@@ -34120,7 +35079,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Privilège résultant de l'article L. 3253-22 du code du travail<a id=642></a>
+##### Sous-section 4 : Privilège résultant de l'article L. 3253-22 du code du travail<a id=651></a>
 
 ###### Article R2191-63
 
@@ -34149,11 +35108,100 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT<a id=643></a>
+##### Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT<a id=652></a>
 
-##### Section 2 : Délais de paiement<a id=644></a>
+##### Section 1 : Facturation électronique<a id=653></a>
 
-##### Sous-section 1 : Fixation du délai de paiement<a id=645></a>
+##### Sous-section 1 : Transmission et réception des factures sous forme électronique<a id=654></a>
+
+##### Paragraphe 1 : Norme de facturation électronique<a id=655></a>
+
+###### Article D2192-1
+
+La norme de facturation électronique mentionnée à l'article L. 2192-3 est celle fixée par la décision (UE) 2017/1870 de la
+Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur la facturation
+électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du Conseil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Paragraphe 2 : Mentions obligatoires des factures sous forme électronique<a id=656></a>
+
+###### Article D2192-2
+
+Sans préjudice des mentions obligatoires fixées par les dispositions législatives ou réglementaires, les factures mentionnées
+aux articles L. 2192-1 à L. 2192-3 comportent les mentions suivantes :
+
+1° La date d'émission de la facture ;
+
+2° La désignation de l'émetteur et du destinataire de la facture ;
+
+3° Le numéro unique basé sur une séquence chronologique et continue établie par l'émetteur de la facture, la numérotation
+pouvant être établie dans ces conditions sur une ou plusieurs séries ;
+
+4° En cas de contrat exécuté au moyen de bons de commande, le numéro du bon de commande ou, dans les autres cas, les
+références du contrat ou le numéro de l'engagement attribué par le système d'information financière et comptable du
+destinataire de la facture ;
+
+5° La désignation du payeur, avec l'indication, pour les personnes publiques, du code d'identification du service chargé du
+paiement ;
+
+6° La date de livraison des fournitures ou d'exécution des services ou des travaux ;
+
+7° La quantité et la dénomination précise des produits livrés, des prestations et travaux réalisés ;
+
+8° Le prix unitaire hors taxes des produits livrés, des prestations et travaux réalisés ou, lorsqu'il y a lieu, leur prix
+forfaitaire ;
+
+9° Le montant total de la facture, le montant total hors taxes et le montant de la taxe à payer, ainsi que la répartition de
+ces montants par taux de taxe sur la valeur ajoutée, ou, le cas échéant, le bénéfice d'une exonération ;
+
+10° L'identification, le cas échéant, du représentant fiscal de l'émetteur de la facture ;
+
+11° Le cas échéant, les modalités de règlement ;
+
+12° Le cas échéant, les renseignements relatifs aux déductions ou versements complémentaires.
+
+Les factures comportent en outre les numéros d'identité de l'émetteur et du destinataire de la facture, attribués à chaque
+établissement concerné ou, à défaut, à chaque personne en application de l'article R. 123-221 du code de commerce.
+
+Pour les émetteurs ne disposant pas du numéro d'identité mentionné à l'alinéa précédent, un arrêté du ministre chargé du
+budget, annexé au présent code, fixe l'identifiant qui doit être porté sur les factures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Sous-section 2 : Portail public de facturation<a id=657></a>
+
+###### Article R2192-3
+
+Un arrêté du ministre chargé du budget, annexé au présent code, définit les modalités techniques selon lesquelles le dépôt,
+la transmission et la réception des factures sont effectués sur le portail public de facturation en application de l'article
+L. 2192-5. Ces modalités garantissent la réception immédiate et intégrale des factures et assure la fiabilité de
+l'identification de l'émetteur, l'intégrité des données, la sécurité, la confidentialité et la traçabilité des échanges.
+
+L'utilisation du portail public de facturation est exclusive de tout autre mode de transmission. Lorsqu'une facture lui est
+transmise en dehors de ce portail, la personne publique destinataire ne peut la rejeter qu'après avoir informé l'émetteur par
+tout moyen de l'obligation mentionnée à l'article L. 2192-1 et l'avoir invité à s'y conformer en utilisant ce portail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Section 2 : Délais de paiement<a id=658></a>
+
+##### Sous-section 1 : Fixation du délai de paiement<a id=659></a>
 
 ###### Article R2192-10
 
@@ -34215,9 +35263,9 @@ _Cité par_:
   - Code de la commande publique - art. R2192-34 (V)
 
 
-##### Sous-section 2 : Déclenchement du délai de paiement<a id=646></a>
+##### Sous-section 2 : Déclenchement du délai de paiement<a id=660></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=647></a>
+##### Paragraphe 1 : Dispositions générales<a id=661></a>
 
 ###### Article R2192-12
 
@@ -34288,35 +35336,34 @@ _Créé par_:
 
 ###### Article R2192-15
 
-Lorsque la demande de paiement est transmise par voie électronique en application de l'article 1er de l'ordonnance n°
-2014-697 du 26 juin 2014  relative au développement de la facturation électronique, la date de réception de la demande de
-paiement par le pouvoir adjudicateur correspond : 
+Lorsque la demande de paiement est transmise par voie électronique en application des articles L. 2192-1 à L. 2192-3, la date
+de réception de la demande de paiement par le pouvoir adjudicateur correspond :
 
 1° Lorsque les factures sont transmises par échange de données informatisé, à la date à laquelle le système d'information
 budgétaire et comptable de l'Etat horodate l'arrivée de la facture et, pour les autres pouvoirs adjudicateurs, à la date de
-notification du message électronique l'informant de la mise à disposition de la facture sur la solution mutualisée, définie à
-l'article 2 de la même ordonnance ; 
+notification du message électronique l'informant de la mise à disposition de la facture sur le portail public de facturation
+mentionné à l'article L. 2192-5 ;
 
 2° Lorsque les factures sont transmises par le mode portail ou service, à la date de notification au pouvoir adjudicateur du
-message électronique l'informant de la mise à disposition de la facture sur cette solution mutualisée.
+message électronique l'informant de la mise à disposition de la facture sur ce portail.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2014-697 du 26 juin 2014 - art. 1 (V)
-  - Ordonnance n°2014-697 du 26 juin 2014 - art. 2 (V)
+  - Ordonnance n°2014-697 du 26 juin 2014 - art. 1
+  - Ordonnance n°2014-697 du 26 juin 2014 - art. 2
 
 _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
 
 
-##### Paragraphe 2 : Dispositions propres à certains marchés<a id=648></a>
+##### Paragraphe 2 : Dispositions propres à certains marchés<a id=662></a>
 
 ###### Article R2192-16
 
@@ -34363,7 +35410,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Paragraphe 3 : Dispositions propres à l'intervention d'un tiers habilité à recevoir les demandes de paiement<a id=649></a>
+##### Paragraphe 3 : Dispositions propres à l'intervention d'un tiers habilité à recevoir les demandes de paiement<a id=663></a>
 
 ###### Article R2192-18
 
@@ -34451,7 +35498,7 @@ _Cite_:
   - Code de la commande publique - art. R2192-20 (V)
 
 
-##### Paragraphe 4 : Dispositions propres aux sous-traitants bénéficiant du paiement direct<a id=650></a>
+##### Paragraphe 4 : Dispositions propres aux sous-traitants bénéficiant du paiement direct<a id=664></a>
 
 ###### Article R2192-22
 
@@ -34502,7 +35549,7 @@ _Cite_:
   - Code de la commande publique - art. R2193-14 (V)
 
 
-##### Paragraphe 5 : Dispositions propres aux avances, aux garanties et aux indemnités de résiliation<a id=651></a>
+##### Paragraphe 5 : Dispositions propres aux avances, aux garanties et aux indemnités de résiliation<a id=665></a>
 
 ###### Article R2192-24
 
@@ -34575,7 +35622,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Interruption du délai de paiement<a id=652></a>
+##### Sous-section 3 : Interruption du délai de paiement<a id=666></a>
 
 ###### Article R2192-27
 
@@ -34668,7 +35715,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=653></a>
+##### Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=667></a>
 
 ###### Article D2192-35
 
@@ -34714,8 +35761,8 @@ _Cite_:
 
 ###### Article R2192-32
 
-Les intérêts moratoires courent à compter du lendemain de l'expiration du délai de paiement jusqu'à la date de mise en
-paiement du principal incluse.
+Les intérêts moratoires courent à compter du lendemain de l'expiration du délai de paiement ou de l'échéance prévue par le
+marché jusqu'à la date de mise en paiement du principal incluse.
 
 **Liens relatifs à cet article**
 
@@ -34723,9 +35770,9 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 
 ###### Article R2192-33
@@ -34790,7 +35837,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public<a id=654></a>
+##### Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public<a id=668></a>
 
 ###### Article R2192-37
 
@@ -34825,13 +35872,13 @@ _Cité par_:
   - Code de la commande publique - art. R2651-1 (VT)
 
 
-##### Chapitre III : SOUS-TRAITANCE<a id=655></a>
+##### Chapitre III : SOUS-TRAITANCE<a id=669></a>
 
-##### Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement<a id=656></a>
+##### Section 1 : Acceptation du sous-traitant et agrément des conditions de paiement<a id=670></a>
 
-##### Sous-section 1 : Modalités d'acceptation et d'agrément<a id=657></a>
+##### Sous-section 1 : Modalités d'acceptation et d'agrément<a id=671></a>
 
-##### Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre<a id=658></a>
+##### Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre<a id=672></a>
 
 ###### Article R2193-1
 
@@ -34895,7 +35942,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Paragraphe 2 : Déclaration de sous-traitance après la notification du marché public<a id=659></a>
+##### Paragraphe 2 : Déclaration de sous-traitance après la notification du marché public<a id=673></a>
 
 ###### Article R2193-3
 
@@ -34954,7 +36001,7 @@ _Cite_:
   - Code de la commande publique - art. R2193-3 (V)
 
 
-##### Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct<a id=660></a>
+##### Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct<a id=674></a>
 
 ###### Article R2193-5
 
@@ -35050,7 +36097,7 @@ _Cité par_:
   - Code de la commande publique - art. R2393-32 (V)
 
 
-##### Sous-section 3 : Offres anormalement basses des sous-traitants<a id=661></a>
+##### Sous-section 3 : Offres anormalement basses des sous-traitants<a id=675></a>
 
 ###### Article R2193-9
 
@@ -35072,7 +36119,7 @@ _Cite_:
   - Code de la commande publique - art. R2152-3 (V)
 
 
-##### Section 2 : Paiement du sous-traitant<a id=662></a>
+##### Section 2 : Paiement du sous-traitant<a id=676></a>
 
 ###### Article R2193-10
 
@@ -35213,29 +36260,28 @@ _Créé par_:
 
 ###### Article R2193-16
 
-Lorsque le sous-traitant utilise le portail de facturation mentionné à l'article 2 de l'ordonnance n° 2014-697 du 26 juin
-2014 relative au développement de la facturation électronique, il y dépose sa demande de paiement sans autre formalité. Le
-titulaire dispose de quinze jours à compter de ce dépôt pour accepter ou refuser la demande de paiement sur le portail de
-facturation.
+Lorsque le sous-traitant utilise le portail public de facturation mentionné à l'article L. 2192-5, il y dépose sa demande de
+paiement sans autre formalité. Le titulaire dispose de quinze jours à compter de ce dépôt pour accepter ou refuser la demande
+de paiement sur ce portail.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2014-697 du 26 juin 2014 - art. 2 (V)
+  - Ordonnance n°2014-697 du 26 juin 2014 - art. 2
 
 _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
 
 
-##### Section 3 : Régime financier<a id=663></a>
+##### Section 3 : Régime financier<a id=677></a>
 
-##### Sous-section 1 : Avances<a id=664></a>
+##### Sous-section 1 : Avances<a id=678></a>
 
 ###### Article R2193-17
 
@@ -35349,7 +36395,7 @@ _Cité par_:
   - Code de la commande publique - art. R2393-39 (V)
 
 
-##### Sous-section 2 : Cession ou nantissement de créances<a id=665></a>
+##### Sous-section 2 : Cession ou nantissement de créances<a id=679></a>
 
 ###### Article R2193-22
 
@@ -35376,11 +36422,11 @@ _Cite_:
   - Code de la commande publique - art. R2193-4 (V)
 
 
-##### Chapitre IV : MODIFICATION DU MARCHÉ<a id=666></a>
+##### Chapitre IV : MODIFICATION DU MARCHÉ<a id=680></a>
 
-##### Section 1 : Modifications autorisées<a id=667></a>
+##### Section 1 : Modifications autorisées<a id=681></a>
 
-##### Sous-section 1 : Clauses contractuelles<a id=668></a>
+##### Sous-section 1 : Clauses contractuelles<a id=682></a>
 
 ###### Article R2194-1
 
@@ -35408,7 +36454,7 @@ _Cité par_:
   - Code de la commande publique - art. R2432-7 (V)
 
 
-##### Sous-section 2 : Travaux, fournitures ou services supplémentaires devenus nécessaires<a id=669></a>
+##### Sous-section 2 : Travaux, fournitures ou services supplémentaires devenus nécessaires<a id=683></a>
 
 ###### Article R2194-2
 
@@ -35486,7 +36532,7 @@ _Cité par_:
   - Code de la commande publique - art. R2194-8 (V)
 
 
-##### Sous-section 3 : Circonstances imprévues<a id=670></a>
+##### Sous-section 3 : Circonstances imprévues<a id=684></a>
 
 ###### Article R2194-5
 
@@ -35515,7 +36561,7 @@ _Cite_:
   - Code de la commande publique - art. R2194-4 (V)
 
 
-##### Sous-section 4 : Substitution d'un nouveau titulaire<a id=671></a>
+##### Sous-section 4 : Substitution d'un nouveau titulaire<a id=685></a>
 
 ###### Article R2194-6
 
@@ -35548,7 +36594,7 @@ _Cité par_:
   - Code de la commande publique - art. R2194-7 (V)
 
 
-##### Sous-section 5 : Modification non substantielle<a id=672></a>
+##### Sous-section 5 : Modification non substantielle<a id=686></a>
 
 ###### Article R2194-7
 
@@ -35590,7 +36636,7 @@ _Cité par_:
   - Code de la commande publique - art. R2194-8 (V)
 
 
-##### Sous-section 6 : Modification de faible montant<a id=673></a>
+##### Sous-section 6 : Modification de faible montant<a id=687></a>
 
 ###### Article R2194-8
 
@@ -35643,7 +36689,7 @@ _Cite_:
   - Code de la commande publique - art. R2194-8 (V)
 
 
-##### Section 2 : Avis de modification<a id=674></a>
+##### Section 2 : Avis de modification<a id=688></a>
 
 ###### Article R2194-10
 
@@ -35680,9 +36726,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-3 (V)
 
 
-##### Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT<a id=675></a>
+##### Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT<a id=689></a>
 
-##### Section 1 : Mise à disposition des données essentielles<a id=676></a>
+##### Section 1 : Mise à disposition des données essentielles<a id=690></a>
 
 ###### Article R2196-1
 
@@ -35715,9 +36761,9 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 2 : Recensement économique<a id=677></a>
+##### Section 2 : Recensement économique<a id=691></a>
 
-##### Sous-section 1 : Observatoire économique de la commande publique<a id=678></a>
+##### Sous-section 1 : Observatoire économique de la commande publique<a id=692></a>
 
 ###### Article R2196-2
 
@@ -35778,7 +36824,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Sous-section 2 : Modalités du recensement économique<a id=679></a>
+##### Sous-section 2 : Modalités du recensement économique<a id=693></a>
 
 ###### Article D2196-5
 
@@ -35844,7 +36890,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=680></a>
+##### Section 3 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=694></a>
 
 ###### Article R2196-8
 
@@ -35944,9 +36990,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS<a id=681></a>
+##### Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS<a id=695></a>
 
-##### Section 1 : Comités consultatifs de règlement amiable des différends<a id=682></a>
+##### Section 1 : Comités consultatifs de règlement amiable des différends<a id=696></a>
 
 ###### Article R2197-1
 
@@ -35968,7 +37014,7 @@ _Cité par_:
   - Code de la commande publique - art. R2397-1 (V)
 
 
-##### Sous-section 1 : Compétences des comités consultatifs de règlement amiable des différends<a id=683></a>
+##### Sous-section 1 : Compétences des comités consultatifs de règlement amiable des différends<a id=697></a>
 
 ###### Article R2197-2
 
@@ -36075,7 +37121,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Composition des comités consultatifs de règlement amiable des différends<a id=684></a>
+##### Sous-section 2 : Composition des comités consultatifs de règlement amiable des différends<a id=698></a>
 
 ###### Article R2197-6
 
@@ -36144,7 +37190,7 @@ _Cité par_:
   - Code de la commande publique - art. R2197-9 (V)
 
 
-##### Sous-section 3 : Nomination des membres des comités consultatifs de règlement amiable des différends<a id=685></a>
+##### Sous-section 3 : Nomination des membres des comités consultatifs de règlement amiable des différends<a id=699></a>
 
 ###### Article R2197-8
 
@@ -36246,7 +37292,7 @@ _Cite_:
   - Code de la commande publique - art. R2197-7 (V)
 
 
-##### Sous-section 4 : Animation, coordination et secrétariat des comités consultatifs de règlement amiable des différends<a id=686></a>
+##### Sous-section 4 : Animation, coordination et secrétariat des comités consultatifs de règlement amiable des différends<a id=700></a>
 
 ###### Article D2197-13
 
@@ -36277,7 +37323,7 @@ _Cite_:
   - Code de la commande publique - art. R2197-3 (V)
 
 
-##### Sous-section 5 : Dispositions financières relatives aux comités consultatifs de règlement amiable des différends<a id=687></a>
+##### Sous-section 5 : Dispositions financières relatives aux comités consultatifs de règlement amiable des différends<a id=701></a>
 
 ###### Article D2197-14
 
@@ -36307,7 +37353,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 6 : Saisine des comités consultatifs de règlement amiable des différends<a id=688></a>
+##### Sous-section 6 : Saisine des comités consultatifs de règlement amiable des différends<a id=702></a>
 
 ###### Article D2197-15
 
@@ -36372,7 +37418,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 7 : Modalités de fonctionnement des comités consultatifs de règlement amiable des différends<a id=689></a>
+##### Sous-section 7 : Modalités de fonctionnement des comités consultatifs de règlement amiable des différends<a id=703></a>
 
 ###### Article D2197-18
 
@@ -36455,7 +37501,7 @@ _Cite_:
   - Code de la commande publique - art. R2197-7 (V)
 
 
-##### Sous-section 8 : Notification des avis des comités consultatifs de règlement amiable des différends<a id=690></a>
+##### Sous-section 8 : Notification des avis des comités consultatifs de règlement amiable des différends<a id=704></a>
 
 ###### Article D2197-21
 
@@ -36498,7 +37544,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Le médiateur des entreprises<a id=691></a>
+##### Section 2 : Le médiateur des entreprises<a id=705></a>
 
 ###### Article R2197-23
 
@@ -36537,7 +37583,7 @@ _Cité par_:
   - Code de la commande publique - art. R2397-3 (V)
 
 
-##### Section 3 : Arbitrage<a id=692></a>
+##### Section 3 : Arbitrage<a id=706></a>
 
 ###### Article R2197-25
 
@@ -36555,7 +37601,7 @@ _Cite_:
   - Code de la commande publique - art. L2197-6 (V)
 
 
-### Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT<a id=693></a>
+### Livre II : DISPOSITIONS PROPRES AUX MARCHÉS DE PARTENARIAT<a id=707></a>
 
 ###### Article R2200-1
 
@@ -36592,11 +37638,11 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-#### Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT<a id=694></a>
+#### Titre Ier : PRÉPARATION DU MARCHÉ DE PARTENARIAT<a id=708></a>
 
-##### Chapitre Ier : CONDITIONS DE RECOURS AU MARCHÉ DE PARTENARIAT<a id=695></a>
+##### Chapitre Ier : CONDITIONS DE RECOURS AU MARCHÉ DE PARTENARIAT<a id=709></a>
 
-##### Section 1 : Seuils<a id=696></a>
+##### Section 1 : Seuils<a id=710></a>
 
 ###### Article R2211-1
 
@@ -36665,7 +37711,7 @@ _Cite_:
   - Code de la commande publique - art. R2211-1 (V)
 
 
-##### Section 2 : Bilan plus favorable<a id=697></a>
+##### Section 2 : Bilan plus favorable<a id=711></a>
 
 ###### Article R2211-3
 
@@ -36721,7 +37767,7 @@ _Cite_:
   - Code de la commande publique - art. R2211-3 (V)
 
 
-##### Chapitre II : INSTRUCTION DU PROJET<a id=698></a>
+##### Chapitre II : INSTRUCTION DU PROJET<a id=712></a>
 
 ###### Article R2212-1
 
@@ -36738,7 +37784,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 1 : Dispositions communes à la phase d'instruction<a id=699></a>
+##### Section 1 : Dispositions communes à la phase d'instruction<a id=713></a>
 
 ###### Article R2212-2
 
@@ -36772,7 +37818,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Evaluation du mode de réalisation du projet<a id=700></a>
+##### Section 2 : Evaluation du mode de réalisation du projet<a id=714></a>
 
 ###### Article R2212-4
 
@@ -36907,7 +37953,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Etude de soutenabilité budgétaire<a id=701></a>
+##### Section 3 : Etude de soutenabilité budgétaire<a id=715></a>
 
 ###### Article R2212-9
 
@@ -36961,7 +38007,7 @@ _Cité par_:
   - Code de la commande publique - art. R2221-2 (V)
 
 
-##### Section 4 : Instruction des projets pour le compte des acheteurs non autorisés<a id=702></a>
+##### Section 4 : Instruction des projets pour le compte des acheteurs non autorisés<a id=716></a>
 
 ###### Article R2212-11
 
@@ -37026,9 +38072,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre III : CONTENU DU MARCHÉ DE PARTENARIAT<a id=703></a>
+##### Chapitre III : CONTENU DU MARCHÉ DE PARTENARIAT<a id=717></a>
 
-##### Section 1 : Rémunération du titulaire<a id=704></a>
+##### Section 1 : Rémunération du titulaire<a id=718></a>
 
 ###### Article R2213-1
 
@@ -37104,7 +38150,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Part d'exécution du contrat réservée aux PME<a id=705></a>
+##### Section 2 : Part d'exécution du contrat réservée aux PME<a id=719></a>
 
 ###### Article R2213-5
 
@@ -37131,11 +38177,11 @@ _Cité par_:
   - Code de la commande publique - art. R2373-1 (V)
 
 
-#### Titre II : PASSATION DU MARCHÉ DE PARTENARIAT<a id=706></a>
+#### Titre II : PASSATION DU MARCHÉ DE PARTENARIAT<a id=720></a>
 
-##### Chapitre Ier : AUTORISATIONS PRÉALABLES À L'ENGAGEMENT DE LA PROCÉDURE<a id=707></a>
+##### Chapitre Ier : AUTORISATIONS PRÉALABLES À L'ENGAGEMENT DE LA PROCÉDURE<a id=721></a>
 
-##### Section unique :  Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=708></a>
+##### Section unique :  Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=722></a>
 
 ###### Article R2221-1
 
@@ -37205,9 +38251,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre II : PRÉSENTATION DES DOCUMENTS DE LA CONSULTATION, DES OFFRES ET CRITÈRES D'ATTRIBUTION<a id=709></a>
+##### Chapitre II : PRÉSENTATION DES DOCUMENTS DE LA CONSULTATION, DES OFFRES ET CRITÈRES D'ATTRIBUTION<a id=723></a>
 
-##### Section 1 : Caractère ajustable des modalités de financement<a id=710></a>
+##### Section 1 : Caractère ajustable des modalités de financement<a id=724></a>
 
 ###### Article R2222-1
 
@@ -37225,7 +38271,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Constitution d'une société de projet<a id=711></a>
+##### Section 2 : Constitution d'une société de projet<a id=725></a>
 
 ###### Article R2222-2
 
@@ -37269,11 +38315,11 @@ _Cite_:
   - Code de la commande publique - art. L2213-6 (V)
 
 
-##### Chapitre III : ACHÈVEMENT DE LA PROCÉDURE<a id=712></a>
+##### Chapitre III : ACHÈVEMENT DE LA PROCÉDURE<a id=726></a>
 
-##### Section 1 : Accord préalable à la signature<a id=713></a>
+##### Section 1 : Accord préalable à la signature<a id=727></a>
 
-##### Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=714></a>
+##### Sous-section 1 : Dispositions applicables à l'Etat, ses établissements publics et aux acheteurs non autorisés<a id=728></a>
 
 ###### Article R2223-1
 
@@ -37328,7 +38374,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux<a id=715></a>
+##### Sous-section 2 : Dispositions applicables aux collectivités territoriales et aux établissements publics locaux<a id=729></a>
 
 ###### Article R2223-4
 
@@ -37356,7 +38402,7 @@ _Cite_:
   - Code de la commande publique - art. R2212-7 (V)
 
 
-##### Section 2 : Signature du marché de partenariat pour le compte des acheteurs non autorisés<a id=716></a>
+##### Section 2 : Signature du marché de partenariat pour le compte des acheteurs non autorisés<a id=730></a>
 
 ###### Article R2223-5
 
@@ -37380,9 +38426,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-#### Titre III : EXÉCUTION DU MARCHÉ DE PARTENARIAT<a id=717></a>
+#### Titre III : EXÉCUTION DU MARCHÉ DE PARTENARIAT<a id=731></a>
 
-##### Chapitre II : EXÉCUTION FINANCIÈRE<a id=718></a>
+##### Chapitre II : EXÉCUTION FINANCIÈRE<a id=732></a>
 
 ###### Article R2232-1
 
@@ -37411,9 +38457,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Chapitre IV : SUIVI ET CONTRÔLE DE L'EXÉCUTION DU MARCHÉ DE PARTENARIAT<a id=719></a>
+##### Chapitre IV : SUIVI ET CONTRÔLE DE L'EXÉCUTION DU MARCHÉ DE PARTENARIAT<a id=733></a>
 
-##### Section 1 : Rapport annuel du titulaire<a id=720></a>
+##### Section 1 : Rapport annuel du titulaire<a id=734></a>
 
 ###### Article R2234-1
 
@@ -37530,7 +38576,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Contrôle de l'exécution du marché de partenariat par l'acheteur<a id=721></a>
+##### Section 2 : Contrôle de l'exécution du marché de partenariat par l'acheteur<a id=735></a>
 
 ###### Article R2234-5
 
@@ -37614,7 +38660,7 @@ _Cite_:
   - Code de la commande publique - art. L2132-1 (V)
 
 
-##### Chapitre VI : RECOURS A L'ARBITRAGE<a id=722></a>
+##### Chapitre VI : RECOURS A L'ARBITRAGE<a id=736></a>
 
 ###### Article R2236-1
 
@@ -37636,7 +38682,7 @@ _Cite_:
   - Code de la commande publique - art. L2236-1 (V)
 
 
-### Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=723></a>
+### Livre III : DISPOSITIONS APPLICABLES AUX MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=737></a>
 
 ###### Article R2300-1
 
@@ -37670,11 +38716,11 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-#### Titre Ier : PRÉPARATION DU MARCHÉ<a id=724></a>
+#### Titre Ier : PRÉPARATION DU MARCHÉ<a id=738></a>
 
-##### Chapitre Ier : DÉFINITION DU BESOIN<a id=725></a>
+##### Chapitre Ier : DÉFINITION DU BESOIN<a id=739></a>
 
-##### Section 1 : Aide à la définition du besoin<a id=726></a>
+##### Section 1 : Aide à la définition du besoin<a id=740></a>
 
 ###### Article R2311-1
 
@@ -37701,9 +38747,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 2 : Formalisation du besoin par des spécifications techniques<a id=727></a>
+##### Section 2 : Formalisation du besoin par des spécifications techniques<a id=741></a>
 
-##### Sous-section 1 : Contenu des spécifications techniques<a id=728></a>
+##### Sous-section 1 : Contenu des spécifications techniques<a id=742></a>
 
 ###### Article R2311-2
 
@@ -37741,7 +38787,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Formulation des spécifications techniques<a id=729></a>
+##### Sous-section 2 : Formulation des spécifications techniques<a id=743></a>
 
 ###### Article R2311-4
 
@@ -37846,7 +38892,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Utilisation d'écolabels<a id=730></a>
+##### Section 3 : Utilisation d'écolabels<a id=744></a>
 
 ###### Article R2311-8
 
@@ -37890,9 +38936,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre II : CONTENU DU MARCHÉ<a id=731></a>
+##### Chapitre II : CONTENU DU MARCHÉ<a id=745></a>
 
-##### Section 1 : Règles générales<a id=732></a>
+##### Section 1 : Règles générales<a id=746></a>
 
 ###### Article R2312-1
 
@@ -37975,7 +39021,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Durée<a id=733></a>
+##### Section 2 : Durée<a id=747></a>
 
 ###### Article R2312-5
 
@@ -37996,7 +39042,7 @@ _Cite_:
   - Code de la commande publique - art. R2212-4 (V)
 
 
-##### Section 3 : Prix<a id=734></a>
+##### Section 3 : Prix<a id=748></a>
 
 ###### Article R2312-6
 
@@ -38017,7 +39063,7 @@ _Cite_:
   - Code de la commande publique - art. R2112-5 (V)
 
 
-##### Sous-section 1 : Forme des prix<a id=735></a>
+##### Sous-section 1 : Forme des prix<a id=749></a>
 
 ###### Article R2312-7
 
@@ -38038,7 +39084,7 @@ _Cite_:
   - Code de la commande publique - art. R2112-6 (V)
 
 
-##### Sous-section 2 : Prix définitifs<a id=736></a>
+##### Sous-section 2 : Prix définitifs<a id=750></a>
 
 ###### Article R2312-8
 
@@ -38148,7 +39194,7 @@ _Cite_:
   - Code de la commande publique - art. R2312-11 (V)
 
 
-##### Sous-section 3 : Prix provisoires<a id=737></a>
+##### Sous-section 3 : Prix provisoires<a id=751></a>
 
 ###### Article R2312-13
 
@@ -38205,9 +39251,9 @@ _Cite_:
   - Code de la commande publique - art. R2112-18 (V)
 
 
-##### Chapitre III : ORGANISATION DE L'ACHAT<a id=738></a>
+##### Chapitre III : ORGANISATION DE L'ACHAT<a id=752></a>
 
-##### Section 1 : Allotissement<a id=739></a>
+##### Section 1 : Allotissement<a id=753></a>
 
 ###### Article R2313-1
 
@@ -38225,7 +39271,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Marchés à tranches<a id=740></a>
+##### Section 2 : Marchés à tranches<a id=754></a>
 
 ###### Article R2313-2
 
@@ -38246,7 +39292,7 @@ _Cite_:
   - Code de la commande publique - art. R2113-4 (V)
 
 
-##### Section 3 : Réservation de marchés<a id=741></a>
+##### Section 3 : Réservation de marchés<a id=755></a>
 
 ###### Article R2313-3
 
@@ -38270,11 +39316,11 @@ _Cite_:
   - Code de la commande publique - art. L2113-12 (V)
 
 
-#### Titre II : CHOIX DE LA PROCÉDURE DE PASSATION<a id=742></a>
+#### Titre II : CHOIX DE LA PROCÉDURE DE PASSATION<a id=756></a>
 
-##### Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN<a id=743></a>
+##### Chapitre Ier : CALCUL DE LA VALEUR ESTIMÉE DU BESOIN<a id=757></a>
 
-##### Section 1 : Dispositions générales<a id=744></a>
+##### Section 1 : Dispositions générales<a id=758></a>
 
 ###### Article R2321-1
 
@@ -38336,7 +39382,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Prise en compte de la nature des prestations<a id=745></a>
+##### Section 2 : Prise en compte de la nature des prestations<a id=759></a>
 
 ###### Article R2321-4
 
@@ -38357,7 +39403,7 @@ _Cite_:
   - Code de la commande publique - art. R2121-5 (V)
 
 
-##### Section 3 : Dispositions propres aux accords-cadres et aux partenariats d'innovation<a id=746></a>
+##### Section 3 : Dispositions propres aux accords-cadres et aux partenariats d'innovation<a id=760></a>
 
 ###### Article R2321-5
 
@@ -38401,7 +39447,7 @@ _Cite_:
   - Code de la commande publique - art. R2121-9 (V)
 
 
-##### Chapitre II : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES<a id=747></a>
+##### Chapitre II : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SANS PUBLICITÉ NI MISE EN CONCURRENCE PRÉALABLES<a id=761></a>
 
 ###### Article R2322-1
 
@@ -38744,9 +39790,9 @@ _Cite_:
   - Code de la commande publique - art. R2122-8 (V)
 
 
-##### Chapitre III : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE ADAPTÉE<a id=748></a>
+##### Chapitre III : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE ADAPTÉE<a id=762></a>
 
-##### Section 1 : Conditions de recours à une procédure adaptée<a id=749></a>
+##### Section 1 : Conditions de recours à une procédure adaptée<a id=763></a>
 
 ###### Article R2323-1
 
@@ -38867,7 +39913,7 @@ _Cite_:
   - Code de la commande publique - art. R2323-2 (V)
 
 
-##### Section 2 : Règles applicables<a id=750></a>
+##### Section 2 : Règles applicables<a id=764></a>
 
 ###### Article R2323-4
 
@@ -38888,7 +39934,7 @@ _Cite_:
   - Code de la commande publique - art. R2123-4 (V)
 
 
-##### Chapitre IV : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE FORMALISÉE<a id=751></a>
+##### Chapitre IV : MARCHÉS DE DÉFENSE OU DE SÉCURITÉ PASSÉS SELON UNE PROCÉDURE FORMALISÉE<a id=765></a>
 
 ###### Article R2324-1
 
@@ -38914,7 +39960,7 @@ _Modifié par_:
   - Décret n°2019-259 du 29 mars 2019 - art. 1
 
 
-##### Section 1 : Appel d'offres restreint<a id=752></a>
+##### Section 1 : Appel d'offres restreint<a id=766></a>
 
 ###### Article R2324-2
 
@@ -38942,7 +39988,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 2 : Procédure avec négociation<a id=753></a>
+##### Section 2 : Procédure avec négociation<a id=767></a>
 
 ###### Article R2324-3
 
@@ -38960,7 +40006,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Dialogue compétitif<a id=754></a>
+##### Section 3 : Dialogue compétitif<a id=768></a>
 
 ###### Article R2324-4
 
@@ -38987,13 +40033,13 @@ _Cite_:
   - Code de la commande publique - art. L2124-4 (V)
 
 
-#### Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=755></a>
+#### Titre III : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=769></a>
 
-##### Chapitre Ier : PUBLICITÉ PRÉALABLE<a id=756></a>
+##### Chapitre Ier : PUBLICITÉ PRÉALABLE<a id=770></a>
 
-##### Section 1 : Support de publicité<a id=757></a>
+##### Section 1 : Support de publicité<a id=771></a>
 
-##### Sous-section 1 : Avis de préinformation<a id=758></a>
+##### Sous-section 1 : Avis de préinformation<a id=772></a>
 
 ###### Article R2331-1
 
@@ -39092,9 +40138,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Avis de marché<a id=759></a>
+##### Sous-section 2 : Avis de marché<a id=773></a>
 
-##### Paragraphe 1 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur montant<a id=760></a>
+##### Paragraphe 1 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur montant<a id=774></a>
 
 ###### Article R2331-5
 
@@ -39147,7 +40193,7 @@ _Cite_:
   - Code de la commande publique - art. R2131-12 (VT)
 
 
-##### Paragraphe 2 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur objet<a id=761></a>
+##### Paragraphe 2 : Avis de marché pour les marchés passés selon une procédure adaptée en raison de leur objet<a id=775></a>
 
 ###### Article R2331-7
 
@@ -39165,7 +40211,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée<a id=762></a>
+##### Paragraphe 3 : Avis de marché pour les marchés passés selon une procédure formalisée<a id=776></a>
 
 ###### Article R2331-8
 
@@ -39194,7 +40240,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-4 (V)
 
 
-##### Paragraphe 4 : Publicité supplémentaire de l'avis de marché<a id=763></a>
+##### Paragraphe 4 : Publicité supplémentaire de l'avis de marché<a id=777></a>
 
 ###### Article R2331-9
 
@@ -39219,7 +40265,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 2 : Publication<a id=764></a>
+##### Section 2 : Publication<a id=778></a>
 
 ###### Article R2331-10
 
@@ -39271,11 +40317,11 @@ _Cité par_:
   - Code de la commande publique - art. R2661-4 (V)
 
 
-##### Chapitre II : COMMUNICATION ET ÉCHANGES D'INFORMATIONS<a id=765></a>
+##### Chapitre II : COMMUNICATION ET ÉCHANGES D'INFORMATIONS<a id=779></a>
 
-##### Section unique :  Dématérialisation des communications et échanges d'informations<a id=766></a>
+##### Section unique :  Dématérialisation des communications et échanges d'informations<a id=780></a>
 
-##### Sous-section 1 : Mise à disposition des documents de la consultation<a id=767></a>
+##### Sous-section 1 : Mise à disposition des documents de la consultation<a id=781></a>
 
 ###### Article R2332-1
 
@@ -39394,7 +40440,7 @@ _Cite_:
   - Code de la commande publique - art. R2132-3 (V)
 
 
-##### Sous-section 2 : Support des communications et échanges d'informations<a id=768></a>
+##### Sous-section 2 : Support des communications et échanges d'informations<a id=782></a>
 
 ###### Article R2332-6
 
@@ -39672,13 +40718,13 @@ _Cité par_:
   - Code de la commande publique - art. R2332-17 (V)
 
 
-#### Titre IV : PHASE DE CANDIDATURE<a id=769></a>
+#### Titre IV : PHASE DE CANDIDATURE<a id=783></a>
 
-##### Chapitre II : CONDITIONS DE PARTICIPATION<a id=770></a>
+##### Chapitre II : CONDITIONS DE PARTICIPATION<a id=784></a>
 
-##### Section 1 : Dispositions générales<a id=771></a>
+##### Section 1 : Dispositions générales<a id=785></a>
 
-##### Sous-section 1 : Conditions générales<a id=772></a>
+##### Sous-section 1 : Conditions générales<a id=786></a>
 
 ###### Article R2342-1
 
@@ -39741,7 +40787,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle<a id=773></a>
+##### Sous-section 2 : Conditions relatives à l'aptitude à exercer une activité professionnelle<a id=787></a>
 
 ###### Article R2342-4
 
@@ -39762,7 +40808,7 @@ _Cite_:
   - Code de la commande publique - art. R2142-5 (V)
 
 
-##### Sous-section 3 : Conditions relatives aux capacités économiques et financières<a id=774></a>
+##### Sous-section 3 : Conditions relatives aux capacités économiques et financières<a id=788></a>
 
 ###### Article R2342-5
 
@@ -39785,7 +40831,7 @@ _Cite_:
   - Code de la commande publique - art. R2142-6 (V)
 
 
-##### Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles<a id=775></a>
+##### Sous-section 4 : Conditions relatives aux capacités techniques et professionnelles<a id=789></a>
 
 ###### Article R2342-6
 
@@ -39807,7 +40853,7 @@ _Cite_:
   - Code de la commande publique - art. R2142-14 (V)
 
 
-##### Sous-section 5 : Conditions de participation des opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen<a id=776></a>
+##### Sous-section 5 : Conditions de participation des opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen<a id=790></a>
 
 ###### Article R2342-7
 
@@ -39847,7 +40893,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Réduction du nombre de candidats<a id=777></a>
+##### Section 2 : Réduction du nombre de candidats<a id=791></a>
 
 ###### Article R2342-9
 
@@ -39898,7 +40944,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Groupements d'opérateurs économiques<a id=778></a>
+##### Section 3 : Groupements d'opérateurs économiques<a id=792></a>
 
 ###### Article R2342-12
 
@@ -39986,16 +41032,16 @@ _Cite_:
   - Code de la commande publique - art. R2142-27 (V)
 
 
-##### Chapitre III : CONTENU DES CANDIDATURES<a id=779></a>
+##### Chapitre III : CONTENU DES CANDIDATURES<a id=793></a>
 
-##### Section 1 : Présentation des candidatures<a id=780></a>
+##### Section 1 : Présentation des candidatures<a id=794></a>
 
-##### Sous-section 1 : Délai de réception des candidatures<a id=781></a>
+##### Sous-section 1 : Délai de réception des candidatures<a id=795></a>
 
 ###### Article R2343-1
 
-L'acheteur fixe les délais de réception des candidatures et des offres en tenant compte de la complexité du marché et du
-temps nécessaire aux opérateurs économiques pour préparer leur candidature. 
+L'acheteur fixe les délais de réception des candidatures en tenant compte de la complexité du marché et du temps nécessaire
+aux opérateurs économiques pour préparer leur candidature.
 
 En procédure formalisée, les délais de réception des candidatures ne peuvent être inférieurs aux délais minimaux propres à
 chaque procédure fixée au chapitre Ier du titre VI.
@@ -40006,9 +41052,9 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cité par_:
 
@@ -40034,7 +41080,7 @@ _Cite_:
   - Code de la commande publique - art. R2143-2 (V)
 
 
-##### Sous-section 2 : Eléments à produire par le candidat<a id=782></a>
+##### Sous-section 2 : Eléments à produire par le candidat<a id=796></a>
 
 ###### Article R2343-3
 
@@ -40140,9 +41186,9 @@ _Cité par_:
   - Code de la commande publique - art. R2344-6 (V)
 
 
-##### Section 2 : Documents justificatifs et autres moyens de preuve<a id=783></a>
+##### Section 2 : Documents justificatifs et autres moyens de preuve<a id=797></a>
 
-##### Sous-section 1 : Dispositions générales<a id=784></a>
+##### Sous-section 1 : Dispositions générales<a id=798></a>
 
 ###### Article R2343-7
 
@@ -40163,7 +41209,7 @@ _Cite_:
   - Code de la commande publique - art. R2143-5 (V)
 
 
-##### Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion<a id=785></a>
+##### Sous-section 2 : Documents justificatifs et autres moyens de preuve de l'absence de motifs d'exclusion<a id=799></a>
 
 ###### Article R2343-8
 
@@ -40245,7 +41291,7 @@ _Cite_:
   - Code de la commande publique - art. R2343-8 (V)
 
 
-##### Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation<a id=786></a>
+##### Sous-section 3 : Documents justificatifs et autres moyens de preuve relatifs aux conditions de participation<a id=800></a>
 
 ###### Article R2343-11
 
@@ -40310,7 +41356,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve<a id=787></a>
+##### Sous-section 4 : Accès des acheteurs aux documents justificatifs et moyens de preuve<a id=801></a>
 
 ###### Article R2343-14
 
@@ -40352,7 +41398,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 5 : Opérateurs agréés et certifiés<a id=788></a>
+##### Sous-section 5 : Opérateurs agréés et certifiés<a id=802></a>
 
 ###### Article R2343-16
 
@@ -40419,7 +41465,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Traduction en français<a id=789></a>
+##### Section 3 : Traduction en français<a id=803></a>
 
 ###### Article R2343-19
 
@@ -40437,11 +41483,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre IV : EXAMEN DES CANDIDATURES<a id=790></a>
+##### Chapitre IV : EXAMEN DES CANDIDATURES<a id=804></a>
 
-##### Section 1 : Modalités de vérification<a id=791></a>
+##### Section 1 : Modalités de vérification<a id=805></a>
 
-##### Sous-section 1 : Dispositions générales<a id=792></a>
+##### Sous-section 1 : Dispositions générales<a id=806></a>
 
 ###### Article R2344-1
 
@@ -40542,7 +41588,7 @@ _Cite_:
   - Code de la commande publique - art. R2344-9 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen<a id=793></a>
+##### Sous-section 2 : Dispositions particulières aux opérateurs économiques des pays tiers à l'Union européenne ou à l'Espace économique européen<a id=807></a>
 
 ###### Article R2344-6
 
@@ -40616,7 +41662,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Invitation des candidats sélectionnés<a id=794></a>
+##### Section 2 : Invitation des candidats sélectionnés<a id=808></a>
 
 ###### Article R2344-9
 
@@ -40677,13 +41723,13 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-#### Titre V : PHASE D'OFFRE<a id=795></a>
+#### Titre V : PHASE D'OFFRE<a id=809></a>
 
-##### Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES<a id=796></a>
+##### Chapitre Ier : PRÉSENTATION ET CONTENU DES OFFRES<a id=810></a>
 
-##### Section 1 : Présentation des offres<a id=797></a>
+##### Section 1 : Présentation des offres<a id=811></a>
 
-##### Sous-section 1 : Délais de réception<a id=798></a>
+##### Sous-section 1 : Délais de réception<a id=812></a>
 
 ###### Article R2351-1
 
@@ -40790,7 +41836,7 @@ _Cite_:
   - Code de la commande publique - art. R2151-5 (V)
 
 
-##### Sous-section 2 : Modalités de remise<a id=799></a>
+##### Sous-section 2 : Modalités de remise<a id=813></a>
 
 ###### Article R2351-6
 
@@ -40832,7 +41878,7 @@ _Cite_:
   - Code de la commande publique - art. R2151-7 (V)
 
 
-##### Sous-section 3 : Variantes<a id=800></a>
+##### Sous-section 3 : Variantes<a id=814></a>
 
 ###### Article R2351-8
 
@@ -40891,7 +41937,7 @@ _Cite_:
   - Code de la commande publique - art. R2151-11 (V)
 
 
-##### Section 2 : Informations et documents à produire dans l'offre<a id=801></a>
+##### Section 2 : Informations et documents à produire dans l'offre<a id=815></a>
 
 ###### Article R2351-11
 
@@ -41120,9 +42166,9 @@ _Cite_:
   - Code de la commande publique - art. R2393-7 (V)
 
 
-##### Chapitre II : EXAMEN DES OFFRES<a id=802></a>
+##### Chapitre II : EXAMEN DES OFFRES<a id=816></a>
 
-##### Section 1 : Offres irrégulières, inacceptables ou inappropriées<a id=803></a>
+##### Section 1 : Offres irrégulières, inacceptables ou inappropriées<a id=817></a>
 
 ###### Article R2352-1
 
@@ -41144,7 +42190,7 @@ _Cite_:
   - Code de la commande publique - art. R2152-2 (V)
 
 
-##### Section 2 : Offres anormalement basses<a id=804></a>
+##### Section 2 : Offres anormalement basses<a id=818></a>
 
 ###### Article R2352-2
 
@@ -41203,9 +42249,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-4 (V)
 
 
-##### Section 3 : Choix de l'offre économiquement la plus avantageuse<a id=805></a>
+##### Section 3 : Choix de l'offre économiquement la plus avantageuse<a id=819></a>
 
-##### Sous-section 1 : Choix des critères d'attribution<a id=806></a>
+##### Sous-section 1 : Choix des critères d'attribution<a id=820></a>
 
 ###### Article R2352-4
 
@@ -41286,7 +42332,7 @@ _Cité par_:
   - Code de la commande publique - art. R2372-23 (V)
 
 
-##### Sous-section 2 : Publicité des critères et de leurs modalités de mise en œuvre<a id=807></a>
+##### Sous-section 2 : Publicité des critères et de leurs modalités de mise en œuvre<a id=821></a>
 
 ###### Article R2352-7
 
@@ -41325,7 +42371,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 4 : Mise au point du marché<a id=808></a>
+##### Section 4 : Mise au point du marché<a id=822></a>
 
 ###### Article R2352-9
 
@@ -41346,9 +42392,9 @@ _Cite_:
   - Code de la commande publique - art. R2152-13 (V)
 
 
-#### Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT<a id=809></a>
+#### Titre VI : RÈGLES APPLICABLES AUX PROCÉDURES DE PASSATION ET AUX TECHNIQUES D'ACHAT<a id=823></a>
 
-##### Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES<a id=810></a>
+##### Chapitre Ier : RÈGLES APPLICABLES AUX PROCÉDURES FORMALISÉES<a id=824></a>
 
 ###### Article R2361-1
 
@@ -41376,7 +42422,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 1 : Appel d'offres restreint<a id=811></a>
+##### Section 1 : Appel d'offres restreint<a id=825></a>
 
 ###### Article R2361-2
 
@@ -41520,7 +42566,7 @@ _Cite_:
   - Code de la commande publique - art. R2161-11 (V)
 
 
-##### Section 2 : Procédure avec négociation<a id=812></a>
+##### Section 2 : Procédure avec négociation<a id=826></a>
 
 ###### Article R2361-8
 
@@ -41622,7 +42668,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Dialogue compétitif<a id=813></a>
+##### Section 3 : Dialogue compétitif<a id=827></a>
 
 ###### Article R2361-13
 
@@ -41753,11 +42799,11 @@ _Cite_:
   - Code de la commande publique - art. R2161-31 (V)
 
 
-##### Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT<a id=814></a>
+##### Chapitre II : RÈGLES APPLICABLES AUX TECHNIQUES D'ACHAT<a id=828></a>
 
-##### Section 1 : Accords-cadres<a id=815></a>
+##### Section 1 : Accords-cadres<a id=829></a>
 
-##### Sous-section 1 : Dispositions générales<a id=816></a>
+##### Sous-section 1 : Dispositions générales<a id=830></a>
 
 ###### Article R2362-1
 
@@ -41869,7 +42915,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Dispositions propres aux marchés subséquents<a id=817></a>
+##### Sous-section 2 : Dispositions propres aux marchés subséquents<a id=831></a>
 
 ###### Article R2362-7
 
@@ -41890,7 +42936,7 @@ _Cite_:
   - Code de la commande publique - art. R2162-7 (V)
 
 
-##### Sous-section 3 : Dispositions propres aux bons de commande<a id=818></a>
+##### Sous-section 3 : Dispositions propres aux bons de commande<a id=832></a>
 
 ###### Article R2362-8
 
@@ -41912,7 +42958,7 @@ _Cite_:
   - Code de la commande publique - art. R2162-14 (V)
 
 
-##### Section 2 : Catalogues électroniques<a id=819></a>
+##### Section 2 : Catalogues électroniques<a id=833></a>
 
 ###### Article R2362-9
 
@@ -41988,7 +43034,7 @@ _Cite_:
   - Code de la commande publique - art. R2162-55 (V)
 
 
-##### Section 3 : Enchères électroniques<a id=820></a>
+##### Section 3 : Enchères électroniques<a id=834></a>
 
 ###### Article R2362-13
 
@@ -42106,13 +43152,13 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-#### Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=821></a>
+#### Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ<a id=835></a>
 
-##### Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX<a id=822></a>
+##### Chapitre Ier : RÈGLES APPLICABLES À CERTAINS MARCHÉS GLOBAUX<a id=836></a>
 
-##### Section 1 : Caractéristiques des marchés globaux<a id=823></a>
+##### Section 1 : Caractéristiques des marchés globaux<a id=837></a>
 
-##### Sous-section 1 : Marchés de conception-réalisation<a id=824></a>
+##### Sous-section 1 : Marchés de conception-réalisation<a id=838></a>
 
 ###### Article R2371-1
 
@@ -42138,7 +43184,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 2 : Marchés globaux de performance<a id=825></a>
+##### Sous-section 2 : Marchés globaux de performance<a id=839></a>
 
 ###### Article R2371-2
 
@@ -42160,7 +43206,7 @@ _Cite_:
   - Code de la commande publique - art. L2391-5 (V)
 
 
-##### Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment<a id=826></a>
+##### Sous-section 3 : Dispositions communes aux marchés globaux comportant des prestations de conception d'un ouvrage de bâtiment<a id=840></a>
 
 ###### Article D2371-3
 
@@ -42188,7 +43234,7 @@ _Cité par_:
   - Code de la commande publique - art. D2661-2 (V)
 
 
-##### Section 2 : Procédure de passation des marchés globaux<a id=827></a>
+##### Section 2 : Procédure de passation des marchés globaux<a id=841></a>
 
 ###### Article R2371-4
 
@@ -42303,7 +43349,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Versement d'une prime<a id=828></a>
+##### Section 3 : Versement d'une prime<a id=842></a>
 
 ###### Article R2371-8
 
@@ -42345,11 +43391,11 @@ _Cite_:
   - Code de la commande publique - art. R2171-20 (V)
 
 
-##### Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ EN FONCTION DE LEUR OBJET<a id=829></a>
+##### Chapitre II : RÈGLES APPLICABLES À CERTAINS MARCHÉS DE DÉFENSE OU DE SÉCURITÉ EN FONCTION DE LEUR OBJET<a id=843></a>
 
-##### Section 1 : Marchés de maîtrise d'œuvre<a id=830></a>
+##### Section 1 : Marchés de maîtrise d'œuvre<a id=844></a>
 
-##### Sous-section 1 : Définition<a id=831></a>
+##### Sous-section 1 : Définition<a id=845></a>
 
 ###### Article R2372-1
 
@@ -42374,7 +43420,7 @@ _Cite_:
   - Code de la commande publique - art. L2431-1 (V)
 
 
-##### Sous-section 2 : Procédures applicables<a id=832></a>
+##### Sous-section 2 : Procédures applicables<a id=846></a>
 
 ###### Article R2372-2
 
@@ -42489,7 +43535,7 @@ _Cité par_:
   - Code de la commande publique - art. R2372-2 (V)
 
 
-##### Sous-section 3 : Primes<a id=833></a>
+##### Sous-section 3 : Primes<a id=847></a>
 
 ###### Article R2372-6
 
@@ -42563,7 +43609,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Marchés de décoration des constructions publiques<a id=834></a>
+##### Section 2 : Marchés de décoration des constructions publiques<a id=848></a>
 
 ###### Article R2372-10
 
@@ -42584,9 +43630,9 @@ _Cite_:
   - Code de la commande publique - art. R2172-7 (V)
 
 
-##### Sous-section 1 : Marchés inférieurs aux seuils européens<a id=835></a>
+##### Sous-section 1 : Marchés inférieurs aux seuils européens<a id=849></a>
 
-##### Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer<a id=836></a>
+##### Paragraphe 1 : Marchés portant sur la commande d'une ou plusieurs réalisations artistiques à créer<a id=850></a>
 
 ###### Article R2372-11
 
@@ -42651,7 +43697,7 @@ _Cite_:
   - Code de la commande publique - art. R2172-12 (V)
 
 
-##### Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes<a id=837></a>
+##### Paragraphe 2 : Marchés portant sur l'achat d'une ou plusieurs réalisations artistiques existantes<a id=851></a>
 
 ###### Article R2372-14
 
@@ -42673,7 +43719,7 @@ _Cite_:
   - Code de la commande publique - art. R2172-16 (V)
 
 
-##### Sous-section 2 : Marchés de décoration des constructions publiques supérieurs aux seuils européens<a id=838></a>
+##### Sous-section 2 : Marchés de décoration des constructions publiques supérieurs aux seuils européens<a id=852></a>
 
 ###### Article R2372-15
 
@@ -42694,7 +43740,7 @@ _Cite_:
   - Code de la commande publique - art. R2172-17 (V)
 
 
-##### Sous-section 3 : Composition et fonctionnement du comité artistique<a id=839></a>
+##### Sous-section 3 : Composition et fonctionnement du comité artistique<a id=853></a>
 
 ###### Article R2372-16
 
@@ -42716,7 +43762,7 @@ _Cite_:
   - Code de la commande publique - art. R2172-19 (V)
 
 
-##### Section 3 : Partenariats d'innovation<a id=840></a>
+##### Section 3 : Partenariats d'innovation<a id=854></a>
 
 ###### Article R2372-17
 
@@ -42764,7 +43810,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 4 : Marchés présentant des aléas techniques importants<a id=841></a>
+##### Section 4 : Marchés présentant des aléas techniques importants<a id=855></a>
 
 ###### Article R2372-19
 
@@ -42834,7 +43880,7 @@ _Cite_:
   - Code de la commande publique - art. R2372-19 (V)
 
 
-##### Section 5 : Marchés relatifs à l'achat de véhicules à moteur<a id=842></a>
+##### Section 5 : Marchés relatifs à l'achat de véhicules à moteur<a id=856></a>
 
 ###### Article R2372-22
 
@@ -42904,7 +43950,7 @@ _Cite_:
   - Code de la commande publique - art. R2172-38 (V)
 
 
-##### Chapitre III : MARCHÉS DE PARTENARIAT DE DÉFENSE OU DE SÉCURITÉ<a id=843></a>
+##### Chapitre III : MARCHÉS DE PARTENARIAT DE DÉFENSE OU DE SÉCURITÉ<a id=857></a>
 
 ###### Article R2373-1
 
@@ -42944,9 +43990,9 @@ _Cite_:
   - Code de la commande publique - art. R2213-5 (V)
 
 
-#### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE DE PASSATION<a id=844></a>
+#### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE DE PASSATION<a id=858></a>
 
-##### Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS DE LA PROCÉDURE DE PASSATION<a id=845></a>
+##### Chapitre Ier : INFORMATION DES CANDIDATS ET DES SOUMISSIONNAIRES ÉVINCÉS DE LA PROCÉDURE DE PASSATION<a id=859></a>
 
 ###### Article R2381-1
 
@@ -42972,9 +44018,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ<a id=846></a>
+##### Chapitre II : SIGNATURE ET NOTIFICATION DU MARCHÉ<a id=860></a>
 
-##### Section 1 : Signature du marché<a id=847></a>
+##### Section 1 : Signature du marché<a id=861></a>
 
 ###### Article R2382-1
 
@@ -43037,7 +44083,7 @@ _Cite_:
   - Code de la commande publique - art. R2182-3 (V)
 
 
-##### Section 2 : Notification du marché<a id=848></a>
+##### Section 2 : Notification du marché<a id=862></a>
 
 ###### Article R2382-4
 
@@ -43058,9 +44104,9 @@ _Cite_:
   - Code de la commande publique - art. R2182-4 (V)
 
 
-##### Chapitre III : AVIS D'ATTRIBUTION DU MARCHÉ<a id=849></a>
+##### Chapitre III : AVIS D'ATTRIBUTION DU MARCHÉ<a id=863></a>
 
-##### Section 1 : Modalités de publication<a id=850></a>
+##### Section 1 : Modalités de publication<a id=864></a>
 
 ###### Article R2383-1
 
@@ -43117,7 +44163,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-4 (V)
 
 
-##### Section 2 : Dispositions particulières relatives au contenu des avis d'attribution<a id=851></a>
+##### Section 2 : Dispositions particulières relatives au contenu des avis d'attribution<a id=865></a>
 
 ###### Article R2383-3
 
@@ -43147,9 +44193,9 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Chapitre IV : CONSERVATION DES INFORMATIONS DU MARCHÉ<a id=852></a>
+##### Chapitre IV : CONSERVATION DES INFORMATIONS DU MARCHÉ<a id=866></a>
 
-##### Section 1 : Rapport de présentation de la procédure menée par les acheteurs<a id=853></a>
+##### Section 1 : Rapport de présentation de la procédure menée par les acheteurs<a id=867></a>
 
 ###### Article R2384-1
 
@@ -43276,7 +44322,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-4 (V)
 
 
-##### Section 2 : Durée de conservation<a id=854></a>
+##### Section 2 : Durée de conservation<a id=868></a>
 
 ###### Article R2384-5
 
@@ -43302,7 +44348,7 @@ _Cite_:
   - Code de la commande publique - art. R2184-13 (V)
 
 
-##### Chapitre V : ABANDON DE LA PROCÉDURE DE PASSATION DU MARCHÉ<a id=855></a>
+##### Chapitre V : ABANDON DE LA PROCÉDURE DE PASSATION DU MARCHÉ<a id=869></a>
 
 ###### Article R2385-1
 
@@ -43324,15 +44370,15 @@ _Cite_:
   - Code de la commande publique - art. R2185-2 (V)
 
 
-#### Titre IX : EXÉCUTION DU MARCHÉ<a id=856></a>
+#### Titre IX : EXÉCUTION DU MARCHÉ<a id=870></a>
 
-##### Chapitre Ier : EXÉCUTION FINANCIÈRE DU MARCHÉ<a id=857></a>
+##### Chapitre Ier : EXÉCUTION FINANCIÈRE DU MARCHÉ<a id=871></a>
 
-##### Section 1 : Avances<a id=858></a>
+##### Section 1 : Avances<a id=872></a>
 
-##### Sous-section 1 : Dispositions générales<a id=859></a>
+##### Sous-section 1 : Dispositions générales<a id=873></a>
 
-##### Paragraphe 1 : Principe de versement d'une avance<a id=860></a>
+##### Paragraphe 1 : Principe de versement d'une avance<a id=874></a>
 
 ###### Article R2391-1
 
@@ -43384,7 +44430,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-5 (V)
 
 
-##### Paragraphe 2 : Modalités de calcul du montant de l'avance<a id=861></a>
+##### Paragraphe 2 : Modalités de calcul du montant de l'avance<a id=875></a>
 
 ###### Article R2391-3
 
@@ -43436,11 +44482,10 @@ _Cité par_:
 ###### Article R2391-5
 
 L'acheteur peut porter le montant de l'avance de 30 % du montant calculé conformément aux dispositions de l'article R. 2391-4
-à un maximum de 60 % à la condition que le titulaire constitue une garantie à première demande conformément aux dispositions
-de l'article R. 2391-25. 
+à un maximum de 60 % à la condition que le titulaire constitue une garantie à première demande.
 
 L'obligation de constituer cette garantie peut être supprimée ou aménagée par un arrêté conjoint du ministre chargé de la
-défense et du ministre chargé de l'économie. 
+défense et du ministre chargé de l'économie.
 
 La constitution de cette garantie n'est toutefois pas exigée des personnes publiques titulaires d'un marché.
 
@@ -43450,19 +44495,19 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 _Cite_:
 
-  - Code de la commande publique - art. R2391-25 (V)
-  - Code de la commande publique - art. R2391-4 (V)
+  - Code de la commande publique - art. R2391-25
+  - Code de la commande publique - art. R2391-4
 
 _Cité par_:
 
   - Code de la commande publique - art. R2651-1 (VT)
-  - Code de la commande publique - art. R2661-1 (M)
+  - Code de la commande publique - art. R2661-1 (VT)
 
 
 ###### Article R2391-6
@@ -43485,7 +44530,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-9 (V)
 
 
-##### Paragraphe 3 : Modalités de remboursement de l'avance<a id=862></a>
+##### Paragraphe 3 : Modalités de remboursement de l'avance<a id=876></a>
 
 ###### Article R2391-7
 
@@ -43507,9 +44552,9 @@ _Cite_:
   - Code de la commande publique - art. R2191-12 (V)
 
 
-##### Sous-section 2 : Dispositions particulières<a id=863></a>
+##### Sous-section 2 : Dispositions particulières<a id=877></a>
 
-##### Paragraphe 1 : Marchés à tranches<a id=864></a>
+##### Paragraphe 1 : Marchés à tranches<a id=878></a>
 
 ###### Article R2391-8
 
@@ -43564,7 +44609,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 2 : Marchés reconductibles<a id=865></a>
+##### Paragraphe 2 : Marchés reconductibles<a id=879></a>
 
 ###### Article R2391-11
 
@@ -43582,7 +44627,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Accords-cadres à bons de commande<a id=866></a>
+##### Paragraphe 3 : Accords-cadres à bons de commande<a id=880></a>
 
 ###### Article R2391-12
 
@@ -43667,7 +44712,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-19 (V)
 
 
-##### Section 2 : Acomptes<a id=867></a>
+##### Section 2 : Acomptes<a id=881></a>
 
 ###### Article R2391-16
 
@@ -43713,9 +44758,9 @@ _Cite_:
   - Code de la commande publique - art. R2351-12 (V)
 
 
-##### Section 3 : Régime des paiements<a id=868></a>
+##### Section 3 : Régime des paiements<a id=882></a>
 
-##### Sous-section 1 : Dispositions générales<a id=869></a>
+##### Sous-section 1 : Dispositions générales<a id=883></a>
 
 ###### Article R2391-18
 
@@ -43759,7 +44804,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-23 (V)
 
 
-##### Sous-section 2 : Règlement partiel définitif<a id=870></a>
+##### Sous-section 2 : Règlement partiel définitif<a id=884></a>
 
 ###### Article R2391-20
 
@@ -43780,9 +44825,9 @@ _Cite_:
   - Code de la commande publique - art. R2191-26 (V)
 
 
-##### Section 4 : Garanties<a id=871></a>
+##### Section 4 : Garanties<a id=885></a>
 
-##### Sous-section 1 : Retenue de garantie<a id=872></a>
+##### Sous-section 1 : Retenue de garantie<a id=886></a>
 
 ###### Article R2391-21
 
@@ -43859,7 +44904,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-35 (V)
 
 
-##### Sous-section 2 : Garantie à première demande et caution personnelle et solidaire<a id=873></a>
+##### Sous-section 2 : Garantie à première demande et caution personnelle et solidaire<a id=887></a>
 
 ###### Article R2391-25
 
@@ -43884,7 +44929,7 @@ _Cité par_:
   - Code de la commande publique - art. R2391-5 (V)
 
 
-##### Sous-section 3 : Autres garanties<a id=874></a>
+##### Sous-section 3 : Autres garanties<a id=888></a>
 
 ###### Article R2391-26
 
@@ -43920,7 +44965,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-44 (V)
 
 
-##### Section 5 : Cession ou nantissement de créances<a id=875></a>
+##### Section 5 : Cession ou nantissement de créances<a id=889></a>
 
 ###### Article R2391-28
 
@@ -43941,9 +44986,63 @@ _Cite_:
   - Code de la commande publique - art. R2191-45 (V)
 
 
-##### Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT<a id=876></a>
+##### Chapitre II : MODALITÉS DE FACTURATION ET DE PAIEMENT<a id=890></a>
 
-##### Section 2 : Délais de paiement<a id=877></a>
+##### Section 1 : Facturation électronique<a id=891></a>
+
+##### Sous-section 1 : Transmission et réception des factures sous forme électronique<a id=892></a>
+
+##### Paragraphe 1 : Norme de facturation électronique<a id=893></a>
+
+###### Article D2392-1
+
+La norme de facturation électronique mentionnée à l'article L. 2392-3 est celle fixée par la décision (UE) 2017/1870 de la
+Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur la facturation
+électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du Conseil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Paragraphe 2 : Mentions obligatoires des factures sous forme électronique<a id=894></a>
+
+###### Article D2392-2
+
+Sans préjudice des mentions obligatoires fixées par les dispositions législatives ou réglementaires, les factures sous forme
+électronique mentionnées aux articles L. 2392-1 à L. 2392-3 comportent les mentions prévues à l'article D. 2192-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Sous-section 2 : Portail public de facturation<a id=895></a>
+
+###### Article R2392-3
+
+Un arrêté du ministre chargé du budget, annexé au présent code, définit les modalités techniques selon lesquelles le dépôt,
+la transmission et la réception des factures sont effectués sur le portail public de facturation en application de l'article
+L. 2392-5. Ces modalités garantissent la réception immédiate et intégrale des factures et assure la fiabilité de
+l'identification de l'émetteur, l'intégrité des données, la sécurité, la confidentialité et la traçabilité des échanges.
+
+L'utilisation du portail public de facturation est exclusive de tout autre mode de transmission sous forme électronique.
+Lorsqu'une facture lui est transmise en dehors de ce portail, la personne publique destinataire ne peut la rejeter qu'après
+avoir informé l'émetteur par tout moyen de l'obligation mentionnée à l'article L. 2392-5 et l'avoir invité à s'y conformer en
+utilisant ce portail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Section 2 : Délais de paiement<a id=896></a>
 
 ###### Article D2392-11
 
@@ -43971,7 +45070,8 @@ _Cité par_:
 
 ###### Article R2392-10
 
-Les dispositions des articles R. 2192-10 à R. 2192-22, R. 2192-25 à R. 2192-34 et R. 2192-36 s'appliquent. 
+Les dispositions des articles R. 2192-10 à R. 2192-14 et R. 2192-16 à R. 2192-22, R. 2192-25 à R. 2192-34 et R. 2192-36
+s'appliquent.
 
 En cas de versement d'une avance en application de l'article R. 2391-1, le délai de paiement de celle-ci court à compter de
 la date définie dans les conditions fixées à l'article R. 2192-24.
@@ -43984,15 +45084,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 1
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
 
 _Cite_:
 
-  - Code de la commande publique - art. R2192-10 (V)
-  - Code de la commande publique - art. R2192-24 (V)
-  - Code de la commande publique - art. R2192-25 (V)
-  - Code de la commande publique - art. R2192-36 (V)
-  - Code de la commande publique - art. R2391-1 (V)
+  - Code de la commande publique - art. R2192-10
+  - Code de la commande publique - art. R2192-24
+  - Code de la commande publique - art. R2192-25
+  - Code de la commande publique - art. R2192-36
+  - Code de la commande publique - art. R2391-1
 
 _Cité par_:
 
@@ -44030,7 +45130,27 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public<a id=878></a>
+###### Article R2392-12-1
+
+Lorsque la demande de paiement est transmise par voie électronique en application des articles L. 2392-1 à L. 2392-3, la date
+de réception de la demande de paiement par le pouvoir adjudicateur correspond :
+
+1° Lorsque les factures sont transmises par échange de données informatisé, à la date à laquelle le système d'information
+budgétaire et comptable de l'Etat horodate l'arrivée de la facture ou, pour les factures adressées à un établissement public
+de l'Etat, à la date de notification du message électronique l'informant de la mise à disposition de la facture sur le
+portail public de facturation mentionné à l'article L. 2392-5 ;
+
+2° Lorsque les factures sont transmises par le mode portail ou service, à la date de notification à l'établissement public de
+l'Etat du message électronique l'informant de la mise à disposition de la facture sur ce portail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
+
+
+##### Section 3 : Paiement par carte d'achat des marchés des personnes morales de droit public dotées d'un comptable public<a id=897></a>
 
 ###### Article R2392-13
 
@@ -44051,7 +45171,7 @@ _Cite_:
   - Code de la commande publique - art. R2192-37 (V)
 
 
-##### Chapitre III : DISPOSITIONS RELATIVES AUX SOUS-CONTRATS<a id=879></a>
+##### Chapitre III : DISPOSITIONS RELATIVES AUX SOUS-CONTRATS<a id=898></a>
 
 ###### Article R2393-1
 
@@ -44072,7 +45192,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 1 : Dispositions communes aux sous-contrats<a id=880></a>
+##### Section 1 : Dispositions communes aux sous-contrats<a id=899></a>
 
 ###### Article R2393-2
 
@@ -44131,7 +45251,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 1 : Obligation du titulaire de mettre en concurrence les sous-contractants<a id=881></a>
+##### Sous-section 1 : Obligation du titulaire de mettre en concurrence les sous-contractants<a id=900></a>
 
 ###### Article R2393-4
 
@@ -44197,7 +45317,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Obligation du titulaire de sous-contracter<a id=882></a>
+##### Sous-section 2 : Obligation du titulaire de sous-contracter<a id=901></a>
 
 ###### Article R2393-7
 
@@ -44322,7 +45442,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Procédure de mise en concurrence des sous-contractants<a id=883></a>
+##### Sous-section 3 : Procédure de mise en concurrence des sous-contractants<a id=902></a>
 
 ###### Article R2393-13
 
@@ -44357,7 +45477,7 @@ _Cite_:
   - Code de la commande publique - art. L2393-3 (V)
 
 
-##### Paragraphe 1 : Règles de passation communes aux sous-contrats<a id=884></a>
+##### Paragraphe 1 : Règles de passation communes aux sous-contrats<a id=903></a>
 
 ###### Article R2393-14
 
@@ -44444,7 +45564,7 @@ _Cite_:
   - Code de la commande publique - art. L2325-1 (V)
 
 
-##### Paragraphe 2 : Passation des sous-contrats dont la valeur estimée du besoin est inférieure aux seuils de procédure formalisée<a id=885></a>
+##### Paragraphe 2 : Passation des sous-contrats dont la valeur estimée du besoin est inférieure aux seuils de procédure formalisée<a id=904></a>
 
 ###### Article R2393-17
 
@@ -44464,7 +45584,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Passation des sous-contrats dont la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée<a id=886></a>
+##### Paragraphe 3 : Passation des sous-contrats dont la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée<a id=905></a>
 
 ###### Article R2393-18
 
@@ -44551,7 +45671,7 @@ _Cité par_:
   - Code de la commande publique - art. R2651-1 (VT)
 
 
-##### Sous-section 4 : Conditions de rejet par l'acheteur du sous-contractant proposé par le titulaire<a id=887></a>
+##### Sous-section 4 : Conditions de rejet par l'acheteur du sous-contractant proposé par le titulaire<a id=906></a>
 
 ###### Article R2393-21
 
@@ -44603,7 +45723,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Sous-section 5 : Communication des sous-contrats à l'acheteur<a id=888></a>
+##### Sous-section 5 : Communication des sous-contrats à l'acheteur<a id=907></a>
 
 ###### Article R2393-23
 
@@ -44622,9 +45742,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traités<a id=889></a>
+##### Section 2 : Dispositions applicables aux sous-contrats qui présentent le caractère de sous-traités<a id=908></a>
 
-##### Sous-section 1 : Modalités d'acceptation<a id=890></a>
+##### Sous-section 1 : Modalités d'acceptation<a id=909></a>
 
 ###### Article R2393-24
 
@@ -44648,7 +45768,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre<a id=891></a>
+##### Paragraphe 1 : Déclaration de sous-traitance au moment de l'offre<a id=910></a>
 
 ###### Article R2393-25
 
@@ -44707,7 +45827,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Paragraphe 2 : Déclaration de sous-traitance après la notification du marché<a id=892></a>
+##### Paragraphe 2 : Déclaration de sous-traitance après la notification du marché<a id=911></a>
 
 ###### Article R2393-27
 
@@ -44764,7 +45884,7 @@ _Cite_:
   - Code de la commande publique - art. R2393-27 (V)
 
 
-##### Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct<a id=893></a>
+##### Sous-section 2 : Modalités de modification de l'exemplaire unique et du certificat de cessibilité en cas de prestations confiées à un sous-traitant admis au paiement direct<a id=912></a>
 
 ###### Article R2393-29
 
@@ -44846,7 +45966,7 @@ _Cite_:
   - Code de la commande publique - art. R2193-8 (V)
 
 
-##### Sous-section 3 : Paiement du sous-traitant<a id=894></a>
+##### Sous-section 3 : Paiement du sous-traitant<a id=913></a>
 
 ###### Article R2393-33
 
@@ -44884,7 +46004,7 @@ _Cite_:
 
 ###### Article R2393-34
 
-Les dispositions des articles R. 2193-11 à R. 2193-16 s'appliquent.
+Les dispositions des articles R. 2193-11 à R. 2193-15 s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -44892,16 +46012,29 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
 
 _Cite_:
 
-  - Code de la commande publique - art. R2193-11 (V)
+  - Code de la commande publique - art. R2193-11
 
 
-##### Sous-section 4 : Régime financier<a id=895></a>
+###### Article R2393-34-1
+
+Lorsque le sous-traitant utilise le portail public de facturation mentionné à l'article L. 2392-5, il y dépose sa demande de
+paiement sans autre formalité. Le titulaire dispose de quinze jours à compter de ce dépôt pour accepter ou refuser la demande
+de paiement sur ce portail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
+
+
+##### Sous-section 4 : Régime financier<a id=914></a>
 
 ###### Article R2393-35
 
@@ -44919,7 +46052,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 1 : Avances<a id=896></a>
+##### Paragraphe 1 : Avances<a id=915></a>
 
 ###### Article R2393-36
 
@@ -44999,7 +46132,7 @@ _Cite_:
   - Code de la commande publique - art. R2193-21 (V)
 
 
-##### Paragraphe 2 : Cession ou nantissement de créances<a id=897></a>
+##### Paragraphe 2 : Cession ou nantissement de créances<a id=916></a>
 
 ###### Article R2393-40
 
@@ -45026,7 +46159,7 @@ _Cite_:
   - Code de la commande publique - art. R2393-27 (V)
 
 
-##### Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités<a id=898></a>
+##### Section 3 : Dispositions applicables aux sous-contrats qui ne présentent pas le caractère de sous-traités<a id=917></a>
 
 ###### Article R2393-41
 
@@ -45138,7 +46271,7 @@ _Cite_:
   - Code de la commande publique - art. R2393-43 (V)
 
 
-##### Chapitre IV : MODIFICATION DU MARCHÉ<a id=899></a>
+##### Chapitre IV : MODIFICATION DU MARCHÉ<a id=918></a>
 
 ###### Article R2394-1
 
@@ -45159,9 +46292,9 @@ _Cite_:
   - Code de la commande publique - art. R2194-1 (V)
 
 
-##### Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT<a id=900></a>
+##### Chapitre VI : INFORMATIONS RELATIVES À L'ACHAT<a id=919></a>
 
-##### Section 1 : Recensement économique<a id=901></a>
+##### Section 1 : Recensement économique<a id=920></a>
 
 ###### Article D2396-2
 
@@ -45206,7 +46339,7 @@ _Cite_:
   - Code de la commande publique - art. R2196-2 (V)
 
 
-##### Section 2 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=902></a>
+##### Section 2 : Contrôle du coût de revient des marchés de l'Etat et de ses établissements publics<a id=921></a>
 
 ###### Article R2396-3
 
@@ -45282,7 +46415,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Eléments de sécurité pouvant être demandés par l'acheteur<a id=903></a>
+##### Section 3 : Eléments de sécurité pouvant être demandés par l'acheteur<a id=922></a>
 
 ###### Article R2396-6
 
@@ -45307,9 +46440,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS<a id=904></a>
+##### Chapitre VII : RÈGLEMENT ALTERNATIF DES DIFFÉRENDS<a id=923></a>
 
-##### Section 1 : Comités consultatifs de règlement amiable des différends<a id=905></a>
+##### Section 1 : Comités consultatifs de règlement amiable des différends<a id=924></a>
 
 ###### Article D2397-2
 
@@ -45356,7 +46489,7 @@ _Cite_:
   - Code de la commande publique - art. R2197-16 (V)
 
 
-##### Section 2 : Le médiateur des entreprises<a id=906></a>
+##### Section 2 : Le médiateur des entreprises<a id=925></a>
 
 ###### Article R2397-3
 
@@ -45383,7 +46516,7 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-##### Section 3 : Arbitrage<a id=907></a>
+##### Section 3 : Arbitrage<a id=926></a>
 
 ###### Article R2397-4
 
@@ -45405,11 +46538,11 @@ _Cite_:
   - Code de la commande publique - art. L2397-3 (V)
 
 
-### Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAITRISE D'OUVRAGE PUBLIQUE ET À LA MAITRISE D'ŒUVRE<a id=908></a>
+### Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUBLICS LIÉS À LA MAITRISE D'OUVRAGE PUBLIQUE ET À LA MAITRISE D'ŒUVRE<a id=927></a>
 
-#### Titre Ier : CHAMP D'APPLICATION<a id=909></a>
+#### Titre Ier : CHAMP D'APPLICATION<a id=928></a>
 
-##### Chapitre II : OUVRAGES<a id=910></a>
+##### Chapitre II : OUVRAGES<a id=929></a>
 
 ###### Article R2412-1
 
@@ -45447,11 +46580,11 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-#### Titre III : MAITRISE D'ŒUVRE PRIVÉE<a id=911></a>
+#### Titre III : MAITRISE D'ŒUVRE PRIVÉE<a id=930></a>
 
-##### Chapitre Ier : MISSION DE MAITRISE D'ŒUVRE PRIVÉE<a id=912></a>
+##### Chapitre Ier : MISSION DE MAITRISE D'ŒUVRE PRIVÉE<a id=931></a>
 
-##### Section 1 : Dispositions générales<a id=913></a>
+##### Section 1 : Dispositions générales<a id=932></a>
 
 ###### Article R2431-1
 
@@ -45544,9 +46677,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages de bâtiment<a id=914></a>
+##### Section 2 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages de bâtiment<a id=933></a>
 
-##### Sous-section 1 : Mission de base<a id=915></a>
+##### Sous-section 1 : Mission de base<a id=934></a>
 
 ###### Article R2431-4
 
@@ -45639,7 +46772,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Dispositions propres aux opérations de construction neuve de bâtiment<a id=916></a>
+##### Sous-section 2 : Dispositions propres aux opérations de construction neuve de bâtiment<a id=935></a>
 
 ###### Article R2431-8
 
@@ -45940,7 +47073,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Dispositions propres aux opérations de réhabilitation de bâtiment<a id=917></a>
+##### Sous-section 3 : Dispositions propres aux opérations de réhabilitation de bâtiment<a id=936></a>
 
 ###### Article R2431-19
 
@@ -46068,7 +47201,7 @@ _Cite_:
   - Code de la commande publique - art. R2431-12 (V)
 
 
-##### Section 3 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages d'infrastructure<a id=918></a>
+##### Section 3 : Eléments de mission de maîtrise d'œuvre privée portant sur les ouvrages d'infrastructure<a id=937></a>
 
 ###### Article R2431-24
 
@@ -46286,7 +47419,7 @@ _Cite_:
   - Code de la commande publique - art. R2431-16 (V)
 
 
-##### Section 4 : Eléments de mission de maîtrise d'œuvre privée spécifiques<a id=919></a>
+##### Section 4 : Eléments de mission de maîtrise d'œuvre privée spécifiques<a id=938></a>
 
 ###### Article R2431-32
 
@@ -46391,7 +47524,7 @@ _Cité par_:
   - Code de la commande publique - art. R2431-33 (V)
 
 
-##### Section 5 : Eléments de mission de maîtrise d'œuvre privée portant sur des ouvrages réalisés à titre de recherche, d'essais ou d'expérimentation<a id=920></a>
+##### Section 5 : Eléments de mission de maîtrise d'œuvre privée portant sur des ouvrages réalisés à titre de recherche, d'essais ou d'expérimentation<a id=939></a>
 
 ###### Article R2431-36
 
@@ -46417,7 +47550,7 @@ _Cite_:
   - Code de la commande publique - art. R2431-4 (V)
 
 
-##### Section 6 : Dispositions diverses<a id=921></a>
+##### Section 6 : Dispositions diverses<a id=940></a>
 
 ###### Article R2431-37
 
@@ -46439,9 +47572,9 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Chapitre II : MARCHÉ PUBLIC DE MAÎTRISE D'ŒUVRE PRIVÉE<a id=922></a>
+##### Chapitre II : MARCHÉ PUBLIC DE MAÎTRISE D'ŒUVRE PRIVÉE<a id=941></a>
 
-##### Section 1 : Dispositions générales<a id=923></a>
+##### Section 1 : Dispositions générales<a id=942></a>
 
 ###### Article R2432-1
 
@@ -46459,7 +47592,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Engagements du maître d'œuvre privé<a id=924></a>
+##### Section 2 : Engagements du maître d'œuvre privé<a id=943></a>
 
 ###### Article R2432-2
 
@@ -46560,7 +47693,7 @@ _Cite_:
   - Code de la commande publique - art. R2432-4 (V)
 
 
-##### Section 3 : Rémunération du maître d'œuvre privé<a id=925></a>
+##### Section 3 : Rémunération du maître d'œuvre privé<a id=944></a>
 
 ###### Article R2432-6
 
@@ -46617,11 +47750,23 @@ _Cité par_:
   - Code de la commande publique - art. R2661-1 (VT)
 
 
-### Livre V : AUTRES MARCHÉS PUBLICS<a id=926></a>
+### Livre V : AUTRES MARCHÉS PUBLICS<a id=945></a>
 
-#### Titre II : RÈGLES APPLICABLES<a id=927></a>
+#### Titre II : RÈGLES APPLICABLES<a id=946></a>
 
-##### Chapitre unique.<a id=928></a>
+##### Chapitre unique.<a id=947></a>
+
+###### Article D2521-5
+
+Les dispositions des articles D. 2192-1 et D. 2192-2 sont applicables aux factures émises en exécution des marchés publics
+mentionnés par les dispositions législatives des chapitres Ier à IV du titre Ier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
 
 ###### Article R2521-1
 
@@ -46715,11 +47860,23 @@ _Cite_:
   - Code de la commande publique - art. L2511-1 (V)
 
 
-### Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=929></a>
+###### Article R2521-6
 
-#### Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE<a id=930></a>
+Les dispositions de l'article R. 2192-3 sont applicables aux factures émises en exécution des marchés publics mentionnés par
+les dispositions législatives des chapitres Ier à IV du titre Ier.
 
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=931></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+### Livre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=948></a>
+
+#### Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE<a id=949></a>
+
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=950></a>
 
 ###### Article D2611-2
 
@@ -46763,7 +47920,7 @@ _Cite_:
   - Code de la commande publique - art. R2172-18 (V)
 
 
-##### Chapitre IV : DISPOSITIONS PARTICULIÈRES AU LIVRE IV<a id=932></a>
+##### Chapitre IV : DISPOSITIONS PARTICULIÈRES AU LIVRE IV<a id=951></a>
 
 ###### Article R2614-1
 
@@ -46896,179 +48053,196 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-#### Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHELEMY<a id=933></a>
+#### Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHELEMY<a id=952></a>
 
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=934></a>
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=953></a>
+
+###### Article D2621-2
+
+Pour l'application de l'article D. 2192-1 à Saint-Barthélemy, la référence à la norme fixée par la décision (UE) 2017/1870 de
+la Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur la
+facturation électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du Conseil
+est remplacée par la référence à la norme de facturation électronique applicable en métropole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2621-1
 
-Pour l'application des dispositions réglementaires du livre Ier à Saint-Barthélemy : 
+Pour l'application des dispositions réglementaires du livre Ier à Saint-Barthélemy :
 
-1°  A l'article R. 2111-9 : 
+1°  A l'article R. 2111-9 :
 
-a) Le 2° est supprimé ; 
+a) Le 2° est supprimé ;
 
 b) Au 5° les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
-absence, " sont supprimés ; 
+absence, " sont supprimés ;
 
 2° A l'article R. 2122-1, les références aux articles  L. 123-3 ,  L. 129-2 ,  L. 129-3,  L. 511-2  et  L. 511-3  du code de
 la construction et de l'habitation sont remplacées par les références aux dispositions applicables localement ayant le même
-objet ; 
+objet ;
 
-3°  A l'article R. 2122-2, le dernier alinéa est supprimé ; 
+3°  A l'article R. 2122-2, le dernier alinéa est supprimé ;
 
-4° Au 5° de l'article R. 2124-3,  le mot : " européenne " est supprimé ; 
+4° Au 5° de l'article R. 2124-3,  le mot : " européenne " est supprimé ;
 
-5° L' article R. 2131-1 est ainsi rédigé : 
+5° L' article R. 2131-1 est ainsi rédigé :
 
 "  Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
-adjudicateur, d'un avis de préinformation ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. "  ; 
+adjudicateur, d'un avis de préinformation ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. "  ;
 
-6° L'article R. 2131-2 est ainsi rédigé : 
+6° L'article R. 2131-2 est ainsi rédigé :
 
 "  Art. R. 2131-2 . -Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel de la collectivité de
-Saint-Barthélemy, soit sur le profil d'acheteur du pouvoir adjudicateur. " ; 
+Saint-Barthélemy, soit sur le profil d'acheteur du pouvoir adjudicateur. " ;
 
 7°  A l'article R. 2131-5,  les mots : ", dans les conditions prévues aux articles R. 2131-19 et R. 2131-20  " sont
-supprimés ; 
+supprimés ;
 
 8° A l'article R. 2131-8, les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R.
-2131-20 " sont remplacés par les mots : " de la collectivité de Saint-Barthélemy. "  ; 
+2131-20 " sont remplacés par les mots : " de la collectivité de Saint-Barthélemy. "  ;
 
-9° Les  articles R. 2131-12 et R. 2131-13  sont remplacés par les dispositions suivantes : 
+9° Les  articles R. 2131-12 et R. 2131-13  sont remplacés par les dispositions suivantes :
 
 "  Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
 publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures
-ou des services en cause. "  ; 
+ou des services en cause. "  ;
 
 10°  A l'article R. 2131-15 : 
 
 a) Les mots : ", conforme au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard
-pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ; 
+pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ;
 
 b)  Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont remplacés par
-les mots : " de la collectivité de Saint-Barthélemy "  ; 
+les mots : " de la collectivité de Saint-Barthélemy "  ;
 
-11° L'article R. 2131-16 est ainsi rédigé : 
+11° L'article R. 2131-16 est ainsi rédigé :
 
 "  Art. R. 2131-16 . -Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-2 à R.
 2124-6, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit dans le
-Journal officiel de la collectivité de Saint-Barthélemy, soit dans un journal habilité à recevoir des annonces légales. " ; 
+Journal officiel de la collectivité de Saint-Barthélemy, soit dans un journal habilité à recevoir des annonces légales. " ;
 
-12° L' article R. 2131-17  est supprimé ; 
+12° L' article R. 2131-17  est supprimé ;
 
-13° L' article R. 2131-19 est supprimé ; 
+13° L' article R. 2131-19 est supprimé ;
 
-14° L' article R. 2131-20 est supprimé ; 
+14° L' article R. 2131-20 est supprimé ;
 
-15° L' article R. 2132-2 est remplacé par les dispositions suivantes : 
+15° L' article R. 2132-2 est remplacé par les dispositions suivantes :
 
 "  Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
 économiques. Ils peuvent être mis en ligne sur un profil d'acheteur à compter de la publication de l'avis d'appel à la
 concurrence selon des modalités figurant en annexe du présent code. L'adresse du profil d'acheteur sur lequel les documents
-de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ; 
+de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ;
 
-16° L' article R. 2132-4 est ainsi rédigé : 
+16° L' article R. 2132-4 est ainsi rédigé :
 
 "  Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
-indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt. 
+indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt.
 
 " Lorsque l'appel à la concurrence est effectué au moyen d'un avis sur l'existence d'un système de qualification, cet accès
-est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ; 
+est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ;
 
-17° L' article R. 2132-5  est supprimé ; 
+17° L' article R. 2132-5  est supprimé ;
 
-18° Le  premier alinéa de l'article R. 2132-7  est remplacé par les dispositions suivantes : 
+18° Le  premier alinéa de l'article R. 2132-7  est remplacé par les dispositions suivantes :
 
 " Dans toutes les procédures de passation des marchés, les communications et les échanges d'informations peuvent être
-effectués soit sous forme papier soit par voie électronique. "  ; 
+effectués soit sous forme papier soit par voie électronique. "  ;
 
-19° Les articles R. 2132-11 et R. 2132-12  sont supprimés ; 
+19° Les articles R. 2132-11 et R. 2132-12  sont supprimés ;
 
-20° L' article R. 2132-13  est remplacé par les dispositions suivantes : 
+20° L' article R. 2132-13  est remplacé par les dispositions suivantes :
 
 "  Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
-transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ; 
+transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ;
 
-21° L' article R. 2143-4  est supprimé ; 
+21° L' article R. 2143-4  est supprimé ;
 
 22° Le  premier alinéa de l'article R. 2143-7 est ainsi rédigé : " Le candidat établi dans la collectivité produit les
 certificats délivrés par les administrations et organismes compétents localement. Les impôts, taxes, contributions ou
 contributions sociales figurant dans l'arrêté annexé au présent code sont remplacés, en tant que de besoin, par les impôts,
-taxes, contributions ou cotisations sociales ayant le même objet applicables localement. "  ; 
+taxes, contributions ou cotisations sociales ayant le même objet applicables localement. "  ;
 
-23° L' article R. 2143-15  est supprimé ; 
+23° L' article R. 2143-15  est supprimé ;
 
 24° A l'article R. 2151-13, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant
 la définition des micro, petites et moyennes entreprises " sont remplacés par les mots : " qui occupent moins de deux cent
 cinquante personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros ou dont le total du bilan annuel
-n'excède pas 43 millions d'euros "  ; 
+n'excède pas 43 millions d'euros "  ;
 
 25° A l'article R. 2151-14,  les mots : " au règlement (CE) n° 75/2008 du Parlement européen et du Conseil du 9 juillet 2008
 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et
-abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur "  ; 
+abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur "  ;
 
-26° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ; 
+26° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ;
 
-27° L'article R. 2152-5  est supprimé ; 
+27° L'article R. 2152-5  est supprimé ;
 
-28° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au représentant de l'Etat ; 
+28° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
-29° L'article R. 2162-28 est ainsi rédigé : 
+29° L'article R. 2162-28 est ainsi rédigé :
 
 " Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur l'existence d'un tel système au
 Journal officiel de la collectivité de Saint-Barthélemy. Cet avis mentionne son objet, sa durée et les modalités d'accès aux
-règles qui le gouvernent. " ; 
+règles qui le gouvernent. " ;
 
-30° L' article R. 2162-29 est ainsi rédigé : 
+30° L' article R. 2162-29 est ainsi rédigé :
 
 "  Art. R. 2162-29 . -L'entité adjudicatrice notifie au Journal officiel de la collectivité de Saint-Barthélemy tout
-changement de la durée du système en utilisant : 
+changement de la durée du système en utilisant :
 
 " 1° Un avis sur l'existence d'un système de qualification lorsque sa durée de validité est modifiée sans qu'il y soit mis un
-terme ; 
+terme ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-31° L' article R. 2162-36  est supprimé ; 
+31° L' article R. 2162-36  est supprimé ;
 
-32° L'article R. 2162-40 est ainsi rédigé : 
+32° L'article R. 2162-40 est ainsi rédigé :
 
 "  Art. R. 2162-40 . -Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée,
 l'acheteur notifie au Journal officiel de la collectivité de Saint-Barthélemy tout changement de la durée de validité du
-système d'acquisition dynamique en utilisant : 
+système d'acquisition dynamique en utilisant :
 
 " 1° Le formulaire utilisé pour l'appel à la concurrence pour le système d'acquisition dynamique lorsque la durée de validité
-est modifiée sans qu'il soit mis un terme au système ; 
+est modifiée sans qu'il soit mis un terme au système ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
 32° bis A l'article R. 2172-2, les références aux articles  L. 411-2  et  L. 481-1  du code de la construction et de
-l'habitation sont remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+l'habitation sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
 33°  Aux articles R. 2172-15 et R. 2172-18,  les mots : " directeur régional des affaires culturelles " sont remplacés par
 les mots : " directeur des affaires culturelles de Guadeloupe " et les mots " préfet de région "  par les mots " représentant
-de l'Etat " ; 
+de l'Etat " ;
 
 34° A l'article R. 2172-35, la référence aux catégories M et N définies à l'article R. 311-1 du code de la route est
-remplacée par la référence aux dispositions applicables localement ayant le même objet ; 
+remplacée par la référence aux dispositions applicables localement ayant le même objet ;
 
-35° L' article R. 2183-1 est ainsi rédigé : 
+35° L' article R. 2183-1 est ainsi rédigé :
 
 "  Art. R. 2183-1 . -Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
 Journal officiel de la République française, l'acheteur envoie pour publication, dans un délai maximal de trente jours à
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
-publicité préalable. " ; 
+publicité préalable. " ;
 
-36° L' article R. 2183-2  est supprimé ; 
+36° L' article R. 2183-2  est supprimé ;
 
-37° L' article R. 2184-6  est supprimé ; 
+37° L' article R. 2184-6  est supprimé ;
 
-38° L' article R. 2184-11  est supprimé ; 
+38° L' article R. 2184-11  est supprimé ;
 
-39° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé : 
+38° bis Le deuxième alinéa de l'article R. 2192-3 n'est applicable que si les titulaires de marchés ou leurs sous-traitants
+admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
-" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. " 
+39° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé :
+
+" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. "
 
 40° Saint-Barthélemy peut relever d'une circonscription d'un comité interrégional ou interdépartemental prévu à l'article R.
 2197-3.
@@ -47081,122 +48255,139 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L123-3 (V)
-  - Code de la construction et de l'habitation. - art. L129-2 (V)
-  - Code de la construction et de l'habitation. - art. L129-3 (V)
-  - Code de la construction et de l'habitation. - art. L411-2 (V)
-  - Code de la construction et de l'habitation. - art. L481-1 (V)
-  - Code de la construction et de l'habitation. - art. L511-2 (V)
-  - Code de la construction et de l'habitation. - art. L511-3 (V)
-  - Code de la route. - art. R311-1 (V)
-  - Code de la commande publique - art. R2111-9 (V)
-  - Code de la commande publique - art. R2122-1 (V)
-  - Code de la commande publique - art. R2122-2 (V)
-  - Code de la commande publique - art. R2124-2 (V)
-  - Code de la commande publique - art. R2124-3 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-  - Code de la commande publique - art. R2131-12 (VT)
-  - Code de la commande publique - art. R2131-13 (V)
-  - Code de la commande publique - art. R2131-15 (V)
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-17 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2131-2 (V)
-  - Code de la commande publique - art. R2131-20 (V)
-  - Code de la commande publique - art. R2131-5 (V)
-  - Code de la commande publique - art. R2131-8 (V)
-  - Code de la commande publique - art. R2132-11 (V)
-  - Code de la commande publique - art. R2132-12 (V)
-  - Code de la commande publique - art. R2132-13 (V)
-  - Code de la commande publique - art. R2132-2 (V)
-  - Code de la commande publique - art. R2132-4 (V)
-  - Code de la commande publique - art. R2132-5 (V)
-  - Code de la commande publique - art. R2132-7 (V)
-  - Code de la commande publique - art. R2143-15 (V)
-  - Code de la commande publique - art. R2143-4 (V)
-  - Code de la commande publique - art. R2143-7 (V)
-  - Code de la commande publique - art. R2151-13 (V)
-  - Code de la commande publique - art. R2151-14 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2152-5 (V)
-  - Code de la commande publique - art. R2162-23 (V)
-  - Code de la commande publique - art. R2162-28 (V)
-  - Code de la commande publique - art. R2162-29 (V)
-  - Code de la commande publique - art. R2162-36 (V)
-  - Code de la commande publique - art. R2162-40 (V)
-  - Code de la commande publique - art. R2172-15 (V)
-  - Code de la commande publique - art. R2172-18 (V)
-  - Code de la commande publique - art. R2172-2 (V)
-  - Code de la commande publique - art. R2172-35 (V)
-  - Code de la commande publique - art. R2183-1 (V)
-  - Code de la commande publique - art. R2183-2 (V)
-  - Code de la commande publique - art. R2184-11 (V)
-  - Code de la commande publique - art. R2184-6 (V)
-  - Code de la commande publique - art. R2194-10 (V)
-  - Code de la commande publique - art. R2197-3 (V)
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L129-2
+  - Code de la construction et de l'habitation. - art. L129-3
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la construction et de l'habitation. - art. L481-1
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L511-3
+  - Code de la route. - art. R311-1
+  - Code de la commande publique - art. R2111-9
+  - Code de la commande publique - art. R2122-1
+  - Code de la commande publique - art. R2122-2
+  - Code de la commande publique - art. R2124-2
+  - Code de la commande publique - art. R2124-3
+  - Code de la commande publique - art. R2131-1
+  - Code de la commande publique - art. R2131-12
+  - Code de la commande publique - art. R2131-13
+  - Code de la commande publique - art. R2131-15
+  - Code de la commande publique - art. R2131-16
+  - Code de la commande publique - art. R2131-17
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2131-2
+  - Code de la commande publique - art. R2131-20
+  - Code de la commande publique - art. R2131-5
+  - Code de la commande publique - art. R2131-8
+  - Code de la commande publique - art. R2132-11
+  - Code de la commande publique - art. R2132-12
+  - Code de la commande publique - art. R2132-13
+  - Code de la commande publique - art. R2132-2
+  - Code de la commande publique - art. R2132-4
+  - Code de la commande publique - art. R2132-5
+  - Code de la commande publique - art. R2132-7
+  - Code de la commande publique - art. R2143-15
+  - Code de la commande publique - art. R2143-4
+  - Code de la commande publique - art. R2143-7
+  - Code de la commande publique - art. R2151-13
+  - Code de la commande publique - art. R2151-14
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2152-5
+  - Code de la commande publique - art. R2162-23
+  - Code de la commande publique - art. R2162-28
+  - Code de la commande publique - art. R2162-29
+  - Code de la commande publique - art. R2162-36
+  - Code de la commande publique - art. R2162-40
+  - Code de la commande publique - art. R2172-15
+  - Code de la commande publique - art. R2172-18
+  - Code de la commande publique - art. R2172-2
+  - Code de la commande publique - art. R2172-35
+  - Code de la commande publique - art. R2183-1
+  - Code de la commande publique - art. R2183-2
+  - Code de la commande publique - art. R2184-11
+  - Code de la commande publique - art. R2184-6
+  - Code de la commande publique - art. R2194-10
+  - Code de la commande publique - art. R2197-3
 
 
-##### Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III<a id=935></a>
+##### Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III<a id=954></a>
+
+###### Article D2623-2
+
+Pour l'application de l'article D. 2392-1 à Saint-Barthélemy, la référence à la norme fixée par la décision (UE) 2017/1870 de
+la Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur la
+facturation électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du Conseil
+est remplacée par la norme de facturation électronique applicable en métropole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2623-1
 
-Pour l'application des dispositions réglementaires du livre III à Saint-Barthélemy : 
+Pour l'application des dispositions réglementaires du livre III à Saint-Barthélemy :
 
-1° A l'article R. 2311-5 : 
+1° A l'article R. 2311-5 :
 
-a) Le 2° est supprimé ; 
+a) Le 2° est supprimé ;
 
 b) Au 6°, les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
-absence, " sont supprimés ; 
+absence, " sont supprimés ;
 
-2° A l'article R. 2322-2, le second alinéa est supprimé ; 
+2° A l'article R. 2322-2, le second alinéa est supprimé ;
 
-3° Les articles R. 2331-1 et R. 2331-2 sont remplacés par les dispositions suivantes : 
+3° Les articles R. 2331-1 et R. 2331-2 sont remplacés par les dispositions suivantes :
 
 " Art. R. 2331-1.-Les acheteurs peuvent faire connaître leur intention de passer un marché par le biais de la publication
-d'un avis de pré-information. 
+d'un avis de pré-information.
 
 " Art. R. 2331-2.-Cet avis est publié soit dans le Bulletin officiel des annonces de marchés publics soit sur le profil
-acheteur du pouvoir adjudicateur. 
+acheteur du pouvoir adjudicateur.
 
 " Le profil d'acheteur est la plateforme de dématérialisation permettant notamment aux acheteurs de mettre les documents de
 la consultation à disposition des opérateurs économiques par voie électronique et de réceptionner par voie électronique les
 documents transmis par les candidats et les soumissionnaires. Un arrêté du ministre chargé de l'économie détermine les
-fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ; 
+fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ;
 
-4° L'article R. 2331-8 est ainsi rédigé : 
+4° L'article R. 2331-8 est ainsi rédigé :
 
-" Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent. " ; 
+" Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent. " ;
 
-5° Les articles R. 2331-10 et R. 2331-11 sont supprimés ; 
+5° Les articles R. 2331-10 et R. 2331-11 sont supprimés ;
 
 6° A l'article R. 2351-12, les mots : " au sens de la recommandation de la Commission du 6 mai 2003 concernant la définition
 des micro, petites et moyennes entreprises " sont remplacés par les mots : " qui occupent moins de 250 personnes et dont le
 chiffre d'affaires annuel n'excède pas 50 millions d'euros ou dont le total du bilan annuel n'excède pas 43 millions d'euros
-" ; 
+" ;
 
-7° L'article R. 2352-3 est ainsi rédigé : 
+7° L'article R. 2352-3 est ainsi rédigé :
 
-" Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent. " ; 
+" Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent. " ;
 
-8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence au représentant de l'Etat ; 
+8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
-9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ; 
+9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ;
 
-10° L'article R. 2383-2 est ainsi rédigé : 
+10° L'article R. 2383-2 est ainsi rédigé :
 
-" Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ; 
+" Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ;
 
-11° L'article R. 2384-4 est ainsi rédigé : 
+11° L'article R. 2384-4 est ainsi rédigé :
 
-" Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ; 
+" Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ;
+
+11° bis La première phrase du deuxième alinéa de l'article R. 2392-3 n'est applicable que si les titulaires de marchés ou
+leurs sous-traitants admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
 12° A l'article R. 2393-18, les mots : " au Journal officiel de l'Union européenne dans les conditions des articles R.
-2131-19 et R. 2331-11 " sont remplacés par les mots : " au Journal officiel de la collectivité de Saint-Barthélemy " ; 
+2131-19 et R. 2331-11 " sont remplacés par les mots : " au Journal officiel de la collectivité de Saint-Barthélemy " ;
 
 13° L'article R. 2393-19 est supprimé.
 
@@ -47206,37 +48397,37 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 _Cite_:
 
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2183-3 (V)
-  - Code de la commande publique - art. R2184-5 (V)
-  - Code de la commande publique - art. R2311-5 (V)
-  - Code de la commande publique - art. R2322-2 (V)
-  - Code de la commande publique - art. R2331-1 (V)
-  - Code de la commande publique - art. R2331-10 (V)
-  - Code de la commande publique - art. R2331-11 (V)
-  - Code de la commande publique - art. R2331-2 (V)
-  - Code de la commande publique - art. R2331-8 (V)
-  - Code de la commande publique - art. R2351-12 (V)
-  - Code de la commande publique - art. R2352-3 (V)
-  - Code de la commande publique - art. R2371-6 (V)
-  - Code de la commande publique - art. R2383-1 (V)
-  - Code de la commande publique - art. R2383-2 (V)
-  - Code de la commande publique - art. R2384-4 (V)
-  - Code de la commande publique - art. R2393-18 (V)
-  - Code de la commande publique - art. R2393-19 (V)
+  - Code de la commande publique - art. R2131-16
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2183-3
+  - Code de la commande publique - art. R2184-5
+  - Code de la commande publique - art. R2311-5
+  - Code de la commande publique - art. R2322-2
+  - Code de la commande publique - art. R2331-1
+  - Code de la commande publique - art. R2331-10
+  - Code de la commande publique - art. R2331-11
+  - Code de la commande publique - art. R2331-2
+  - Code de la commande publique - art. R2331-8
+  - Code de la commande publique - art. R2351-12
+  - Code de la commande publique - art. R2352-3
+  - Code de la commande publique - art. R2371-6
+  - Code de la commande publique - art. R2383-1
+  - Code de la commande publique - art. R2383-2
+  - Code de la commande publique - art. R2384-4
+  - Code de la commande publique - art. R2393-18
+  - Code de la commande publique - art. R2393-19
 
 
-#### Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=936></a>
+#### Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN<a id=955></a>
 
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=937></a>
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=956></a>
 
 ###### Article R2631-1
 
@@ -47299,7 +48490,7 @@ _Cite_:
   - Code de la commande publique - art. R2197-3 (V)
 
 
-##### Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III<a id=938></a>
+##### Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III<a id=957></a>
 
 ###### Article R2633-1
 
@@ -47321,177 +48512,194 @@ _Cite_:
   - Code de la commande publique - art. R2371-6 (V)
 
 
-#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=939></a>
+#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=958></a>
 
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=940></a>
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=959></a>
+
+###### Article D2641-2
+
+Pour l'application de l'article D. 2192-1 à Saint-Pierre-et-Miquelon, la référence à la norme fixée par la décision (UE)
+2017/1870 de la Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur
+la facturation électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du
+Conseil est remplacée par la norme de facturation électronique applicable en métropole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2641-1
 
-Pour l'application des dispositions réglementaires du livre Ier à Saint-Pierre-et-Miquelon : 
+Pour l'application des dispositions réglementaires du livre Ier à Saint-Pierre-et-Miquelon :
 
-1°  A l'article R. 2111-9 : 
+1°  A l'article R. 2111-9 :
 
-a) Le  2°  est supprimé  ; 
+a) Le  2°  est supprimé  ;
 
 b) Au 5°, les mots : "  les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en
-leur absence, " sont supprimés ; 
+leur absence, " sont supprimés ;
 
 2° A l'article R. 2122-1, les références aux articles  L. 123-3 ,  L. 129-2 ,  L. 129-3 ,  L. 511-2  et  L. 511-3  du code de
 la construction et de l'habitation sont remplacées par les références aux dispositions applicables localement ayant le même
-objet ; 
+objet ;
 
-3°  A l'article R. 2122-2, le dernier alinéa est supprimé ; 
+3°  A l'article R. 2122-2, le dernier alinéa est supprimé ;
 
-4° Au 5° de l'article R. 2124-3,  le mot : " européenne  "  est supprimé  ; 
+4° Au 5° de l'article R. 2124-3,  le mot : " européenne  "  est supprimé  ;
 
-5° L' article R. 2131-1 est ainsi rédigé : 
+5° L' article R. 2131-1 est ainsi rédigé :
 
 "  Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
-adjudicateur, d'un avis de préinformation ou, pour l'entité adjudicatrice, d'un avis périodique indicatif.  "  ; 
+adjudicateur, d'un avis de préinformation ou, pour l'entité adjudicatrice, d'un avis périodique indicatif.  "  ;
 
-6° L' article R. 2131-2 est ainsi rédigé : 
+6° L' article R. 2131-2 est ainsi rédigé :
 
 "  Art.  R. 2131-2 . -Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel de Saint-Pierre-et-
-Miquelon, soit sur le profil d'acheteur du pouvoir adjudicateur. " ; 
+Miquelon, soit sur le profil d'acheteur du pouvoir adjudicateur. " ;
 
 7°  A l'article R. 2131-5,  les mots : " , dans les conditions prévues aux articles R. 2131-19 et R. 2131-20  " sont
-supprimés ; 
+supprimés ;
 
 8° A l'article R. 2131-8, les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R.
-2131-20 " sont remplacés par les mots : " de Saint-Pierre et Miquelon. "  ; 
+2131-20 " sont remplacés par les mots : " de Saint-Pierre et Miquelon. "  ;
 
-9° Les  articles R. 2131-12 et R. 2131-13  sont remplacés par les dispositions suivantes : 
+9° Les  articles R. 2131-12 et R. 2131-13  sont remplacés par les dispositions suivantes :
 
 "  Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
 publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures
-ou des services en cause "  ; 
+ou des services en cause "  ;
 
-10°  A l'article R. 2131-15 : 
+10°  A l'article R. 2131-15 :
 
 a) Les mots : ", conforme au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard
-pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ; 
+pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ;
 
 b)  Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20  "  sont remplacés
 par les mots : " de Saint-Pierre-et Miquelon. "  ;  
 
-11° L' article R. 2131-16 est ainsi rédigé : 
+11° L' article R. 2131-16 est ainsi rédigé :
 
 "  Art.  R. 2131-16 . -Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-2 à R.
 2124-6, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit dans le
-Journal officiel de Saint-Pierre-et-Miquelon, soit dans un journal habilité à recevoir des annonces légales. " ; 
+Journal officiel de Saint-Pierre-et-Miquelon, soit dans un journal habilité à recevoir des annonces légales. " ;
 
-12° L' article R. 2131-17  est supprimé  ; 
+12° L' article R. 2131-17  est supprimé  ;
 
-13° L' article R. 2131-19  est supprimé  ; 
+13° L' article R. 2131-19  est supprimé  ;
 
-14° L' article R. 2131-20  est supprimé  ; 
+14° L' article R. 2131-20  est supprimé  ;
 
-15° L' article R. 2132-2 est ainsi rédigé : 
+15° L' article R. 2132-2 est ainsi rédigé :
 
 "  Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
 économiques. Ils peuvent être mis en ligne sur un profil d'acheteur à compter de la publication de l'avis d'appel à la
 concurrence selon des modalités figurant en annexe du présent code. L'adresse du profil d'acheteur sur lequel les documents
-de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ; 
+de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ;
 
-16° L' article R. 2132-4 est ainsi rédigé : 
+16° L' article R. 2132-4 est ainsi rédigé :
 
 "  Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
-indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt. 
+indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt.
 
 " Lorsque l'appel à la concurrence est effectué au moyen d'un avis sur l'existence d'un système de qualification, cet accès
-est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ; 
+est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ;
 
-17° L' article R. 2132-5  est supprimé ; 
+17° L' article R. 2132-5  est supprimé ;
 
-18° Le  premier alinéa de l'article R. 2132-7  est remplacé par les dispositions suivantes : 
+18° Le  premier alinéa de l'article R. 2132-7  est remplacé par les dispositions suivantes :
 
 " Dans toutes les procédures de passation des marchés, les communications et les échanges d'informations peuvent être
-effectués soit sous forme papier soit par voie électronique. "  ; 
+effectués soit sous forme papier soit par voie électronique. "  ;
 
-19° Les articles R. 2132-11 et R. 2132-12  sont supprimés ; 
+19° Les articles R. 2132-11 et R. 2132-12  sont supprimés ;
 
-20° L' article R. 2132-13  est remplacé par les dispositions suivantes : 
+20° L' article R. 2132-13  est remplacé par les dispositions suivantes :
 
 "  Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
-transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ; 
+transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ;
 
-21° L' article R. 2143-4  est supprimé ; 
+21° L' article R. 2143-4  est supprimé ;
 
-22° Le  premier alinéa de l'article R. 2143-7 est ainsi rédigé : 
+22° Le  premier alinéa de l'article R. 2143-7 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. "  ; 
+applicables localement. "  ;
 
-23° L' article R. 2143-15  est supprimé ; 
+23° L' article R. 2143-15  est supprimé ;
 
 24° A l'article R. 2151-13, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant
 la définition des micro, petites et moyennes entreprises " sont remplacés par les mots : " qui occupent moins de deux cent
 cinquante personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros ou dont le total du bilan annuel
-n'excède pas 43 millions d'euros "  ; 
+n'excède pas 43 millions d'euros "  ;
 
 25° A l'article R. 2151-14, les mots : " au règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008
 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et
 abrogeant le règlement (CEE) n° 339/93 du Conseil  "  sont remplacés par  les mots : "  aux règles nationales en vigueur
-"  ; 
+"  ;
 
-26°  A l'article R. 2152-4,  les mots : "  par le droit de l'Union européenne  "  sont supprimés  ; 
+26°  A l'article R. 2152-4,  les mots : "  par le droit de l'Union européenne  "  sont supprimés  ;
 
-27° L' article R. 2152-5  est supprimé  ; 
+27° L' article R. 2152-5  est supprimé  ;
 
-28° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au représentant de l'Etat ; 
+28° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
-29° L' article R. 2162-28 est ainsi rédigé : 
+29° L' article R. 2162-28 est ainsi rédigé :
 
 "  Art.  R. 2162-28 . -Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur
 l'existence d'un tel système au Journal officiel de Saint-Pierre-et-Miquelon. Cet avis mentionne son objet, sa durée et les
-modalités d'accès aux règles qui le gouvernent. " ; 
+modalités d'accès aux règles qui le gouvernent. " ;
 
-30° L' article R. 2162-29 est ainsi rédigé : 
+30° L' article R. 2162-29 est ainsi rédigé :
 
 "  Art.  R. 2162-29 . -L'entité adjudicatrice notifie au Journal officiel de Saint-Pierre-et-Miquelon tout changement de la
-durée du système en utilisant : 
+durée du système en utilisant :
 
 " 1° Un avis sur l'existence d'un système de qualification lorsque sa durée de validité est modifiée sans qu'il y soit mis un
-terme ; 
+terme ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-31° L' article R. 2162-36  est supprimé  ; 
+31° L' article R. 2162-36  est supprimé  ;
 
-32° L' article R. 2162-40 est ainsi rédigé : 
+32° L' article R. 2162-40 est ainsi rédigé :
 
 "  Art.  R. 2162-40 . -Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée,
 l'acheteur notifie au Journal officiel de Saint-Pierre-et-Miquelon tout changement de la durée de validité du système
-d'acquisition dynamique en utilisant : 
+d'acquisition dynamique en utilisant :
 
 " 1° Le formulaire utilisé pour l'appel à la concurrence pour le système d'acquisition dynamique lorsque la durée de validité
-est modifiée sans qu'il soit mis un terme au système ; 
+est modifiée sans qu'il soit mis un terme au système ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
 32° bis A l'article R. 2172-2, les références aux articles  L. 411-2  et  L. 481-1  du code de la construction et de
-l'habitation sont remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+l'habitation sont remplacées par les références aux dispositions applicables localement ayant le même objet ;
 
 33°  Aux articles R. 2172-15 et R. 2172-18,  les mots : "  directeur régional des affaires culturelles  "  sont remplacés par
 les  mots : " directeur de la cohésion sociale, du travail, de l'emploi et de la population " et les mots " préfet de région
-"  par les mots : " représentant de l'Etat "  ; 
+"  par les mots : " représentant de l'Etat "  ;
 
-34° L' article R. 2183-1 est ainsi rédigé : 
+34° L' article R. 2183-1 est ainsi rédigé :
 
 "  Art.  R. 2183-1 . -Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
 Journal officiel de la République française, l'acheteur envoie pour publication, dans un délai maximal de trente jours à
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
-publicité préalable. " ; 
+publicité préalable. " ;
 
-35° L' article R. 2183-2  est supprimé  ; 
+35° L' article R. 2183-2  est supprimé  ;
 
-36° L' article R. 2184-6  est supprimé  ; 
+36° L' article R. 2184-6  est supprimé  ;
 
-37° L' article R. 2184-11  est supprimé  ; 
+37° L' article R. 2184-11  est supprimé  ;
 
-38° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé : 
+37° bis Le deuxième alinéa de l'article R. 2192-3 n'est applicable que si les titulaires de marchés ou leurs sous-traitants
+admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
+
+38° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé :
 
 " Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. "  
 
@@ -47500,123 +48708,144 @@ l'article R. 2197-3.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
 _Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L123-3 (M)
-  - Code de la construction et de l'habitation. - art. L129-2 (M)
-  - Code de la construction et de l'habitation. - art. L129-3 (M)
-  - Code de la construction et de l'habitation. - art. L411-2 (M)
-  - Code de la construction et de l'habitation. - art. L481-1 (M)
-  - Code de la construction et de l'habitation. - art. L511-2 (M)
-  - Code de la construction et de l'habitation. - art. L511-3 (M)
-  - Code de la commande publique - art. R2111-9 (V)
-  - Code de la commande publique - art. R2122-1 (V)
-  - Code de la commande publique - art. R2122-2 (V)
-  - Code de la commande publique - art. R2124-2 (V)
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L129-2
+  - Code de la construction et de l'habitation. - art. L129-3
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la construction et de l'habitation. - art. L481-1
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L511-3
+  - Code de la commande publique - art. R2111-9
+  - Code de la commande publique - art. R2122-1
+  - Code de la commande publique - art. R2122-2
+  - Code de la commande publique - art. R2124-2
   - Code de la commande publique - art. R2124-3 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-  - Code de la commande publique - art. R2131-12 (VT)
-  - Code de la commande publique - art. R2131-13 (V)
-  - Code de la commande publique - art. R2131-15 (V)
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-17 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2131-2 (V)
-  - Code de la commande publique - art. R2131-20 (V)
-  - Code de la commande publique - art. R2131-5 (V)
-  - Code de la commande publique - art. R2131-8 (V)
-  - Code de la commande publique - art. R2132-11 (V)
-  - Code de la commande publique - art. R2132-12 (V)
-  - Code de la commande publique - art. R2132-13 (V)
-  - Code de la commande publique - art. R2132-2 (V)
-  - Code de la commande publique - art. R2132-4 (V)
-  - Code de la commande publique - art. R2132-5 (V)
-  - Code de la commande publique - art. R2132-7 (V)
-  - Code de la commande publique - art. R2143-15 (V)
-  - Code de la commande publique - art. R2143-4 (V)
-  - Code de la commande publique - art. R2143-7 (V)
-  - Code de la commande publique - art. R2151-13 (V)
-  - Code de la commande publique - art. R2151-14 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2152-5 (V)
-  - Code de la commande publique - art. R2162-23 (V)
-  - Code de la commande publique - art. R2162-28 (V)
-  - Code de la commande publique - art. R2162-29 (V)
-  - Code de la commande publique - art. R2162-36 (V)
-  - Code de la commande publique - art. R2162-40 (V)
-  - Code de la commande publique - art. R2172-15 (V)
-  - Code de la commande publique - art. R2172-18 (V)
-  - Code de la commande publique - art. R2172-2 (V)
-  - Code de la commande publique - art. R2183-1 (V)
-  - Code de la commande publique - art. R2183-2 (V)
-  - Code de la commande publique - art. R2184-11 (V)
-  - Code de la commande publique - art. R2184-6 (V)
-  - Code de la commande publique - art. R2194-10 (V)
-  - Code de la commande publique - art. R2197-3 (V)
+  - Code de la commande publique - art. R2131-1
+  - Code de la commande publique - art. R2131-12
+  - Code de la commande publique - art. R2131-13
+  - Code de la commande publique - art. R2131-15
+  - Code de la commande publique - art. R2131-16
+  - Code de la commande publique - art. R2131-17
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2131-2
+  - Code de la commande publique - art. R2131-20
+  - Code de la commande publique - art. R2131-5
+  - Code de la commande publique - art. R2131-8
+  - Code de la commande publique - art. R2132-11
+  - Code de la commande publique - art. R2132-12
+  - Code de la commande publique - art. R2132-13
+  - Code de la commande publique - art. R2132-2
+  - Code de la commande publique - art. R2132-4
+  - Code de la commande publique - art. R2132-5
+  - Code de la commande publique - art. R2132-7
+  - Code de la commande publique - art. R2143-15
+  - Code de la commande publique - art. R2143-4
+  - Code de la commande publique - art. R2143-7
+  - Code de la commande publique - art. R2151-13
+  - Code de la commande publique - art. R2151-14
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2152-5
+  - Code de la commande publique - art. R2162-23
+  - Code de la commande publique - art. R2162-28
+  - Code de la commande publique - art. R2162-29
+  - Code de la commande publique - art. R2162-36
+  - Code de la commande publique - art. R2162-40
+  - Code de la commande publique - art. R2172-15
+  - Code de la commande publique - art. R2172-18
+  - Code de la commande publique - art. R2172-2
+  - Code de la commande publique - art. R2183-1
+  - Code de la commande publique - art. R2183-2
+  - Code de la commande publique - art. R2184-11
+  - Code de la commande publique - art. R2184-6
+  - Code de la commande publique - art. R2194-10
+  - Code de la commande publique - art. R2197-3
 
 
-##### Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III<a id=941></a>
+##### Chapitre III : DISPOSITIONS PARTICULIÈRES AU LIVRE III<a id=960></a>
+
+###### Article D2643-2
+
+Pour l'application de l'article D. 2392-1 à Saint-Pierre-et-Miquelon, la référence à la norme fixée par la décision (UE)
+2017/1870 de la Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur
+la facturation électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du
+Conseil est remplacée par la norme de facturation électronique applicable en métropole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2643-1
 
-Pour l'application des dispositions réglementaires du livre III à Saint-Pierre-et-Miquelon : 
+Pour l'application des dispositions réglementaires du livre III à Saint-Pierre-et-Miquelon :
 
-1°° A l'article R. 2311-5 : 
+1°° A l'article R. 2311-5 :
 
-a) Le 2° est supprimé ; 
+a) Le 2° est supprimé ;
 
 b) Au 5° les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
-absence, " sont supprimés ; 
+absence, " sont supprimés ;
 
-2° A l'article R. 2322-2, le second alinéa est supprimé ; 
+2° A l'article R. 2322-2, le second alinéa est supprimé ;
 
-3° Les articles R. 2331-1 et R. 2331-2 sont remplacés par les dispositions suivantes : 
+3° Les articles R. 2331-1 et R. 2331-2 sont remplacés par les dispositions suivantes :
 
 " Art. R. 2331-1.-Les acheteurs peuvent faire connaître leur intention de passer un marché par le biais de la publication
-d'un avis de pré-information. 
+d'un avis de pré-information.
 
 " Art. R. 2331-2.-Cet avis est publié soit dans le Bulletin officiel des annonces de marchés publics soit sur le profil
-acheteur du pouvoir adjudicateur. 
+acheteur du pouvoir adjudicateur.
 
 " Le profil d'acheteur est la plateforme de dématérialisation permettant notamment aux acheteurs de mettre les documents de
 la consultation à disposition des opérateurs économiques par voie électronique et de réceptionner par voie électronique les
 documents transmis par les candidats et les soumissionnaires. Un arrêté du ministre chargé de l'économie détermine les
-fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ; 
+fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ;
 
-4° L'article R. 2331-8 est ainsi rédigé : 
+4° L'article R. 2331-8 est ainsi rédigé :
 
-" Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent. " ; 
+" Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent. " ;
 
-5° Les articles R. 2331-10 et R. 2331-11 sont supprimés ; 
+5° Les articles R. 2331-10 et R. 2331-11 sont supprimés ;
 
 6° A l'article R. 2351-12, les mots : " au sens de la recommandation de la Commission du 6 mai 2003 concernant la définition
 des micro, petites et moyennes entreprises " sont remplacés par les mots : " qui occupent moins de deux cent cinquante
 personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros ou dont le total du bilan annuel n'excède pas
-43 millions d'euros " ; 
+43 millions d'euros " ;
 
-7° L'article R. 2352-3 est ainsi rédigé : 
+7° L'article R. 2352-3 est ainsi rédigé :
 
-" Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent. " ; 
+" Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent. " ;
 
-8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence au représentant de l'Etat ; 
+8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
-9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ; 
+9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ;
 
-10° L'article R. 2383-2 est ainsi rédigé : 
+10° L'article R. 2383-2 est ainsi rédigé :
 
-" Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ; 
+" Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ;
 
-11° L'article R. 2384-4 est ainsi rédigé : 
+11° L'article R. 2384-4 est ainsi rédigé :
 
-" Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ; 
+" Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ;
+
+11° bis La première phrase du deuxième alinéa de l'article R. 2392-3 n'est applicable que si les titulaires de marchés ou
+leurs sous-traitants admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
 12° A l'article R. 2393-18, les mots : " au Journal officiel de l'Union européenne dans les conditions des articles R.
 2131-19 et R. 2331-11 " sont remplacés par les mots : " au Journal officiel de la collectivité de Saint-Pierre-et-Miquelon
-" ; 
+" ;
 
 13° L'article R. 2393-19 est supprimé.
 
@@ -47626,55 +48855,55 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 _Cite_:
 
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2183-3 (V)
-  - Code de la commande publique - art. R2184-5 (V)
-  - Code de la commande publique - art. R2311-5 (V)
-  - Code de la commande publique - art. R2322-2 (V)
-  - Code de la commande publique - art. R2331-1 (V)
-  - Code de la commande publique - art. R2331-10 (V)
-  - Code de la commande publique - art. R2331-11 (V)
-  - Code de la commande publique - art. R2331-2 (V)
-  - Code de la commande publique - art. R2331-8 (V)
-  - Code de la commande publique - art. R2351-12 (V)
-  - Code de la commande publique - art. R2352-3 (V)
-  - Code de la commande publique - art. R2371-6 (V)
-  - Code de la commande publique - art. R2383-1 (V)
-  - Code de la commande publique - art. R2383-2 (V)
-  - Code de la commande publique - art. R2384-4 (V)
-  - Code de la commande publique - art. R2393-18 (V)
-  - Code de la commande publique - art. R2393-19 (V)
+  - Code de la commande publique - art. R2131-16
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2183-3
+  - Code de la commande publique - art. R2184-5
+  - Code de la commande publique - art. R2311-5
+  - Code de la commande publique - art. R2322-2
+  - Code de la commande publique - art. R2331-1
+  - Code de la commande publique - art. R2331-10
+  - Code de la commande publique - art. R2331-11
+  - Code de la commande publique - art. R2331-2
+  - Code de la commande publique - art. R2331-8
+  - Code de la commande publique - art. R2351-12
+  - Code de la commande publique - art. R2352-3
+  - Code de la commande publique - art. R2371-6
+  - Code de la commande publique - art. R2383-1
+  - Code de la commande publique - art. R2383-2
+  - Code de la commande publique - art. R2384-4
+  - Code de la commande publique - art. R2393-18
+  - Code de la commande publique - art. R2393-19
 
 
-#### Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA<a id=942></a>
+#### Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA<a id=961></a>
 
-##### Chapitre unique.<a id=943></a>
+##### Chapitre unique.<a id=962></a>
 
-##### Section 1 : Dispositions générales<a id=944></a>
+##### Section 1 : Dispositions générales<a id=963></a>
 
 ###### Article D2651-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les îles
 Wallis et Futuna aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
-à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf mention contraire dans
-le tableau ci-après. 
+à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47682,7 +48911,7 @@ le tableau ci-après.
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47705,9 +48934,13 @@ D. 2171-6 à D. 2171-14
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">D. 2192-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">
 D. 2192-35 
@@ -47737,7 +48970,7 @@ D. 2197-17 à D. 2197-22
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre III </td>
+      <td align="justify">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47745,7 +48978,7 @@ D. 2197-17 à D. 2197-22
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47759,9 +48992,13 @@ D. 2371-3
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>D. 2392-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">
 D. 2392-11 
@@ -47780,6 +49017,18 @@ D. 2397-2
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 2521-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -47787,19 +49036,19 @@ D. 2397-2
 
 _Cite_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 (V)
-  - Décret n°2019-256 du 29 mars 2019 (V)
-  - Code de la commande publique - art. D2171-4 (V)
-  - Code de la commande publique - art. D2171-5 (V)
-  - Code de la commande publique - art. D2171-6 (V)
-  - Code de la commande publique - art. D2192-35 (V)
-  - Code de la commande publique - art. D2196-5 (V)
-  - Code de la commande publique - art. D2197-13 (V)
-  - Code de la commande publique - art. D2197-17 (V)
-  - Code de la commande publique - art. D2371-3 (V)
-  - Code de la commande publique - art. D2392-11 (V)
-  - Code de la commande publique - art. D2396-2 (V)
-  - Code de la commande publique - art. D2397-2 (V)
+  - Décret n°2018-1075 du 3 décembre 2018
+  - Décret n°2019-256 du 29 mars 2019
+  - Code de la commande publique - art. D2171-4
+  - Code de la commande publique - art. D2171-5
+  - Code de la commande publique - art. D2171-6
+  - Code de la commande publique - art. D2192-35
+  - Code de la commande publique - art. D2196-5
+  - Code de la commande publique - art. D2197-13
+  - Code de la commande publique - art. D2197-17
+  - Code de la commande publique - art. D2371-3
+  - Code de la commande publique - art. D2392-11
+  - Code de la commande publique - art. D2396-2
+  - Code de la commande publique - art. D2397-2
 
 _Codifié par_:
 
@@ -47807,24 +49056,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R2651-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les îles
-Wallis et Futuna aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
-à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf mention contraire dans
-le tableau ci-après. 
+Wallis et Futuna aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des  compétences dévolues
+à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après .
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47834,17 +49084,17 @@ R. 2100-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2111-1 à R. 2111-2 </td>
+R. 2111-1 à R. 2111-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2111-4 à R. 2112-12 </td>
+R. 2111-4 à R. 2112-12</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47856,27 +49106,34 @@ R. 2112-13
     </tr>
     <tr>
       <td align="left">
-R. 2112-14 à R. 2113-8 </td>
+R. 2112-14 à R. 2113-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2121-1 à R. 2122-1</td>
       <td align="left">
-R. 2121-1 à R. 2122-7 </td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2122-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2122-3 à R. 2122-7</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2122-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
-R. 2122-10 à R. 2123-1 </td>
+R. 2122-10 à R. 2123-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47896,21 +49153,27 @@ R. 2123-3 à R. 2123-8
       <td align="left">
 R. 2124-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2124-2 à R. 2124-6 
-</td>
+      <td align="left">R. 2124-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="left">R. 2124-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2124-4 à R. 2124-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
-R. 2131-1 à R. 2131-16 </td>
+R. 2131-1 à R. 2131-16</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -47938,76 +49201,79 @@ R. 2132-13 et R. 2132-14
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2142-1 à R. 2143-3 </td>
+R. 2142-1 à R. 2143-3</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2143-5 à R. 2143-14 </td>
+R. 2143-5 à R. 2143-14</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2143-16 à R. 2144-9 </td>
+R. 2143-16 à R. 2144-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-R. 2151-1 à R. 2152-4 </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2152-6 à R. 2153-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VI </td>
+R. 2151-1 à R. 2152-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2161-1 à R. 2162-23 </td>
+R. 2152-6 à R. 2153-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2162-25 à R. 2162-35 </td>
+R. 2161-1 à R. 2162-23</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2162-37 à R. 2162-66 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VII </td>
+R. 2162-25 à R. 2162-35</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2171-1 à R. 2171-3 </td>
+R. 2162-37 à R. 2162-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2171-15 à R. 2172-2 </td>
+R. 2171-1 à R. 2171-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2171-15 et R. 2171-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2171-17 à R. 2172-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2172-4 et R. 2172-5 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48017,11 +49283,11 @@ R. 2172-6
     </td></tr>
     <tr>
       <td align="left">
-R. 2172-20 à R. 2172-38 </td>
+R. 2172-20 à R. 2172-38</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48034,11 +49300,11 @@ R. 2181-1 et R. 2181-2
       <td align="left">
 R. 2181-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
-R. 2181-4 à R. 2182-4 </td>
+R. 2181-4 à R. 2182-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48048,46 +49314,45 @@ R. 2183-1
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2183-3 à R. 2184-2</td>
       <td align="left">
-R. 2183-3 à R. 2184-5 </td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2184-4 et R. 2184-5</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2184-7 à R. 2184-10 </td>
+R. 2184-7 à R. 2184-10</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
-R. 2184-12 à R. 2185-2 </td>
+R. 2184-12 à R. 2185-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2191-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
-R. 2191-2 à R. 2191-6 </td>
+R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-7 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 2191-8 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201 </td>
+      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48099,38 +49364,56 @@ R. 2191-9 à R. 2191-19
       <td align="left">
 R. 2191-20 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201</td>
     </tr>
     <tr>
       <td align="left">
-R. 2191-21 à R. 2191-32 </td>
+R. 2191-21 à R. 2191-32</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2191-33 
 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
-R. 2191-34 à R. 2191-63 </td>
+R. 2191-34 à R. 2191-63</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2192-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2192-10 à R. 2192-14</td>
       <td align="left">
-R. 2192-10 à R. 2192-23 </td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2192-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2192-16 à R. 2192-23</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2192-24 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2192-25 à R. 2192-31</td>
       <td align="left">
-R. 2192-25 à R. 2192-34 </td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2192-32</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2192-33 et R. 2192-34</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48143,19 +49426,25 @@ R. 2192-36 et R. 2192-37
       <td align="left">
 R. 2193-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2193-2 à R. 2193-15</td>
       <td align="left">
-R. 2193-2 à R. 2196-4 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2193-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2193-17 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2196-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48176,7 +49465,7 @@ R. 2197-23 à R. 2197-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Au livre II </td>
+      <td align="left">Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48186,7 +49475,7 @@ R. 2200-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48196,7 +49485,7 @@ R. 2211-1 à R. 2213-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48206,7 +49495,7 @@ R. 2221-1à R. 2223-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48216,7 +49505,7 @@ R. 2232-1 à R. 2236-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Au livre III </td>
+      <td align="left">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48226,7 +49515,7 @@ R. 2300-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48236,7 +49525,7 @@ R. 2311-1 à R. 2313-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48249,7 +49538,7 @@ R. 2321-1 à R. 2323-4
       <td align="left">
 R. 2324-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48258,7 +49547,7 @@ R. 2324-2 à R. 2324-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48271,7 +49560,7 @@ R. 2331-1 à R. 2331-4
       <td align="left">
 R. 2331-5 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48286,20 +49575,26 @@ R. 2332-1 à R. 2332-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2342-1 à R. 2342-15</td>
       <td align="left">
-R. 2342-1 à R. 2343-2 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2343-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2343-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2343-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48308,7 +49603,7 @@ R. 2343-4 à R. 2344-10
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48318,7 +49613,7 @@ R. 2351-1 à R. 2352-9
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48328,7 +49623,7 @@ R. 2361-1à R. 2362-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48350,7 +49645,7 @@ R. 2372-17 à R. 2373-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48363,7 +49658,7 @@ R. 2381-1 à R. 2383-2
       <td align="left">
 R. 2383-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48375,7 +49670,7 @@ R. 2384-1 à R. 2384-2
       <td align="left">
 R. 2384-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48384,7 +49679,7 @@ R. 2384-4 à R. 2385-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48397,31 +49692,43 @@ R. 2391-1 à R. 2391-3
       <td align="left">
 R. 2391-4 
 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2391-5 à R. 2391-28 
-</td>
+      <td align="left">R. 2391-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2391-6 à R. 2391-28</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 2392-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">
 R. 2392-10 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2392-12</td>
       <td align="left">
-R. 2392-12 à R. 2393-13 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2392-12-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-13 à R. 2393-13</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2393-14 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48433,7 +49740,7 @@ R. 2393-15 à R. 2393-17
       <td align="left">
 R. 2393-18 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48445,7 +49752,7 @@ R. 2393-19 et R. 2393-20
       <td align="left">
 R. 2393-21 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48457,19 +49764,25 @@ R. 2393-22 à R. 2393-24
       <td align="left">
 R. 2393-25 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2393-26 à R. 2393-33</td>
       <td align="left">
-R. 2393-26 à R. 2393-41 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-35 à R. 2393-41</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2393-42 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48481,7 +49794,7 @@ R. 2393-43 à R. 2396-1
       <td align="left">
 R. 2396-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -48496,11 +49809,11 @@ R. 2397-3 à R. 2397-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Au livre IV </td>
+      <td align="left">Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48510,7 +49823,7 @@ R. 2412-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48523,14 +49836,14 @@ R. 2431-1 à R. 2432-6
       <td align="left">
 R. 2432-7 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">Au livre V </td>
+      <td align="left">Au livre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -48539,6 +49852,10 @@ R. 2521-1 à R. 2521-4
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 2521-6</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -48550,351 +49867,345 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 (V)
-  - Décret n°2019-259 du 29 mars 2019 (V)
-  - Code de la commande publique - art. R2100-1 (V)
-  - Code de la commande publique - art. R2111-1 (V)
-  - Code de la commande publique - art. R2111-4 (V)
-  - Code de la commande publique - art. R2112-13 (V)
-  - Code de la commande publique - art. R2112-14 (V)
-  - Code de la commande publique - art. R2121-1 (V)
-  - Code de la commande publique - art. R2122-10 (V)
-  - Code de la commande publique - art. R2122-8 (V)
-  - Code de la commande publique - art. R2123-2 (V)
-  - Code de la commande publique - art. R2123-3 (V)
-  - Code de la commande publique - art. R2124-1 (V)
-  - Code de la commande publique - art. R2124-2 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-  - Code de la commande publique - art. R2131-18 (V)
-  - Code de la commande publique - art. R2132-1 (V)
-  - Code de la commande publique - art. R2132-13 (V)
-  - Code de la commande publique - art. R2132-14 (V)
-  - Code de la commande publique - art. R2132-6 (V)
-  - Code de la commande publique - art. R2142-1 (V)
-  - Code de la commande publique - art. R2143-16 (V)
-  - Code de la commande publique - art. R2143-5 (V)
-  - Code de la commande publique - art. R2151-1 (V)
-  - Code de la commande publique - art. R2152-6 (V)
-  - Code de la commande publique - art. R2161-1 (V)
-  - Code de la commande publique - art. R2162-25 (V)
-  - Code de la commande publique - art. R2162-37 (V)
-  - Code de la commande publique - art. R2171-1 (V)
-  - Code de la commande publique - art. R2171-15 (V)
-  - Code de la commande publique - art. R2172-20 (V)
-  - Code de la commande publique - art. R2172-4 (V)
-  - Code de la commande publique - art. R2172-5 (V)
-  - Code de la commande publique - art. R2172-6 (V)
-  - Code de la commande publique - art. R2181-1 (V)
-  - Code de la commande publique - art. R2181-2 (V)
-  - Code de la commande publique - art. R2181-3 (V)
-  - Code de la commande publique - art. R2181-4 (V)
-  - Code de la commande publique - art. R2183-1 (V)
-  - Code de la commande publique - art. R2183-3 (V)
-  - Code de la commande publique - art. R2184-12 (V)
-  - Code de la commande publique - art. R2184-7 (V)
-  - Code de la commande publique - art. R2191-1 (V)
-  - Code de la commande publique - art. R2191-2 (V)
-  - Code de la commande publique - art. R2191-20 (V)
-  - Code de la commande publique - art. R2191-21 (V)
-  - Code de la commande publique - art. R2191-33 (V)
-  - Code de la commande publique - art. R2191-34 (V)
+  - Décret n°2018-1225 du 24 décembre 2018
+  - Décret n°2019-259 du 29 mars 2019
+  - Code de la commande publique - art. R2100-1
+  - Code de la commande publique - art. R2111-1
+  - Code de la commande publique - art. R2111-4
+  - Code de la commande publique - art. R2112-13
+  - Code de la commande publique - art. R2112-14
+  - Code de la commande publique - art. R2121-1
+  - Code de la commande publique - art. R2122-10
+  - Code de la commande publique - art. R2122-8
+  - Code de la commande publique - art. R2123-2
+  - Code de la commande publique - art. R2123-3
+  - Code de la commande publique - art. R2124-1
+  - Code de la commande publique - art. R2124-2
+  - Code de la commande publique - art. R2131-1
+  - Code de la commande publique - art. R2131-18
+  - Code de la commande publique - art. R2132-1
+  - Code de la commande publique - art. R2132-13
+  - Code de la commande publique - art. R2132-14
+  - Code de la commande publique - art. R2132-6
+  - Code de la commande publique - art. R2142-1
+  - Code de la commande publique - art. R2143-16
+  - Code de la commande publique - art. R2143-5
+  - Code de la commande publique - art. R2151-1
+  - Code de la commande publique - art. R2152-6
+  - Code de la commande publique - art. R2161-1
+  - Code de la commande publique - art. R2162-25
+  - Code de la commande publique - art. R2162-37
+  - Code de la commande publique - art. R2171-1
+  - Code de la commande publique - art. R2171-15
+  - Code de la commande publique - art. R2172-20
+  - Code de la commande publique - art. R2172-4
+  - Code de la commande publique - art. R2172-5
+  - Code de la commande publique - art. R2172-6
+  - Code de la commande publique - art. R2181-1
+  - Code de la commande publique - art. R2181-2
+  - Code de la commande publique - art. R2181-3
+  - Code de la commande publique - art. R2181-4
+  - Code de la commande publique - art. R2183-1
+  - Code de la commande publique - art. R2183-3
+  - Code de la commande publique - art. R2184-12
+  - Code de la commande publique - art. R2184-7
+  - Code de la commande publique - art. R2191-1
+  - Code de la commande publique - art. R2191-2
+  - Code de la commande publique - art. R2191-20
+  - Code de la commande publique - art. R2191-21
+  - Code de la commande publique - art. R2191-33
+  - Code de la commande publique - art. R2191-34
   - Code de la commande publique - art. R2191-7 (V)
-  - Code de la commande publique - art. R2191-8 (V)
-  - Code de la commande publique - art. R2191-9 (V)
-  - Code de la commande publique - art. R2192-10 (V)
-  - Code de la commande publique - art. R2192-24 (V)
-  - Code de la commande publique - art. R2192-25 (V)
-  - Code de la commande publique - art. R2192-36 (V)
-  - Code de la commande publique - art. R2192-37 (V)
-  - Code de la commande publique - art. R2193-1 (V)
-  - Code de la commande publique - art. R2193-2 (V)
-  - Code de la commande publique - art. R2196-8 (V)
-  - Code de la commande publique - art. R2196-9 (V)
-  - Code de la commande publique - art. R2197-16 (V)
-  - Code de la commande publique - art. R2197-23 (V)
-  - Code de la commande publique - art. R2200-1 (V)
-  - Code de la commande publique - art. R2211-1 (V)
-  - Code de la commande publique - art. R2221-1 (V)
-  - Code de la commande publique - art. R2232-1 (V)
-  - Code de la commande publique - art. R2300-1 (V)
-  - Code de la commande publique - art. R2311-1 (V)
-  - Code de la commande publique - art. R2321-1 (V)
-  - Code de la commande publique - art. R2324-1 (V)
-  - Code de la commande publique - art. R2324-2 (V)
-  - Code de la commande publique - art. R2331-1 (V)
-  - Code de la commande publique - art. R2331-5 (V)
-  - Code de la commande publique - art. R2331-6 (V)
-  - Code de la commande publique - art. R2332-1 (V)
-  - Code de la commande publique - art. R2342-1 (V)
-  - Code de la commande publique - art. R2343-3 (V)
-  - Code de la commande publique - art. R2343-4 (V)
-  - Code de la commande publique - art. R2351-1 (V)
-  - Code de la commande publique - art. R2361-1 (V)
-  - Code de la commande publique - art. R2371-1 (V)
-  - Code de la commande publique - art. R2371-4 (V)
-  - Code de la commande publique - art. R2372-17 (V)
-  - Code de la commande publique - art. R2381-1 (V)
-  - Code de la commande publique - art. R2383-3 (V)
-  - Code de la commande publique - art. R2384-1 (V)
-  - Code de la commande publique - art. R2384-3 (V)
-  - Code de la commande publique - art. R2384-4 (V)
-  - Code de la commande publique - art. R2391-1 (V)
-  - Code de la commande publique - art. R2391-4 (V)
-  - Code de la commande publique - art. R2391-5 (V)
-  - Code de la commande publique - art. R2392-10 (V)
-  - Code de la commande publique - art. R2392-12 (V)
-  - Code de la commande publique - art. R2393-14 (V)
-  - Code de la commande publique - art. R2393-15 (V)
-  - Code de la commande publique - art. R2393-18 (V)
-  - Code de la commande publique - art. R2393-19 (V)
-  - Code de la commande publique - art. R2393-20 (V)
-  - Code de la commande publique - art. R2393-21 (V)
-  - Code de la commande publique - art. R2393-22 (V)
-  - Code de la commande publique - art. R2393-25 (V)
-  - Code de la commande publique - art. R2393-26 (V)
-  - Code de la commande publique - art. R2393-42 (V)
-  - Code de la commande publique - art. R2393-43 (V)
-  - Code de la commande publique - art. R2396-3 (V)
-  - Code de la commande publique - art. R2396-4 (V)
-  - Code de la commande publique - art. R2397-3 (V)
-  - Code de la commande publique - art. R2412-1 (V)
-  - Code de la commande publique - art. R2431-1 (V)
-  - Code de la commande publique - art. R2432-7 (V)
-  - Code de la commande publique - art. R2521-1 (V)
+  - Code de la commande publique - art. R2191-8
+  - Code de la commande publique - art. R2191-9
+  - Code de la commande publique - art. R2192-10
+  - Code de la commande publique - art. R2192-24
+  - Code de la commande publique - art. R2192-25
+  - Code de la commande publique - art. R2192-36
+  - Code de la commande publique - art. R2192-37
+  - Code de la commande publique - art. R2193-1
+  - Code de la commande publique - art. R2193-2
+  - Code de la commande publique - art. R2196-8
+  - Code de la commande publique - art. R2196-9
+  - Code de la commande publique - art. R2197-16
+  - Code de la commande publique - art. R2197-23
+  - Code de la commande publique - art. R2200-1
+  - Code de la commande publique - art. R2211-1
+  - Code de la commande publique - art. R2221-1
+  - Code de la commande publique - art. R2232-1
+  - Code de la commande publique - art. R2300-1
+  - Code de la commande publique - art. R2311-1
+  - Code de la commande publique - art. R2321-1
+  - Code de la commande publique - art. R2324-1
+  - Code de la commande publique - art. R2324-2
+  - Code de la commande publique - art. R2331-1
+  - Code de la commande publique - art. R2331-5
+  - Code de la commande publique - art. R2331-6
+  - Code de la commande publique - art. R2332-1
+  - Code de la commande publique - art. R2342-1
+  - Code de la commande publique - art. R2343-3
+  - Code de la commande publique - art. R2343-4
+  - Code de la commande publique - art. R2351-1
+  - Code de la commande publique - art. R2361-1
+  - Code de la commande publique - art. R2371-1
+  - Code de la commande publique - art. R2371-4
+  - Code de la commande publique - art. R2372-17
+  - Code de la commande publique - art. R2381-1
+  - Code de la commande publique - art. R2383-3
+  - Code de la commande publique - art. R2384-1
+  - Code de la commande publique - art. R2384-3
+  - Code de la commande publique - art. R2384-4
+  - Code de la commande publique - art. R2391-1
+  - Code de la commande publique - art. R2391-4
+  - Code de la commande publique - art. R2391-5
+  - Code de la commande publique - art. R2392-10
+  - Code de la commande publique - art. R2392-12
+  - Code de la commande publique - art. R2393-14
+  - Code de la commande publique - art. R2393-15
+  - Code de la commande publique - art. R2393-18
+  - Code de la commande publique - art. R2393-19
+  - Code de la commande publique - art. R2393-20
+  - Code de la commande publique - art. R2393-21
+  - Code de la commande publique - art. R2393-22
+  - Code de la commande publique - art. R2393-25
+  - Code de la commande publique - art. R2393-26
+  - Code de la commande publique - art. R2393-42
+  - Code de la commande publique - art. R2393-43
+  - Code de la commande publique - art. R2396-3
+  - Code de la commande publique - art. R2396-4
+  - Code de la commande publique - art. R2397-3
+  - Code de la commande publique - art. R2412-1
+  - Code de la commande publique - art. R2431-1
+  - Code de la commande publique - art. R2432-7
+  - Code de la commande publique - art. R2521-1
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=945></a>
+##### Section 2 : Dispositions d'adaptation<a id=964></a>
+
+###### Article D2651-3-1
+
+Pour l'application de l'article D. 2192-2 dans les îles Wallis et Futuna :
+
+a) Les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
+
+b) En tant que de besoin, la référence au numéro d'identité déterminé en application de l'article R. 123-221 du code de
+commerce est remplacée par la référence au numéro du répertoire des entreprises applicable localement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
+###### Article D2651-5
+
+Pour l'application de l'article D. 2392-2 dans les îles Wallis et Futuna, les mots : "à L. 2392-3" sont remplacés par les
+mots : "et L. 2392-2".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2651-3
 
-Pour l'application des dispositions réglementaires du livre Ier dans les îles Wallis et Futuna : 
+Pour l'application des dispositions réglementaires du livre Ier dans les îles Wallis et Futuna :
 
-1°  A l'article R. 2111-9 : 
+1° A l'article R. 2111-9 :
 
-a) Le 2° est supprimé ; 
+a) Le 2° est supprimé ;
 
 b) Au 5°, les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
-absence, " sont supprimés ; 
+absence, " sont supprimés ;
 
-2° A l'article R. 2122-1, les références aux articles  L. 1311-4,  L. 1331-24 ,  L. 1331-26-1 ,  L. 1331-28,  L. 1331-29  et
-L. 1334-2  du code de la santé publique, aux articles  L. 123-3 ,  L. 129-2 ,  L. 129-3 ,  L. 511-2  et  L. 511-3  du code de
-la construction et de l'habitation et aux 1° et 2° de l'article L. 201-2 du code rural et de la pêche maritime sont
-remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+2° A l'article R. 2122-1, les références aux articles L. 1311-4, L. 1331-24, L. 1331-26-1, L. 1331-28, L. 1331-29 et L.
+1334-2 du code de la santé publique, aux articles L. 123-3, L. 129-2, L. 129-3, L. 511-2 et L. 511-3 du code de la
+construction et de l'habitation et aux 1° et 2° de l'article L. 201-2 du code rural et de la pêche maritime sont remplacées
+par les références aux dispositions applicables localement ayant le même objet ;
 
-3°  A l'article R. 2122-2, le dernier alinéa est supprimé ; 
+3° A l'article R. 2122-2, le dernier alinéa est supprimé ;
 
-4° Au 5° de l'article R. 2124-3, le mot : " européenne " est supprimé ; 
+4° Au 5° de l'article R. 2124-3, le mot : " européenne " est supprimé ;
 
-5° L' article R. 2131-1 est ainsi rédigé : 
+5° L'article R. 2131-1 est ainsi rédigé :
 
-"  Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
-adjudicateur, d'un avis de préinformation, ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. "  ; 
+" Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
+adjudicateur, d'un avis de préinformation, ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. " ;
 
-6° L'article R. 2131-2 est ainsi rédigé : 
+6° L'article R. 2131-2 est ainsi rédigé :
 
-"  Art. R. 2131-2 . -Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel du Territoire des îles
-Wallis et Futuna, soit sur le profil d'acheteur du pouvoir adjudicateur. " ; 
+" Art. R. 2131-2.-Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel du Territoire des îles
+Wallis et Futuna, soit sur le profil d'acheteur du pouvoir adjudicateur. " ;
 
-7°  A l'article R. 2131-5, les mots : ", dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont
-supprimés ; 
+7° A l'article R. 2131-5, les mots : ", dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont supprimés ;
 
 8° A l'article R. 2131-8, les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R.
-2131-20  " sont remplacés par les mots : " du territoire des îles Wallis et Futuna. "  ; 
+2131-20 " sont remplacés par les mots : " du territoire des îles Wallis et Futuna. " ;
 
-9° Les  articles R. 2131-12 et R. 2131-13  sont remplacés par les dispositions suivantes : 
+9° Les articles R. 2131-12 et R. 2131-13 sont remplacés par les dispositions suivantes :
 
-"  Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
+" Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
 publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures
-ou des services en cause. "  ; 
+ou des services en cause. " ;
 
-10°  A l'article R. 2131-15 : 
+10° A l'article R. 2131-15 :
 
 a) Les mots : ", conforme au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard
-pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ; 
+pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ;
 
-b)  Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont remplacés par
-les mots : " du territoire des îles Wallis et Futuna. "  ; 
+b) Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont remplacés par
+les mots : " du territoire des îles Wallis et Futuna. " ;
 
-11° L'article R. 2131-16 est ainsi rédigé : 
+11° L'article R. 2131-16 est ainsi rédigé :
 
-"  Art. R. 2131-16 . -Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-2 à R.
-2124-6, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit dans le
-Journal officiel du Territoire des îles Wallis et Futuna, soit dans un journal habilité à recevoir des annonces légales. " ; 
+" Art. R. 2131-16.-Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-2 à R. 2124-6,
+l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit dans le Journal
+officiel du Territoire des îles Wallis et Futuna, soit dans un journal habilité à recevoir des annonces légales. " ;
 
-12° L' article R. 2132-2  est remplacé par les dispositions suivantes : 
+12° L'article R. 2132-2 est remplacé par les dispositions suivantes :
 
-"  Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
+" Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
 économiques. Ils peuvent être mis en ligne sur un profil d'acheteur à compter de la publication de l'avis d'appel à la
 concurrence selon des modalités figurant en annexe du présent code. L'adresse du profil d'acheteur sur lequel les documents
-de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ; 
+de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. " ;
 
-13° L' article R. 2132-4 est ainsi rédigé : 
+13° L'article R. 2132-4 est ainsi rédigé :
 
-"  Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
+" Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
 indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt. "
 Lorsque l'appel à la concurrence est effectué au moyen d'un avis sur l'existence d'un système de qualification, cet accès est
-offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ; 
+offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. " ;
 
-14° Le  premier alinéa de l'article R. 2132-7  est remplacé par les dispositions suivantes : 
+14° Le premier alinéa de l'article R. 2132-7 est remplacé par les dispositions suivantes :
 
 " Dans toutes les procédures de passation des marchés, les communications et les échanges d'informations peuvent être
-effectués soit sous forme papier soit par voie électronique. "  ; 
+effectués soit sous forme papier soit par voie électronique. " ;
 
-15° L' article R. 2132-13  est remplacé par les dispositions suivantes : 
+15° L'article R. 2132-13 est remplacé par les dispositions suivantes :
 
-"  Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
-transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ; 
+" Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
+transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. " ;
 
-16° A l'article R. 2143-3, les références aux  articles L. 5212-1 à L. 5212-11 du code du travail  sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+16° A l'article R. 2143-3, les références aux articles L. 5212-1 à L. 5212-11 du code du travail sont remplacées par les
+références aux dispositions applicables localement ayant le même objet ;
 
-17° Le  premier alinéa de l'article R. 2143-7 est ainsi rédigé : 
+17° Le premier alinéa de l'article R. 2143-7 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. "  ; 
+applicables localement. " ;
 
 18° A l'article R. 2143-8, les références aux articles du code du travail sont remplacées par les références applicables aux
-dispositions localement ayant le même objet ; 
+dispositions localement ayant le même objet ;
 
-19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ; 
+19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ;
 
 20° A l'article R. 2151-13, les mots : “ au sens de la recommandation 2003/361/ CE concernant la définition des micro,
 petites et moyennes entreprises ” et les mots : “ au sens du I de l'article 19 de la loi n° 96-603 du 5 juillet 1996 modifiée
 relative au développement et à la promotion du commerce et de l'artisanat ” sont remplacés par les mots : “ au sens de la
-réglementation localement applicable ” ; 
+réglementation localement applicable ” ;
 
-21° A l'article R. 2151-14,  les mots : " au règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008
+21° A l'article R. 2151-14, les mots : " au règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008
 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et
-abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur "  ; 
+abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur " ;
 
-22° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ; 
+22° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ;
 
-23° A l'article R. 2162-23, la référence au préfet est remplacée par la référence à l'administrateur supérieur ; 
+23° A l'article R. 2162-23, la référence au préfet est remplacée par la référence à l'administrateur supérieur ;
 
-24° L' article R. 2162-28 est ainsi rédigé : 
+24° L'article R. 2162-28 est ainsi rédigé :
 
-"  Art. R. 2162-28 . -Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur l'existence
+" Art. R. 2162-28.-Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur l'existence
 d'un tel système au Journal officiel du territoire des îles Wallis et Futuna. Cet avis mentionne son objet, sa durée et les
-modalités d'accès aux règles qui le gouvernent. " ; 
+modalités d'accès aux règles qui le gouvernent. " ;
 
-25° L' article R. 2162-29 est ainsi rédigé : 
+25° L'article R. 2162-29 est ainsi rédigé :
 
-"  Art. R. 2162-29 . -L'entité adjudicatrice notifie au Journal officiel du territoire des îles Wallis et Futuna tout
-changement de la durée du système en utilisant : 
+" Art. R. 2162-29.-L'entité adjudicatrice notifie au Journal officiel du territoire des îles Wallis et Futuna tout changement
+de la durée du système en utilisant :
 
 " 1° Un avis sur l'existence d'un système de qualification lorsque sa durée de validité est modifiée sans qu'il y soit mis un
-terme ; 
+terme ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-26° L' article R. 2162-40 est ainsi rédigé : 
+26° L'article R. 2162-40 est ainsi rédigé :
 
-"  Art. R. 2162-40 . -Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée,
-l'acheteur notifie au Journal officiel du territoire des îles Wallis et Futuna tout changement de la durée de validité du
-système d'acquisition dynamique en utilisant : 
+" Art. R. 2162-40.-Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée, l'acheteur
+notifie au Journal officiel du territoire des îles Wallis et Futuna tout changement de la durée de validité du système
+d'acquisition dynamique en utilisant :
 
 " 1° Le formulaire utilisé pour l'appel à la concurrence pour le système d'acquisition dynamique lorsque la durée de validité
-est modifiée sans qu'il soit mis un terme au système ; 
+est modifiée sans qu'il soit mis un terme au système ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-27° A l'article R. 2172-35, la référence aux catégories M et N définies à l'article R. 311-1 du code de la route  est
-remplacée par la référence aux dispositions applicables localement ayant le même objet ; 
+27° A l'article R. 2172-35, la référence aux catégories M et N définies à l'article R. 311-1 du code de la route est
+remplacée par la référence aux dispositions applicables localement ayant le même objet ;
 
-28° L' article R. 2183-1 est ainsi rédigé : 
+28° L'article R. 2183-1 est ainsi rédigé :
 
-"  Art. R. 2183-1 . -Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
+" Art. R. 2183-1.-Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
 Journal officiel de la République française, l'acheteur envoie pour publication, dans un délai maximal de trente jours à
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
-publicité préalable. " ; 
+publicité préalable. " ;
 
-29° A l'article R. 2191-7, le dernier alinéa est supprimé ; 
+29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
 
-30° A l'article R. 2191-64, la référence à l'article L. 3253-22 du code du travail  est remplacée par la référence à la
-réglementation localement applicable ayant le même objet ; 
+30° A l'article R. 2191-63, la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
+réglementation localement applicable ayant le même objet ;
 
-31°  A l'article R. 2192-5, le dernier alinéa est supprimé ; 
+30° bis Le deuxième alinéa de l'article R. 2192-3 n'est applicable que si les titulaires de marchés ou leurs sous-traitants
+admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
-32° A l'article R. 2192-10, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+31° A l'article R. 2192-11, le dernier alinéa est supprimé ;
 
-33° A l'article R. 2192-13, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+31° bis A l'article R. 2192-15, les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
 
-34° A l'article R. 2192-17, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+32° A l'article R. 2192-16, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
 
-35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé : 
+33° A l'article R. 2192-19, les mots : " les collectivités territoriales ou leurs établissements publics " sont supprimés ;
 
-" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. "  ; 
+34° A l'article R. 2192-23, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
+
+35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé :
+
+" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. " ;
 
 36° Les îles Wallis et Futuna peuvent relever d'une circonscription d'un comité interrégional ou interdépartemental prévu à
 l'article R. 2197-3 ;
 
-37° Le 1° de l'article R. 2197-4  est supprimé.
+37° Le 1° de l'article R. 2197-4 est supprimé.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°96-603 du 5 juillet 1996 - art. 19 (V)
-  - Code rural - art. L201-2 (V)
-  - Code du travail - art. L3253-22 (V)
-  - Code du travail - art. L5212-1 (VT)
-  - Code de la santé publique - art. L1311-4 (V)
-  - Code de la santé publique - art. L1331-24 (V)
-  - Code de la santé publique - art. L1331-26-1 (V)
-  - Code de la santé publique - art. L1331-28 (V)
-  - Code de la santé publique - art. L1331-29 (V)
-  - Code de la santé publique - art. L1334-2 (V)
-  - Code de la construction et de l'habitation. - art. L123-3 (V)
-  - Code de la construction et de l'habitation. - art. L129-2 (V)
-  - Code de la construction et de l'habitation. - art. L129-3 (V)
-  - Code de la construction et de l'habitation. - art. L511-2 (V)
-  - Code de la construction et de l'habitation. - art. L511-3 (V)
-  - Code de la route. - art. R311-1 (V)
-  - Code de la commande publique - art. R2111-9 (V)
-  - Code de la commande publique - art. R2122-1 (V)
-  - Code de la commande publique - art. R2122-2 (V)
-  - Code de la commande publique - art. R2124-2 (V)
-  - Code de la commande publique - art. R2124-3 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-  - Code de la commande publique - art. R2131-12 (VT)
-  - Code de la commande publique - art. R2131-13 (V)
-  - Code de la commande publique - art. R2131-15 (V)
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2131-2 (V)
-  - Code de la commande publique - art. R2131-20 (V)
-  - Code de la commande publique - art. R2131-5 (V)
-  - Code de la commande publique - art. R2131-8 (V)
-  - Code de la commande publique - art. R2132-13 (V)
-  - Code de la commande publique - art. R2132-2 (V)
-  - Code de la commande publique - art. R2132-4 (V)
-  - Code de la commande publique - art. R2132-7 (V)
-  - Code de la commande publique - art. R2143-3 (V)
-  - Code de la commande publique - art. R2143-7 (V)
-  - Code de la commande publique - art. R2143-8 (V)
-  - Code de la commande publique - art. R2143-9 (V)
-  - Code de la commande publique - art. R2151-13 (V)
-  - Code de la commande publique - art. R2151-14 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2162-23 (V)
-  - Code de la commande publique - art. R2162-28 (V)
-  - Code de la commande publique - art. R2162-29 (V)
-  - Code de la commande publique - art. R2162-40 (V)
-  - Code de la commande publique - art. R2172-35 (V)
-  - Code de la commande publique - art. R2183-1 (V)
-  - Code de la commande publique - art. R2191-7 (V)
-  - Code de la commande publique - art. R2192-10 (V)
-  - Code de la commande publique - art. R2192-13 (V)
-  - Code de la commande publique - art. R2192-17 (V)
-  - Code de la commande publique - art. R2194-10 (V)
-  - Code de la commande publique - art. R2197-3 (V)
-  - Code de la commande publique - art. R2197-4 (V)
+  - Loi n°96-603 du 5 juillet 1996 - art. 19
+  - Code rural - art. L201-2
+  - Code du travail
+  - Code du travail - art. L3253-22
+  - Code de la santé publique - art. L1311-4
+  - Code de la santé publique - art. L1331-24
+  - Code de la santé publique - art. L1331-26-1
+  - Code de la santé publique - art. L1331-28
+  - Code de la santé publique - art. L1331-29
+  - Code de la santé publique - art. L1334-2
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L129-2
+  - Code de la construction et de l'habitation. - art. L129-3
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L511-3
+  - Code de la route. - art. R311-1
 
 _Codifié par_:
 
@@ -48902,62 +50213,68 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R2651-4
 
-Pour l'application des dispositions réglementaires du livre III aux îles Wallis et Futuna : 
+Pour l'application des dispositions réglementaires du livre III aux îles Wallis et Futuna :
 
-1°°  A l'article R. 2311-5 : 
+1°°  A l'article R. 2311-5 :
 
-a) Le  2°  est supprimé  ; 
+a) Le  2°  est supprimé  ;
 
 b)  Au 6°  les mots : "  les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en
-leur absence,  "  sont supprimés  ; 
+leur absence,  "  sont supprimés  ;
 
-2°  A l'article R. 2322-2, le  second alinéa  est supprimé  ; 
+2°  A l'article R. 2322-2, le  second alinéa  est supprimé  ;
 
-3° Les  articles R. 2331-1 et R. 2331-2  sont remplacés par les  dispositions suivantes : 
+3° Les  articles R. 2331-1 et R. 2331-2  sont remplacés par les  dispositions suivantes :
 
 " Art. R. 2331-1.-Les acheteurs peuvent faire connaître leur intention de passer un marché par le biais de la publication
-d'un avis de pré-information. 
+d'un avis de pré-information.
 
 " Art.  R. 2331-2. -Cet avis est publié soit dans le Bulletin officiel des annonces de marchés publics soit sur le profil
-acheteur du pouvoir adjudicateur. 
+acheteur du pouvoir adjudicateur.
 
 " Le profil d'acheteur est la plateforme de dématérialisation permettant notamment aux acheteurs de mettre les documents de
 la consultation à disposition des opérateurs économiques par voie électronique et de réceptionner par voie électronique les
 documents transmis par les candidats et les soumissionnaires. Un arrêté du ministre chargé de l'économie détermine les
-fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ; 
+fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ;
 
-4° L' article R. 2331-8 est ainsi rédigé : 
+4° L' article R. 2331-8 est ainsi rédigé :
 
-"  Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent "  ; 
+"  Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent "  ;
 
 5° A l'article R. 2343-3, les références aux  articles L. 5212-1 à L. 5212-11 du code du travail  sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+références aux dispositions applicables localement ayant le même objet ;
 
 6° A l'article R. 2351-12, les mots : “ au sens de la recommandation de la Commission du 6 mai 2003 concernant la définition
 des micro, petites et moyennes entreprises ” et les mots : “ au sens du  I de l'article 19 de la loi n° 96-603 du 5 juillet
 1996  modifiée relative au développement et à la promotion du commerce et de l'artisanat ” sont remplacés par les mots : “ au
-sens de la réglementation localement applicable ” ; 
+sens de la réglementation localement applicable ” ;
 
-7° L'article R. 2352-3 est ainsi rédigé : 
+7° L'article R. 2352-3 est ainsi rédigé :
 
-"  Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent  "  ; 
+"  Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent  "  ;
 
-8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence à l'administrateur supérieur ; 
+8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence à l'administrateur supérieur ;
 
-9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ; 
+9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ;
 
-10° L' article R. 2383-2 est ainsi rédigé : 
+10° L' article R. 2383-2 est ainsi rédigé :
 
-"  Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. "  ; 
+"  Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. "  ;
 
-11° L'article R. 2384-4 est ainsi rédigé : 
+11° L'article R. 2384-4 est ainsi rédigé :
 
-"  Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent.  "  ; 
+"  Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent.  "  ;
+
+11° bis La première phrase du deuxième alinéa de l'article R. 2392-3 n'est applicable que si les titulaires de marchés ou
+leurs sous-traitants admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
+
+11° ter A l'article R. 2392-12-1, les mots : “à L. 2392-3” sont remplacés par les mots : “et L. 2392-2” ; 
 
 12° A l'article R. 2393-18, les mots : " au Journal officiel de l'Union européenne dans les conditions des articles R.
 2131-19 et R. 2331-11 " sont remplacés par les mots : " au Journal officiel du Territoire des îles Wallis et Futuna ".
@@ -48966,26 +50283,26 @@ sens de la réglementation localement applicable ” ;
 
 _Cite_:
 
-  - Loi n°96-603 du 5 juillet 1996 - art. 19 (M)
-  - Code civil - art. 2384-4 (V)
-  - Code du travail - art. L5212-1 (VT)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2183-3 (V)
-  - Code de la commande publique - art. R2184-5 (V)
-  - Code de la commande publique - art. R2311-5 (V)
-  - Code de la commande publique - art. R2322-2 (V)
-  - Code de la commande publique - art. R2331-1 (V)
-  - Code de la commande publique - art. R2331-11 (V)
-  - Code de la commande publique - art. R2331-2 (V)
-  - Code de la commande publique - art. R2331-8 (V)
-  - Code de la commande publique - art. R2343-3 (V)
-  - Code de la commande publique - art. R2351-12 (V)
-  - Code de la commande publique - art. R2352-3 (V)
-  - Code de la commande publique - art. R2371-6 (V)
-  - Code de la commande publique - art. R2383-1 (V)
-  - Code de la commande publique - art. R2383-2 (V)
-  - Code de la commande publique - art. R2393-18 (V)
+  - Loi n°96-603 du 5 juillet 1996 - art. 19
+  - Code civil - art. 2384-4
+  - Code du travail - art. L5212-1
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2183-3
+  - Code de la commande publique - art. R2184-5
+  - Code de la commande publique - art. R2311-5
+  - Code de la commande publique - art. R2322-2
+  - Code de la commande publique - art. R2331-1
+  - Code de la commande publique - art. R2331-11
+  - Code de la commande publique - art. R2331-2
+  - Code de la commande publique - art. R2331-8
+  - Code de la commande publique - art. R2343-3
+  - Code de la commande publique - art. R2351-12
+  - Code de la commande publique - art. R2352-3
+  - Code de la commande publique - art. R2371-6
+  - Code de la commande publique - art. R2383-1
+  - Code de la commande publique - art. R2383-2
+  - Code de la commande publique - art. R2393-18
 
 _Codifié par_:
 
@@ -48993,30 +50310,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=946></a>
+#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=965></a>
 
-##### Chapitre unique.<a id=947></a>
+##### Chapitre unique.<a id=966></a>
 
-##### Section 1 : Dispositions générales<a id=948></a>
+##### Section 1 : Dispositions générales<a id=967></a>
 
 ###### Article D2661-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Polynésie
 française aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
-collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après. 
+collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau
+ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49024,7 +50341,7 @@ tableau ci-après.
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49037,7 +50354,7 @@ D. 2171-4
       <td align="left">
 D. 2171-5 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201</td>
     </tr>
     <tr>
       <td align="left">
@@ -49050,9 +50367,13 @@ D. 2171-6 à D. 2171-1
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">D. 2192-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">
 D. 2192-35 
@@ -49078,7 +50399,7 @@ D. 2197-17 à D. 2197-22
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Au livre III </td>
+      <td align="left">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49086,7 +50407,7 @@ D. 2197-17 à D. 2197-22
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49100,9 +50421,13 @@ D. 2371-3
       </td><td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">D. 2392-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">
 D. 2392-11 
@@ -49121,6 +50446,18 @@ D. 2397-2
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 2521-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -49132,38 +50469,39 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 _Cite_:
 
-  - Code de la commande publique - art. D2171-4 (V)
-  - Code de la commande publique - art. D2171-5 (V)
-  - Code de la commande publique - art. D2171-6 (V)
-  - Code de la commande publique - art. D2192-35 (V)
-  - Code de la commande publique - art. D2196-5 (V)
-  - Code de la commande publique - art. D2197-13 (V)
-  - Code de la commande publique - art. D2197-17 (V)
-  - Code de la commande publique - art. D2371-3 (V)
-  - Code de la commande publique - art. D2392-11 (V)
-  - Code de la commande publique - art. D2396-2 (V)
-  - Code de la commande publique - art. D2397-2 (V)
+  - Code de la commande publique - art. D2171-4
+  - Code de la commande publique - art. D2171-5
+  - Code de la commande publique - art. D2171-6
+  - Code de la commande publique - art. D2192-35
+  - Code de la commande publique - art. D2196-5
+  - Code de la commande publique - art. D2197-13
+  - Code de la commande publique - art. D2197-17
+  - Code de la commande publique - art. D2371-3
+  - Code de la commande publique - art. D2392-11
+  - Code de la commande publique - art. D2396-2
+  - Code de la commande publique - art. D2397-2
 
 
 ###### Article R2661-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Polynésie
 française aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
-collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après. 
+collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau
+ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49173,7 +50511,7 @@ R. 2100-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49192,7 +50530,7 @@ R. 2111-4 à R. 2112-12
       <td align="left">
 R. 2112-13 
 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -49201,20 +50539,26 @@ R. 2112-14 à R. 2113-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2121-1 à R. 2122-1</td>
       <td align="left">
-R. 2121-1 à R. 2122-7 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2122-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2122-3 à R. 2122-7</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2122-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49226,7 +50570,7 @@ R. 2122-10 à R. 2123-1
       <td align="left">
 R. 2123-2 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49238,16 +50582,22 @@ R. 2123-3 à R. 2123-8
       <td align="left">
 R. 2124-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2124-2 à R. 2124-6 
-</td>
+      <td align="left">R. 2124-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="left">R. 2124-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2124-4 à R. 2124-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49281,7 +50631,7 @@ R. 2132-13 et R. 2132-14
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49303,7 +50653,7 @@ R. 2143-16 à R. 2144-9
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49319,7 +50669,7 @@ R. 2152-6 à R. 2153-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49341,7 +50691,7 @@ R. 2162-37 à R. 2162-66
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49351,16 +50701,18 @@ R. 2171-1 à R. 2171-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2171-15 à R. 2172-2 
-</td>
+      <td align="left">R. 2171-15 et R. 2171-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2171-17 à R. 2172-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2172-4 et R. 2172-5 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49375,7 +50727,7 @@ R. 2172-20 à R. 2172-38
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49388,7 +50740,7 @@ R. 2181-1 et R. 2181-2
       <td align="left">
 R. 2181-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49403,9 +50755,15 @@ R. 2183-1
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2183-3 à R. 2184-2</td>
       <td align="left">
-R. 2183-3 à R. 2184-5 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2184-4 et R. 2184-5</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49421,14 +50779,14 @@ R. 2184-12 à R. 2185-2
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2191-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49437,16 +50795,8 @@ R. 2191-2 à R. 2191-6
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-7 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 2191-8 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49458,7 +50808,7 @@ R. 2191-9 à R. 2191-19
       <td align="left">
 R. 2191-20 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49470,7 +50820,7 @@ R. 2191-21 à R. 2191-32
       <td align="left">
 R. 2191-33 
 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -49479,21 +50829,37 @@ R. 2191-34 à R. 2191-63
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2192-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2192-10 à R. 2192-14</td>
       <td align="left">
-R. 2192-10 à R. 2192-23 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2192-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2192-16 à R. 2192-23</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2192-24 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2192-25 à R. 2192-31</td>
       <td align="left">
-R. 2192-25 à R. 2192-34 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2192-32</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2192-33 et R. 2192-34</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49506,19 +50872,25 @@ R. 2192-36 et R. 2192-37
       <td align="left">
 R. 2193-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2193-2 à R. 2193-15</td>
       <td align="left">
-R. 2193-2 à R. 2196-4 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2193-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2193-17 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2196-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49539,7 +50911,7 @@ R. 2197-23 à R. 2197-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre II </td>
+      <td align="justify">Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49549,7 +50921,7 @@ R. 2200-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49559,7 +50931,7 @@ R. 2211-1 à R. 2213-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49575,7 +50947,7 @@ R. 2223-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49585,7 +50957,7 @@ R. 2232-1 à R. 2234-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre III </td>
+      <td align="justify">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49595,7 +50967,7 @@ R. 2300-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49605,7 +50977,7 @@ R. 2311-1 à R. 2313-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49618,7 +50990,7 @@ R. 2321-1 à R. 2323-4
       <td align="left">
 R. 2324-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49627,7 +50999,7 @@ R. 2324-2 à R. 2324-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49640,7 +51012,7 @@ R. 2331-1 à R. 2331-4
       <td align="left">
 R. 2331-5 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49655,20 +51027,26 @@ R. 2332-1 à R. 2332-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2342-1 à R. 2342-15</td>
       <td align="left">
-R. 2342-1 à R. 2343-2 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2343-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2343-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2343-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49677,7 +51055,7 @@ R. 2343-4 à R. 2344-10
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49687,7 +51065,7 @@ R. 2351-1 à R. 2352-9
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49697,7 +51075,7 @@ R. 2361-1à R. 2362-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49719,7 +51097,7 @@ R. 2372-17 à R. 2373-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49732,7 +51110,7 @@ R. 2381-1 à R. 2383-2
       <td align="left">
 R. 2383-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49744,7 +51122,7 @@ R. 2384-1 à R. 2384-2
       <td align="left">
 R. 2384-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49753,7 +51131,7 @@ R. 2384-4 à R. 2385-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49766,31 +51144,43 @@ R. 2391-1 à R. 2391-3
       <td align="left">
 R. 2391-4 
 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2391-5 à R. 2391-28 
-</td>
+      <td align="left">R. 2391-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2391-6 à R. 2391-28</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 2392-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">
 R. 2392-10 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2392-12</td>
       <td align="left">
-R. 2392-12 à R. 2393-13 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2392-12-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-13 à R. 2393-13</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2393-14 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49802,7 +51192,7 @@ R. 2393-15 à R. 2393-17
       <td align="left">
 R. 2393-18 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49814,7 +51204,7 @@ R. 2393-19 et R. 2393-20
       <td align="left">
 R. 2393-21 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49826,19 +51216,25 @@ R. 2393-22 à R. 2393-24
       <td align="left">
 R. 2393-25 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
+      <td align="left">R. 2393-26 à R. 2393-33</td>
       <td align="left">
-R. 2393-26 à R. 2393-41 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-35 à R. 2393-41</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2393-42 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49850,7 +51246,7 @@ R. 2393-43 à R. 2396-1
       <td align="left">
 R. 2396-3 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49865,11 +51261,11 @@ R. 2397-3 à R. 2397-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre IV </td>
+      <td align="justify">Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49879,7 +51275,7 @@ R. 2412-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49892,14 +51288,14 @@ R. 2431-1 à R. 2432-6
       <td align="left">
 R. 2432-7 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">Au livre V </td>
+      <td align="left">Au livre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49908,6 +51304,10 @@ R. 2521-1 à R. 2521-4
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 2521-6</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -49915,114 +51315,114 @@ R. 2521-1 à R. 2521-4
 
 _Cite_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 (V)
-  - Décret n°2018-1225 du 24 décembre 2018 (V)
-  - Décret n°2019-259 du 29 mars 2019 (V)
-  - Code de la commande publique - art. R2100-1 (V)
-  - Code de la commande publique - art. R2111-1 (V)
-  - Code de la commande publique - art. R2111-4 (V)
-  - Code de la commande publique - art. R2112-13 (V)
-  - Code de la commande publique - art. R2112-14 (V)
-  - Code de la commande publique - art. R2121-1 (V)
-  - Code de la commande publique - art. R2122-10 (V)
-  - Code de la commande publique - art. R2122-8 (V)
-  - Code de la commande publique - art. R2123-2 (V)
-  - Code de la commande publique - art. R2123-3 (V)
-  - Code de la commande publique - art. R2124-1 (V)
-  - Code de la commande publique - art. R2124-2 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-  - Code de la commande publique - art. R2131-18 (V)
-  - Code de la commande publique - art. R2132-1 (V)
-  - Code de la commande publique - art. R2132-13 (V)
-  - Code de la commande publique - art. R2132-6 (V)
-  - Code de la commande publique - art. R2142-1 (V)
-  - Code de la commande publique - art. R2143-16 (V)
-  - Code de la commande publique - art. R2143-5 (V)
-  - Code de la commande publique - art. R2151-1 (V)
-  - Code de la commande publique - art. R2152-6 (V)
-  - Code de la commande publique - art. R2161-1 (V)
-  - Code de la commande publique - art. R2162-25 (V)
-  - Code de la commande publique - art. R2162-37 (V)
-  - Code de la commande publique - art. R2171-1 (V)
+  - Décret n°2018-1075 du 3 décembre 2018
+  - Décret n°2018-1225 du 24 décembre 2018
+  - Décret n°2019-259 du 29 mars 2019
+  - Code de la commande publique - art. R2100-1
+  - Code de la commande publique - art. R2111-1
+  - Code de la commande publique - art. R2111-4
+  - Code de la commande publique - art. R2112-13
+  - Code de la commande publique - art. R2112-14
+  - Code de la commande publique - art. R2121-1
+  - Code de la commande publique - art. R2122-10
+  - Code de la commande publique - art. R2122-8
+  - Code de la commande publique - art. R2123-2
+  - Code de la commande publique - art. R2123-3
+  - Code de la commande publique - art. R2124-1
+  - Code de la commande publique - art. R2124-2
+  - Code de la commande publique - art. R2131-1
+  - Code de la commande publique - art. R2131-18
+  - Code de la commande publique - art. R2132-1
+  - Code de la commande publique - art. R2132-13
+  - Code de la commande publique - art. R2132-6
+  - Code de la commande publique - art. R2142-1
+  - Code de la commande publique - art. R2143-16
+  - Code de la commande publique - art. R2143-5
+  - Code de la commande publique - art. R2151-1
+  - Code de la commande publique - art. R2152-6
+  - Code de la commande publique - art. R2161-1
+  - Code de la commande publique - art. R2162-25
+  - Code de la commande publique - art. R2162-37
+  - Code de la commande publique - art. R2171-1
   - Code de la commande publique - art. R2171-15 (V)
-  - Code de la commande publique - art. R2172-20 (V)
-  - Code de la commande publique - art. R2172-4 (V)
-  - Code de la commande publique - art. R2172-6 (V)
-  - Code de la commande publique - art. R2181-1 (V)
-  - Code de la commande publique - art. R2181-3 (V)
-  - Code de la commande publique - art. R2181-4 (V)
-  - Code de la commande publique - art. R2183-1 (V)
-  - Code de la commande publique - art. R2183-3 (V)
-  - Code de la commande publique - art. R2184-12 (V)
-  - Code de la commande publique - art. R2184-7 (V)
-  - Code de la commande publique - art. R2191-1 (V)
-  - Code de la commande publique - art. R2191-2 (V)
-  - Code de la commande publique - art. R2191-20 (V)
-  - Code de la commande publique - art. R2191-21 (V)
-  - Code de la commande publique - art. R2191-33 (V)
-  - Code de la commande publique - art. R2191-34 (V)
-  - Code de la commande publique - art. R2191-7 (V)
+  - Code de la commande publique - art. R2172-20
+  - Code de la commande publique - art. R2172-4
+  - Code de la commande publique - art. R2172-6
+  - Code de la commande publique - art. R2181-1
+  - Code de la commande publique - art. R2181-3
+  - Code de la commande publique - art. R2181-4
+  - Code de la commande publique - art. R2183-1
+  - Code de la commande publique - art. R2183-3
+  - Code de la commande publique - art. R2184-12
+  - Code de la commande publique - art. R2184-7
+  - Code de la commande publique - art. R2191-1
+  - Code de la commande publique - art. R2191-2
+  - Code de la commande publique - art. R2191-20
+  - Code de la commande publique - art. R2191-21
+  - Code de la commande publique - art. R2191-33
+  - Code de la commande publique - art. R2191-34
+  - Code de la commande publique - art. R2191-7
   - Code de la commande publique - art. R2191-8 (V)
-  - Code de la commande publique - art. R2191-9 (V)
-  - Code de la commande publique - art. R2192-10 (V)
-  - Code de la commande publique - art. R2192-24 (V)
-  - Code de la commande publique - art. R2192-25 (V)
-  - Code de la commande publique - art. R2192-36 (V)
-  - Code de la commande publique - art. R2193-1 (V)
-  - Code de la commande publique - art. R2193-2 (V)
-  - Code de la commande publique - art. R2196-8 (V)
-  - Code de la commande publique - art. R2196-9 (V)
-  - Code de la commande publique - art. R2197-16 (V)
-  - Code de la commande publique - art. R2197-23 (V)
-  - Code de la commande publique - art. R2200-1 (V)
-  - Code de la commande publique - art. R2211-1 (V)
-  - Code de la commande publique - art. R2221-1 (V)
-  - Code de la commande publique - art. R2223-5 (V)
-  - Code de la commande publique - art. R2232-1 (V)
-  - Code de la commande publique - art. R2300-1 (V)
-  - Code de la commande publique - art. R2311-1 (V)
-  - Code de la commande publique - art. R2321-1 (V)
-  - Code de la commande publique - art. R2324-1 (V)
-  - Code de la commande publique - art. R2324-2 (V)
-  - Code de la commande publique - art. R2331-1 (V)
-  - Code de la commande publique - art. R2331-5 (V)
-  - Code de la commande publique - art. R2331-6 (V)
-  - Code de la commande publique - art. R2332-1 (V)
-  - Code de la commande publique - art. R2342-1 (V)
-  - Code de la commande publique - art. R2343-3 (V)
-  - Code de la commande publique - art. R2343-4 (V)
-  - Code de la commande publique - art. R2351-1 (V)
-  - Code de la commande publique - art. R2361-1 (V)
-  - Code de la commande publique - art. R2371-1 (V)
-  - Code de la commande publique - art. R2371-4 (V)
-  - Code de la commande publique - art. R2372-17 (V)
-  - Code de la commande publique - art. R2381-1 (V)
-  - Code de la commande publique - art. R2383-3 (V)
-  - Code de la commande publique - art. R2384-1 (V)
-  - Code de la commande publique - art. R2384-3 (V)
-  - Code de la commande publique - art. R2384-4 (V)
-  - Code de la commande publique - art. R2391-1 (V)
-  - Code de la commande publique - art. R2391-4 (V)
+  - Code de la commande publique - art. R2191-9
+  - Code de la commande publique - art. R2192-10
+  - Code de la commande publique - art. R2192-24
+  - Code de la commande publique - art. R2192-25
+  - Code de la commande publique - art. R2192-36
+  - Code de la commande publique - art. R2193-1
+  - Code de la commande publique - art. R2193-2
+  - Code de la commande publique - art. R2196-8
+  - Code de la commande publique - art. R2196-9
+  - Code de la commande publique - art. R2197-16
+  - Code de la commande publique - art. R2197-23
+  - Code de la commande publique - art. R2200-1
+  - Code de la commande publique - art. R2211-1
+  - Code de la commande publique - art. R2221-1
+  - Code de la commande publique - art. R2223-5
+  - Code de la commande publique - art. R2232-1
+  - Code de la commande publique - art. R2300-1
+  - Code de la commande publique - art. R2311-1
+  - Code de la commande publique - art. R2321-1
+  - Code de la commande publique - art. R2324-1
+  - Code de la commande publique - art. R2324-2
+  - Code de la commande publique - art. R2331-1
+  - Code de la commande publique - art. R2331-5
+  - Code de la commande publique - art. R2331-6
+  - Code de la commande publique - art. R2332-1
+  - Code de la commande publique - art. R2342-1
+  - Code de la commande publique - art. R2343-3
+  - Code de la commande publique - art. R2343-4
+  - Code de la commande publique - art. R2351-1
+  - Code de la commande publique - art. R2361-1
+  - Code de la commande publique - art. R2371-1
+  - Code de la commande publique - art. R2371-4
+  - Code de la commande publique - art. R2372-17
+  - Code de la commande publique - art. R2381-1
+  - Code de la commande publique - art. R2383-3
+  - Code de la commande publique - art. R2384-1
+  - Code de la commande publique - art. R2384-3
+  - Code de la commande publique - art. R2384-4
+  - Code de la commande publique - art. R2391-1
+  - Code de la commande publique - art. R2391-4
   - Code de la commande publique - art. R2391-5 (V)
-  - Code de la commande publique - art. R2392-10 (V)
-  - Code de la commande publique - art. R2392-12 (V)
-  - Code de la commande publique - art. R2393-14 (V)
-  - Code de la commande publique - art. R2393-15 (V)
-  - Code de la commande publique - art. R2393-18 (V)
-  - Code de la commande publique - art. R2393-19 (V)
-  - Code de la commande publique - art. R2393-21 (V)
-  - Code de la commande publique - art. R2393-22 (V)
-  - Code de la commande publique - art. R2393-25 (V)
-  - Code de la commande publique - art. R2393-26 (V)
-  - Code de la commande publique - art. R2393-42 (V)
-  - Code de la commande publique - art. R2393-43 (V)
-  - Code de la commande publique - art. R2396-3 (V)
-  - Code de la commande publique - art. R2396-4 (V)
-  - Code de la commande publique - art. R2397-3 (V)
-  - Code de la commande publique - art. R2412-1 (V)
-  - Code de la commande publique - art. R2431-1 (V)
-  - Code de la commande publique - art. R2432-7 (V)
-  - Code de la commande publique - art. R2521-1 (V)
+  - Code de la commande publique - art. R2392-10
+  - Code de la commande publique - art. R2392-12
+  - Code de la commande publique - art. R2393-14
+  - Code de la commande publique - art. R2393-15
+  - Code de la commande publique - art. R2393-18
+  - Code de la commande publique - art. R2393-19
+  - Code de la commande publique - art. R2393-21
+  - Code de la commande publique - art. R2393-22
+  - Code de la commande publique - art. R2393-25
+  - Code de la commande publique - art. R2393-26
+  - Code de la commande publique - art. R2393-42
+  - Code de la commande publique - art. R2393-43
+  - Code de la commande publique - art. R2396-3
+  - Code de la commande publique - art. R2396-4
+  - Code de la commande publique - art. R2397-3
+  - Code de la commande publique - art. R2412-1
+  - Code de la commande publique - art. R2431-1
+  - Code de la commande publique - art. R2432-7
+  - Code de la commande publique - art. R2521-1
 
 _Codifié par_:
 
@@ -50030,178 +51430,210 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=949></a>
+##### Section 2 : Dispositions d'adaptation<a id=968></a>
+
+###### Article D2661-3-1
+
+Pour l'application de l'article D. 2192-2 en Polynésie française :
+
+a) Les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
+
+b) En tant que de besoin, la référence au numéro d'identité déterminé en application de l'article R. 123-221 du code de
+commerce est remplacée par la référence au numéro du répertoire TAHITI en vertu de la réglementation applicable localement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
+###### Article D2661-5
+
+Pour l'application de l'article D. 2392-2, les mots : “à L. 2392-3” sont remplacés par les mots : “et L. 2392-2”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2661-3
 
-Pour l'application des dispositions réglementaires du livre Ier en Polynésie française : 
+Pour l'application des dispositions réglementaires du livre Ier en Polynésie française :
 
-1°  A l'article R. 2111-9 : 
+1° A l'article R. 2111-9 :
 
-a) Le 2° est supprimé ; 
+a) Le 2° est supprimé ;
 
 b) Au 5° les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
-absence, " sont supprimés ; 
+absence, " sont supprimés ;
 
-2° A l'article R. 2122-1, les références aux articles  L. 1311-4 ,  L. 1331-24 ,  L. 1331-26-1 ,  L. 1331-28 ,  L. 1331-29
-et  L. 1334-2  du code de la santé publique, aux articles  L. 123-3 ,  L. 129-2 ,  L. 129-3 ,  L. 511-2  et  L. 511-3  du
-code de la construction et de l'habitation et aux 1° et 2° de l'article L. 201-2 du code rural et de la pêche maritime sont
-remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+2° A l'article R. 2122-1, les références aux articles L. 1311-4, L. 1331-24, L. 1331-26-1, L. 1331-28, L. 1331-29 et L.
+1334-2 du code de la santé publique, aux articles L. 123-3, L. 129-2, L. 129-3, L. 511-2 et L. 511-3 du code de la
+construction et de l'habitation et aux 1° et 2° de l'article L. 201-2 du code rural et de la pêche maritime sont remplacées
+par les références aux dispositions applicables localement ayant le même objet ;
 
-3°  A l'article R. 2122-2, le dernier alinéa est supprimé ; 
+3° A l'article R. 2122-2, le dernier alinéa est supprimé ;
 
-4° Au 5° de l'article R. 2124-3, le mot : " européenne " est supprimé ; 
+4° Au 5° de l'article R. 2124-3, le mot : " européenne " est supprimé ;
 
-5° L' article R. 2131-1 est ainsi rédigé : 
+5° L'article R. 2131-1 est ainsi rédigé :
 
-"  Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
-adjudicateur, d'un avis de préinformation, ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. "  ; 
+" Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
+adjudicateur, d'un avis de préinformation, ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. " ;
 
-6° L'article R. 2131-2 est ainsi rédigé : 
+6° L'article R. 2131-2 est ainsi rédigé :
 
-"  Art. R. 2131-2 . -Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel de la Polynésie
-Française, soit sur le profil d'acheteur du pouvoir adjudicateur. " ; 
+" Art. R. 2131-2.-Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel de la Polynésie Française,
+soit sur le profil d'acheteur du pouvoir adjudicateur. " ;
 
-7°  A l'article R. 2131-5, les mots : ", dans les conditions prévues aux articles R. 2131-19 et R. 2131-20  " sont
-supprimés ; 
+7° A l'article R. 2131-5, les mots : ", dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont supprimés ;
 
-8° A l'article R. 2131-8,  les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R.
-2131-20 " sont remplacés par les mots : " de la Polynésie française. "  ; 
+8° A l'article R. 2131-8, les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R.
+2131-20 " sont remplacés par les mots : " de la Polynésie française. " ;
 
-9° Les  articles R. 2131-12 et R. 2131-13  sont remplacés par les dispositions suivantes : 
+9° Les articles R. 2131-12 et R. 2131-13 sont remplacés par les dispositions suivantes :
 
-"  Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
+" Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
 publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures
-ou des services en cause. "  ; 
+ou des services en cause. " ;
 
-10°  A l'article R. 2131-15 : 
+10° A l'article R. 2131-15 :
 
 a) Les mots : ", conforme au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard
-pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ; 
+pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ;
 
-b)  Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont remplacés par
-les mots : " de la Polynésie française. "  ; 
+b) Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont remplacés par
+les mots : " de la Polynésie française. " ;
 
-11° L'article R. 2131-16 est ainsi rédigé : 
+11° L'article R. 2131-16 est ainsi rédigé :
 
-"  Art. R. 2131-16 . -Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-1 et R.
-2124-3 à R. 2124-5, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit
-dans le Journal officiel de la Polynésie française, soit dans un journal habilité à recevoir des annonces légales. " ; 
+" Art. R. 2131-16.-Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-1 et R. 2124-3
+à R. 2124-5, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit dans
+le Journal officiel de la Polynésie française, soit dans un journal habilité à recevoir des annonces légales. " ;
 
-12° L' article R. 2132-2  est remplacé par les dispositions suivantes : 
+12° L'article R. 2132-2 est remplacé par les dispositions suivantes :
 
-"  Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
+" Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
 économiques. Ils peuvent être mis en ligne sur un profil d'acheteur à compter de la publication de l'avis d'appel à la
 concurrence selon des modalités figurant en annexe du présent code. L'adresse du profil d'acheteur sur lequel les documents
-de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ; 
+de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. " ;
 
-13° L' article R. 2132-4 est ainsi rédigé : 
+13° L'article R. 2132-4 est ainsi rédigé :
 
-"  Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
-indicatif, cet accès est offert à compter de l'envoi de l'invitation à confirmer l'intérêt. 
+" Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
+indicatif, cet accès est offert à compter de l'envoi de l'invitation à confirmer l'intérêt.
 
 " Lorsque l'appel à la concurrence est effectué au moyen d'un avis sur l'existence d'un système de qualification, cet accès
-est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ; 
+est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. " ;
 
-14° Le  premier alinéa de l'article R. 2132-7 est ainsi rédigé : 
+14° Le premier alinéa de l'article R. 2132-7 est ainsi rédigé :
 
 " Dans toutes les procédures de passation des marchés, les communications et les échanges d'informations peuvent être
-effectués soit sous forme papier soit par voie électronique. "  ; 
+effectués soit sous forme papier soit par voie électronique. " ;
 
-15° L' article R. 2132-13  est remplacé par les dispositions suivantes : 
+15° L'article R. 2132-13 est remplacé par les dispositions suivantes :
 
-"  Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
-transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ; 
+" Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
+transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. " ;
 
-16° A l'article R. 2143-3, les références aux  articles L. 5212-1 à L. 5212-11 du code du travail  sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+16° A l'article R. 2143-3, les références aux articles L. 5212-1 à L. 5212-11 du code du travail sont remplacées par les
+références aux dispositions applicables localement ayant le même objet ;
 
-17° Le  premier alinéa de l'article R. 2143-7 est ainsi rédigé : 
+17° Le premier alinéa de l'article R. 2143-7 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. "  ; 
+applicables localement. " ;
 
 18° A l'article R. 2143-8, les références aux articles du code du travail sont remplacées par les références aux dispositions
-applicables localement ayant le même objet ; 
+applicables localement ayant le même objet ;
 
-19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ; 
+19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ;
 
 20° A l'article R. 2151-13, les mots : “ au sens de la recommandation 2003/361/ CE concernant la définition des micro,
 petites et moyennes entreprises ” et les mots : “ au sens du I de l'article 19 de la loi n° 96-603 du 5 juillet 1996 modifiée
 relative au développement et à la promotion du commerce et de l'artisanat ” sont remplacés par les mots : “ au sens de la
-réglementation localement applicable ” ; 
+réglementation localement applicable ” ;
 
 21° A l'article R. 2151-14, les mots : " au règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008
 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et
-abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur "  ; 
+abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur " ;
 
-22° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ; 
+22° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ;
 
-23° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au haut-commissaire de la République ; 
+23° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au haut-commissaire de la République ;
 
-24° L' article R. 2162-28 est ainsi rédigé : 
+24° L'article R. 2162-28 est ainsi rédigé :
 
-"  Art. R. 2162-28 . -Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur l'existence
+" Art. R. 2162-28.-Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur l'existence
 d'un tel système au Journal officiel de la Polynésie française. Cet avis mentionne son objet, sa durée et les modalités
-d'accès aux règles qui le gouvernent. " ; 
+d'accès aux règles qui le gouvernent. " ;
 
-25° L' article R. 2162-29 est ainsi rédigé : 
+25° L'article R. 2162-29 est ainsi rédigé :
 
-"  Art. R. 2162-29 . -L'entité adjudicatrice notifie au Journal officiel de la Polynésie française tout changement de la
-durée du système en utilisant : 
+" Art. R. 2162-29.-L'entité adjudicatrice notifie au Journal officiel de la Polynésie française tout changement de la durée
+du système en utilisant :
 
 " 1° Un avis sur l'existence d'un système de qualification lorsque sa durée de validité est modifiée sans qu'il y soit mis un
-terme ; 
+terme ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-26° L' article R. 2162-40 est ainsi rédigé : 
+26° L'article R. 2162-40 est ainsi rédigé :
 
-"  Art. R. 2162-40 . -Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée,
-l'acheteur notifie au Journal officiel de la Polynésie française tout changement de la durée de validité du système
-d'acquisition dynamique en utilisant : 
+" Art. R. 2162-40.-Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée, l'acheteur
+notifie au Journal officiel de la Polynésie française tout changement de la durée de validité du système d'acquisition
+dynamique en utilisant :
 
 " 1° Le formulaire utilisé pour l'appel à la concurrence pour le système d'acquisition dynamique lorsque la durée de validité
-est modifiée sans qu'il soit mis un terme au système ; 
+est modifiée sans qu'il soit mis un terme au système ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-27° A l'article R. 2172-35, la référence aux catégories M et N définies à l'article R. 311-1 du code de la route  est
-remplacée par la référence aux dispositions applicables localement ayant le même objet ; 
+27° A l'article R. 2172-35, la référence aux catégories M et N définies à l'article R. 311-1 du code de la route est
+remplacée par la référence aux dispositions applicables localement ayant le même objet ;
 
-28° L' article R. 2183-1 est ainsi rédigé : 
+28° L'article R. 2183-1 est ainsi rédigé :
 
-"  Art. R. 2183-1 . -Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
+" Art. R. 2183-1.-Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
 Journal officiel de la République française, l'acheteur envoie pour publication, dans un délai maximal de trente jours à
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
-publicité préalable. " ; 
+publicité préalable. " ;
 
-29° A l'article R. 2191-7, le dernier alinéa est supprimé ; 
+29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
 
-30° A l'article R. 2191-63la référence à l'article L. 3253-22 du code du travail  est remplacée par la référence à la
-réglementation localement applicable ayant le même objet ; 
+30° A l'article R. 2191-63la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
+réglementation localement applicable ayant le même objet ;
 
-31°  A l'article R. 2192-5, le dernier alinéa est supprimé ; 
+30° bis Le deuxième alinéa de l'article R. 2192-3 n'est applicable que si les titulaires de marchés ou leurs sous-traitants
+admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
-32° A l'article R. 2192-10,  les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+31° A l'article R. 2192-11, le dernier alinéa est supprimé ;
 
-33° A l'article R. 2192-13, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+31° bis A l'article R. 2192-15, les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
 
-34° A l'article R. 2192-17, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+32° A l'article R. 2192-16, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
 
-35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé : 
+33° A l'article R. 2192-19, les mots : " les collectivités territoriales ou leurs établissements publics " sont supprimés ;
 
-" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. "  ; 
+34° A l'article R. 2192-23, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
+
+35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé :
+
+" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. " ;
 
 36° La Polynésie française peut relever d'une circonscription d'un comité interrégional ou interdépartemental prévu à
 l'article R. 2197-3 ;
 
-37° Le 1° de l'article R. 2197-4  est supprimé
+37° Le 1° de l'article R. 2197-4 est supprimé
 
 **Liens relatifs à cet article**
 
@@ -50211,120 +51643,126 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 _Cite_:
 
-  - Code rural - art. L201-2 (V)
-  - Code du travail - art. L3253-22 (V)
-  - Code du travail - art. L5212-1 (VT)
-  - Code de la santé publique - art. L1311-4 (V)
-  - Code de la santé publique - art. L1331-24 (V)
-  - Code de la santé publique - art. L1331-26-1 (V)
-  - Code de la santé publique - art. L1331-28 (V)
-  - Code de la santé publique - art. L1331-29 (V)
-  - Code de la santé publique - art. L1334-2 (V)
-  - Code de la construction et de l'habitation. - art. L123-3 (V)
-  - Code de la construction et de l'habitation. - art. L129-2 (V)
-  - Code de la construction et de l'habitation. - art. L129-3 (V)
-  - Code de la construction et de l'habitation. - art. L511-2 (V)
-  - Code de la construction et de l'habitation. - art. L511-3 (V)
-  - Code de la route. - art. R311-1 (V)
-  - Code de la commande publique - art. R2111-9 (V)
-  - Code de la commande publique - art. R2122-1 (V)
+  - Code rural - art. L201-2
+  - Code du travail - art. L3253-22
+  - Code du travail - art. L5212-1
+  - Code de la santé publique - art. L1311-4
+  - Code de la santé publique - art. L1331-24
+  - Code de la santé publique - art. L1331-26-1
+  - Code de la santé publique - art. L1331-28
+  - Code de la santé publique - art. L1331-29
+  - Code de la santé publique - art. L1334-2
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L129-2
+  - Code de la construction et de l'habitation. - art. L129-3
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L511-3
+  - Code de la route. - art. R311-1
+  - Code de la commande publique - art. R2111-9
+  - Code de la commande publique - art. R2122-1
   - Code de la commande publique - art. R2122-2 (V)
-  - Code de la commande publique - art. R2124-1 (V)
-  - Code de la commande publique - art. R2124-3 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-  - Code de la commande publique - art. R2131-12 (VT)
-  - Code de la commande publique - art. R2131-13 (V)
-  - Code de la commande publique - art. R2131-15 (V)
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2131-2 (V)
-  - Code de la commande publique - art. R2131-20 (V)
-  - Code de la commande publique - art. R2131-5 (V)
-  - Code de la commande publique - art. R2131-8 (V)
-  - Code de la commande publique - art. R2132-13 (V)
-  - Code de la commande publique - art. R2132-2 (V)
-  - Code de la commande publique - art. R2132-4 (V)
-  - Code de la commande publique - art. R2132-7 (V)
-  - Code de la commande publique - art. R2143-3 (V)
-  - Code de la commande publique - art. R2143-7 (V)
-  - Code de la commande publique - art. R2143-8 (V)
-  - Code de la commande publique - art. R2143-9 (V)
-  - Code de la commande publique - art. R2151-13 (V)
-  - Code de la commande publique - art. R2151-14 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2162-23 (V)
-  - Code de la commande publique - art. R2162-28 (V)
-  - Code de la commande publique - art. R2162-29 (V)
-  - Code de la commande publique - art. R2162-40 (V)
-  - Code de la commande publique - art. R2172-35 (V)
-  - Code de la commande publique - art. R2183-1 (V)
-  - Code de la commande publique - art. R2191-63 (V)
-  - Code de la commande publique - art. R2191-7 (V)
-  - Code de la commande publique - art. R2192-10 (V)
-  - Code de la commande publique - art. R2192-13 (V)
-  - Code de la commande publique - art. R2192-17 (V)
-  - Code de la commande publique - art. R2194-10 (V)
-  - Code de la commande publique - art. R2197-3 (V)
-  - Code de la commande publique - art. R2197-4 (V)
+  - Code de la commande publique - art. R2124-1
+  - Code de la commande publique - art. R2124-3
+  - Code de la commande publique - art. R2131-1
+  - Code de la commande publique - art. R2131-12
+  - Code de la commande publique - art. R2131-13
+  - Code de la commande publique - art. R2131-15
+  - Code de la commande publique - art. R2131-16
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2131-2
+  - Code de la commande publique - art. R2131-20
+  - Code de la commande publique - art. R2131-5
+  - Code de la commande publique - art. R2131-8
+  - Code de la commande publique - art. R2132-13
+  - Code de la commande publique - art. R2132-2
+  - Code de la commande publique - art. R2132-4
+  - Code de la commande publique - art. R2132-7
+  - Code de la commande publique - art. R2143-3
+  - Code de la commande publique - art. R2143-7
+  - Code de la commande publique - art. R2143-8
+  - Code de la commande publique - art. R2143-9
+  - Code de la commande publique - art. R2151-13
+  - Code de la commande publique - art. R2151-14
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2162-23
+  - Code de la commande publique - art. R2162-28
+  - Code de la commande publique - art. R2162-29
+  - Code de la commande publique - art. R2162-40
+  - Code de la commande publique - art. R2172-35
+  - Code de la commande publique - art. R2183-1
+  - Code de la commande publique - art. R2191-63
+  - Code de la commande publique - art. R2191-7
+  - Code de la commande publique - art. R2192-10
+  - Code de la commande publique - art. R2192-13
+  - Code de la commande publique - art. R2192-17
+  - Code de la commande publique - art. R2194-10
+  - Code de la commande publique - art. R2197-3
+  - Code de la commande publique - art. R2197-4
 
 
 ###### Article R2661-4
 
-Pour l'application des dispositions réglementaires du livre III en Polynésie française : 
+Pour l'application des dispositions réglementaires du livre III en Polynésie française :
 
-1°  A l'article R. 2311-5 : 
+1°  A l'article R. 2311-5 :
 
-a) Le  2°  est supprimé  ; 
+a) Le  2°  est supprimé  ;
 
 b)  Au 6°,  les mots : "  les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en
-leur absence,  "  sont supprimés  ; 
+leur absence,  "  sont supprimés  ;
 
-2°  A l'article R. 2322-2, le  second alinéa  est supprimé  ; 
+2°  A l'article R. 2322-2, le  second alinéa  est supprimé  ;
 
-3° Les  articles R. 2331-1 et R. 2331-2  sont remplacés par les  dispositions suivantes : 
+3° Les  articles R. 2331-1 et R. 2331-2  sont remplacés par les  dispositions suivantes :
 
 " Art. R. 2331-1.-Les acheteurs peuvent faire connaître leur intention de passer un marché par le biais de la publication
-d'un avis de pré-information. 
+d'un avis de pré-information.
 
 " Art.  R. 2331-2. -Cet avis est publié soit dans le Bulletin officiel des annonces de marchés publics soit sur le profil
-acheteur du pouvoir adjudicateur. 
+acheteur du pouvoir adjudicateur.
 
 " Le profil d'acheteur est la plateforme de dématérialisation permettant notamment aux acheteurs de mettre les documents de
 la consultation à disposition des opérateurs économiques par voie électronique et de réceptionner par voie électronique les
 documents transmis par les candidats et les soumissionnaires. Un arrêté du ministre chargé de l'économie détermine les
-fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ; 
+fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ;
 
-4° L' article R. 2331-8 est ainsi rédigé : 
+4° L' article R. 2331-8 est ainsi rédigé :
 
-"  Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent "  ; 
+"  Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent "  ;
 
 5° A l'article R. 2343-3, les références aux  articles L. 5212-1 à L. 5212-11 du code du travail  sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+références aux dispositions applicables localement ayant le même objet ;
 
 6° A l'article R. 2351-12, les mots : “ au sens de la recommandation de la Commission du 6 mai 2003 concernant la définition
 des micro, petites et moyennes entreprises ” et les mots : “ au sens du  I de l'article 19 de la loi n° 96-603 du 5 juillet
 1996  modifiée relative au développement et à la promotion du commerce et de l'artisanat ” sont remplacés par les mots : “ au
-sens de la réglementation localement applicable ” ; 
+sens de la réglementation localement applicable ” ;
 
-7° L'article R. 2352-3 est ainsi rédigé : 
+7° L'article R. 2352-3 est ainsi rédigé :
 
-"  Art. R. 2352-3 .-Les dispositions de l'article R. 2152-4 s'appliquent  "  ; 
+"  Art. R. 2352-3 .-Les dispositions de l'article R. 2152-4 s'appliquent  "  ;
 
-8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence au haut-commissaire de la République ; 
+8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence au haut-commissaire de la République ;
 
-9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ; 
+9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ;
 
-10° L' article R. 2383-2 est ainsi rédigé : 
+10° L' article R. 2383-2 est ainsi rédigé :
 
-"  Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. "  ; 
+"  Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. "  ;
 
-11° L'article R. 2384-4 est ainsi rédigé : 
+11° L'article R. 2384-4 est ainsi rédigé :
 
-"  Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent.  "  ; 
+"  Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent.  "  ;
+
+11° bis La première phrase du deuxième alinéa de l'article R. 2392-3 n'est applicable que si les titulaires de marchés ou
+leurs sous-traitants admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
+
+11° ter A l'article R. 2392-12-1, les mots : “à L. 2392-3” sont remplacés par les mots : “et L. 2392-2” ;
 
 12° A l'article R. 2393-18, les mots : " au Journal officiel de l'Union européenne dans les conditions des articles R.
 2131-19 et R. 2331-11 " sont remplacés par les mots : " au Journal officiel de la Polynésie française ".
@@ -50333,27 +51771,27 @@ sens de la réglementation localement applicable ” ;
 
 _Cite_:
 
-  - Loi n°96-603 du 5 juillet 1996 - art. 19 (M)
-  - Code de la santé publique - art. L5212-1 (V)
-  - Code de la commande publique - art. R2131-16 (V)
-  - Code de la commande publique - art. R2131-19 (V)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2183-3 (V)
-  - Code de la commande publique - art. R2184-5 (V)
-  - Code de la commande publique - art. R2311-5 (V)
-  - Code de la commande publique - art. R2322-2 (V)
-  - Code de la commande publique - art. R2331-1 (V)
-  - Code de la commande publique - art. R2331-11 (V)
-  - Code de la commande publique - art. R2331-2 (V)
-  - Code de la commande publique - art. R2331-8 (V)
-  - Code de la commande publique - art. R2343-3 (V)
-  - Code de la commande publique - art. R2351-12 (V)
-  - Code de la commande publique - art. R2352-3 (V)
-  - Code de la commande publique - art. R2371-6 (V)
-  - Code de la commande publique - art. R2383-1 (V)
-  - Code de la commande publique - art. R2383-2 (V)
-  - Code de la commande publique - art. R2384-4 (V)
-  - Code de la commande publique - art. R2393-18 (V)
+  - Loi n°96-603 du 5 juillet 1996 - art. 19
+  - Code de la santé publique - art. L5212-1
+  - Code de la commande publique - art. R2131-16
+  - Code de la commande publique - art. R2131-19
+  - Code de la commande publique - art. R2152-4
+  - Code de la commande publique - art. R2183-3
+  - Code de la commande publique - art. R2184-5
+  - Code de la commande publique - art. R2311-5
+  - Code de la commande publique - art. R2322-2
+  - Code de la commande publique - art. R2331-1
+  - Code de la commande publique - art. R2331-11
+  - Code de la commande publique - art. R2331-2
+  - Code de la commande publique - art. R2331-8
+  - Code de la commande publique - art. R2343-3
+  - Code de la commande publique - art. R2351-12
+  - Code de la commande publique - art. R2352-3
+  - Code de la commande publique - art. R2371-6
+  - Code de la commande publique - art. R2383-1
+  - Code de la commande publique - art. R2383-2
+  - Code de la commande publique - art. R2384-4
+  - Code de la commande publique - art. R2393-18
 
 _Codifié par_:
 
@@ -50361,21 +51799,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE CALÉDONIE<a id=950></a>
+#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE CALÉDONIE<a id=969></a>
 
-##### Chapitre unique.<a id=951></a>
+##### Chapitre unique.<a id=970></a>
 
-##### Section 1 : Dispositions générales<a id=952></a>
+##### Section 1 : Dispositions générales<a id=971></a>
 
 ###### Article D2671-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
 Calédonie aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
-collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après.
+collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau
+ci-après.
 
 <table border="1">
   <tbody>
@@ -50416,6 +51854,10 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
+      <td>D. 2192-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
       <td align="left">D. 2192-35</td>
       <td align="left">
     </td></tr>
@@ -50432,7 +51874,7 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au livre III</td>
+      <td>Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50456,6 +51898,10 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
+      <td>D. 2392-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
       <td align="left">D. 2392-11</td>
       <td align="left">
     </td></tr>
@@ -50467,6 +51913,18 @@ tableau ci-après.
       <td align="left">D. 2397-2</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 2521-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -50478,24 +51936,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R2671-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
 Calédonie aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
-collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après. 
+collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau
+ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50505,7 +51964,7 @@ R. 2100-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50524,7 +51983,7 @@ R. 2111-4 à R. 2112-12
       <td align="left">
 R. 2112-13 
 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">
@@ -50533,20 +51992,26 @@ R. 2112-14 à R. 2113-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2121-1 à R. 2122-1</td>
       <td align="left">
-R. 2121-1 à R. 2122-7 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2122-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2122-3 à R. 2122-7</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 R. 2122-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -50558,7 +52023,7 @@ R. 2122-10 à R. 2123-1
       <td align="left">
 R. 2123-2 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -50570,16 +52035,22 @@ R. 2123-3 à R. 2123-8
       <td align="left">
 R. 2124-1 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2124-2 à R. 2124-6 
-</td>
+      <td align="left">R. 2124-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="left">R. 2124-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2124-4 à R. 2124-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50589,699 +52060,800 @@ R. 2131-1 à R. 2131-16
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-18 </td>
+      <td align="left">R. 2131-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-1 à R. 2132-4 </td>
+      <td align="left">R. 2132-1 à R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-6 à R. 2132-10 </td>
+      <td align="left">R. 2132-6 à R. 2132-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-13 et R. 2132-14 </td>
+      <td align="left">R. 2132-13 et R. 2132-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2142-1 à R. 2143-3 </td>
+      <td align="left">R. 2142-1 à R. 2143-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2143-5 à R. 2143-14 </td>
+      <td align="left">R. 2143-5 à R. 2143-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2143-16 à R. 2144-9 </td>
+      <td align="left">R. 2143-16 à R. 2144-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2151-1 à R. 2152-4 </td>
+      <td align="left">R. 2151-1 à R. 2152-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2152-6 à R. 2153-5 </td>
+      <td align="left">R. 2152-6 à R. 2153-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2161-1 à R. 2162-23 </td>
+      <td align="left">R. 2161-1 à R. 2162-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2162-25 à R. 2162-35 </td>
+      <td align="left">R. 2162-25 à R. 2162-35</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2162-37 à R. 2162-66 </td>
+      <td align="left">R. 2162-37 à R. 2162-66</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2171-1 à R. 2171-3 </td>
+      <td align="left">R. 2171-1 à R. 2171-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2171-15 à R. 2172-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2172-4 et R. 2172-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2171-15 et R. 2171-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2172-6 </td>
+      <td align="left">R. 2171-17 à R. 2172-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-20 à R. 2172-38 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VIII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2181-1 et R. 2181-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2181-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2172-4 et R. 2172-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2181-4 à R. 2182-4 </td>
+      <td align="left">R. 2172-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-1 </td>
+      <td align="left">R. 2172-20 à R. 2172-38</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-3 à R. 2184-5 </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-7 à R. 2184-10 </td>
+      <td align="left">R. 2181-1 et R. 2181-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-12 à R. 2185-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre IX </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2191-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2181-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-2 à R. 2191-6 </td>
+      <td align="left">R. 2181-4 à R. 2182-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2183-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2183-3 à R. 2184-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2184-4 et R. 2184-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-7 à R. 2184-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-12 à R. 2185-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2191-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-9 à R. 2191-19 </td>
+      <td align="left">R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-20 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-21 à R. 2191-32 </td>
+      <td align="left">R. 2191-9 à R. 2191-19</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-33 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2191-20</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-34 à R. 2191-63 </td>
+      <td align="left">R. 2191-21 à R. 2191-32</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-10 à R. 2192-23 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2192-24 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-33</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-25 à R. 2192-34 </td>
+      <td align="left">R. 2191-34 à R. 2191-63</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-36 et R. 2192-37 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2193-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-2 à R. 2196-4 </td>
+      <td align="left">R. 2192-10 à R. 2192-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2196-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2196-9 à R. 2197-12 </td>
+      <td align="left">R. 2192-16 à R. 2192-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2197-16 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2197-23 à R. 2197-25 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">Au livre II </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2200-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2211-1 à R. 2213-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre II </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2221-1à R. 2223-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2223-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2232-1 à R. 2234-8 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">Au livre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2300-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2311-1 à R. 2313-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre II </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2321-1 à R. 2323-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2324-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-24</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2324-2 à R. 2324-4 </td>
+      <td align="left">R. 2192-25 à R. 2192-31</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2331-1 à R. 2331-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2331-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-32</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2331-6 à R. 2331-9 </td>
+      <td align="left">R. 2192-33 et R. 2192-34</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2332-1 à R. 2332-18 </td>
+      <td align="left">R. 2192-36 et R. 2192-37</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2342-1 à R. 2343-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2343-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2193-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2343-4 à R. 2344-10 </td>
+      <td align="left">R. 2193-2 à R. 2193-15</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2351-1 à R. 2352-9 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VI </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2361-1à R. 2362-18 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2371-1 à R. 2371-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2371-4 à R. 2372-9 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2372-17 à R. 2373-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VIII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2381-1 à R. 2383-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2383-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2193-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-1 à R. 2384-2 </td>
+      <td align="left">R. 2193-17 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2384-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2196-8</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-4 à R. 2385-1 </td>
+      <td align="left">R. 2196-9 à R. 2197-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="left">R. 2197-16</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2391-1 à R. 2391-3 </td>
+      <td align="left">R. 2197-23 à R. 2197-25</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2391-4 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2200-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2211-1 à R. 2213-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2221-1à R. 2223-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2223-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2232-1 à R. 2234-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2300-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2311-1 à R. 2313-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2321-1 à R. 2323-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2324-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2391-5 à R. 2391-28 </td>
+      <td align="left">R. 2324-2 à R. 2324-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2392-10 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2331-1 à R. 2331-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2331-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-12 à R. 2393-13 </td>
+      <td align="left">R. 2331-6 à R. 2331-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-14 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2332-1 à R. 2332-18</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2342-1 à R. 2342-15</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2343-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-15 à R. 2393-17 </td>
+      <td align="left">R. 2343-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-18 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2343-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-19 et R. 2393-20 </td>
+      <td align="left">R. 2343-4 à R. 2344-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-21 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2351-1 à R. 2352-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VI</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2361-1à R. 2362-18</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2371-1 à R. 2371-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2371-4 à R. 2372-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2372-17 à R. 2373-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2381-1 à R. 2383-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2383-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-22 à R. 2393-24 </td>
+      <td align="left">R. 2384-1 à R. 2384-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-25 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2384-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-26 à R. 2393-41 </td>
+      <td align="left">R. 2384-4 à R. 2385-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-42 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2391-1 à R. 2391-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2391-4</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-43 à R. 2396-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2396-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2391-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2396-4 à R. 2397-1 </td>
+      <td align="left">R. 2391-6 à R. 2391-28</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2397-3 à R. 2397-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">Au livre IV </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2412-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2431-1 à R. 2432-6 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2432-7 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2392-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">Au livre V </td>
+      <td align="left">R. 2392-10</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="left">R. 2392-12-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-13 à R. 2393-13</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-14</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-15 à R. 2393-17</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-18</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-19 et R. 2393-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-21</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-22 à R. 2393-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-25</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-26 à R. 2393-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-35 à R. 2393-41</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-42</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-43 à R. 2396-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2396-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2396-4 à R. 2397-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2397-3 à R. 2397-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2412-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2431-1 à R. 2432-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2432-7</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">R. 2521-1 à R. 2521-4</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 2521-6</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 (V)
-  - Décret n°2018-1225 du 24 décembre 2018 (V)
-  - Décret n°2019-259 du 29 mars 2019 (V)
-  - Code de la commande publique - art. R2100-1 (V)
-  - Code de la commande publique - art. R2111-1 (V)
-  - Code de la commande publique - art. R2111-4 (V)
-  - Code de la commande publique - art. R2112-13 (V)
-  - Code de la commande publique - art. R2112-14 (V)
-  - Code de la commande publique - art. R2121-1 (V)
-  - Code de la commande publique - art. R2122-10 (V)
-  - Code de la commande publique - art. R2122-8 (V)
-  - Code de la commande publique - art. R2123-2 (V)
-  - Code de la commande publique - art. R2123-3 (V)
-  - Code de la commande publique - art. R2124-1 (V)
-  - Code de la commande publique - art. R2124-2 (V)
-  - Code de la commande publique - art. R2131-1 (V)
-
 _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
+_Cite_:
+
+  - Décret n°2018-1225 du 24 décembre 2018
+  - Décret n°2019-259 du 29 mars 2019
+  - Code de la commande publique - art. R2100-1
+  - Code de la commande publique - art. R2111-1
+  - Code de la commande publique - art. R2111-4
+  - Code de la commande publique - art. R2112-13
+  - Code de la commande publique - art. R2112-14
+  - Code de la commande publique - art. R2121-1
+  - Code de la commande publique - art. R2122-10
+  - Code de la commande publique - art. R2122-8
+  - Code de la commande publique - art. R2123-2
+  - Code de la commande publique - art. R2123-3
+  - Code de la commande publique - art. R2124-1
+  - Code de la commande publique - art. R2124-2
+  - Code de la commande publique - art. R2131-1
+
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=953></a>
+##### Section 2 : Dispositions d'adaptation<a id=972></a>
+
+###### Article D2671-3-1
+
+Pour l'application de l'article D. 2192-2 en Nouvelle-Calédonie :
+
+a) Les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
+
+b) En tant que de besoin, la référence au numéro d'identité déterminé en application de l'article R. 123-221 du code de
+commerce est remplacée par la référence au numéro du répertoire RIDET en vertu de la réglementation applicable localement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
+###### Article D2671-5
+
+Pour l'application de l'article D. 2392-2 en Nouvelle-Calédonie, les mots : “à L. 2392-3” sont remplacés par les mots : “et
+L. 2392-2”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2671-3
 
-Pour l'application des dispositions réglementaires du livre Ier en Nouvelle-Calédonie : 
+Pour l'application des dispositions réglementaires du livre Ier en Nouvelle-Calédonie :
 
-1°  A l'article R. 2111-9 : 
+1° A l'article R. 2111-9 :
 
-a) Le  2°  est supprimé  ; 
+a) Le 2° est supprimé ;
 
-b) Au 5°, les mots : "  les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en
-leur absence, " sont supprimés ; 
+b) Au 5°, les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
+absence, " sont supprimés ;
 
-2° A l'article R. 2122-1, les références aux articles  L. 1311-4 ,  L. 1331-24 ,  L. 1331-26-1 ,  L. 1331-28 ,  L. 1331-29
-et  L. 1334-2  du code de la santé publique, aux articles  L. 123-3 ,  L. 129-2 ,  L. 129-3 ,  L. 511-2  et  L. 511-3  du
-code de la construction et de l'habitation et aux  1° et 2° de l'article L. 201-2 du code rural et de la pêche maritime  sont
-remplacées par les références aux dispositions applicables localement ayant le même objet ; 
+2° A l'article R. 2122-1, les références aux articles L. 1311-4, L. 1331-24, L. 1331-26-1, L. 1331-28, L. 1331-29 et L.
+1334-2 du code de la santé publique, aux articles L. 123-3, L. 129-2, L. 129-3, L. 511-2 et L. 511-3 du code de la
+construction et de l'habitation et aux 1° et 2° de l'article L. 201-2 du code rural et de la pêche maritime sont remplacées
+par les références aux dispositions applicables localement ayant le même objet ;
 
-3°  A l'article R. 2122-2, le dernier alinéa est supprimé ; 
+3° A l'article R. 2122-2, le dernier alinéa est supprimé ;
 
-4° Au 5° de l'article R. 2124-3, le mot : " européenne  "  est supprimé  ; 
+4° Au 5° de l'article R. 2124-3, le mot : " européenne " est supprimé ;
 
-5° L' article R. 2131-1 est ainsi rédigé : 
+5° L'article R. 2131-1 est ainsi rédigé :
 
-"  Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
-adjudicateur, d'un avis de préinformation, ou, pour l'entité adjudicatrice, d'un avis périodique indicatif.  "  ; 
+" Art. R. 2131-1.-L'acheteur peut faire connaître son intention de passer un marché par la publication, pour le pouvoir
+adjudicateur, d'un avis de préinformation, ou, pour l'entité adjudicatrice, d'un avis périodique indicatif. " ;
 
-6° L' article R. 2131-2 est ainsi rédigé : 
+6° L'article R. 2131-2 est ainsi rédigé :
 
-"  Art.  R. 2131-2 . -Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel de la Nouvelle-
-Calédonie, soit sur le profil d'acheteur du pouvoir adjudicateur. " ; 
+" Art. R. 2131-2.-Les avis mentionnés à l'article R. 2131-1 sont publiés soit au Journal officiel de la Nouvelle-Calédonie,
+soit sur le profil d'acheteur du pouvoir adjudicateur. " ;
 
-7°  A l'article R. 2131-5, les mots : " , dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont
-supprimés ; 
+7° A l'article R. 2131-5, les mots : ", dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont supprimés ;
 
 8° A l'article R. 2131-8, les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R.
-2131-20 " sont remplacés par les mots : " de la Nouvelle-Calédonie. "  ; 
+2131-20 " sont remplacés par les mots : " de la Nouvelle-Calédonie. " ;
 
-9° Les  articles R. 2131-12 et R. 2131-13 sont remplacés par les dispositions suivantes : 
+9° Les articles R. 2131-12 et R. 2131-13 sont remplacés par les dispositions suivantes :
 
-"  Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
+" Art. R. 2131-12.-Pour les marchés passés selon une procédure adaptée, l'acheteur choisit librement les modalités de
 publicité adaptées en fonction des caractéristiques du marché, notamment le montant et la nature des travaux, des fournitures
-ou des services en cause. "  ; 
+ou des services en cause. " ;
 
-10°  A l'article R. 2131-15 : 
+10° A l'article R. 2131-15 :
 
 a) Les mots : " conforme au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard
-pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ; 
+pour la publication d'avis dans le cadre de la passation de marchés publics " sont supprimés ;
 
-b)  Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20  "  sont remplacés
-par  les mots : "  de la Nouvelle-Calédonie  "  ; 
+b) Les mots : " de l'Union européenne dans les conditions prévues aux articles R. 2131-19 et R. 2131-20 " sont remplacés par
+les mots : " de la Nouvelle-Calédonie " ;
 
-11° L' article R. 2131-16 est ainsi rédigé : 
+11° L'article R. 2131-16 est ainsi rédigé :
 
-"  Art.  R. 2131-16 . -Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-1 et R.
-2124-3 à R. 2124-5, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit
-dans le Journal officiel de la Nouvelle-Calédonie, soit dans un journal habilité à recevoir des annonces légales. " ; 
+" Art. R. 2131-16.-Pour les marchés passés selon une des procédures formalisées énumérées aux articles R. 2124-1 et R. 2124-3
+à R. 2124-5, l'acheteur publie un avis de marché soit dans le Bulletin officiel des annonces des marchés publics, soit dans
+le Journal officiel de la Nouvelle-Calédonie, soit dans un journal habilité à recevoir des annonces légales. " ;
 
-12° L' article R. 2132-2  est remplacé par les dispositions suivantes : 
+12° L'article R. 2132-2 est remplacé par les dispositions suivantes :
 
-"  Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
+" Art. R. 2132-2.-Les documents de la consultation sous format papier sont gratuitement mis à disposition des opérateurs
 économiques. Ils peuvent être mis en ligne sur un profil d'acheteur à compter de la publication de l'avis d'appel à la
 concurrence selon des modalités figurant en annexe du présent code. L'adresse du profil d'acheteur sur lequel les documents
-de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. "  ; 
+de la consultation sont accessibles est indiquée dans l'avis ou, le cas échéant, l'invitation. " ;
 
-13° L' article R. 2132-4 est ainsi rédigé : 
+13° L'article R. 2132-4 est ainsi rédigé :
 
-"  Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
-indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt. 
+" Art. R. 2132-4.-Lorsque l'appel à la concurrence est effectué au moyen d'un avis de préinformation ou d'un avis périodique
+indicatif, l'accès aux documents de la consultation est offert à compter de l'envoi de l'invitation à confirmer l'intérêt.
 
 " Lorsque l'appel à la concurrence est effectué au moyen d'un avis sur l'existence d'un système de qualification, cet accès
-est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. "  ; 
+est offert dès que possible et au plus tard à la date d'envoi de l'invitation à soumissionner. " ;
 
-14° Le  premier alinéa de l'article R. 2132-7 est ainsi rédigé : 
+14° Le premier alinéa de l'article R. 2132-7 est ainsi rédigé :
 
 " Dans toutes les procédures de passation des marchés, les communications et les échanges d'informations peuvent être
-effectués soit sous forme papier soit par voie électronique. "  ; 
+effectués soit sous forme papier soit par voie électronique. " ;
 
-15° L'article R. 2132-13 est ainsi rédigé : 
+15° L'article R. 2132-13 est ainsi rédigé :
 
-"  Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
-transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. "  ; 
+" Art. R. 2132-13.-Pour chaque étape de la procédure, les candidats et soumissionnaires appliquent le même mode de
+transmission à l'ensemble des documents qu'ils transmettent à l'acheteur. " ;
 
 16° A l'article R. 2143-3, les références aux articles L. 5212-1 à L. 5212-11 du code du travail sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+références aux dispositions applicables localement ayant le même objet ;
 
-17° Le  premier alinéa de l'article R. 2143-7 est ainsi rédigé : 
+17° Le premier alinéa de l'article R. 2143-7 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. "  ; 
+applicables localement. " ;
 
 18° A l'article R. 2143-8, les références aux articles du code du travail sont remplacées par les références aux dispositions
-applicables localement ayant le même objet ; 
+applicables localement ayant le même objet ;
 
-19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ; 
+19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ;
 
 20° A l'article R. 2151-13, les mots : “ au sens de la recommandation 2003/361/ CE concernant la définition des micro,
 petites et moyennes entreprises ” et les mots : “ au sens du I de l'article 19 de la loi n° 96-603 du 5 juillet 1996 modifiée
 relative au développement et à la promotion du commerce et de l'artisanat ” sont remplacés par les mots : “ au sens de la
-réglementation localement applicable ” ; 
+réglementation localement applicable ” ;
 
 21° A l'article R. 2151-14, les mots : " au règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008
 fixant les prescriptions relatives à l'accréditation et à la surveillance du marché pour la commercialisation des produits et
-abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur  "  ; 
+abrogeant le règlement (CEE) n° 339/93 du Conseil " sont remplacés par les mots : " aux règles nationales en vigueur " ;
 
-22° A l'article R. 2152-4, les  mots : "  par le droit de l'Union européenne  "  sont supprimés ; 
+22° A l'article R. 2152-4, les mots : " par le droit de l'Union européenne " sont supprimés ;
 
-23° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au haut-commissaire de la République ; 
+23° A l'article R. 2162-23, la référence au préfet est remplacée par la référence au haut-commissaire de la République ;
 
-24° L' article R. 2162-28 est ainsi rédigé : 
+24° L'article R. 2162-28 est ainsi rédigé :
 
-"  Art.  R. 2162-28 . -Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur
-l'existence d'un tel système au Journal officiel de la Nouvelle-Calédonie. Cet avis mentionne son objet, sa durée et les
-modalités d'accès aux règles qui le gouvernent. " ; 
+" Art. R. 2162-28.-Pour mettre en place un système de qualification, l'entité adjudicatrice publie un avis sur l'existence
+d'un tel système au Journal officiel de la Nouvelle-Calédonie. Cet avis mentionne son objet, sa durée et les modalités
+d'accès aux règles qui le gouvernent. " ;
 
-25° L' article R. 2162-29 est ainsi rédigé : 
+25° L'article R. 2162-29 est ainsi rédigé :
 
-"  Art.  R. 2162-29 . -L'entité adjudicatrice notifie au Journal officiel de la Nouvelle-Calédonie tout changement de la
-durée du système en utilisant : 
+" Art. R. 2162-29.-L'entité adjudicatrice notifie au Journal officiel de la Nouvelle-Calédonie tout changement de la durée du
+système en utilisant :
 
 " 1° Un avis sur l'existence d'un système de qualification lorsque la durée de validité est modifiée sans qu'il y soit mis un
-terme ; 
+terme ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-26° L' article R. 2162-40 est ainsi rédigé : 
+26° L'article R. 2162-40 est ainsi rédigé :
 
-"  Art.  R. 2162-40 . -Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée,
-l'acheteur notifie au Journal officiel de la Nouvelle-Calédonie tout changement de la durée de validité du système
-d'acquisition dynamique en utilisant : 
+" Art. R. 2162-40.-Lorsque la valeur estimée du besoin est égale ou supérieure aux seuils de procédure formalisée, l'acheteur
+notifie au Journal officiel de la Nouvelle-Calédonie tout changement de la durée de validité du système d'acquisition
+dynamique en utilisant :
 
 " 1° Le formulaire utilisé pour l'appel à la concurrence pour le système d'acquisition dynamique lorsque la durée de validité
-est modifiée sans qu'il soit mis un terme au système ; 
+est modifiée sans qu'il soit mis un terme au système ;
 
-" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ; 
+" 2° Un avis d'attribution lorsqu'il est mis fin au système. " ;
 
-27° A l'article R. 2172-35, la référence aux catégories M et N définies à l' article R. 311-1 du code de la route  est
-remplacée par la référence aux dispositions applicables localement ayant le même objet ; 
+27° A l'article R. 2172-35, la référence aux catégories M et N définies à l'article R. 311-1 du code de la route est
+remplacée par la référence aux dispositions applicables localement ayant le même objet ;
 
-28° L' article R. 2183-1 est ainsi rédigé : 
+28° L'article R. 2183-1 est ainsi rédigé :
 
-"  Art.  R. 2183-1 . -Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
+" Art. R. 2183-1.-Pour les marchés répondant à un besoin d'un montant égal ou supérieur aux seuils européens publiés au
 Journal officiel de la République française, l'acheteur envoie pour publication, dans un délai maximal de trente jours à
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
-publicité préalable. " ; 
+publicité préalable. " ;
 
-29°  A l'article R. 2191-7, le  dernier alinéa  est supprimé  ; 
+29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
 
-30° A l'article R. 2191-63, la référence à l' article L. 3253-22 du code du travail  est remplacée par la référence à la
-réglementation localement applicable ayant le même objet ; 
+30° A l'article R. 2191-63, la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
+réglementation localement applicable ayant le même objet ;
 
-31°  A l'article R. 2192-5, le  dernier alinéa  est supprimé  ; 
+30° bis Le deuxième alinéa de l'article R. 2192-3 n'est applicable que si les titulaires de marchés ou leurs sous-traitants
+admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
-32° A l'article R. 2192-10, les mots : "  les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+31° A l'article R. 2192-11, le dernier alinéa est supprimé ;
 
-33° A l'article R. 2192-13, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ; 
+31° bis A l'article R. 2192-15, les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
 
-34° A l'article R. 2192-17, les mots : " les collectivités territoriales et leurs établissements publics  "  sont
-supprimés  ; 
+32° A l'article R. 2192-16, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
 
-35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé : 
+33° A l'article R. 2192-19, les mots : " les collectivités territoriales ou leurs établissements publics " sont supprimés ;
 
-" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. "  ; 
+34° A l'article R. 2192-23, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
 
-36° La Nouvelle-Calédonie peut relever d'une circonscription d'un comité interrégional ou interdépartemental prévu  à
-l'article R. 2197-3 ; 
+35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé :
 
-37° Le  1° de l'article R. 2197-4  est supprimé .
+" Cet avis est publié dans le support qui a été utilisé à titre principal pour la publicité préalable. " ;
+
+36° La Nouvelle-Calédonie peut relever d'une circonscription d'un comité interrégional ou interdépartemental prévu à
+l'article R. 2197-3 ;
+
+37° Le 1° de l'article R. 2197-4 est supprimé.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°96-603 du 5 juillet 1996 - art. 19 (M)
-  - Code rural et de la pêche maritime - art. L201-2 (M)
-  - Code du travail - art. L3253-22 (M)
-  - Code de la santé publique - art. L1311-4 (V)
-  - Code de la santé publique - art. L1331-24 (V)
-  - Code de la santé publique - art. L1331-26-1 (M)
-  - Code de la santé publique - art. L1331-28 (M)
-  - Code de la santé publique - art. L1331-29 (M)
-  - Code de la santé publique - art. L1334-2 (M)
-  - Code de la construction et de l'habitation. - art. L123-3 (M)
-  - Code de la construction et de l'habitation. - art. L129-2 (M)
-  - Code de la construction et de l'habitation. - art. L129-3 (V)
-  - Code de la construction et de l'habitation. - art. L511-2 (M)
-  - Code de la construction et de l'habitation. - art. L511-3 (M)
-  - Code de la route. - art. R311-1 (M)
-  - Code de la commande publique - art. R2152-4 (V)
-  - Code de la commande publique - art. R2162-23 (V)
-  - Code de la commande publique - art. R2162-28 (V)
+  - Loi n°96-603 du 5 juillet 1996 - art. 19
+  - Code rural - art. L201-2
+  - Code du travail
+  - Code du travail - art. L3253-22
+  - Code de la santé publique - art. L1311-4
+  - Code de la santé publique - art. L1331-24
+  - Code de la santé publique - art. L1331-26-1
+  - Code de la santé publique - art. L1331-28
+  - Code de la santé publique - art. L1331-29
+  - Code de la santé publique - art. L1334-2
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L129-2
+  - Code de la construction et de l'habitation. - art. L129-3
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L511-3
+  - Code de la route. - art. R311-1
 
 _Codifié par_:
 
@@ -51289,7 +52861,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R2671-4
@@ -51344,6 +52917,11 @@ sens de la réglementation localement applicable ” ;
 
 " Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ;
 
+11° bis La première phrase du deuxième alinéa de l'article R. 2392-3 n'est applicable que si les titulaires de marchés ou
+leurs sous-traitants admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
+
+11° ter A l'article R. 2392-12-1, les mots : “à L. 2392-3” sont remplacés par les mots : “et L. 2392-2” ;
+
 12° L'article R. 2384-4 est ainsi rédigé :
 
 " Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ;
@@ -51355,20 +52933,20 @@ sens de la réglementation localement applicable ” ;
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=954></a>
+#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=973></a>
 
-##### Chapitre unique.<a id=955></a>
+##### Chapitre unique.<a id=974></a>
 
-##### Section 1 : Dispositions générales<a id=956></a>
+##### Section 1 : Dispositions générales<a id=975></a>
 
 ###### Article D2681-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
 australes et antarctiques françaises aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des
-compétences dévolues à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf
+compétences dévolues à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf
 mention contraire dans le tableau ci-après.
 
 <table border="1">
@@ -51410,6 +52988,10 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
+      <td>D. 2192-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
       <td align="left">D. 2192-35</td>
       <td align="left">
     </td></tr>
@@ -51450,6 +53032,10 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
+      <td>D. 2392-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
       <td align="left">D. 2392-11</td>
       <td align="left">
     </td></tr>
@@ -51462,9 +53048,17 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">Au livre V</td>
       <td align="left">
-      </td><td align="left">
     </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 2521-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -51476,579 +53070,692 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R2681-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
 australes et antarctiques françaises aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des
-compétences dévolues à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 26 novembre 2018, sauf
-mention contraire dans le tableau ci-après. 
+compétences dévolues à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf
+mention contraire dans le tableau ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2100-1 </td>
+      <td align="left">R. 2100-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2111-1 à R. 2111-2 </td>
+      <td align="left">R. 2111-1 à R. 2111-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2111-4 à R. 2112-12 </td>
+      <td align="left">R. 2111-4 à R. 2112-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2112-13 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2112-13</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2112-14 à R. 2113-8 </td>
+      <td align="left">R. 2112-14 à R. 2113-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2121-1 à R. 2122-7 </td>
+      <td align="left">R. 2121-1 à R. 2122-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2122-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2122-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2122-10 à R. 2123-1 </td>
+      <td align="left">R. 2122-3 à R. 2122-7</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2123-2 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2122-8</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2123-3 à R. 2123-8 </td>
+      <td align="left">R. 2122-10 à R. 2123-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2124-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2123-2</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2124-2 à R. 2124-6 </td>
+      <td align="left">R. 2123-3 à R. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2131-1 à R. 2131-16 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2131-18 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2132-1 à R. 2132-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2132-6 à R. 2132-10 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2132-13 et R. 2132-14 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre IV </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2142-1 à R. 2143-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2143-5 à R. 2143-14 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2143-16 à R. 2144-9 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre V </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2151-1 à R. 2152-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2152-6 à R. 2153-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VI </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2161-1 à R. 2162-23 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2162-25 à R. 2162-35 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2162-37 à R. 2162-66 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2171-1 à R. 2171-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2171-15 à R. 2172-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2172-4 et R. 2172-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2124-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2172-6 </td>
+      <td align="left">R. 2124-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-20 à R. 2172-38 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VIII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2181-1 et R. 2181-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2181-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2124-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2181-4 à R. 2182-4 </td>
+      <td align="left">R. 2124-4 à R. 2124-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-1 </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-3 à R. 2184-5 </td>
+      <td align="left">R. 2131-1 à R. 2131-16</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-7 à R. 2184-10 </td>
+      <td align="left">R. 2131-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-12 à R. 2185-2 </td>
+      <td align="left">R. 2132-1 à R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="left">R. 2132-6 à R. 2132-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2132-13 et R. 2132-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2142-1 à R. 2143-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2143-5 à R. 2143-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2143-16 à R. 2144-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2151-1 à R. 2152-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2152-6 à R. 2153-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VI</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2161-1 à R. 2162-23</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2162-25 à R. 2162-35</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2162-37 à R. 2162-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2171-1 à R. 2171-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2171-15 et R. 2171-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-2 à R. 2191-6 </td>
+      <td align="left">R. 2171-17 à R. 2172-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2172-4 et R. 2172-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2172-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2172-20 à R. 2172-38</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2181-1 et R. 2181-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2181-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-9 à R. 2191-19 </td>
+      <td align="left">R. 2181-4 à R. 2182-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-20 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2183-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2183-3 à R. 2184-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-21 à R. 2191-32 </td>
+      <td align="left">R. 2184-4 et R. 2184-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-33 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2184-7 à R. 2184-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-12 à R. 2185-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2191-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-34 à R. 2191-63 </td>
+      <td align="left">R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-10 à R. 2192-23 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2192-24 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-25 à R. 2192-34 </td>
+      <td align="left">R. 2191-9 à R. 2191-19</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-36 et R. 2192-37 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2193-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-20</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-2 à R. 2196-4 </td>
+      <td align="left">R. 2191-21 à R. 2191-32</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2196-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-33</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2196-9 à R. 2197-12 </td>
+      <td align="left">R. 2191-34 à R. 2191-63</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2197-16 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2197-23 à R. 2197-25 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">Au livre II </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2200-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2211-1 à R. 2213-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre II </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2221-1à R. 2223-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2223-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2232-1 à R. 2234-8 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">Au livre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2300-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre Ier </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2311-1 à R. 2313-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre II </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2321-1 à R. 2323-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2324-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2324-2 à R. 2324-4 </td>
+      <td align="left">R. 2192-10 à R. 2192-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2331-1 à R. 2331-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2331-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2331-6 à R. 2331-9 </td>
+      <td align="left">R. 2192-16 à R. 2192-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2332-1 à R. 2332-18 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre IV </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2342-1 à R. 2343-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2343-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-24</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2343-4 à R. 2344-10 </td>
+      <td align="left">R. 2192-25 à R. 2192-31</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2351-1 à R. 2352-9 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VI </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2361-1 à R. 2362-18 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2371-1 à R. 2371-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2371-4 à R. 2372-9 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2372-17 à R. 2373-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VIII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2381-1 à R. 2383-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2383-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-32</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-1 à R. 2384-2 </td>
+      <td align="left">R. 2192-33 et R. 2192-34</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2384-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-36 et R. 2192-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2193-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-4 à R. 2385-1 </td>
+      <td align="left">R. 2193-2 à R. 2193-15</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2391-1 à R. 2391-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2391-4 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2193-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2391-5 à R. 2391-28 </td>
+      <td align="left">R. 2193-17 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2392-10 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2196-8</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-12 à R. 2393-13 </td>
+      <td align="left">R. 2196-9 à R. 2197-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-14 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2197-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2197-23 à R. 2197-25</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2200-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2211-1 à R. 2213-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2221-1à R. 2223-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2223-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2232-1 à R. 2234-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2300-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2311-1 à R. 2313-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2321-1 à R. 2323-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2324-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-15 à R. 2393-17 </td>
+      <td align="left">R. 2324-2 à R. 2324-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-18 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2331-1 à R. 2331-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2331-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-19 et R. 2393-20 </td>
+      <td align="left">R. 2331-6 à R. 2331-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-21 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2332-1 à R. 2332-18</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2342-1 à R. 2342-15</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2343-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-22 à R. 2393-24 </td>
+      <td align="left">R. 2343-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-25 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2343-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-26 à R. 2393-41 </td>
+      <td align="left">R. 2343-4 à R. 2344-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-42 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2351-1 à R. 2352-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VI</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2361-1 à R. 2362-18</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2371-1 à R. 2371-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2371-4 à R. 2372-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2372-17 à R. 2373-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VIII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2381-1 à R. 2383-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2383-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-43 à R. 2396-1 </td>
+      <td align="left">R. 2384-1 à R. 2384-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2396-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2384-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2396-4 à R. 2397-1 </td>
+      <td align="left">R. 2384-4 à R. 2385-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2397-3 à R. 2397-4 </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre IV </td>
+      <td align="left">R. 2391-1 à R. 2391-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2412-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre III </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2431-1 à R. 2432-6 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2432-7 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2391-4</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">Au livre V </td>
+      <td align="left">R. 2391-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2391-6 à R. 2391-28</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="left">R. 2392-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-10</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2392-12-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2392-13 à R. 2393-13</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-14</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-15 à R. 2393-17</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-18</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-19 et R. 2393-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-21</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-22 à R. 2393-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-25</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-26 à R. 2393-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-35 à R. 2393-41</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2393-42</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2393-43 à R. 2396-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2396-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2396-4 à R. 2397-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2397-3 à R. 2397-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2412-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2431-1 à R. 2432-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2432-7</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">Au livre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">R. 2521-1 à R. 2521-4</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 2521-6</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 (V)
-  - Décret n°2018-1225 du 24 décembre 2018 (V)
-  - Décret n°2019-259 du 29 mars 2019 (V)
-
 _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
+_Cite_:
+
+  - Décret n°2018-1225 du 24 décembre 2018
+  - Décret n°2019-259 du 29 mars 2019
+
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=957></a>
+##### Section 2 : Dispositions d'adaptation<a id=976></a>
+
+###### Article D2681-3-1
+
+Pour l'application de l'article D. 2192-2 dans les Terres australes et antarctiques françaises, les mots : “à L. 2192-3” sont
+remplacés par les mots : “et L. 2192-2”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
+###### Article D2681-5
+
+Pour l'application de l'article D. 2392-2 dans les Terres australes et antarctiques françaises, les mots : “à L. 2392-3” sont
+remplacés par les mots : “et L. 2392-2”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R2681-3
 
@@ -52143,8 +53850,8 @@ références aux dispositions applicables localement ayant le même objet ;
 
 19° A l'article R. 2143-9, les mots : " tel qu'un extrait K, un extrait K bis, un extrait D1 " sont supprimés ;
 
-20°  A l'article R. 2151-13, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant
-la définition des micro, petites et moyennes entreprises " sont remplacés par  les mots : " qui occupent moins de deux cent
+20° A l'article R. 2151-13, les mots : " au sens de la recommandation 2003/361/ CE de la Commission du 6 mai 2003 concernant
+la définition des micro, petites et moyennes entreprises " sont remplacés par les mots : " qui occupent moins de deux cent
 cinquante personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros ou dont le total du bilan annuel
 n'excède pas 43 millions d'euros " ;
 
@@ -52199,13 +53906,18 @@ publicité préalable. " ;
 30° A l'article R. 2191-63, la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
 réglementation localement applicable ayant le même objet ;
 
-31° A l'article R. 2192-5, le dernier alinéa est supprimé ;
+30° bis Le deuxième alinéa de l'article R. 2192-3 n'est applicable que si les titulaires de marchés ou leurs sous-traitants
+admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
 
-32° A l'article R. 2192-10, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
+31° A l'article R. 2192-11, le dernier alinéa est supprimé ;
 
-33° A l'article R. 2192-13, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
+31° bis A l'article R. 2192-15, les mots : “à L. 2192-3” sont remplacés par les mots : “et L. 2192-2” ;
 
-34° A l'article R. 2192-17, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
+32° A l'article R. 2192-16, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
+
+33° A l'article R. 2192-19, les mots : " les collectivités territoriales ou leurs établissements publics " sont supprimés ;
+
+34° A l'article R. 2192-23, les mots : " les collectivités territoriales et leurs établissements publics " sont supprimés ;
 
 35° Le dernier alinéa de l'article R. 2194-10 est ainsi rédigé :
 
@@ -52224,62 +53936,86 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+
+_Cite_:
+
+  - Code rural - art. L201-2
+  - Code du travail
+  - Code du travail - art. L3253-22
+  - Code de la santé publique - art. L1311-4
+  - Code de la santé publique - art. L1331-24
+  - Code de la santé publique - art. L1331-26-1
+  - Code de la santé publique - art. L1331-28
+  - Code de la santé publique - art. L1331-29
+  - Code de la santé publique - art. L1334-2
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L129-2
+  - Code de la construction et de l'habitation. - art. L129-3
+  - Code de la construction et de l'habitation. - art. L511-2
+  - Code de la construction et de l'habitation. - art. L511-3
+  - Code de la route. - art. R311-1
 
 
 ###### Article R2681-4
 
-Pour l'application des dispositions réglementaires du livre III aux Terres australes et antarctiques françaises : 
+Pour l'application des dispositions réglementaires du livre III aux Terres australes et antarctiques françaises :
 
-1°° A l'article R. 2311-5 : 
+1°° A l'article R. 2311-5 :
 
-a) Le 2° est supprimé ; 
+a) Le 2° est supprimé ;
 
 b) Au 6°, les mots : " les autres référentiels techniques élaborés par les organismes européens de normalisation, ou, en leur
-absence, " sont supprimés ; 
+absence, " sont supprimés ;
 
-2° A l'article R. 2322-2, le second alinéa est supprimé ; 
+2° A l'article R. 2322-2, le second alinéa est supprimé ;
 
-3° Les articles R. 2331-1 et R. 2331-2 sont remplacés par les dispositions suivantes : 
+3° Les articles R. 2331-1 et R. 2331-2 sont remplacés par les dispositions suivantes :
 
 " Art. R. 2331-1.-Les acheteurs peuvent faire connaître leur intention de passer un marché par le biais de la publication
-d'un avis de pré-information. 
+d'un avis de pré-information.
 
 " Art. R. 2331-2.-Cet avis est publié soit dans le Bulletin officiel des annonces de marchés publics soit sur le profil
-acheteur du pouvoir adjudicateur. 
+acheteur du pouvoir adjudicateur.
 
 " Le profil d'acheteur est la plateforme de dématérialisation permettant notamment aux acheteurs de mettre les documents de
 la consultation à disposition des opérateurs économiques par voie électronique et de réceptionner par voie électronique les
 documents transmis par les candidats et les soumissionnaires. Un arrêté du ministre chargé de l'économie détermine les
-fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ; 
+fonctionnalités et les exigences minimales qui s'imposent aux profils d'acheteur. " ;
 
-4° L'article R. 2331-8 est ainsi rédigé : 
+4° L'article R. 2331-8 est ainsi rédigé :
 
-" Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent. " ; 
+" Art. R. 2331-8.-Les dispositions de l'article R. 2131-16 s'appliquent. " ;
 
 5° A l'article R. 2343-3, les références aux articles L. 5212-1 à L. 5212-11 du code du travail sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+références aux dispositions applicables localement ayant le même objet ;
 
 6° A l'article R. 2351-12, les mots : " au sens de la recommandation de la Commission du 6 mai 2003 concernant la définition
 des micro, petites et moyennes entreprises " sont remplacés par les mots : " qui occupent moins de deux cent cinquante
 personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros ou dont le total du bilan annuel n'excède pas
-43 millions d'euros " ; 
+43 millions d'euros " ;
 
-7° L'article R. 2352-3 est ainsi rédigé : 
+7° L'article R. 2352-3 est ainsi rédigé :
 
-" Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent. " ; 
+" Art. R. 2352-3.-Les dispositions de l'article R. 2152-4 s'appliquent. " ;
 
-8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence à l'administrateur supérieur du territoire ; 
+8° A l'article R. 2371-6, la référence au préfet est remplacée par la référence à l'administrateur supérieur du territoire ;
 
-9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ; 
+9° A l'article R. 2383-1, les mots : " et au Journal officiel de l'Union européenne " sont supprimés ;
 
-10° L'article R. 2383-2 est ainsi rédigé : 
+10° L'article R. 2383-2 est ainsi rédigé :
 
-" Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ; 
+" Art. R. 2383-2.-Les dispositions de l'article R. 2183-3 s'appliquent. " ;
 
-11° L'article R. 2384-4 est ainsi rédigé : 
+11° L'article R. 2384-4 est ainsi rédigé :
 
-" Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ; 
+" Art. R. 2384-4.-Les dispositions de l'article R. 2184-5 s'appliquent. " ;
+
+11° bis La première phrase du deuxième alinéa de l'article R. 2392-3 n'est applicable que si les titulaires de marchés ou
+leurs sous-traitants admis au paiement direct choisissent de transmettre leurs factures sous forme électronique ;
+
+11° ter A l'article R. 2392-12-1, les mots : “à L. 2392-3” sont remplacés par les mots : “et L. 2392-2” ;
 
 12° A l'article R. 2393-18, les mots : " au Journal officiel de l'Union européenne dans les conditions des articles R.
 2131-19 et R. 2331-11 " sont remplacés par les mots : " au Journal officiel des Terres australes et antarctiques françaises
@@ -52287,18 +54023,14 @@ personnes et dont le chiffre d'affaires annuel n'excède pas 50 millions d'euros
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
-
-_Anciens textes_:
-
-  - Code de la commande publique - art. R2681-5 (T)
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre IX : DISPOSITIONS COMMUNES A PLUSIEURS COLLECTIVITES<a id=958></a>
+#### Titre IX : DISPOSITIONS COMMUNES A PLUSIEURS COLLECTIVITES<a id=977></a>
 
-##### Chapitre unique.<a id=959></a>
+##### Chapitre unique.<a id=978></a>
 
 ###### Article R2691-1
 
@@ -52320,13 +54052,13 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-## TROISIÈME PARTIE : CONCESSIONS<a id=960></a>
+## TROISIÈME PARTIE : CONCESSIONS<a id=979></a>
 
-### Livre Ier : DISPOSITIONS GÉNÉRALES<a id=961></a>
+### Livre Ier : DISPOSITIONS GÉNÉRALES<a id=980></a>
 
-#### Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION<a id=962></a>
+#### Titre Ier : PRÉPARATION DU CONTRAT DE CONCESSION<a id=981></a>
 
-##### Chapitre Ier : DÉFINITION DU BESOIN<a id=963></a>
+##### Chapitre Ier : DÉFINITION DU BESOIN<a id=982></a>
 
 ###### Article R3111-1
 
@@ -52383,7 +54115,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre III : RÉSERVATION<a id=964></a>
+##### Chapitre III : RÉSERVATION<a id=983></a>
 
 ###### Article R3113-1
 
@@ -52403,9 +54135,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre IV : CONTENU DU CONTRAT DE CONCESSION<a id=965></a>
+##### Chapitre IV : CONTENU DU CONTRAT DE CONCESSION<a id=984></a>
 
-##### Section 1 : Durée<a id=966></a>
+##### Section 1 : Durée<a id=985></a>
 
 ###### Article D3114-3
 
@@ -52460,7 +54192,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Conditions de paiement<a id=967></a>
+##### Section 2 : Conditions de paiement<a id=986></a>
 
 ###### Article R3114-4
 
@@ -52478,7 +54210,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Part du contrat exécutée par des tiers<a id=968></a>
+##### Section 3 : Part du contrat exécutée par des tiers<a id=987></a>
 
 ###### Article R3114-5
 
@@ -52496,11 +54228,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-#### Titre II : PROCÉDURE DE PASSATION<a id=969></a>
+#### Titre II : PROCÉDURE DE PASSATION<a id=988></a>
 
-##### Chapitre Ier : DÉTERMINATION DES RÈGLES PROCÉDURALES APPLICABLES<a id=970></a>
+##### Chapitre Ier : DÉTERMINATION DES RÈGLES PROCÉDURALES APPLICABLES<a id=989></a>
 
-##### Section 1 : Calcul de la valeur estimée du contrat de concession<a id=971></a>
+##### Section 1 : Calcul de la valeur estimée du contrat de concession<a id=990></a>
 
 ###### Article R3121-1
 
@@ -52603,9 +54335,9 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 2 : Passation des contrats de concessions<a id=972></a>
+##### Section 2 : Passation des contrats de concessions<a id=991></a>
 
-##### Sous-section 1 : Contrats de concession passés avec publicité et mise en concurrence préalables<a id=973></a>
+##### Sous-section 1 : Contrats de concession passés avec publicité et mise en concurrence préalables<a id=992></a>
 
 ###### Article R3121-5
 
@@ -52623,7 +54355,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Contrats de concession passés sans publicité ni mise en concurrence préalables<a id=974></a>
+##### Sous-section 2 : Contrats de concession passés sans publicité ni mise en concurrence préalables<a id=993></a>
 
 ###### Article R3121-6
 
@@ -52653,11 +54385,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre II : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=975></a>
+##### Chapitre II : ENGAGEMENT DE LA PROCÉDURE DE PASSATION<a id=994></a>
 
-##### Section 1 : Publicité préalable<a id=976></a>
+##### Section 1 : Publicité préalable<a id=995></a>
 
-##### Sous-section 1 : Avis de concession<a id=977></a>
+##### Sous-section 1 : Avis de concession<a id=996></a>
 
 ###### Article R3122-1
 
@@ -52679,7 +54411,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Supports de publication<a id=978></a>
+##### Sous-section 2 : Supports de publication<a id=997></a>
 
 ###### Article R3122-2
 
@@ -52721,7 +54453,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Modalités de publication des avis de concession<a id=979></a>
+##### Sous-section 3 : Modalités de publication des avis de concession<a id=998></a>
 
 ###### Article R3122-4
 
@@ -52778,9 +54510,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Communications et échanges d'informations<a id=980></a>
+##### Section 2 : Communications et échanges d'informations<a id=999></a>
 
-##### Sous-section 1 : Mise à disposition des documents de la consultation<a id=981></a>
+##### Sous-section 1 : Mise à disposition des documents de la consultation<a id=1000></a>
 
 ###### Article R3122-7
 
@@ -52900,7 +54632,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Moyens de communication et échanges d'informations<a id=982></a>
+##### Sous-section 2 : Moyens de communication et échanges d'informations<a id=1001></a>
 
 ###### Article R3122-13
 
@@ -53016,11 +54748,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre III : PHASE DE CANDIDATURE<a id=983></a>
+##### Chapitre III : PHASE DE CANDIDATURE<a id=1002></a>
 
-##### Section 1 : Conditions de participation<a id=984></a>
+##### Section 1 : Conditions de participation<a id=1003></a>
 
-##### Sous-section 1 : Exigences générales de l'autorité concédante<a id=985></a>
+##### Sous-section 1 : Exigences générales de l'autorité concédante<a id=1004></a>
 
 ###### Article R3123-1
 
@@ -53110,7 +54842,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Conditions de participation propres aux contrats de concession de défense ou de sécurité<a id=986></a>
+##### Sous-section 2 : Conditions de participation propres aux contrats de concession de défense ou de sécurité<a id=1005></a>
 
 ###### Article R3123-6
 
@@ -53169,7 +54901,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Groupements d'opérateurs économiques<a id=987></a>
+##### Sous-section 3 : Groupements d'opérateurs économiques<a id=1006></a>
 
 ###### Article R3123-9
 
@@ -53206,7 +54938,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Réduction du nombre de candidats<a id=988></a>
+##### Sous-section 4 : Réduction du nombre de candidats<a id=1007></a>
 
 ###### Article R3123-11
 
@@ -53259,9 +54991,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Présentation et analyse des candidatures<a id=989></a>
+##### Section 2 : Présentation et analyse des candidatures<a id=1008></a>
 
-##### Sous-section 1 : Délai de réception des candidatures<a id=990></a>
+##### Sous-section 1 : Délai de réception des candidatures<a id=1009></a>
 
 ###### Article R3123-14
 
@@ -53302,7 +55034,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Eléments à produire par le candidat<a id=991></a>
+##### Sous-section 2 : Eléments à produire par le candidat<a id=1010></a>
 
 ###### Article R3123-16
 
@@ -53388,7 +55120,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Examen des candidatures<a id=992></a>
+##### Sous-section 3 : Examen des candidatures<a id=1011></a>
 
 ###### Article R3123-20
 
@@ -53428,9 +55160,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre IV : PHASE D'OFFRE<a id=993></a>
+##### Chapitre IV : PHASE D'OFFRE<a id=1012></a>
 
-##### Section 1 : Organisation de la négociation des offres<a id=994></a>
+##### Section 1 : Organisation de la négociation des offres<a id=1013></a>
 
 ###### Article R3124-1
 
@@ -53451,7 +55183,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Délais de remise des offres<a id=995></a>
+##### Section 2 : Délais de remise des offres<a id=1014></a>
 
 ###### Article R3124-2
 
@@ -53493,7 +55225,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Choix de l'offre<a id=996></a>
+##### Section 3 : Choix de l'offre<a id=1015></a>
 
 ###### Article R3124-4
 
@@ -53555,11 +55287,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre V : ACHEVEMENT DE LA PROCÉDURE<a id=997></a>
+##### Chapitre V : ACHEVEMENT DE LA PROCÉDURE<a id=1016></a>
 
-##### Section 1 : Information des candidats et des soumissionnaires évincés<a id=998></a>
+##### Section 1 : Information des candidats et des soumissionnaires évincés<a id=1017></a>
 
-##### Sous-section 1 : Obligation d'information des candidats et soumissionnaires évincés<a id=999></a>
+##### Sous-section 1 : Obligation d'information des candidats et soumissionnaires évincés<a id=1018></a>
 
 ###### Article R3125-1
 
@@ -53601,7 +55333,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Informations communiquées sur demande des candidats ou soumissionnaires évincés<a id=1000></a>
+##### Sous-section 2 : Informations communiquées sur demande des candidats ou soumissionnaires évincés<a id=1019></a>
 
 ###### Article R3125-3
 
@@ -53620,7 +55352,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Information en cas de déclaration sans suite de la procédure de passation<a id=1001></a>
+##### Sous-section 3 : Information en cas de déclaration sans suite de la procédure de passation<a id=1020></a>
 
 ###### Article R3125-4
 
@@ -53638,7 +55370,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Signature du contrat de concession<a id=1002></a>
+##### Section 2 : Signature du contrat de concession<a id=1021></a>
 
 ###### Article R3125-5
 
@@ -53656,7 +55388,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 3 : Avis d'attribution<a id=1003></a>
+##### Section 3 : Avis d'attribution<a id=1022></a>
 
 ###### Article R3125-6
 
@@ -53694,7 +55426,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre VI : RÈGLES PARTICULIÈRES À LA PASSATION DE CERTAINS CONTRATS DE CONCESSION<a id=1004></a>
+##### Chapitre VI : RÈGLES PARTICULIÈRES À LA PASSATION DE CERTAINS CONTRATS DE CONCESSION<a id=1023></a>
 
 ###### Article R3126-1
 
@@ -53755,7 +55487,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 1 : Publicité préalable<a id=1005></a>
+##### Section 1 : Publicité préalable<a id=1024></a>
 
 ###### Article R3126-3
 
@@ -53848,7 +55580,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 2 : Communications et échanges d'information<a id=1006></a>
+##### Section 2 : Communications et échanges d'information<a id=1025></a>
 
 ###### Article R3126-7
 
@@ -53868,7 +55600,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Candidatures<a id=1007></a>
+##### Section 3 : Candidatures<a id=1026></a>
 
 ###### Article R3126-8
 
@@ -53886,7 +55618,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 4 : Offres<a id=1008></a>
+##### Section 4 : Offres<a id=1027></a>
 
 ###### Article R3126-9
 
@@ -53920,7 +55652,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 5 : Achèvement de la procédure<a id=1009></a>
+##### Section 5 : Achèvement de la procédure<a id=1028></a>
 
 ###### Article R3126-11
 
@@ -53994,7 +55726,7 @@ _Modifié par_:
   - Décret n°2019-259 du 29 mars 2019 - art. 1
 
 
-##### Section 6 : Dispositions particulières aux contrats de concession de services publics de transport de voyageurs par chemin de fer et par route<a id=1010></a>
+##### Section 6 : Dispositions particulières aux contrats de concession de services publics de transport de voyageurs par chemin de fer et par route<a id=1029></a>
 
 ###### Article R3126-14
 
@@ -54011,11 +55743,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-#### Titre III : EXÉCUTION DU CONTRAT DE CONCESSION<a id=1011></a>
+#### Titre III : EXÉCUTION DU CONTRAT DE CONCESSION<a id=1030></a>
 
-##### Chapitre Ier : TRANSPARENCE ET RAPPORT D'INFORMATION DE L'AUTORITÉ CONCÉDANTE<a id=1012></a>
+##### Chapitre Ier : TRANSPARENCE ET RAPPORT D'INFORMATION DE L'AUTORITÉ CONCÉDANTE<a id=1031></a>
 
-##### Section 1 : Mise à disposition des données essentielles<a id=1013></a>
+##### Section 1 : Mise à disposition des données essentielles<a id=1032></a>
 
 ###### Article R3131-1
 
@@ -54048,7 +55780,7 @@ _Cité par_:
   - Code de la commande publique - art. Annexe (V)
 
 
-##### Section 2 : Rapport d'information à l'autorité concédante<a id=1014></a>
+##### Section 2 : Rapport d'information à l'autorité concédante<a id=1033></a>
 
 ###### Article R3131-2
 
@@ -54139,7 +55871,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 3 : Observatoire économique de la commande publique<a id=1015></a>
+##### Section 3 : Observatoire économique de la commande publique<a id=1034></a>
 
 ###### Article R3131-5
 
@@ -54157,11 +55889,100 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre III : EXÉCUTION FINANCIÈRE<a id=1016></a>
+##### Chapitre III : EXÉCUTION FINANCIÈRE<a id=1035></a>
 
-##### Section 2 : Délais de paiement<a id=1017></a>
+##### Section 1 : Facturation électronique<a id=1036></a>
 
-##### Sous-section 1 : Fixation des délais de paiement<a id=1018></a>
+##### Sous-section 1 : Transmission et réception des factures sous forme électronique<a id=1037></a>
+
+##### Paragraphe 1 : Norme de facturation électronique<a id=1038></a>
+
+###### Article D3133-1
+
+La norme de facturation électronique mentionnée à l'article L. 3133-3 est celle fixée par la décision (UE) 2017/1870 de la
+Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur la facturation
+électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du Conseil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Paragraphe 2 : Mentions obligatoires des factures sous forme électronique<a id=1039></a>
+
+###### Article D3133-2
+
+Sans préjudice des mentions obligatoires fixées par les dispositions législatives ou réglementaires, les factures mentionnées
+aux articles L. 3133-1 à L. 3133-3 comportent les mentions suivantes :
+
+1° La date d'émission de la facture ;
+
+2° La désignation de l'émetteur et du destinataire de la facture ;
+
+3° Le numéro unique basé sur une séquence chronologique et continue établie par l'émetteur de la facture, la numérotation
+pouvant être établie dans ces conditions sur une ou plusieurs séries ;
+
+4° En cas de contrat exécuté au moyen de bons de commande, le numéro du bon de commande ou, dans les autres cas, les
+références du contrat ou le numéro de l'engagement attribué par le système d'information financière et comptable du
+destinataire de la facture ;
+
+5° La désignation du payeur, avec l'indication, pour les personnes publiques, du code d'identification du service chargé du
+paiement ;
+
+6° La date de livraison des fournitures ou d'exécution des services ou des travaux ;
+
+7° La quantité et la dénomination précise des produits livrés, des prestations et travaux réalisés ;
+
+8° Le prix unitaire hors taxes des produits livrés, des prestations et travaux réalisés ou, lorsqu'il y a lieu, leur prix
+forfaitaire ;
+
+9° Le montant total de la facture, le montant total hors taxes et le montant de la taxe à payer, ainsi que la répartition de
+ces montants par taux de taxe sur la valeur ajoutée, ou, le cas échéant, le bénéfice d'une exonération ;
+
+10° L'identification, le cas échéant, du représentant fiscal de l'émetteur de la facture ;
+
+11° Le cas échéant, les modalités de règlement ;
+
+12° Le cas échéant, les renseignements relatifs aux déductions ou versements complémentaires.
+
+Les factures comportent en outre les numéros d'identité de l'émetteur et du destinataire de la facture, attribués à chaque
+établissement concerné ou, à défaut, à chaque personne en application de l'article R. 123-221 du code de commerce.
+
+Pour les émetteurs ne disposant pas du numéro d'identité mentionné à l'alinéa précédent, un arrêté du ministre chargé du
+budget, annexé au présent code, fixe l'identifiant qui doit être porté sur les factures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Sous-section 2 : Portail public de facturation<a id=1040></a>
+
+###### Article R3133-3
+
+Un arrêté du ministre chargé du budget, annexé au présent code, définit les modalités techniques selon lesquelles le dépôt,
+la transmission et la réception des factures sont effectués sur le portail public de facturation en application de l'article
+L. 3133-6. Ces modalités garantissent la réception immédiate et intégrale des factures et assure la fiabilité de
+l'identification de l'émetteur, l'intégrité des données, la sécurité, la confidentialité et la traçabilité des échanges.
+
+L'utilisation du portail public de facturation est exclusive de tout autre mode de transmission. Lorsqu'une facture lui est
+transmise en dehors de ce portail, la personne publique destinataire ne peut la rejeter qu'après avoir informé l'émetteur par
+tout moyen de l'obligation prévue à l'article L. 3133-1 et l'avoir invité à s'y conformer en utilisant ce portail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+##### Section 2 : Délais de paiement<a id=1041></a>
+
+##### Sous-section 1 : Fixation des délais de paiement<a id=1042></a>
 
 ###### Article R3133-10
 
@@ -54200,9 +56021,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Déclenchement du délai de paiement<a id=1019></a>
+##### Sous-section 2 : Déclenchement du délai de paiement<a id=1043></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1020></a>
+##### Paragraphe 1 : Dispositions générales<a id=1044></a>
 
 ###### Article R3133-12
 
@@ -54261,17 +56082,16 @@ _Créé par_:
 
 ###### Article R3133-15
 
-Lorsque la demande de paiement relève de l'obligation de facturation électronique prévue à l'article 1er de l'ordonnance n°
-2014-697 du 26 juin 2014 relative au développement de la facturation électronique, la date de réception de la demande de
-paiement par le pouvoir adjudicateur correspond :
+Lorsque la demande de paiement relève de l'obligation de facturation électronique prévue aux articles L. 3133-1 à L. 3133-3,
+la date de réception de la demande de paiement par le pouvoir adjudicateur correspond :
 
 1° Lorsque les factures sont transmises par échange de données informatisé, à la date à laquelle le système d'information
 budgétaire et comptable de l'Etat horodate l'arrivée de la facture et, pour les autres pouvoirs adjudicateurs, à la date de
-notification du message électronique l'informant de la mise à disposition de la facture sur la solution mutualisée, définie à
-l'article 2 de l'ordonnance n° 2014-697 du 26 juin 2014 relative au développement de la facturation électronique ;
+notification du message électronique l'informant de la mise à disposition de la facture sur le portail public de facturation
+mentionné à l'article L. 3133-6 ;
 
 2° Lorsque les factures sont transmises par le mode portail ou service, à la date de notification au pouvoir adjudicateur du
-message électronique l'informant de la mise à disposition de la facture sur cette solution mutualisée.
+message électronique l'informant de la mise à disposition de la facture sur ce portail.
 
 **Liens relatifs à cet article**
 
@@ -54279,12 +56099,12 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 2
 
 
-##### Paragraphe 2 : Dispositions propres à certains contrats de concession<a id=1021></a>
+##### Paragraphe 2 : Dispositions propres à certains contrats de concession<a id=1045></a>
 
 ###### Article R3133-16
 
@@ -54307,7 +56127,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 3 : Disposition propre à l'intervention d'un tiers habilité à recevoir les demandes de paiement<a id=1022></a>
+##### Paragraphe 3 : Disposition propre à l'intervention d'un tiers habilité à recevoir les demandes de paiement<a id=1046></a>
 
 ###### Article R3133-17
 
@@ -54325,7 +56145,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Paragraphe 4 : Disposition propre aux indemnités de résiliation<a id=1023></a>
+##### Paragraphe 4 : Disposition propre aux indemnités de résiliation<a id=1047></a>
 
 ###### Article R3133-18
 
@@ -54382,7 +56202,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Interruption du délai de paiement<a id=1024></a>
+##### Sous-section 3 : Interruption du délai de paiement<a id=1048></a>
 
 ###### Article R3133-21
 
@@ -54458,7 +56278,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=1025></a>
+##### Sous-section 4 : Intérêts moratoires, indemnités forfaitaire et complémentaire pour frais de recouvrement<a id=1049></a>
 
 ###### Article D3133-27
 
@@ -54494,8 +56314,8 @@ _Créé par_:
 
 ###### Article R3133-26
 
-Les intérêts moratoires courent à compter du lendemain de l'expiration du délai de paiement jusqu'à la date de mise en
-paiement du principal incluse.
+Les intérêts moratoires courent à compter du lendemain de l'expiration du délai de paiement ou de l'échéance prévue par le
+contrat de concession jusqu'à la date de mise en paiement du principal incluse.
 
 **Liens relatifs à cet article**
 
@@ -54503,9 +56323,9 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 4
 
 
 ###### Article R3133-28
@@ -54524,7 +56344,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre IV : EXÉCUTION DU CONTRAT DE CONCESSION PAR DES TIERS<a id=1026></a>
+##### Chapitre IV : EXÉCUTION DU CONTRAT DE CONCESSION PAR DES TIERS<a id=1050></a>
 
 ###### Article R3134-1
 
@@ -54593,11 +56413,11 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Chapitre V : MODIFICATION DU CONTRAT DE CONCESSION<a id=1027></a>
+##### Chapitre V : MODIFICATION DU CONTRAT DE CONCESSION<a id=1051></a>
 
-##### Section 1 : Modifications autorisées<a id=1028></a>
+##### Section 1 : Modifications autorisées<a id=1052></a>
 
-##### Sous-section 1 : Clauses contractuelles<a id=1029></a>
+##### Sous-section 1 : Clauses contractuelles<a id=1053></a>
 
 ###### Article R3135-1
 
@@ -54618,7 +56438,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 2 : Travaux ou services supplémentaires devenus nécessaires<a id=1030></a>
+##### Sous-section 2 : Travaux ou services supplémentaires devenus nécessaires<a id=1054></a>
 
 ###### Article R3135-2
 
@@ -54677,7 +56497,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 3 : Circonstances imprévues<a id=1031></a>
+##### Sous-section 3 : Circonstances imprévues<a id=1055></a>
 
 ###### Article R3135-5
 
@@ -54697,7 +56517,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 4 : Substitution d'un nouveau concessionnaire<a id=1032></a>
+##### Sous-section 4 : Substitution d'un nouveau concessionnaire<a id=1056></a>
 
 ###### Article R3135-6
 
@@ -54722,7 +56542,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 5 : Modification non substantielle<a id=1033></a>
+##### Sous-section 5 : Modification non substantielle<a id=1057></a>
 
 ###### Article R3135-7
 
@@ -54755,7 +56575,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Sous-section 6 : Modification de faible montant<a id=1034></a>
+##### Sous-section 6 : Modification de faible montant<a id=1058></a>
 
 ###### Article R3135-8
 
@@ -54797,7 +56617,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-##### Section 2 : Avis de modification<a id=1035></a>
+##### Section 2 : Avis de modification<a id=1059></a>
 
 ###### Article R3135-10
 
@@ -54820,7 +56640,7 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-### Livre II : AUTRES CONTRATS DE CONCESSION<a id=1036></a>
+### Livre II : AUTRES CONTRATS DE CONCESSION<a id=1060></a>
 
 ###### Article R3200-1
 
@@ -54843,9 +56663,21 @@ _Abrogé par_:
   - Décret n°2019-1083 du 24 octobre 2019 - art. 4
 
 
-#### Titre II : RÈGLES APPLICABLES<a id=1037></a>
+#### Titre II : RÈGLES APPLICABLES<a id=1061></a>
 
-##### Chapitre unique.<a id=1038></a>
+##### Chapitre unique.<a id=1062></a>
+
+###### Article D3221-4
+
+Les dispositions des articles D. 3133-1 et D. 3133-2 sont applicables aux factures émises en exécution des contrats de
+concession mentionnés par les dispositions législatives des chapitres Ier à IV du titre Ier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
 
 ###### Article R3221-1
 
@@ -54906,11 +56738,23 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-### Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1039></a>
+###### Article R3221-5
 
-#### Titre Ier : DISPOSITIONS PARTICULIÈRES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE<a id=1040></a>
+Les dispositions de l'article R. 3133-3 sont applicables aux factures émises en exécution des contrats de concession
+mentionnés par les dispositions législatives des chapitres Ier à IV du titre Ier.
 
-##### Chapitre unique.<a id=1041></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 1
+
+
+### Livre III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1063></a>
+
+#### Titre Ier : DISPOSITIONS PARTICULIÈRES A LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE<a id=1064></a>
+
+##### Chapitre unique.<a id=1065></a>
 
 ###### Article D3311-1
 
@@ -54928,9 +56772,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-#### Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLÉMY<a id=1042></a>
+#### Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLÉMY<a id=1066></a>
 
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=1043></a>
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=1067></a>
 
 ###### Article D3321-1
 
@@ -54948,43 +56792,60 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
+###### Article D3321-3
+
+Pour l'application de l'article D. 3133-1 à Saint-Barthélemy, la référence à la norme fixée par la décision (UE) 2017/1870 de
+la Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur la
+facturation électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du Conseil
+est remplacée par la référence à la norme de facturation électronique applicable en métropole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
 ###### Article R3321-2
 
-Pour l'application des dispositions réglementaires du livre Ier à Saint-Barthélemy : 
+Pour l'application des dispositions réglementaires du livre Ier à Saint-Barthélemy :
 
 1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
-supprimés ; 
+supprimés ;
 
-2° A l'article R. 3122-1, le second alinéa est supprimé ; 
+2° A l'article R. 3122-1, le second alinéa est supprimé ;
 
 3° A l'article R. 3122-2, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
-officiel de la collectivité de Saint-Barthélemy " ; 
+officiel de la collectivité de Saint-Barthélemy " ;
 
-4° Les articles R. 3122-4 et R. 3122-5 sont supprimés ; 
+4° Les articles R. 3122-4 et R. 3122-5 sont supprimés ;
 
-5° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé : 
+5° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé :
 
 " Le candidat établi dans cette collectivité produit les certificats délivrés par les administrations et organismes
 compétents localement et les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent
 code sont remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. " ; 
+applicables localement. " ;
 
-6° Le second alinéa de l'article R. 3125-6 est supprimé ; 
+6° Le second alinéa de l'article R. 3125-6 est supprimé ;
 
-7° L'article R. 3125-7 est ainsi rédigé : 
+7° L'article R. 3125-7 est ainsi rédigé :
 
-" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de la collectivité de Saint-Barthélemy " ; 
+" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de la collectivité de Saint-Barthélemy " ;
 
-8° Le c du 2° de l'article R. 3126-1 est ainsi rédigé : 
+8° Le c du 2° de l'article R. 3126-1 est ainsi rédigé :
 
-" c) L'exploitation de services de transport de voyageurs, à l'exclusion des transports routiers. " ; 
+" c) L'exploitation de services de transport de voyageurs, à l'exclusion des transports routiers. " ;
 
 9° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
-" au Journal officiel de la collectivité de Saint-Barthélemy " ; 
+" au Journal officiel de la collectivité de Saint-Barthélemy " ;
 
-10° L'article R. 3126-6 est supprimé ; 
+10° L'article R. 3126-6 est supprimé ;
 
-11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé : 
+10° bis Le deuxième alinéa de l'article R. 3133-3 n'est applicable que si les titulaires des contrats de concession
+choisissent de transmettre leurs factures sous forme électronique ;
+
+11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé :
 
 " Cet avis est publié au Journal officiel de la collectivité de Saint-Barthélemy. "
 
@@ -54994,14 +56855,14 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre III : DISPOSITIONS PARTICULIÈRES A SAINT-MARTIN<a id=1044></a>
+#### Titre III : DISPOSITIONS PARTICULIÈRES A SAINT-MARTIN<a id=1068></a>
 
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=1045></a>
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=1069></a>
 
 ###### Article D3331-1
 
@@ -55019,31 +56880,9 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
-###### Article R3331-2
+#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=1070></a>
 
-Pour l'application des dispositions réglementaires du livre Ier à Saint-Martin, à l'article R. 3133-15, les mots : " prévue à
-l'article 1er de l'ordonnance n° 2014-697 du 26 juin 2014 relative au développement de la facturation électronique " et les
-mots : " définie à l'article 2 de l'ordonnance n° 2014-697 du 26 juin 2014 relative au développement de la facturation
-électronique " sont supprimés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Abrogé par_:
-
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-
-
-#### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=1046></a>
-
-##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=1047></a>
+##### Chapitre Ier : DISPOSITIONS PARTICULIÈRES AU LIVRE Ier<a id=1071></a>
 
 ###### Article D3341-1
 
@@ -55061,39 +56900,56 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
+###### Article D3341-3
+
+Pour l'application de l'article D. 3133-1 à Saint-Pierre-et-Miquelon, la référence à la norme fixée par la décision (UE)
+2017/1870 de la Commission européenne du 16 octobre 2017 concernant la publication de la référence de la norme européenne sur
+la facturation électronique et de la liste des syntaxes en vertu de la directive 2014/55/UE du Parlement européen et du
+Conseil est remplacée par la référence à la norme de facturation électronique applicable en métropole.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
 ###### Article R3341-2
 
-Pour l'application des dispositions réglementaires du livre Ier à Saint-Pierre-et-Miquelon : 
+Pour l'application des dispositions réglementaires du livre Ier à Saint-Pierre-et-Miquelon :
 
 1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
-supprimés ; 
+supprimés ;
 
-2° A l'article R. 3122-1, le second alinéa est supprimé ; 
+2° A l'article R. 3122-1, le second alinéa est supprimé ;
 
 3° A l'article R. 3122-2, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
-officiel de Saint-Pierre-et-Miquelon " ; 
+officiel de Saint-Pierre-et-Miquelon " ;
 
-4° Les articles R. 3122-4 et R. 3122-5 sont supprimés ; 
+4° Les articles R. 3122-4 et R. 3122-5 sont supprimés ;
 
-5° Le premier alinéa de l'article R. 3123-18est ainsi rédigé : 
+5° Le premier alinéa de l'article R. 3123-18est ainsi rédigé :
 
 " Le candidat établi dans cette collectivité produit les certificats délivrés par les administrations et organismes
 compétents localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent
 code sont remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. " ; 
+applicables localement. " ;
 
-6° Le second alinéa de l'article R. 3125-6 est supprimé ; 
+6° Le second alinéa de l'article R. 3125-6 est supprimé ;
 
-7° L'article R. 3125-7 est ainsi rédigé : 
+7° L'article R. 3125-7 est ainsi rédigé :
 
-" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de Saint-Pierre-et-Miquelon. " ; 
+" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de Saint-Pierre-et-Miquelon. " ;
 
 8° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
-" au Journal officiel de Saint-Pierre-et-Miquelon " ; 
+" au Journal officiel de Saint-Pierre-et-Miquelon " ;
 
-9° L'article R. 3126-6 est supprimé ; 
+9° L'article R. 3126-6 est supprimé ;
 
-10° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé : 
+9° bis Le deuxième alinéa de l'article R. 3133-3 n'est applicable que si les titulaires des contrats de concession
+choisissent de transmettre leurs factures sous forme électronique ;
+
+10° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé :
 
 " Cet avis est publié au Journal officiel de Saint-Pierre-et-Miquelon. "
 
@@ -55103,56 +56959,64 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA<a id=1048></a>
+#### Titre V : DISPOSITIONS APPLICABLES DANS LES ILES WALLIS ET FUTUNA<a id=1072></a>
 
-##### Chapitre unique.<a id=1049></a>
+##### Chapitre unique.<a id=1073></a>
 
-##### Section 1 : Dispositions générales<a id=1050></a>
+##### Section 1 : Dispositions générales<a id=1074></a>
 
 ###### Article D3351-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les îles
 Wallis et Futuna aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que par les autres
 organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif,
-dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le tableau ci-après.
+dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES</th>
-        <th>
-
-DANS LEUR REDACTION</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au livre Ier</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-D. 3133-27</td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>D. 3133-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">D. 3133-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 3221-4</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -55160,9 +57024,10 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R3351-1
@@ -55170,7 +57035,7 @@ _Créé par_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les îles
 Wallis et Futuna aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que par les autres
 organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public administratif,
-dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le tableau ci-après.
+dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau ci-après.
 
 <table border="1">
   <tbody>
@@ -55235,9 +57100,25 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3133-10 à R. 3133-26</td>
+      <td align="left">R. 3133-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-10 à R. 3133-14</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 3133-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-16 à R. 3133-25</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3133-26</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">R. 3133-28 à R. 3134-3</td>
       <td align="left">
@@ -55258,6 +57139,10 @@ dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sa
       <td align="left">R. 3221-1 à R. 3221-3</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 3221-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -55269,51 +57154,69 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=1051></a>
+##### Section 2 : Dispositions d'adaptation<a id=1075></a>
+
+###### Article D3351-4
+
+Pour l'application de l'article D. 3133-2 dans les îles Wallis et Futuna :
+
+a) Les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
+
+b) En tant que de besoin, la référence au numéro d'identité déterminé en application de l'article R. 123-221 du code de
+commerce est remplacée par la référence au numéro du répertoire des entreprises applicables localement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R3351-3
 
-Pour l'application des dispositions réglementaires du livre Ier dans les îles Wallis et Futuna : 
+Pour l'application des dispositions réglementaires du livre Ier dans les îles Wallis et Futuna :
 
 1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
-supprimés ; 
+supprimés ;
 
-2° A l'article R. 3122-1, le second alinéa est supprimé ; 
+2° A l'article R. 3122-1, le second alinéa est supprimé ;
 
 3° A l'article R. 3122-2 les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
-officiel du Territoire des îles Wallis et Futuna " ; 
+officiel du Territoire des îles Wallis et Futuna " ;
 
-4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé : 
+4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. " ; 
+applicables localement. " ;
 
-5° Le second alinéa de l'article R. 3125-6 est supprimé ; 
+5° Le second alinéa de l'article R. 3125-6 est supprimé ;
 
-6° L'article R. 3125-7 est ainsi rédigé : 
+6° L'article R. 3125-7 est ainsi rédigé :
 
-" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel du Territoire des îles Wallis et Futuna. " ; 
+" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel du Territoire des îles Wallis et Futuna. " ;
 
-7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ; 
+7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ;
 
 8° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
-" au Journal officiel du Territoire des îles Wallis et Futuna " ; 
+" au Journal officiel du Territoire des îles Wallis et Futuna " ;
 
-9° L'article R. 3133-5 est ainsi rédigé : 
+8° bis Le deuxième alinéa de l'article R. 3133-3 n'est applicable que si les titulaires des contrats de concession
+choisissent de transmettre leurs factures sous forme électronique ;
+
+9° L'article R. 3133-5 est ainsi rédigé :
 
 " Art. R. 3133-5.-Par dérogation à l'article R. 3133-4, le délai de paiement est fixé à cinquante jours pour les
-établissements du service de santé des armées. " ; 
+établissements du service de santé des armées. " ;
 
-10° A l'article R. 3133-15, les mots : " prévue à l'article 1er de l'ordonnance n° 2014-697 du 26 juin 2014 relative au
-développement de la facturation électronique " et les mots : " définie à l'article 2 de l'ordonnance n° 2014-697 du 26 juin
-2014 relative au développement de la facturation électronique " sont supprimés ; 
+10° A l'article R. 3133-15, les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
 
-11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé : 
+11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé :
 
 " Cet avis est publié au Journal officiel du Territoire des îles Wallis et Futuna. "
 
@@ -55323,56 +57226,64 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=1052></a>
+#### Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE<a id=1076></a>
 
-##### Chapitre unique.<a id=1053></a>
+##### Chapitre unique.<a id=1077></a>
 
-##### Section 1 : Dispositions générales<a id=1054></a>
+##### Section 1 : Dispositions générales<a id=1078></a>
 
 ###### Article D3361-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Polynésie
 française aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
-à cette collectivité, dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans
-le tableau ci-après.
+à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après.
 
 <table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES</th>
-        <th>
-
-DANS LEUR REDACTION</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au livre Ier</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-D. 3133-27</td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>D. 3133-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">D. 3133-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 3221-4</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -55380,17 +57291,18 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
 ###### Article R3361-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Polynésie
 française aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
-à cette collectivité, dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans
-le tableau ci-après.
+à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après.
 
 <table border="1">
   <tbody>
@@ -55455,9 +57367,25 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3133-10 à R. 3133-26</td>
+      <td align="left">R. 3133-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-10 à R. 3133-14</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 3133-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-16 à R. 3133-25</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3133-26</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">R. 3133-28 à R. 3134-3</td>
       <td align="left">
@@ -55478,6 +57406,10 @@ le tableau ci-après.
       <td align="left">R. 3221-1à R. 3221-3</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 3221-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -55489,51 +57421,69 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=1055></a>
+##### Section 2 : Dispositions d'adaptation<a id=1079></a>
+
+###### Article D3361-4
+
+Pour l'application de l'article D. 3133-2 en Polynésie française :
+
+a) Les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
+
+b) En tant que de besoin, la référence au numéro d'identité déterminé en application de l'article R. 123-221 du code de
+commerce est remplacée par la référence au numéro du répertoire TAHITI en vertu de la réglementation applicable localement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
 
 ###### Article R3361-3
 
-Pour l'application des dispositions réglementaires du livre Ier en Polynésie française : 
+Pour l'application des dispositions réglementaires du livre Ier en Polynésie française :
 
 1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
-supprimés ; 
+supprimés ;
 
-2° A l'article R. 3122-1, le second alinéa est supprimé ; 
+2° A l'article R. 3122-1, le second alinéa est supprimé ;
 
 3° A l'article R. 3122-2, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
-officiel de la Polynésie française " ; 
+officiel de la Polynésie française " ;
 
-4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé : 
+4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. " ; 
+applicables localement. " ;
 
-5° Le second alinéa de l'article R. 3125-6 est supprimé ; 
+5° Le second alinéa de l'article R. 3125-6 est supprimé ;
 
-6° L'article R. 3125-7 est ainsi rédigé : 
+6° L'article R. 3125-7 est ainsi rédigé :
 
-" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de la Polynésie française. " ; 
+" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de la Polynésie française. " ;
 
-7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ; 
+7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ;
 
 8° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
-" au Journal officiel de la Polynésie française " ; 
+" au Journal officiel de la Polynésie française " ;
 
-9° L'article R. 3133-11 est ainsi rédigé : 
+8° bis Le deuxième alinéa de l'article R. 3133-3 n'est applicable que si les titulaires des contrats de concession
+choisissent de transmettre leurs factures sous forme électronique ;
+
+9° L'article R. 3133-11 est ainsi rédigé :
 
 " Art. R. 3133-11.-Par dérogation à l'article R. 3133-10, le délai de paiement est fixé à cinquante jours pour les
-établissements du service de santé des armées. " ; 
+établissements du service de santé des armées. " ;
 
-10° A l'article R. 3133-15, les mots : " prévue à l'article 1er de l'ordonnance n° 2014-697 du 26 juin 2014 relative au
-développement de la facturation électronique " et les mots : " définie à l'article 2 de l'ordonnance n° 2014-697 du 26 juin
-2014 relative au développement de la facturation électronique " sont supprimés ; 
+10° A l'article R. 3133-15, les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
 
-11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé : 
+11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé :
 
 " Cet avis est publié au Journal officiel de la Polynésie française. "
 
@@ -55543,74 +57493,23 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALEDONIE<a id=1056></a>
+#### Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALEDONIE<a id=1080></a>
 
-##### Chapitre unique.<a id=1057></a>
+##### Chapitre unique.<a id=1081></a>
 
-##### Section 1 : Dispositions générales<a id=1058></a>
+##### Section 1 : Dispositions générales<a id=1082></a>
 
 ###### Article D3371-2
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
 Calédonie aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
-à cette collectivité, dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans
-le tableau ci-après.
-
-<table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES</th>
-        <th>
-
-DANS LEUR REDACTION</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au livre Ier</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-D. 3133-27</td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-
-###### Article R3371-1
-
-Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
-Calédonie aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
-à cette collectivité, dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans
-le tableau ci-après.
+à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après.
 
 <table border="1">
   <tbody>
@@ -55623,71 +57522,23 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier</td>
       <td align="left">
+      </td><td align="left">
     </td></tr>
-    <tr>
-      <td align="left">R. 3111-1 à R. 3114-2</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">R. 3114-4 et R. 3114-5</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre II</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">R. 3121-1 à R. 3122-3</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">R. 3122-6 à R. 3125-4</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3125-5</td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
-    </tr>
-    <tr>
-      <td align="justify">R. 3125-6</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">R. 3126-1 à R. 3126-5</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">R. 3126-7 à R. 3126-12</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3126-13</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
-    </tr>
     <tr>
       <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3131-1 à R. 3131-5</td>
+      <td>D. 3133-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">D. 3133-27</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3133-10 à R. 3133-26</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3133-28 à R. 3134-3</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3135-1 à R. 3135-10</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="justify">Au livre II</td>
+      <td align="left">Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -55695,9 +57546,9 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3221-1à R. 3221-3</td>
-      <td align="left">
-    </td></tr>
+      <td align="left">D. 3221-4</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -55709,145 +57560,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=1059></a>
+###### Article R3371-1
 
-###### Article R3371-3
-
-Pour l'application des dispositions réglementaires du livre Ier en Nouvelle-Calédonie : 
-
-1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
-supprimés ; 
-
-2° A l'article R. 3122-1, le second alinéa est supprimé ; 
-
-3° A l'article R. 3122-2 les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
-officiel de la Nouvelle-Calédonie " ; 
-
-4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé : 
-
-" Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
-localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
-remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. " ; 
-
-5° Le second alinéa de l'article R. 3125-6 est supprimé ; 
-
-6° L'article R. 3125-7 est ainsi rédigé : 
-
-" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de la Nouvelle-Calédonie. " ; 
-
-7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ; 
-
-8° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
-" au Journal officiel de la Nouvelle-Calédonie " ; 
-
-9° L'article R. 3133-11 est ainsi rédigé : 
-
-" Art. R. 3133-11.-Par dérogation à l'article R. 3133-10, le délai de paiement est fixé à cinquante jours pour les
-établissements du service de santé des armées. " ; 
-
-10° A l'article R. 3133-15, les mots : " prévue à l'article 1er de l'ordonnance n° 2014-697 du 26 juin 2014 relative au
-développement de la facturation électronique " et les mots : " définie à l'article 2 de l'ordonnance n° 2014-697 du 26 juin
-2014 relative au développement de la facturation électronique " sont supprimés ; 
-
-11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé : 
-
-" Cet avis est publié au Journal officiel de la Nouvelle-Calédonie. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-
-#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1060></a>
-
-##### Chapitre unique.<a id=1061></a>
-
-##### Section 1 : Dispositions générales<a id=1062></a>
-
-###### Article D3381-2
-
-Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
-australes et antarctiques françaises aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que
-par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public
-administratif, dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le
-tableau ci-après.
-
-<table border="1">
-      <tbody><tr>
-        <th>
-
-DISPOSITIONS APPLICABLES</th>
-        <th>
-
-DANS LEUR REDACTION</th>
-      </tr>
-      <tr>
-        <td align="left">
-
-Au livre Ier</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre Ier</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-D. 3114-3</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-        </td><td align="left">
-      </td></tr>
-      <tr>
-        <td align="center">
-
-Au titre III</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="left">
-
-D. 3133-27</td>
-        <td align="left">
-      </td></tr>
-    </tbody></table>
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-
-###### Article R3381-1
-
-Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
-australes et antarctiques françaises aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que
-par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public
-administratif, dans leur rédaction résultant du décret n° 2018-1074 du 26 novembre 2018, sauf mention contraire dans le
+Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
+Calédonie aux contrats de concession conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
+à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
 tableau ci-après.
 
 <table border="1">
@@ -55913,9 +57634,25 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3133-10 à R. 3133-26</td>
+      <td align="left">R. 3133-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-10 à R. 3133-14</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 3133-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-16 à R. 3133-25</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3133-26</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
     <tr>
       <td align="left">R. 3133-28 à R. 3134-3</td>
       <td align="left">
@@ -55936,6 +57673,10 @@ tableau ci-après.
       <td align="left">R. 3221-1 à R. 3221-3</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 3221-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
   </tbody>
 </table>
 
@@ -55947,10 +57688,292 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
 
 
-##### Section 2 : Dispositions d'adaptation<a id=1063></a>
+##### Section 2 : Dispositions d'adaptation<a id=1083></a>
+
+###### Article D3371-4
+
+Pour l'application de l'article D. 3133-2 en Nouvelle-Calédonie :
+
+a) Les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
+
+b) En tant que de besoin, la référence au numéro d'identité déterminé en application de l'article R. 123-221 du code de
+commerce est remplacée par la référence au numéro du répertoire RIDET en vertu de la réglementation applicable localement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
+###### Article R3371-3
+
+Pour l'application des dispositions réglementaires du livre Ier en Nouvelle-Calédonie :
+
+1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
+supprimés ;
+
+2° A l'article R. 3122-1, le second alinéa est supprimé ;
+
+3° A l'article R. 3122-2 les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
+officiel de la Nouvelle-Calédonie " ;
+
+4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé :
+
+" Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
+localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
+remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
+applicables localement. " ;
+
+5° Le second alinéa de l'article R. 3125-6 est supprimé ;
+
+6° L'article R. 3125-7 est ainsi rédigé :
+
+" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel de la Nouvelle-Calédonie. " ;
+
+7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ;
+
+8° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
+" au Journal officiel de la Nouvelle-Calédonie " ;
+
+8° bis Le deuxième alinéa de l'article R. 3133-3 n'est applicable que si les titulaires des contrats de concession
+choisissent de transmettre leurs factures sous forme électronique ;
+
+9° L'article R. 3133-11 est ainsi rédigé :
+
+" Art. R. 3133-11.-Par dérogation à l'article R. 3133-10, le délai de paiement est fixé à cinquante jours pour les
+établissements du service de santé des armées. " ;
+
+10° A l'article R. 3133-15, les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
+
+11° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé :
+
+" Cet avis est publié au Journal officiel de la Nouvelle-Calédonie. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
+_Modifié par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
+#### Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1084></a>
+
+##### Chapitre unique.<a id=1085></a>
+
+##### Section 1 : Dispositions générales<a id=1086></a>
+
+###### Article D3381-2
+
+Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
+australes et antarctiques françaises aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que
+par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public
+administratif, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après.
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 3114-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>D. 3133-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">D. 3133-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">D. 3221-4</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
+_Modifié par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+
+
+###### Article R3381-1
+
+Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
+australes et antarctiques françaises aux contrats de concession conclus par l'Etat ou ses établissements publics ainsi que
+par les autres organismes et personnes de droit public et de droit privé chargés par l'Etat d'une mission de service public
+administratif, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
+tableau ci-après.
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3111-1 à R. 3114-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">R. 3114-4 et R. 3114-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">R. 3121-1 à R. 3122-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">R. 3122-6 à R. 3125-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3125-5</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="justify">R. 3125-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">R. 3126-1 à R. 3126-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">R. 3126-7 à R. 3126-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3126-13</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="center">Au titre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3131-1 à R. 3131-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3133-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-10 à R. 3133-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3133-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-16 à R. 3133-25</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3133-26</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3133-28 à R. 3134-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3135-1 à R. 3135-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3221-1 à R. 3221-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3221-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 - art.
+
+_Modifié par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+
+
+##### Section 2 : Dispositions d'adaptation<a id=1087></a>
 
 ###### Article D3381-3
 
@@ -55969,41 +57992,59 @@ _Créé par_:
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 
+###### Article D3381-5
+
+Pour l'application de l'article D. 3133-2 dans les Terres australes et antarctiques françaises, les mots : “à L. 3133-3” sont
+remplacés par les mots : “et L. 3133-2”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
+
+
 ###### Article R3381-4
 
-Pour l'application des dispositions réglementaires du livre Ier dans les Terres australes et antarctiques françaises : 
+Pour l'application des dispositions réglementaires du livre Ier dans les Terres australes et antarctiques françaises :
 
 1° A l'article R. 3121-6, les mots : " et qu'un rapport soit communiqué à la Commission européenne si elle le demande " sont
-supprimés ; 
+supprimés ;
 
-2° A l'article R. 3122-1, le second alinéa est supprimé ; 
+2° A l'article R. 3122-1, le second alinéa est supprimé ;
 
 3° A l'article R. 3122-2, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots " au Journal
-officiel des Terres australes et antarctiques françaises " ; 
+officiel des Terres australes et antarctiques françaises " ;
 
-4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé : 
+4° Le premier alinéa de l'article R. 3123-18 est ainsi rédigé :
 
 " Le candidat établi dans la collectivité produit les certificats délivrés par les administrations et organismes compétents
 localement. Les impôts, taxes, contributions ou contributions sociales figurant dans l'arrêté annexé au présent code sont
 remplacés, en tant que de besoin, par les impôts, taxes, contributions ou cotisations sociales ayant le même objet
-applicables localement. " ; 
+applicables localement. " ;
 
-5° Le second alinéa de l'article R. 3125-6 est supprimé ; 
+5° Le second alinéa de l'article R. 3125-6 est supprimé ;
 
-6° L'article R. 3125-7 est ainsi rédigé : 
+6° L'article R. 3125-7 est ainsi rédigé :
 
-" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel des Terres australes et antarctiques françaises. " ; 
+" Art. R. 3125-7.-L'avis d'attribution est publié au Journal officiel des Terres australes et antarctiques françaises. " ;
 
-7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ; 
+7° Les a et c du 2° de l'article R. 3126-1 sont supprimés ;
 
 8° Aux articles R. 3126-4 et R. 3126-5, les mots : " au Journal officiel de l'Union européenne " sont remplacés par les mots
-" au Journal officiel des Terres australes et antarctiques françaises " ; 
+" au Journal officiel des Terres australes et antarctiques françaises " ;
 
-9° A l'article R. 3133-15, les mots : " prévue à l'article 1er de l'ordonnance n° 2014-697 du 26 juin 2014 relative au
-développement de la facturation électronique " et les mots : " définie à l'article 2 de l'ordonnance n° 2014-697 du 26 juin
-2014 relative au développement de la facturation électronique " sont supprimés ; 
+8° bis Le deuxième alinéa de l'article R. 3133-3 n'est applicable que si les titulaires des contrats de concession
+choisissent de transmettre leurs factures sous forme électronique ;
 
-10° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé : 
+8° ter L'article R. 3133-11 est ainsi rédigé :
+
+"Art. R. 3133-11. - Par dérogation à l'article R. 3133-10, le délai de paiement est fixé à cinquante jours pour les
+établissements du service de santé des armées."
+
+9° A l'article R. 3133-15, les mots : “à L. 3133-3” sont remplacés par les mots : “et L. 3133-2” ;
+
+10° Le deuxième alinéa de l'article R. 3135-10 est ainsi rédigé :
 
 " Cet avis est publié au Journal officiel des Terres australes et antarctiques françaises. "
 
@@ -56013,12 +58054,12 @@ _Codifié par_:
 
   - Décret n°2018-1075 du 3 décembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-748 du 18 juillet 2019 - art. 3
 
 
-# Annexe<a id=1064></a>
+# Annexe<a id=1088></a>
 
 ###### Article Annexe préliminaire
 
