@@ -600,8 +600,8 @@ en droit de la commande publique</td>
 
 _Cite_:
 
-  - Avis divers (V)
   - Arrêté du 22 mars 2019 (V)
+  - Avis divers (V)
   - Avis divers, v. init.
   - Code de la commande publique - art. D2196-6 (V)
   - Code de la commande publique - art. D2196-7 (V)
@@ -675,7 +675,3 @@ _Cite_:
   - Code de la commande publique - art. R3131-1 (V)
   - Code de la commande publique - art. R3135-8 (V)
   - Code de la commande publique - art. R3221-2 (V)
-
-_Créé par_:
-
-  - Arrêté du 22 mars 2019 - art.
