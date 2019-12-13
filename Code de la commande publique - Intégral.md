@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-12-11
+Version Consolidée au 2019-12-14
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -49239,7 +49239,7 @@ _Modifié par_:
 ###### Article R2651-1
 
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les îles
-Wallis et Futuna aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des  compétences dévolues
+Wallis et Futuna aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues
 à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le
 tableau ci-après .
 
@@ -49305,7 +49305,7 @@ R. 2112-14 à R. 2113-8</td>
       <td align="left">
 R. 2122-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -49359,9 +49359,15 @@ R. 2131-18
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2132-1</td>
       <td align="left">
-R. 2132-1 à R. 2132-4 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2132-2</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49527,7 +49533,11 @@ R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">R. 2191-7</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2191-8</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -49613,7 +49623,15 @@ R. 2193-1
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-17 à R. 2196-4</td>
+      <td align="left">R. 2193-17 à R. 2194-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2196-1</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2196-2 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49947,7 +49965,7 @@ R. 2393-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">R. 2393-34 et R. 2393-34-1</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -50035,6 +50053,15 @@ R. 2521-1 à R. 2521-4
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -50091,7 +50118,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-21
   - Code de la commande publique - art. R2191-33
   - Code de la commande publique - art. R2191-34
-  - Code de la commande publique - art. R2191-7 (V)
+  - Code de la commande publique - art. R2191-7
   - Code de la commande publique - art. R2191-8
   - Code de la commande publique - art. R2191-9
   - Code de la commande publique - art. R2192-10
@@ -50157,8 +50184,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=965></a>
@@ -50734,7 +50760,7 @@ R. 2112-14 à R. 2113-8
       <td align="left">
 R. 2122-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -50789,9 +50815,15 @@ R. 2131-18
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2132-1</td>
       <td align="left">
-R. 2132-1 à R. 2132-4 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2132-2</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50971,7 +51003,11 @@ R. 2191-2 à R. 2191-6
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">R. 2191-7</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2191-8</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -51059,7 +51095,15 @@ R. 2193-1
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-17 à R. 2196-4</td>
+      <td align="left">R. 2193-17 à R. 2194-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2196-1</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2196-2 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51399,7 +51443,7 @@ R. 2393-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">R. 2393-34 et R. 2393-34-1</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -51487,6 +51531,15 @@ R. 2521-1 à R. 2521-4
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -51520,7 +51573,7 @@ _Cite_:
   - Code de la commande publique - art. R2162-25
   - Code de la commande publique - art. R2162-37
   - Code de la commande publique - art. R2171-1
-  - Code de la commande publique - art. R2171-15 (V)
+  - Code de la commande publique - art. R2171-15
   - Code de la commande publique - art. R2172-20
   - Code de la commande publique - art. R2172-4
   - Code de la commande publique - art. R2172-6
@@ -51538,7 +51591,7 @@ _Cite_:
   - Code de la commande publique - art. R2191-33
   - Code de la commande publique - art. R2191-34
   - Code de la commande publique - art. R2191-7
-  - Code de la commande publique - art. R2191-8 (V)
+  - Code de la commande publique - art. R2191-8
   - Code de la commande publique - art. R2191-9
   - Code de la commande publique - art. R2192-10
   - Code de la commande publique - art. R2192-24
@@ -51579,7 +51632,7 @@ _Cite_:
   - Code de la commande publique - art. R2384-4
   - Code de la commande publique - art. R2391-1
   - Code de la commande publique - art. R2391-4
-  - Code de la commande publique - art. R2391-5 (V)
+  - Code de la commande publique - art. R2391-5
   - Code de la commande publique - art. R2392-10
   - Code de la commande publique - art. R2392-12
   - Code de la commande publique - art. R2393-14
@@ -51606,8 +51659,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=969></a>
@@ -52187,7 +52239,7 @@ R. 2112-14 à R. 2113-8
       <td align="left">
 R. 2122-8 
 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
       <td align="left">
@@ -52240,7 +52292,15 @@ R. 2131-1 à R. 2131-16
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-1 à R. 2132-4</td>
+      <td align="left">R. 2132-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2132-2</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -52376,7 +52436,11 @@ R. 2131-1 à R. 2131-16
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">R. 2191-7</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2191-8</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -52448,7 +52512,15 @@ R. 2131-1 à R. 2131-16
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-17 à R. 2196-4</td>
+      <td align="left">R. 2193-17 à R. 2194-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2196-1</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2196-2 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -52708,7 +52780,7 @@ R. 2131-1 à R. 2131-16
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">R. 2393-34 et R. 2393-34-1</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -52778,6 +52850,15 @@ R. 2131-1 à R. 2131-16
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -52804,8 +52885,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=973></a>
@@ -53309,7 +53389,7 @@ mention contraire dans le tableau ci-après.
     </td></tr>
     <tr>
       <td align="left">R. 2122-8</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
       <td align="left">R. 2122-10 à R. 2123-1</td>
@@ -53352,7 +53432,15 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-1 à R. 2132-4</td>
+      <td align="left">R. 2132-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2132-2</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -53488,7 +53576,11 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 et R. 2191-8</td>
+      <td align="left">R. 2191-7</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2191-8</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -53560,7 +53652,15 @@ mention contraire dans le tableau ci-après.
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-17 à R. 2196-4</td>
+      <td align="left">R. 2193-17 à R. 2194-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2196-1</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2196-2 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -53820,7 +53920,7 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-34 et R. 2394-34-1</td>
+      <td align="left">R. 2393-34 et R. 2393-34-1</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
@@ -53890,6 +53990,15 @@ mention contraire dans le tableau ci-après.
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -53903,8 +54012,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=977></a>
