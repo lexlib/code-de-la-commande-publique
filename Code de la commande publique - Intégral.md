@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-12-14
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -96,7 +96,7 @@ Version Consolidée au 2019-12-14
           - [Chapitre Ier : Règles applicables à certains marchés globaux (art. L2171-1 à L2171-7)](#93)
             - [Section 1 : Marché de conception-réalisation (art. L2171-2)](#94)
             - [Section 2 : Marché global de performance (art. L2171-3)](#95)
-            - [Section 3 : Marchés globaux sectoriels (art. L2171-4 à L2171-6)](#96)
+            - [Section 3 : Marchés globaux sectoriels (art. L2171-4 à L2171-6-1)](#96)
             - [Section 4 : Identification et mission de la maîtrise d'œuvre dans les marchés globaux (art. L2171-7)](#97)
           - [Chapitre II : Règles applicables à certains marchés en fonction de leur objet (art. L2172-1 à L2172-4)](#98)
         - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE (art. L2181-1 à L2184-1)](#99)
@@ -5955,9 +5955,18 @@ _Cité par_:
 
 ###### Article L2171-6
 
-La Société du Grand Paris peut confier à un opérateur économique une mission globale portant sur la construction et
-l'aménagement des infrastructures du réseau de transport public du Grand Paris ou des infrastructures de transport public
-dont la maîtrise d'ouvrage lui est confiée.
+I.-La Société du Grand Paris peut confier à un opérateur économique une mission globale portant sur tout ou partie de la
+conception, de la construction et de l'aménagement des infrastructures du réseau de transport public du Grand Paris au sens
+du II de l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris ou des infrastructures de transport public
+dont la maîtrise d'ouvrage lui est confiée ainsi que sur la maintenance des éléments qui sont remis en gestion à Ile-de-
+France Mobilités en application des articles 20 et 20-2 de la loi n° 2010-597 du 3 juin 2010 précitée.
+
+II.-Sur décision de la Société du Grand Paris, et selon les modalités particulières prévues par les documents de la
+consultation, l'opérateur économique attributaire du contrat relatif à la mission globale mentionnée au I du présent article
+peut se voir transférer, avec l'accord du cocontractant concerné, les droits et obligations issus de tout ou partie des
+marchés passés par la Société du Grand Paris et pouvant concourir à l'exécution de sa mission. Le contrat portant sur la
+mission globale intègre alors les droits et obligations précités et la composition de l'opérateur économique attributaire est
+modifiée afin d'inclure le titulaire du marché dont les droits et obligations sont ainsi transférés.
 
 **Liens relatifs à cet article**
 
@@ -5969,9 +5978,22 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
+_Modifié par_:
+
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 154
+
+
+###### Article L2171-6-1
+
+Ile-de-France Mobilités peut confier à un opérateur économique une mission globale portant sur la conception, la construction
+et l'aménagement des sites de maintenance et de remisage des modes de transport (bus, tramway, tram-train, métropolitain)
+dont elle assure l'organisation dans le cadre de ses missions.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 154
 
 
 ##### Section 4 : Identification et mission de la maîtrise d'œuvre dans les marchés globaux<a id=97></a>
