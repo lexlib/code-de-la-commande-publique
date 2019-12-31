@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-12-27
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -6602,7 +6602,7 @@ Ne sont pas soumises à la présente sous-section les factures émises en exécu
 
 3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
 
-4° La SNCF, SNCF Réseau et SNCF Mobilités.
+4° La SNCF, SNCF Réseau et SNCF Voyageurs.
 
 **Nota:**
 
@@ -6612,9 +6612,9 @@ en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 25 (V)
 
 _Cite_:
 
@@ -10954,7 +10954,7 @@ par :
 
 3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
 
-4° La SNCF, SNCF Réseau et SNCF Mobilités.
+4° La SNCF, SNCF Réseau et SNCF Voyageurs.
 
 **Nota:**
 
@@ -10964,9 +10964,9 @@ en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 25 (V)
 
 _Cite_:
 
@@ -12348,9 +12348,14 @@ _Cité par_:
 ###### Article L2422-12
 
 Lorsque la réalisation ou la réhabilitation d'un ouvrage ou d'un ensemble d'ouvrages relèvent simultanément de la compétence
-de plusieurs maîtres d'ouvrage, ces derniers peuvent désigner, par convention, celui d'entre eux qui assurera la maîtrise
-d'ouvrage de l'opération. Cette convention précise les conditions d'organisation de la maîtrise d'ouvrage exercée et en fixe
-le terme.
+de plusieurs maîtres d'ouvrage mentionnés à l'article L. 2411-1 ou de l'un ou plusieurs de ces maîtres d'ouvrage et de la
+société SNCF Réseau mentionnée à l'article L. 2111-9 du code des transports ou de sa filiale mentionnée au 5° de cet article,
+ceux-ci peuvent désigner, par convention, celui d'entre eux qui assurera la maîtrise d'ouvrage de l'opération. Cette
+convention précise les conditions d'organisation de la maîtrise d'ouvrage exercée et en fixe le terme.
+
+Lorsque la société SNCF Réseau mentionnée à l'article L. 2111-9 du code des transports ou sa filiale mentionnée au 5° de cet
+article sont ainsi désignées, elles appliquent les dispositions du présent livre pour la réalisation des opérations
+mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -12358,9 +12363,9 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 15
 
 
 ###### Article L2422-13
@@ -20530,7 +20535,7 @@ Ne sont pas soumises à la présente sous-section les factures émises en exécu
 
 3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
 
-4° La SNCF, SNCF Réseau et SNCF Mobilités.
+4° La SNCF, SNCF Réseau et SNCF Voyageurs.
 
 **Nota:**
 
@@ -20540,9 +20545,9 @@ contrats en cours d'exécution ou conclus postérieurement à ladite date d'entr
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 25 (V)
 
 _Cite_:
 
@@ -25600,22 +25605,31 @@ _Créé par_:
 ###### Article R2122-8
 
 L'acheteur peut passer un marché sans publicité ni mise en concurrence préalables pour répondre à un besoin dont la valeur
-estimée est inférieure à 25 000 euros hors taxes ou pour les lots dont le montant est inférieur à 25 000 euros hors taxes et
-qui remplissent la condition prévue au b du 2° de l'article R. 2123-1. 
+estimée est inférieure à 40 000 euros hors taxes ou pour les lots dont le montant est inférieur à 40 000 euros hors taxes et
+qui remplissent la condition prévue au b du 2° de l'article R. 2123-1.
 
 L'acheteur veille à choisir une offre pertinente, à faire une bonne utilisation des deniers publics et à ne pas contracter
 systématiquement avec un même opérateur économique lorsqu'il existe une pluralité d'offres susceptibles de répondre au
 besoin.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 1
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -25628,7 +25642,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la commande publique - art. R2123-1 (V)
+  - Code de la commande publique - art. R2123-1
 
 
 ###### Article R2122-9
@@ -26837,10 +26851,10 @@ _Cité par_:
 ###### Article R2132-2
 
 Les documents de la consultation sont gratuitement mis à disposition des opérateurs économiques. Pour les marchés qui
-répondent à un besoin dont la valeur estimée est égale ou supérieure à 25 000 euros hors taxes et dont la procédure donne
+répondent à un besoin dont la valeur estimée est égale ou supérieure à 40 000 euros hors taxes et dont la procédure donne
 lieu à la publication d'un avis d'appel à la concurrence, cette mise à disposition s'effectue sur un profil d'acheteur à
 compter de la publication de l'avis d'appel à la concurrence selon des modalités fixées par arrêté du ministre chargé de
-l'économie figurant en annexe du présent code. 
+l'économie figurant en annexe du présent code.
 
 Lorsque les spécifications techniques sont fondées sur des documents gratuitement disponibles par des moyens électroniques,
 l'indication de la référence de ces documents est considérée comme suffisante.
@@ -26848,11 +26862,24 @@ l'indication de la référence de ces documents est considérée comme suffisant
 L'avis d'appel à la concurrence, ou le cas échéant l'invitation à confirmer l'intérêt, mentionne l'adresse du profil
 d'acheteur sur lequel les documents de la consultation sont accessibles.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
 _Modifié par_:
 
-  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -34095,33 +34122,51 @@ _Cité par_:
 ###### Article R2191-7
 
 Lorsque la durée du marché est inférieure ou égale à douze mois, le montant de l'avance est fixé entre 5 % et 30 % du montant
-initial toutes taxes comprises du marché.
+initial toutes taxes comprises du marché. 
 
 Lorsque la durée du marché est supérieure à douze mois, le montant de l'avance est fixé entre 5 % et 30 % d'une somme égale à
-douze fois le montant initial toutes taxes comprises du marché divisé par sa durée exprimée en mois.
+douze fois le montant initial toutes taxes comprises du marché divisé par sa durée exprimée en mois. 
 
-Pour les marchés publics passés par l'Etat, le taux de l'avance est porté à 20 % lorsque le titulaire du marché public ou son
-sous-traitant admis au paiement direct est une petite et moyenne entreprise mentionnée à l'article R. 2151-13.
+Lorsque le titulaire du marché public ou son sous-traitant admis au paiement direct est une petite ou moyenne entreprise
+mentionnée à l'article R. 2151-13, le taux minimal de l'avance est porté à : 
+
+1° 20 % pour les marchés publics passés par l'Etat ; 
+
+2° 10 % pour les marchés publics passés par les établissements publics administratifs de l'Etat, autres que les
+établissements publics de santé, dont les dépenses de fonctionnement constatées dans le compte financier au titre de l'avant-
+dernier exercice clos sont supérieures à 60 millions d'euros ; 
+
+3° 10 % pour les marchés publics passés par les collectivités territoriales, leurs établissements publics et leurs
+groupements, dont les dépenses réelles de fonctionnement constatées dans le compte de gestion du budget principal au titre de
+l'avant-dernier exercice clos sont supérieures à 60 millions d'euros. 
 
 Les collectivités territoriales, leurs établissements publics et leurs groupements peuvent conditionner le versement de
 l'avance à la constitution d'une garantie à première demande. Cette garantie peut porter sur tout ou partie de l'avance. Les
 deux parties peuvent s'accorder pour substituer à cette garantie une caution personnelle et solidaire. La constitution de
 cette garantie n'est toutefois pas exigée des personnes publiques titulaires d'un marché.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 4
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 2
 
 _Cite_:
 
   - Code de la commande publique - art. R2151-13
-  - Code de la commande publique - art. R2191-36
 
 _Cité par_:
 
@@ -36942,7 +36987,7 @@ _Cité par_:
 ###### Article R2196-1
 
 L'acheteur offre, sur son profil d'acheteur, un accès libre, direct et complet aux données essentielles des marchés répondant
-à un besoin dont la valeur est égale ou supérieure à 25 000 euros hors taxes.
+à un besoin dont la valeur est égale ou supérieure à 40 000 euros hors taxes.
 
 Ces données essentielles portent sur :
 
@@ -36955,15 +37000,31 @@ Ces données essentielles portent sur :
 Un arrêté du ministre chargé de l'économie qui figure en annexe au présent code fixe la liste de ces données essentielles
 ainsi que les modalités de leur publication.
 
+Les dispositions du présent article sont également applicables aux marchés conclus en application de l'article R. 2122-8 dont
+la valeur est égale ou supérieure à 25 000 euros hors taxes. Toutefois, pour ces mêmes marchés, l'acheteur peut satisfaire à
+cette obligation d'information en publiant au cours du premier trimestre de chaque année, sur le support de son choix, la
+liste de ces marchés conclus l'année précédente. Cette liste mentionne l'objet, le montant hors taxes et la date de
+conclusion du marché ainsi que le nom de l'attributaire et son code postal s'il est établi en France, ou le pays de son
+principal établissement, s'il n'est pas établi en France.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -50406,7 +50467,7 @@ Journal officiel de la République française, l'acheteur envoie pour publicatio
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
 publicité préalable. " ;
 
-29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
+29° Les deux derniers alinéas de l'article R. 2191-7 sont supprimés ;
 
 30° A l'article R. 2191-63, la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
 réglementation localement applicable ayant le même objet ;
@@ -50432,6 +50493,15 @@ admis au paiement direct choisissent de transmettre leurs factures sous forme é
 l'article R. 2197-3 ;
 
 37° Le 1° de l'article R. 2197-4 est supprimé.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -50460,8 +50530,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
 ###### Article R2651-4
@@ -51881,7 +51950,7 @@ Journal officiel de la République française, l'acheteur envoie pour publicatio
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
 publicité préalable. " ;
 
-29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
+29° Les deux derniers alinéas de l'article R. 2191-7 sont supprimés ;
 
 30° A l'article R. 2191-63la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
 réglementation localement applicable ayant le même objet ;
@@ -51908,16 +51977,24 @@ l'article R. 2197-3 ;
 
 37° Le 1° de l'article R. 2197-4 est supprimé
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 _Cite_:
 
@@ -51938,7 +52015,7 @@ _Cite_:
   - Code de la route. - art. R311-1
   - Code de la commande publique - art. R2111-9
   - Code de la commande publique - art. R2122-1
-  - Code de la commande publique - art. R2122-2 (V)
+  - Code de la commande publique - art. R2122-2
   - Code de la commande publique - art. R2124-1
   - Code de la commande publique - art. R2124-3
   - Code de la commande publique - art. R2131-1
@@ -53110,7 +53187,7 @@ Journal officiel de la République française, l'acheteur envoie pour publicatio
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
 publicité préalable. " ;
 
-29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
+29° Les deux derniers alinéas de l'article R. 2191-7 sont supprimés ;
 
 30° A l'article R. 2191-63, la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
 réglementation localement applicable ayant le même objet ;
@@ -53137,6 +53214,15 @@ l'article R. 2197-3 ;
 
 37° Le 1° de l'article R. 2197-4 est supprimé.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -53160,12 +53246,11 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
 ###### Article R2671-4
@@ -54234,7 +54319,7 @@ Journal officiel de la République française, l'acheteur envoie pour publicatio
 compter de la signature du marché, un avis d'attribution dans le support qui a été utilisé à titre principal pour la
 publicité préalable. " ;
 
-29° A l'article R. 2191-7, le dernier alinéa est supprimé ;
+29° Les deux derniers alinéas de l'article R. 2191-7 sont supprimés ;
 
 30° A l'article R. 2191-63, la référence à l'article L. 3253-22 du code du travail est remplacée par la référence à la
 réglementation localement applicable ayant le même objet ;
@@ -54261,16 +54346,24 @@ interdépartemental prévu à l'article R. 2197-3 ;
 
 37° Le 1° de l'article R. 2197-4 est supprimé.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
+publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
+de la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
 
 _Modifié par_:
 
-  - Décret n°2019-748 du 18 juillet 2019 - art. 3
-  - Décret n°2019-748 du 18 juillet 2019 - art. 5
+  - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 _Cite_:
 
