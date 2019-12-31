@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-07-22
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -6530,7 +6530,7 @@ Ne sont pas soumises à la présente sous-section les factures émises en exécu
 
 3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
 
-4° La SNCF, SNCF Réseau et SNCF Mobilités.
+4° La SNCF, SNCF Réseau et SNCF Voyageurs.
 
 **Nota:**
 
@@ -6540,9 +6540,9 @@ en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 25 (V)
 
 _Cite_:
 
@@ -10881,7 +10881,7 @@ par :
 
 3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
 
-4° La SNCF, SNCF Réseau et SNCF Mobilités.
+4° La SNCF, SNCF Réseau et SNCF Voyageurs.
 
 **Nota:**
 
@@ -10891,9 +10891,9 @@ en cours d'exécution ou conclus postérieurement à ladite date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 25 (V)
 
 _Cite_:
 
@@ -12275,9 +12275,14 @@ _Cité par_:
 ###### Article L2422-12
 
 Lorsque la réalisation ou la réhabilitation d'un ouvrage ou d'un ensemble d'ouvrages relèvent simultanément de la compétence
-de plusieurs maîtres d'ouvrage, ces derniers peuvent désigner, par convention, celui d'entre eux qui assurera la maîtrise
-d'ouvrage de l'opération. Cette convention précise les conditions d'organisation de la maîtrise d'ouvrage exercée et en fixe
-le terme.
+de plusieurs maîtres d'ouvrage mentionnés à l'article L. 2411-1 ou de l'un ou plusieurs de ces maîtres d'ouvrage et de la
+société SNCF Réseau mentionnée à l'article L. 2111-9 du code des transports ou de sa filiale mentionnée au 5° de cet article,
+ceux-ci peuvent désigner, par convention, celui d'entre eux qui assurera la maîtrise d'ouvrage de l'opération. Cette
+convention précise les conditions d'organisation de la maîtrise d'ouvrage exercée et en fixe le terme.
+
+Lorsque la société SNCF Réseau mentionnée à l'article L. 2111-9 du code des transports ou sa filiale mentionnée au 5° de cet
+article sont ainsi désignées, elles appliquent les dispositions du présent livre pour la réalisation des opérations
+mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -12285,9 +12290,9 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 15
 
 
 ###### Article L2422-13
@@ -20437,7 +20442,7 @@ Ne sont pas soumises à la présente sous-section les factures émises en exécu
 
 3° L'établissement public mentionné à l'article L. 2142-1 du code des transports ;
 
-4° La SNCF, SNCF Réseau et SNCF Mobilités.
+4° La SNCF, SNCF Réseau et SNCF Voyageurs.
 
 **Nota:**
 
@@ -20446,9 +20451,9 @@ date fixée par décret, et au plus tard deux mois après la promulgation de la 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-486 du 22 mai 2019 - art. 193 (V)
+  - Ordonnance n°2019-552 du 3 juin 2019 - art. 25 (V)
 
 _Cite_:
 
