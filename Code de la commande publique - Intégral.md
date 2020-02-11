@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-12
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -92,13 +92,13 @@ Version Consolidée au 2020-01-01
           - [Chapitre III : Offres présentées par des opérateurs économiques ou comportant des produits d'Etats tiers (art. L2153-1 à L2153-2)](#89)
             - [Section 1 : Principes généraux (art. L2153-1)](#90)
             - [Section 2 : Marchés de fournitures des entités adjudicatrices (art. L2153-2)](#91)
-        - [Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS (art. L2171-1 à L2172-4)](#92)
+        - [Titre VII : RÈGLES APPLICABLES À CERTAINS MARCHÉS (art. L2171-1 à L2172-6)](#92)
           - [Chapitre Ier : Règles applicables à certains marchés globaux (art. L2171-1 à L2171-7)](#93)
             - [Section 1 : Marché de conception-réalisation (art. L2171-2)](#94)
             - [Section 2 : Marché global de performance (art. L2171-3)](#95)
             - [Section 3 : Marchés globaux sectoriels (art. L2171-4 à L2171-6-1)](#96)
             - [Section 4 : Identification et mission de la maîtrise d'œuvre dans les marchés globaux (art. L2171-7)](#97)
-          - [Chapitre II : Règles applicables à certains marchés en fonction de leur objet (art. L2172-1 à L2172-4)](#98)
+          - [Chapitre II : Règles applicables à certains marchés en fonction de leur objet (art. L2172-1 à L2172-6)](#98)
         - [Titre VIII : ACHÈVEMENT DE LA PROCÉDURE (art. L2181-1 à L2184-1)](#99)
           - [Chapitre Ier : Information des candidats et des soumissionnaires évincés (art. L2181-1)](#100)
           - [Chapitre III : Avis d'attribution (art. L2183-1)](#101)
@@ -6152,6 +6152,34 @@ _Cité par_:
   - Code de la commande publique - art. L2671-2 (VD)
   - Code de la commande publique - art. L2681-1 (V)
   - Code de la commande publique - art. L2681-2 (VD)
+
+
+###### Article L2172-5
+
+Lorsqu'ils achètent des constructions temporaires, les acheteurs ne peuvent exclure les constructions temporaires ayant fait
+l'objet d'un reconditionnement pour réemploi, sous réserve que leurs niveaux de qualité et de sécurité soient égaux à ceux
+des constructions neuves de même type. Ils tiennent compte des incidences énergétiques et environnementales de la
+construction sur toute sa durée de vie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 56
+
+
+###### Article L2172-6
+
+Dans un souci de préservation des ressources naturelles, les achats de pneumatiques effectués par l'Etat, les collectivités
+territoriales et leurs opérateurs portent sur des pneumatiques rechapés, sauf si une première consultation s'est révélée
+infructueuse. Les achats de pneumatiques portant sur les véhicules d'urgence ainsi que les véhicules militaires peuvent être
+dispensés des obligations prévues au présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-105 du 10 février 2020 - art. 60
 
 
 #### Titre VIII : ACHÈVEMENT DE LA PROCÉDURE<a id=99></a>
