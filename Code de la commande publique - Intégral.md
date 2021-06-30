@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2020-10-18
+Version Consolidée au 2021-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -12153,8 +12153,13 @@ _Créé par_:
 ###### Article L2422-4
 
 La mission de conduite d'opération est incompatible avec toute mission de maîtrise d'œuvre, de contrôle technique définie à
-l'article L. 111-23 du code de la construction et de l'habitation ou d'exécution de travaux, portant sur la même opération et
-exercée soit par le conducteur d'opération directement, soit par une entreprise liée définie à l'article L. 2511-8.
+l'article    L. 125-1 du code de la construction et de l'habitation ou d'exécution de travaux, portant sur la même opération
+et exercée soit par le conducteur d'opération directement, soit par une entreprise liée définie à l'article L. 2511-8.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -12162,14 +12167,13 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la commande publique - art. L2511-8 (VD)
+  - Code de la commande publique - art. L2511-8
 
 _Cité par_:
 
@@ -12179,7 +12183,7 @@ _Cité par_:
   - Code de la commande publique - art. L2651-5 (VD)
   - Code de la commande publique - art. L2661-5 (VD)
   - Code de la commande publique - art. L2671-5 (VD)
-  - Code de la commande publique - art. L2681-5 (V)
+  - Code de la commande publique - art. L2681-5 (VD)
 
 
 ##### Section 3 : Mandat de maîtrise d'ouvrage<a id=269></a>
@@ -12345,8 +12349,13 @@ _Créé par_:
 ###### Article L2422-11
 
 Le mandat de maîtrise d'ouvrage est incompatible avec toute mission de maîtrise d'œuvre, de contrôle technique définie à
-l'article L. 111-23 du code de la construction et de l'habitation ou d'exécution de travaux, portant sur la même opération et
-exercée soit par le mandataire directement soit par une entreprise liée définie à l'article L. 2511-8.
+l'article    L. 125-1 du code de la construction et de l'habitation ou d'exécution de travaux, portant sur la même opération
+et exercée soit par le mandataire directement soit par une entreprise liée définie à l'article L. 2511-8.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -12354,14 +12363,13 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la commande publique - art. L2511-8 (VD)
+  - Code de la commande publique - art. L2511-8
 
 _Cité par_:
 
@@ -12371,7 +12379,7 @@ _Cité par_:
   - Code de la commande publique - art. L2651-5 (VD)
   - Code de la commande publique - art. L2661-5 (VD)
   - Code de la commande publique - art. L2671-5 (VD)
-  - Code de la commande publique - art. L2681-5 (V)
+  - Code de la commande publique - art. L2681-5 (VD)
 
 
 ##### Section 4 : Transfert de maîtrise d'ouvrage<a id=274></a>
@@ -13837,11 +13845,16 @@ b) Le 3° est supprimé ;
 c) Au 4°, les mots : " énumérés à l'article L. 411-2 du code de la construction et de l'habitation " sont remplacés par les
 références aux dispositions applicables localement ayant le même objet ; 
 
-3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article L. 111-23 du code de la construction et de
+3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article    L. 125-1 du code de la construction et de
 l'habitation " sont remplacés par les références aux dispositions applicables localement ayant le même objet ; 
 
 4° A l'article L. 2430-2, les mots : " mentionnés à l'article L. 411-2 du code de la construction et de l'habitation " sont
 remplacés par les références aux dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -13849,22 +13862,21 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L442-1 (V)
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la construction et de l'habitation. - art. L411-2 (V)
-  - Code de la commande publique -  Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUB... (V)
-  - Code de la commande publique - art. L2411-1 (VD)
-  - Code de la commande publique - art. L2412-2 (VD)
-  - Code de la commande publique - art. L2422-11 (VD)
-  - Code de la commande publique - art. L2422-4 (VD)
-  - Code de la commande publique - art. L2430-2 (VD)
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L442-1
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L2411-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2422-11
+  - Code de la commande publique - art. L2422-4
+  - Code de la commande publique - art. L2430-2
 
 
 ##### Chapitre V : Dispositions particulières au livre V<a id=302></a>
@@ -14009,11 +14021,16 @@ b) Le 3° est supprimé ;
 c) Au 4°, les mots : " énumérés à l'article L. 411-2 du code de la construction et de l'habitation " sont remplacés par les
 références aux dispositions applicables localement ayant le même objet ; 
 
-3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article L. 111-23 du code de la construction et de
+3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article    L. 125-1 du code de la construction et de
 l'habitation " sont remplacés par les références aux dispositions applicables localement ayant le même objet ; 
 
 4° A l'article L. 2430-2, les mots : " mentionnés à l'article L. 411-2 du code de la construction et de l'habitation " sont
 remplacés par les références aux dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -14021,22 +14038,21 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L442-1 (V)
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la construction et de l'habitation. - art. L411-2 (V)
-  - Code de la commande publique -  Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUB... (V)
-  - Code de la commande publique - art. L2411-1 (VD)
-  - Code de la commande publique - art. L2412-2 (VD)
-  - Code de la commande publique - art. L2422-11 (VD)
-  - Code de la commande publique - art. L2422-4 (VD)
-  - Code de la commande publique - art. L2430-2 (VD)
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L442-1
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L2411-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2422-11
+  - Code de la commande publique - art. L2422-4
+  - Code de la commande publique - art. L2430-2
 
 
 #### Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=307></a>
@@ -14184,11 +14200,16 @@ b) Le 3° est supprimé ;
 c) Au 4°, les mots : " énumérés à l'article L. 411-2 du code de la construction et de l'habitation " sont remplacés par les
 références aux dispositions applicables localement ayant le même objet ; 
 
-3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article L. 111-23 du code de la construction et de
+3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article    L. 125-1 du code de la construction et de
 l'habitation " sont remplacés par les références aux dispositions applicables localement ayant le même objet ; 
 
 4° A l'article L. 2430-2, les mots : " mentionnés à l'article L. 411-2 du code de la construction et de l'habitation " sont
 remplacés par les références aux dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -14196,22 +14217,21 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L442-1 (V)
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la construction et de l'habitation. - art. L411-2 (V)
-  - Code de la commande publique -  Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUB... (V)
-  - Code de la commande publique - art. L2411-1 (VD)
-  - Code de la commande publique - art. L2412-2 (VD)
-  - Code de la commande publique - art. L2422-11 (VD)
-  - Code de la commande publique - art. L2422-4 (VD)
-  - Code de la commande publique - art. L2430-2 (VD)
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L442-1
+  - Code de la construction et de l'habitation. - art. L411-2
+  - Code de la commande publique
+  - Code de la commande publique - art. L2411-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2422-11
+  - Code de la commande publique - art. L2422-4
+  - Code de la commande publique - art. L2430-2
 
 
 ##### Chapitre V : Dispositions particulières au livre V<a id=311></a>
@@ -17101,8 +17121,13 @@ le même objet ;
 
 b) Les 3°, 4° et 5° sont supprimés ; 
 
-3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article L. 111-23 du code de la construction et de
+3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article    L. 125-1 du code de la construction et de
 l'habitation " sont remplacés par les références aux dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -17110,20 +17135,19 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L442-1 (V)
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la commande publique -  Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUB... (V)
-  - Code de la commande publique - art. L2411-1 (V)
-  - Code de la commande publique - art. L2412-2 (V)
-  - Code de la commande publique - art. L2422-11 (V)
-  - Code de la commande publique - art. L2422-4 (V)
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L442-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2411-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2422-11
+  - Code de la commande publique - art. L2422-4
 
 
 ###### Article L2671-6
@@ -18286,8 +18310,13 @@ le même objet ;
 
 b) Les 3°, 4° et 5° sont supprimés ; 
 
-3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article L. 111-23 du code de la construction et de
+3° Aux articles L. 2422-4 et L. 2422-11, les mots : " définie à l'article    L. 125-1 du code de la construction et de
 l'habitation " sont remplacés par les références aux dispositions applicables localement ayant le même objet.
+
+**Nota:**
+
+Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -18295,20 +18324,19 @@ _Codifié par_:
 
   - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2018-1074 du 26 novembre 2018 - art.
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art. 4
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L311-1 (V)
-  - Code de l'urbanisme - art. L442-1 (V)
-  - Code de la construction et de l'habitation. - art. L111-23 (V)
-  - Code de la commande publique -  Livre IV : DISPOSITIONS PROPRES AUX MARCHÉS PUB... (V)
-  - Code de la commande publique - art. L2411-1 (V)
-  - Code de la commande publique - art. L2412-2 (V)
-  - Code de la commande publique - art. L2422-11 (V)
-  - Code de la commande publique - art. L2422-4 (V)
+  - Code de l'urbanisme - art. L311-1
+  - Code de l'urbanisme - art. L442-1
+  - Code de la commande publique
+  - Code de la commande publique - art. L2411-1
+  - Code de la commande publique - art. L2412-2
+  - Code de la commande publique - art. L2422-11 (VD)
+  - Code de la commande publique - art. L2422-4 (VD)
 
 
 ###### Article L2681-6
