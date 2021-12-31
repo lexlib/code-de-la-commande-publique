@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2019-04-01 00:00:01 +0200
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -24938,8 +24938,9 @@ adaptées en fonction des caractéristiques du marché, notamment de son montant
 des services en cause ;
 
 2° Lorsque la valeur estimée du besoin est égale ou supérieure à 90 000 euros hors taxes et inférieure aux seuils de
-procédure formalisée, un avis de marché est publié soit dans le Bulletin officiel des annonces des marchés publics soit dans
-un journal habilité à recevoir des annonces légales.
+procédure formalisée, un avis de marché établi conformément au modèle fixé par un arrêté du ministre chargé de l'économie
+figurant en annexe du présent code est publié soit dans le Bulletin officiel des annonces des marchés publics soit dans un
+journal habilité à recevoir des annonces légales.
 
 L'acheteur apprécie si, compte tenu de la nature ou du montant des travaux, des fournitures ou des services en cause, une
 publication dans un journal spécialisé correspondant au secteur économique concerné ou au Journal officiel de l'Union
@@ -24948,13 +24949,9 @@ européenne est en outre nécessaire pour garantir l'information des opérateurs
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
 
 
 ###### Article R2131-13
@@ -43587,7 +43584,15 @@ le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td>R. 2131-1 à R. 2131-16 </td>
+      <td>R. 2131-1 à R. 2131-11 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td>R. 2131-12 </td>
+      <td align="left">A compter du 1er janvier 2022, résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td>R. 2131-13 à R. 2131-16 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -43724,7 +43729,7 @@ le tableau ci-après.
     </tr>
     <tr>
       <td align="left">R. 2191-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
       <td align="left">R. 2191-9 à R. 2191-19 </td>
@@ -43732,7 +43737,7 @@ le tableau ci-après.
     </td></tr>
     <tr>
       <td align="left">R. 2191-20 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
       <td align="left">R. 2191-21 à R. 2191-32 </td>
@@ -44065,13 +44070,9 @@ _Cite_:
   - Décret n°2018-1225 du 24 décembre 2018 (V)
   - Décret n°2019-259 du 29 mars 2019 (V)
 
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=945></a>
@@ -44516,7 +44517,15 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-1 à R. 2131-16 </td>
+      <td align="left">R. 2131-1 à R. 2131-11 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2131-12 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 2131-13 à R. 2131-16 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -44592,7 +44601,7 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-4 et R. 2172-5 </td>
+      <td align="left">R. 2172-4 à R. 2172-5 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
@@ -44608,7 +44617,7 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2181-1 et R. 2181-2 </td>
+      <td align="left">R. 2181-1 à R. 2182-2 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -44998,13 +45007,9 @@ _Cite_:
   - Décret n°2018-1225 du 24 décembre 2018 (V)
   - Décret n°2019-259 du 29 mars 2019 (V)
 
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=949></a>
@@ -45450,7 +45455,15 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-1 à R. 2131-16 </td>
+      <td align="left">R. 2131-1 à R. 2131-11 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2131-12 </td>
+      <td align="left">A compter du 1er janvier 2022, résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 2131-13 à R. 2131-16 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -45932,13 +45945,9 @@ _Cite_:
   - Décret n°2018-1225 du 24 décembre 2018 (V)
   - Décret n°2019-259 du 29 mars 2019 (V)
 
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=953></a>
@@ -46386,7 +46395,15 @@ mention contraire dans le tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-1 à R. 2131-16 </td>
+      <td align="left">R. 2131-1 à R. 2131-11 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2131-12 </td>
+      <td align="left">A compter du 1er janvier 2022, résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 2131-13 à R. 2131-16 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -46868,13 +46885,9 @@ _Cite_:
   - Décret n°2018-1225 du 24 décembre 2018 (V)
   - Décret n°2019-259 du 29 mars 2019 (V)
 
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-259 du 29 mars 2019 - art. 2
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
 
 
 ##### Section 2 : Dispositions d'adaptation<a id=957></a>
