@@ -1,5 +1,5 @@
 # Code de la commande publique  
-Version Consolidée au 2021-07-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L3381-3)](#1)
     - [Titre Préliminaire (art. L1 à L6)](#2)
@@ -26590,8 +26590,9 @@ adaptées en fonction des caractéristiques du marché, notamment de son montant
 des services en cause ;
 
 2° Lorsque la valeur estimée du besoin est égale ou supérieure à 90 000 euros hors taxes et inférieure aux seuils de
-procédure formalisée, un avis de marché est publié soit dans le Bulletin officiel des annonces des marchés publics soit dans
-un journal habilité à recevoir des annonces légales.
+procédure formalisée, un avis de marché établi conformément au modèle fixé par un arrêté du ministre chargé de l'économie
+figurant en annexe du présent code est publié soit dans le Bulletin officiel des annonces des marchés publics soit dans un
+journal habilité à recevoir des annonces légales.
 
 L'acheteur apprécie si, compte tenu de la nature ou du montant des travaux, des fournitures ou des services en cause, une
 publication dans un journal spécialisé correspondant au secteur économique concerné ou au Journal officiel de l'Union
@@ -26600,13 +26601,9 @@ européenne est en outre nécessaire pour garantir l'information des opérateurs
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
-
-_Créé par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
 
 _Cité par_:
 
@@ -49414,9 +49411,7 @@ tableau ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2100-1 
-</td>
+      <td align="left">R. 2100-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49424,25 +49419,19 @@ R. 2100-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2111-1 à R. 2111-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-R. 2111-4 à R. 2112-12 </td>
+      <td align="left">R. 2111-1 à R. 2111-2 </td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2111-4 à R. 2112-12 </td>
       <td align="left">
-R. 2112-13 
-</td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2112-13 </td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2112-14 à R. 2113-8 </td>
+      <td align="left">R. 2112-14 à R. 2113-8 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49462,33 +49451,23 @@ R. 2112-14 à R. 2113-8 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2122-8 
-</td>
+      <td align="left">R. 2122-8 </td>
       <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2122-10 à R. 2123-1 </td>
+      <td align="left">R. 2122-10 à R. 2123-1 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2123-2 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 
-</td>
+      <td align="left">R. 2123-2 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2123-3 à R. 2123-8 
-</td>
+      <td align="left">R. 2123-3 à R. 2123-8 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2124-1 
-</td>
+      <td align="left">R. 2124-1 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
@@ -49508,14 +49487,19 @@ R. 2124-1
       <td align="left">
     </td></tr>
     <tr>
-      <td>
-R. 2131-1 à R. 2131-16 </td>
+      <td>R. 2131-1 à R. 2131-11 </td>
       <td align="left">
     </td></tr>
     <tr>
+      <td>R. 2131-12 </td>
+      <td align="left">A compter du 1er janvier 2022, résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+    </tr>
+    <tr>
+      <td>R. 2131-13 à R. 2131-16 </td>
       <td align="left">
-R. 2131-18 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2131-18 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49531,15 +49515,11 @@ R. 2131-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2132-6 à R. 2132-10 
-</td>
+      <td align="left">R. 2132-6 à R. 2132-10 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2132-13 et R. 2132-14 
-</td>
+      <td align="left">R. 2132-13 et R. 2132-14 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49547,18 +49527,15 @@ R. 2132-13 et R. 2132-14
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2142-1 à R. 2143-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-R. 2143-5 à R. 2143-14 </td>
+      <td align="left">R. 2142-1 à R. 2143-3 </td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2143-5 à R. 2143-14 </td>
       <td align="left">
-R. 2143-16 à R. 2144-9 </td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2143-16 à R. 2144-9 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49566,13 +49543,11 @@ R. 2143-16 à R. 2144-9 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2151-1 à R. 2152-4 </td>
+      <td align="left">R. 2151-1 à R. 2152-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2152-6 à R. 2153-5 </td>
+      <td align="left">R. 2152-6 à R. 2153-5 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49580,18 +49555,15 @@ R. 2152-6 à R. 2153-5 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2161-1 à R. 2162-23 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-R. 2162-25 à R. 2162-35 </td>
+      <td align="left">R. 2161-1 à R. 2162-23 </td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2162-25 à R. 2162-35 </td>
       <td align="left">
-R. 2162-37 à R. 2162-66 </td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2162-37 à R. 2162-66 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49599,8 +49571,7 @@ R. 2162-37 à R. 2162-66 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2171-1 à R. 2171-3 </td>
+      <td align="left">R. 2171-1 à R. 2171-3 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49612,20 +49583,15 @@ R. 2171-1 à R. 2171-3 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2172-4 et R. 2172-5 
-</td>
+      <td align="left">R. 2172-4 et R. 2172-5 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2172-6 
-</td>
+      <td align="left">R. 2172-6 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2172-20 à R. 2172-38 </td>
+      <td align="left">R. 2172-20 à R. 2172-38 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49633,26 +49599,19 @@ R. 2172-20 à R. 2172-38 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2181-1 et R. 2181-2 
-</td>
+      <td align="left">R. 2181-1 et R. 2181-2 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2181-3 
-</td>
+      <td align="left">R. 2181-3 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2181-4 à R. 2182-4 </td>
+      <td align="left">R. 2181-4 à R. 2182-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2183-1 
-</td>
+      <td align="left">R. 2183-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49668,13 +49627,11 @@ R. 2183-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2184-7 à R. 2184-10 </td>
+      <td align="left">R. 2184-7 à R. 2184-10 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2184-12 à R. 2185-2 </td>
+      <td align="left">R. 2184-12 à R. 2185-2 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49682,14 +49639,11 @@ R. 2184-12 à R. 2185-2 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-1 
-</td>
+      <td align="left">R. 2191-1 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-2 à R. 2191-6 </td>
+      <td align="left">R. 2191-2 à R. 2191-6 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49701,31 +49655,23 @@ R. 2191-2 à R. 2191-6 </td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-9 à R. 2191-19 
-</td>
+      <td align="left">R. 2191-9 à R. 2191-19 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-20 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 201 </td>
+      <td align="left">R. 2191-20 </td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-21 à R. 2191-32 </td>
+      <td align="left">R. 2191-21 à R. 2191-32 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-33 
-</td>
+      <td align="left">R. 2191-33 </td>
       <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-34 à R. 2191-63 </td>
+      <td align="left">R. 2191-34 à R. 2191-63 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49745,9 +49691,7 @@ R. 2191-34 à R. 2191-63 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2192-24 
-</td>
+      <td align="left">R. 2192-24 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
@@ -49763,15 +49707,11 @@ R. 2192-24
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2192-36 et R. 2192-37 
-</td>
+      <td align="left">R. 2192-36 et R. 2192-37 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2193-1 
-</td>
+      <td align="left">R. 2193-1 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
@@ -49795,27 +49735,19 @@ R. 2193-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2196-8 
-</td>
+      <td align="left">R. 2196-8 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2196-9 à R. 2197-12 
-</td>
+      <td align="left">R. 2196-9 à R. 2197-12 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2197-16 
-</td>
+      <td align="left">R. 2197-16 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2197-23 à R. 2197-25 
-</td>
+      <td align="left">R. 2197-23 à R. 2197-25 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49823,9 +49755,7 @@ R. 2197-23 à R. 2197-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2200-1 
-</td>
+      <td align="left">R. 2200-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49833,9 +49763,7 @@ R. 2200-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2211-1 à R. 2213-5 
-</td>
+      <td align="left">R. 2211-1 à R. 2213-5 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49843,9 +49771,7 @@ R. 2211-1 à R. 2213-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2221-1à R. 2223-3 
-</td>
+      <td align="left">R. 2221-1à R. 2223-3 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49853,9 +49779,7 @@ R. 2221-1à R. 2223-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2232-1 à R. 2236-1 
-</td>
+      <td align="left">R. 2232-1 à R. 2236-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49863,9 +49787,7 @@ R. 2232-1 à R. 2236-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2300-1 
-</td>
+      <td align="left">R. 2300-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49873,9 +49795,7 @@ R. 2300-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2311-1 à R. 2313-3 
-</td>
+      <td align="left">R. 2311-1 à R. 2313-3 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49883,21 +49803,15 @@ R. 2311-1 à R. 2313-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2321-1 à R. 2323-4 
-</td>
+      <td align="left">R. 2321-1 à R. 2323-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2324-1 
-</td>
+      <td align="left">R. 2324-1 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2324-2 à R. 2324-4 
-</td>
+      <td align="left">R. 2324-2 à R. 2324-4 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49905,27 +49819,19 @@ R. 2324-2 à R. 2324-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2331-1 à R. 2331-4 
-</td>
+      <td align="left">R. 2331-1 à R. 2331-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2331-5 
-</td>
+      <td align="left">R. 2331-5 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2331-6 à R. 2331-9 
-</td>
+      <td align="left">R. 2331-6 à R. 2331-9 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2332-1 à R. 2332-18 
-</td>
+      <td align="left">R. 2332-1 à R. 2332-18 ² </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49945,15 +49851,11 @@ R. 2332-1 à R. 2332-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2343-3 
-</td>
+      <td align="left">R. 2343-3 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2343-4 à R. 2344-10 
-</td>
+      <td align="left">R. 2343-4 à R. 2344-10 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49961,9 +49863,7 @@ R. 2343-4 à R. 2344-10
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2351-1 à R. 2352-9 
-</td>
+      <td align="left">R. 2351-1 à R. 2352-9 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49971,9 +49871,7 @@ R. 2351-1 à R. 2352-9
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2361-1à R. 2362-18 
-</td>
+      <td align="left">R. 2361-1à R. 2362-18 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -49981,21 +49879,15 @@ R. 2361-1à R. 2362-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2371-1 à R. 2371-2 
-</td>
+      <td align="left">R. 2371-1 à R. 2371-2 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2371-4 à R. 2372-9 
-</td>
+      <td align="left">R. 2371-4 à R. 2372-9 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2372-17 à R. 2373-1 
-</td>
+      <td align="left">R. 2372-17 à R. 2373-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50003,33 +49895,23 @@ R. 2372-17 à R. 2373-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2381-1 à R. 2383-2 
-</td>
+      <td align="left">R. 2381-1 à R. 2383-2 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2383-3 
-</td>
+      <td align="left">R. 2383-3 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2384-1 à R. 2384-2 
-</td>
+      <td align="left">R. 2384-1 à R. 2384-2 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2384-3 
-</td>
+      <td align="left">R. 2384-3 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2384-4 à R. 2385-1 
-</td>
+      <td align="left">R. 2384-4 à R. 2385-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50037,15 +49919,11 @@ R. 2384-4 à R. 2385-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2391-1 à R. 2391-3 
-</td>
+      <td align="left">R. 2391-1 à R. 2391-3 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2391-4 
-</td>
+      <td align="left">R. 2391-4 </td>
       <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
     </tr>
     <tr>
@@ -50061,9 +49939,7 @@ R. 2391-4
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2392-10 
-</td>
+      <td align="left">R. 2392-10 </td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
     </tr>
     <tr>
@@ -50079,45 +49955,31 @@ R. 2392-10
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-14 
-</td>
+      <td align="left">R. 2393-14 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-15 à R. 2393-17 
-</td>
+      <td align="left">R. 2393-15 à R. 2393-17 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-18 
-</td>
+      <td align="left">R. 2393-18 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-19 et R. 2393-20 
-</td>
+      <td align="left">R. 2393-19 et R. 2393-20 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-21 
-</td>
+      <td align="left">R. 2393-21 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-22 à R. 2393-24 
-</td>
+      <td align="left">R. 2393-22 à R. 2393-24 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-25 
-</td>
+      <td align="left">R. 2393-25 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
@@ -50133,33 +49995,23 @@ R. 2393-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-42 
-</td>
+      <td align="left">R. 2393-42 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-43 à R. 2396-1 
-</td>
+      <td align="left">R. 2393-43 à R. 2396-1 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2396-3 
-</td>
+      <td align="left">R. 2396-3 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2396-4 à R. 2397-1 
-</td>
+      <td align="left">R. 2396-4 à R. 2397-1 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2397-3 à R. 2397-4 
-</td>
+      <td align="left">R. 2397-3 à R. 2397-4 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50171,9 +50023,7 @@ R. 2397-3 à R. 2397-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2412-1 
-</td>
+      <td align="left">R. 2412-1 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50181,15 +50031,11 @@ R. 2412-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2431-1 à R. 2432-6 
-</td>
+      <td align="left">R. 2431-1 à R. 2432-6 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2432-7 
-</td>
+      <td align="left">R. 2432-7 </td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
     </tr>
     <tr>
@@ -50201,9 +50047,7 @@ R. 2432-7
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2521-1 à R. 2521-4 
-</td>
+      <td align="left">R. 2521-1 à R. 2521-4 </td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50213,139 +50057,19 @@ R. 2521-1 à R. 2521-4
   </tbody>
 </table>
 
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
-
-Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
-publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
-de la date d'entrée en vigueur du présent décret.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 _Cite_:
 
-  - Décret n°2018-1225 du 24 décembre 2018
-  - Décret n°2019-259 du 29 mars 2019
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
+  - Décret n°2018-1225 du 24 décembre 2018 (V)
+  - Décret n°2019-259 du 29 mars 2019 (V)
   - Décret n°2019-748 du 18 juillet 2019 (V)
   - Décret n°2019-1344 du 12 décembre 2019 (V)
-  - Code de la commande publique - art. R2100-1
-  - Code de la commande publique - art. R2111-1
-  - Code de la commande publique - art. R2111-4
-  - Code de la commande publique - art. R2112-13
-  - Code de la commande publique - art. R2112-14
-  - Code de la commande publique - art. R2121-1
-  - Code de la commande publique - art. R2122-10
-  - Code de la commande publique - art. R2122-8
-  - Code de la commande publique - art. R2123-2
-  - Code de la commande publique - art. R2123-3
-  - Code de la commande publique - art. R2124-1
-  - Code de la commande publique - art. R2124-2
-  - Code de la commande publique - art. R2131-1
-  - Code de la commande publique - art. R2131-18
-  - Code de la commande publique - art. R2132-1
-  - Code de la commande publique - art. R2132-13
-  - Code de la commande publique - art. R2132-14
-  - Code de la commande publique - art. R2132-6
-  - Code de la commande publique - art. R2142-1
-  - Code de la commande publique - art. R2143-16
-  - Code de la commande publique - art. R2143-5
-  - Code de la commande publique - art. R2151-1
-  - Code de la commande publique - art. R2152-6
-  - Code de la commande publique - art. R2161-1
-  - Code de la commande publique - art. R2162-25
-  - Code de la commande publique - art. R2162-37
-  - Code de la commande publique - art. R2171-1
-  - Code de la commande publique - art. R2171-15
-  - Code de la commande publique - art. R2172-20
-  - Code de la commande publique - art. R2172-4
-  - Code de la commande publique - art. R2172-5
-  - Code de la commande publique - art. R2172-6
-  - Code de la commande publique - art. R2181-1
-  - Code de la commande publique - art. R2181-2
-  - Code de la commande publique - art. R2181-3
-  - Code de la commande publique - art. R2181-4
-  - Code de la commande publique - art. R2183-1
-  - Code de la commande publique - art. R2183-3
-  - Code de la commande publique - art. R2184-12
-  - Code de la commande publique - art. R2184-7
-  - Code de la commande publique - art. R2191-1
-  - Code de la commande publique - art. R2191-2
-  - Code de la commande publique - art. R2191-20
-  - Code de la commande publique - art. R2191-21
-  - Code de la commande publique - art. R2191-33
-  - Code de la commande publique - art. R2191-34
-  - Code de la commande publique - art. R2191-7
-  - Code de la commande publique - art. R2191-8
-  - Code de la commande publique - art. R2191-9
-  - Code de la commande publique - art. R2192-10
-  - Code de la commande publique - art. R2192-24
-  - Code de la commande publique - art. R2192-25
-  - Code de la commande publique - art. R2192-36
-  - Code de la commande publique - art. R2192-37
-  - Code de la commande publique - art. R2193-1
-  - Code de la commande publique - art. R2193-2
-  - Code de la commande publique - art. R2196-8
-  - Code de la commande publique - art. R2196-9
-  - Code de la commande publique - art. R2197-16
-  - Code de la commande publique - art. R2197-23
-  - Code de la commande publique - art. R2200-1
-  - Code de la commande publique - art. R2211-1
-  - Code de la commande publique - art. R2221-1
-  - Code de la commande publique - art. R2232-1
-  - Code de la commande publique - art. R2300-1
-  - Code de la commande publique - art. R2311-1
-  - Code de la commande publique - art. R2321-1
-  - Code de la commande publique - art. R2324-1
-  - Code de la commande publique - art. R2324-2
-  - Code de la commande publique - art. R2331-1
-  - Code de la commande publique - art. R2331-5
-  - Code de la commande publique - art. R2331-6
-  - Code de la commande publique - art. R2332-1
-  - Code de la commande publique - art. R2342-1
-  - Code de la commande publique - art. R2343-3
-  - Code de la commande publique - art. R2343-4
-  - Code de la commande publique - art. R2351-1
-  - Code de la commande publique - art. R2361-1
-  - Code de la commande publique - art. R2371-1
-  - Code de la commande publique - art. R2371-4
-  - Code de la commande publique - art. R2372-17
-  - Code de la commande publique - art. R2381-1
-  - Code de la commande publique - art. R2383-3
-  - Code de la commande publique - art. R2384-1
-  - Code de la commande publique - art. R2384-3
-  - Code de la commande publique - art. R2384-4
-  - Code de la commande publique - art. R2391-1
-  - Code de la commande publique - art. R2391-4
-  - Code de la commande publique - art. R2391-5
-  - Code de la commande publique - art. R2392-10
-  - Code de la commande publique - art. R2392-12
-  - Code de la commande publique - art. R2393-14
-  - Code de la commande publique - art. R2393-15
-  - Code de la commande publique - art. R2393-18
-  - Code de la commande publique - art. R2393-19
-  - Code de la commande publique - art. R2393-20
-  - Code de la commande publique - art. R2393-21
-  - Code de la commande publique - art. R2393-22
-  - Code de la commande publique - art. R2393-25
-  - Code de la commande publique - art. R2393-26
-  - Code de la commande publique - art. R2393-42
-  - Code de la commande publique - art. R2393-43
-  - Code de la commande publique - art. R2396-3
-  - Code de la commande publique - art. R2396-4
-  - Code de la commande publique - art. R2397-3
-  - Code de la commande publique - art. R2412-1
-  - Code de la commande publique - art. R2431-1
-  - Code de la commande publique - art. R2432-7
-  - Code de la commande publique - art. R2521-1
 
 _Modifié par_:
 
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
   - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
@@ -50877,9 +50601,7 @@ ci-après.
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2100-1 
-</td>
+      <td align="left">R. 2100-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50887,27 +50609,19 @@ R. 2100-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2111-1 à R. 2111-2 
-</td>
+      <td align="left">R. 2111-1 à R. 2111-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2111-4 à R. 2112-12 
-</td>
+      <td align="left">R. 2111-4 à R. 2112-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2112-13 
-</td>
+      <td align="left">R. 2112-13</td>
       <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2112-14 à R. 2113-8 
-</td>
+      <td align="left">R. 2112-14 à R. 2113-8</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50927,33 +50641,23 @@ R. 2112-14 à R. 2113-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2122-8 
-</td>
+      <td align="left">R. 2122-8</td>
       <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2122-10 à R. 2123-1 
-</td>
+      <td align="left">R. 2122-10 à R. 2123-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2123-2 
-</td>
+      <td align="left">R. 2123-2</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2123-3 à R. 2123-8 
-</td>
+      <td align="left">R. 2123-3 à R. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2124-1 
-</td>
+      <td align="left">R. 2124-1</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
@@ -50973,15 +50677,19 @@ R. 2124-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2131-1 à R. 2131-16 
-</td>
+      <td align="left">R. 2131-1 à R. 2131-11</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 2131-12</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2131-13 à R. 2131-16</td>
       <td align="left">
-R. 2131-18 
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 2131-18</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -50993,19 +50701,15 @@ R. 2131-18
       <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2132-3 et R. 2132-4</td>
+      <td align="left">R.2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2132-6 à R. 2132-10 
-</td>
+      <td align="left">R. 2132-6 à R. 2132-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2132-13 et R. 2132-14 
-</td>
+      <td align="left">R. 2132-13 et R. 2132-14</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51013,21 +50717,15 @@ R. 2132-13 et R. 2132-14
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2142-1 à R. 2143-3 
-</td>
+      <td align="left">R. 2142-1 à R. 2143-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2143-5 à R. 2143-14 
-</td>
+      <td align="left">R. 2143-5 à R. 2143-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2143-16 à R. 2144-9 
-</td>
+      <td align="left">R. 2143-16 à R. 2144-9</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51035,15 +50733,11 @@ R. 2143-16 à R. 2144-9
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2151-1 à R. 2152-4 
-</td>
+      <td align="left">R. 2151-1 à R. 2152-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2152-6 à R. 2153-5 
-</td>
+      <td align="left">R. 2152-6 à R. 2153-5</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51051,21 +50745,15 @@ R. 2152-6 à R. 2153-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2161-1 à R. 2162-23 
-</td>
+      <td align="left">R. 2161-1 à R. 2162-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2162-25 à R. 2162-35 
-</td>
+      <td align="left">R. 2162-25 à R. 2162-35</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2162-37 à R. 2162-66 
-</td>
+      <td align="left">R. 2162-37 à R. 2162-66</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51073,9 +50761,7 @@ R. 2162-37 à R. 2162-66
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2171-1 à R. 2171-3 
-</td>
+      <td align="left">R. 2171-1 à R. 2171-3</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51087,21 +50773,15 @@ R. 2171-1 à R. 2171-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2172-4 et R. 2172-5 
-</td>
+      <td align="left">R. 2172-4 à R. 2172-5</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2172-6 
-</td>
+      <td align="left">R. 2172-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2172-20 à R. 2172-38 
-</td>
+      <td align="left">R. 2172-20 à R. 2172-38</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51109,27 +50789,19 @@ R. 2172-20 à R. 2172-38
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2181-1 et R. 2181-2 
-</td>
+      <td align="left">R. 2181-1 à R. 2182-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2181-3 
-</td>
+      <td align="left">R. 2181-3</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2181-4 à R. 2182-4 
-</td>
+      <td align="left">R. 2181-4 à R. 2182-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2183-1 
-</td>
+      <td align="left">R. 2183-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51145,15 +50817,11 @@ R. 2183-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2184-7 à R. 2184-10 
-</td>
+      <td align="left">R. 2184-7 à R. 2184-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2184-12 à R. 2185-2 
-</td>
+      <td align="left">R. 2184-12 à R. 2185-2</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51161,19 +50829,15 @@ R. 2184-12 à R. 2185-2
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-1 
-</td>
+      <td align="left">R. 2191-1</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-2 à R. 2191-6 
-</td>
+      <td align="left">R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7</td>
+      <td align="left">R. 2191-7 </td>
       <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
@@ -51181,33 +50845,23 @@ R. 2191-2 à R. 2191-6
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-9 à R. 2191-19 
-</td>
+      <td align="left">R. 2191-9 à R. 2191-19</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-20 
-</td>
+      <td align="left">R. 2191-20</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-21 à R. 2191-32 
-</td>
+      <td align="left">R. 2191-21 à R. 2191-32</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2191-33 
-</td>
+      <td align="left">R. 2191-33</td>
       <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2191-34 à R. 2191-63 
-</td>
+      <td align="left">R. 2191-34 à R. 2191-63</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51227,9 +50881,7 @@ R. 2191-34 à R. 2191-63
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2192-24 
-</td>
+      <td align="left">R. 2192-24</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
@@ -51245,15 +50897,11 @@ R. 2192-24
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2192-36 et R. 2192-37 
-</td>
+      <td align="left">R. 2192-36 et R. 2192-37</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2193-1 
-</td>
+      <td align="left">R. 2193-1</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
@@ -51277,27 +50925,19 @@ R. 2193-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2196-8 
-</td>
+      <td align="left">R. 2196-8</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2196-9 à R. 2197-12 
-</td>
+      <td align="left">R. 2196-9 à R. 2197-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2197-16 
-</td>
+      <td align="left">R. 2197-16</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2197-23 à R. 2197-25 
-</td>
+      <td align="left">R. 2197-23 à R. 2197-25</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51305,9 +50945,7 @@ R. 2197-23 à R. 2197-25
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2200-1 
-</td>
+      <td align="left">R. 2200-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51315,9 +50953,7 @@ R. 2200-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2211-1 à R. 2213-5 
-</td>
+      <td align="left">R. 2211-1 à R. 2213-5</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51325,15 +50961,11 @@ R. 2211-1 à R. 2213-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2221-1à R. 2223-3 
-</td>
+      <td align="left">R. 2221-1à R. 2223-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2223-5 
-</td>
+      <td align="left">R. 2223-5</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51341,9 +50973,7 @@ R. 2223-5
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2232-1 à R. 2234-8 
-</td>
+      <td align="left">R. 2232-1 à R. 2234-8</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51351,9 +50981,7 @@ R. 2232-1 à R. 2234-8
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2300-1 
-</td>
+      <td align="left">R. 2300-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51361,9 +50989,7 @@ R. 2300-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2311-1 à R. 2313-3 
-</td>
+      <td align="left">R. 2311-1 à R. 2313-3</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51371,21 +50997,15 @@ R. 2311-1 à R. 2313-3
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2321-1 à R. 2323-4 
-</td>
+      <td align="left">R. 2321-1 à R. 2323-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2324-1 
-</td>
+      <td align="left">R. 2324-1</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2324-2 à R. 2324-4 
-</td>
+      <td align="left">R. 2324-2 à R. 2324-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51393,27 +51013,19 @@ R. 2324-2 à R. 2324-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2331-1 à R. 2331-4 
-</td>
+      <td align="left">R. 2331-1 à R. 2331-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2331-5 
-</td>
+      <td align="left">R. 2331-5</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2331-6 à R. 2331-9 
-</td>
+      <td align="left">R. 2331-6 à R. 2331-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2332-1 à R. 2332-18 
-</td>
+      <td align="left">R. 2332-1 à R. 2332-18</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51433,15 +51045,11 @@ R. 2332-1 à R. 2332-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2343-3 
-</td>
+      <td align="left">R. 2343-3</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2343-4 à R. 2344-10 
-</td>
+      <td align="left">R. 2343-4 à R. 2344-10</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51449,9 +51057,7 @@ R. 2343-4 à R. 2344-10
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2351-1 à R. 2352-9 
-</td>
+      <td align="left">R. 2351-1 à R. 2352-9</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51459,9 +51065,7 @@ R. 2351-1 à R. 2352-9
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2361-1à R. 2362-18 
-</td>
+      <td align="left">R. 2361-1à R. 2362-18</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51469,21 +51073,15 @@ R. 2361-1à R. 2362-18
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2371-1 à R. 2371-2 
-</td>
+      <td align="left">R. 2371-1 à R. 2371-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2371-4 à R. 2372-9 
-</td>
+      <td align="left">R. 2371-4 à R. 2372-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2372-17 à R. 2373-1 
-</td>
+      <td align="left">R. 2372-17 à R. 2373-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51491,33 +51089,23 @@ R. 2372-17 à R. 2373-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2381-1 à R. 2383-2 
-</td>
+      <td align="left">R. 2381-1 à R. 2383-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2383-3 
-</td>
+      <td align="left">R. 2383-3</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2384-1 à R. 2384-2 
-</td>
+      <td align="left">R. 2384-1 à R. 2384-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2384-3 
-</td>
+      <td align="left">R. 2384-3</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2384-4 à R. 2385-1 
-</td>
+      <td align="left">R. 2384-4 à R. 2385-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51525,20 +51113,18 @@ R. 2384-4 à R. 2385-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2391-1 à R. 2391-3 
-</td>
+      <td align="left">R. 2391-1 à R. 2391-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2391-4 
-</td>
+      <td align="left">R. 2391-4</td>
       <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
       <td align="left">R. 2391-5</td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+      <td align="left">Résultant du 
+        <font color="#000080">décret n° 2019-748 du 18 juillet 2019</font>
+      </td>
     </tr>
     <tr>
       <td align="left">R. 2391-6 à R. 2391-28</td>
@@ -51546,13 +51132,15 @@ R. 2391-4
     </td></tr>
     <tr>
       <td align="left">R. 2392-3</td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+      <td align="left">Résultant du 
+        <font color="#000080">décret n° 2019-748 du 18 juillet 2019</font>
+      </td>
     </tr>
     <tr>
-      <td align="left">
-R. 2392-10 
-</td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+      <td align="left">R. 2392-10</td>
+      <td align="left">Résultant du 
+        <font color="#000080">décret n° 2019-748 du 18 juillet 2019</font>
+      </td>
     </tr>
     <tr>
       <td align="left">R. 2392-12</td>
@@ -51560,52 +51148,40 @@ R. 2392-10
     </td></tr>
     <tr>
       <td align="left">R. 2392-12-1</td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+      <td align="left">Résultant du 
+        <font color="#000080">décret n° 2019-748 du 18 juillet 2019</font>
+      </td>
     </tr>
     <tr>
       <td align="left">R. 2392-13 à R. 2393-13</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-14 
-</td>
+      <td align="left">R. 2393-14</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-15 à R. 2393-17 
-</td>
+      <td align="left">R. 2393-15 à R. 2393-17</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-18 
-</td>
+      <td align="left">R. 2393-18</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-19 et R. 2393-20 
-</td>
+      <td align="left">R. 2393-19 et R. 2393-20</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-21 
-</td>
+      <td align="left">R. 2393-21</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-22 à R. 2393-24 
-</td>
+      <td align="left">R. 2393-22 à R. 2393-24</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-25 
-</td>
+      <td align="left">R. 2393-25</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
@@ -51614,40 +51190,32 @@ R. 2393-25
     </td></tr>
     <tr>
       <td align="left">R. 2393-34 et R. 2393-34-1</td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+      <td align="left">Résultant du 
+        <font color="#000080">décret n° 2019-748 du 18 juillet 2019</font>
+      </td>
     </tr>
     <tr>
       <td align="left">R. 2393-35 à R. 2393-41</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2393-42 
-</td>
+      <td align="left">R. 2393-42</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2393-43 à R. 2396-1 
-</td>
+      <td align="left">R. 2393-43 à R. 2396-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2396-3 
-</td>
+      <td align="left">R. 2396-3</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2396-4 à R. 2397-1 
-</td>
+      <td align="left">R. 2396-4 à R. 2397-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2397-3 à R. 2397-4 
-</td>
+      <td align="left">R. 2397-3 à R. 2397-4</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51659,9 +51227,7 @@ R. 2397-3 à R. 2397-4
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2412-1 
-</td>
+      <td align="left">R. 2412-1</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -51669,15 +51235,11 @@ R. 2412-1
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2431-1 à R. 2432-6 
-</td>
+      <td align="left">R. 2431-1 à R. 2432-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2432-7 
-</td>
+      <td align="left">R. 2432-7</td>
       <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
@@ -51689,146 +51251,29 @@ R. 2432-7
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2521-1 à R. 2521-4
-</td>
+      <td align="left">R. 2521-1 à R. 2521-4</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">R. 2521-6</td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
+      <td align="left">Résultant du 
+        <font color="#000080">décret n° 2019-748 du 18 juillet 2019</font>
+      </td>
     </tr>
   </tbody>
 </table>
-
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
-
-Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
-publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
-de la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2018-1075 du 3 décembre 2018
-  - Décret n°2018-1225 du 24 décembre 2018
-  - Décret n°2019-259 du 29 mars 2019
-  - Code de la commande publique - art. R2100-1
-  - Code de la commande publique - art. R2111-1
-  - Code de la commande publique - art. R2111-4
-  - Code de la commande publique - art. R2112-13
-  - Code de la commande publique - art. R2112-14
-  - Code de la commande publique - art. R2121-1
-  - Code de la commande publique - art. R2122-10
-  - Code de la commande publique - art. R2122-8
-  - Code de la commande publique - art. R2123-2
-  - Code de la commande publique - art. R2123-3
-  - Code de la commande publique - art. R2124-1
-  - Code de la commande publique - art. R2124-2
-  - Code de la commande publique - art. R2131-1
-  - Code de la commande publique - art. R2131-18
-  - Code de la commande publique - art. R2132-1
-  - Code de la commande publique - art. R2132-13
-  - Code de la commande publique - art. R2132-6
-  - Code de la commande publique - art. R2142-1
-  - Code de la commande publique - art. R2143-16
-  - Code de la commande publique - art. R2143-5
-  - Code de la commande publique - art. R2151-1
-  - Code de la commande publique - art. R2152-6
-  - Code de la commande publique - art. R2161-1
-  - Code de la commande publique - art. R2162-25
-  - Code de la commande publique - art. R2162-37
-  - Code de la commande publique - art. R2171-1
-  - Code de la commande publique - art. R2171-15
-  - Code de la commande publique - art. R2172-20
-  - Code de la commande publique - art. R2172-4
-  - Code de la commande publique - art. R2172-6
-  - Code de la commande publique - art. R2181-1
-  - Code de la commande publique - art. R2181-3
-  - Code de la commande publique - art. R2181-4
-  - Code de la commande publique - art. R2183-1
-  - Code de la commande publique - art. R2183-3
-  - Code de la commande publique - art. R2184-12
-  - Code de la commande publique - art. R2184-7
-  - Code de la commande publique - art. R2191-1
-  - Code de la commande publique - art. R2191-2
-  - Code de la commande publique - art. R2191-20
-  - Code de la commande publique - art. R2191-21
-  - Code de la commande publique - art. R2191-33
-  - Code de la commande publique - art. R2191-34
-  - Code de la commande publique - art. R2191-7
-  - Code de la commande publique - art. R2191-8
-  - Code de la commande publique - art. R2191-9
-  - Code de la commande publique - art. R2192-10
-  - Code de la commande publique - art. R2192-24
-  - Code de la commande publique - art. R2192-25
-  - Code de la commande publique - art. R2192-36
-  - Code de la commande publique - art. R2193-1
-  - Code de la commande publique - art. R2193-2
-  - Code de la commande publique - art. R2196-8
-  - Code de la commande publique - art. R2196-9
-  - Code de la commande publique - art. R2197-16
-  - Code de la commande publique - art. R2197-23
-  - Code de la commande publique - art. R2200-1
-  - Code de la commande publique - art. R2211-1
-  - Code de la commande publique - art. R2221-1
-  - Code de la commande publique - art. R2223-5
-  - Code de la commande publique - art. R2232-1
-  - Code de la commande publique - art. R2300-1
-  - Code de la commande publique - art. R2311-1
-  - Code de la commande publique - art. R2321-1
-  - Code de la commande publique - art. R2324-1
-  - Code de la commande publique - art. R2324-2
-  - Code de la commande publique - art. R2331-1
-  - Code de la commande publique - art. R2331-5
-  - Code de la commande publique - art. R2331-6
-  - Code de la commande publique - art. R2332-1
-  - Code de la commande publique - art. R2342-1
-  - Code de la commande publique - art. R2343-3
-  - Code de la commande publique - art. R2343-4
-  - Code de la commande publique - art. R2351-1
-  - Code de la commande publique - art. R2361-1
-  - Code de la commande publique - art. R2371-1
-  - Code de la commande publique - art. R2371-4
-  - Code de la commande publique - art. R2372-17
-  - Code de la commande publique - art. R2381-1
-  - Code de la commande publique - art. R2383-3
-  - Code de la commande publique - art. R2384-1
-  - Code de la commande publique - art. R2384-3
-  - Code de la commande publique - art. R2384-4
-  - Code de la commande publique - art. R2391-1
-  - Code de la commande publique - art. R2391-4
-  - Code de la commande publique - art. R2391-5
-  - Code de la commande publique - art. R2392-10
-  - Code de la commande publique - art. R2392-12
-  - Code de la commande publique - art. R2393-14
-  - Code de la commande publique - art. R2393-15
-  - Code de la commande publique - art. R2393-18
-  - Code de la commande publique - art. R2393-19
-  - Code de la commande publique - art. R2393-21
-  - Code de la commande publique - art. R2393-22
-  - Code de la commande publique - art. R2393-25
-  - Code de la commande publique - art. R2393-26
-  - Code de la commande publique - art. R2393-42
-  - Code de la commande publique - art. R2393-43
-  - Code de la commande publique - art. R2396-3
-  - Code de la commande publique - art. R2396-4
-  - Code de la commande publique - art. R2397-3
-  - Code de la commande publique - art. R2412-1
-  - Code de la commande publique - art. R2431-1
-  - Code de la commande publique - art. R2432-7
-  - Code de la commande publique - art. R2521-1
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
+  - Décret n°2018-1225 du 24 décembre 2018 (V)
+  - Décret n°2019-259 du 29 mars 2019 (V)
 
 _Modifié par_:
 
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
   - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
@@ -52351,122 +51796,108 @@ _Modifié par_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables en Nouvelle-
 Calédonie aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des compétences dévolues à cette
 collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf mention contraire dans le tableau
-ci-après. 
+ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2100-1 
-</td>
+      <td align="left">R. 2100-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2111-1 à R. 2111-2 
-</td>
+      <td align="left">R. 2111-1 à R. 2111-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2111-4 à R. 2112-12 
-</td>
+      <td align="left">R. 2111-4 à R. 2112-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2112-13 
-</td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2112-13</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2112-14 à R. 2113-8 
-</td>
+      <td align="left">R. 2112-14 à R. 2113-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2121-1 à R. 2122-1 </td>
+      <td align="left">R. 2121-1 à R. 2122-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2122-2 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2122-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2122-3 à R. 2122-7 </td>
+      <td align="left">R. 2122-3 à R. 2122-7</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2122-8 
-</td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2122-8</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2122-10 à R. 2123-1 
-</td>
+      <td align="left">R. 2122-10 à R. 2123-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2123-2 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2123-2</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">
-R. 2123-3 à R. 2123-8 
-</td>
+      <td align="left">R. 2123-3 à R. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2124-1 
-</td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2124-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2124-2 </td>
+      <td align="left">R. 2124-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2124-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2124-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2124-4 à R. 2124-6 </td>
+      <td align="left">R. 2124-4 à R. 2124-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">
-R. 2131-1 à R. 2131-16 
-</td>
+      <td align="left">R. 2131-1 à R. 2131-11</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-18 </td>
+      <td align="left">R. 2131-12</td>
+      <td align="left">A compter du 1er janvier 2022, résultant du décret n° 2018-1225 du 24 décembre 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2131-13 à R. 2131-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2131-18</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -52474,597 +51905,571 @@ R. 2131-1 à R. 2131-16
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-2 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2132-2</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2132-3 et R. 2132-4 </td>
+      <td align="left">R. 2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-6 à R. 2132-10 </td>
+      <td align="left">R. 2132-6 à R. 2132-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-13 et R. 2132-14 </td>
+      <td align="left">R. 2132-13 et R. 2132-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2142-1 à R. 2143-3 </td>
+      <td align="left">R. 2142-1 à R. 2143-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2143-5 à R. 2143-14 </td>
+      <td align="left">R. 2143-5 à R. 2143-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2143-16 à R. 2144-9 </td>
+      <td align="left">R. 2143-16 à R. 2144-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2151-1 à R. 2152-4 </td>
+      <td align="left">R. 2151-1 à R. 2152-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2152-6 à R. 2153-5 </td>
+      <td align="left">R. 2152-6 à R. 2153-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2161-1 à R. 2162-23 </td>
+      <td align="left">R. 2161-1 à R. 2162-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2162-25 à R. 2162-35 </td>
+      <td align="left">R. 2162-25 à R. 2162-35</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2162-37 à R. 2162-66 </td>
+      <td align="left">R. 2162-37 à R. 2162-66</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2171-1 à R. 2171-3 </td>
+      <td align="left">R. 2171-1 à R. 2171-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2171-15 et R. 2171-16 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2171-15 et R. 2171-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2171-17 à R. 2172-2 </td>
+      <td align="left">R. 2171-17 à R. 2172-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-4 et R. 2172-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2172-4 et R. 2172-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2172-6 </td>
+      <td align="left">R. 2172-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-20 à R. 2172-38 </td>
+      <td align="left">R. 2172-20 à R. 2172-38</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2181-1 et R. 2181-2 </td>
+      <td align="left">R. 2181-1 et R. 2181-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2181-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2181-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2181-4 à R. 2182-4 </td>
+      <td align="left">R. 2181-4 à R. 2182-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-1 </td>
+      <td align="left">R. 2183-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-3 à R. 2184-2 </td>
+      <td align="left">R. 2183-3 à R. 2184-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2184-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2184-4 et R. 2184-5 </td>
+      <td align="left">R. 2184-4 et R. 2184-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-7 à R. 2184-10 </td>
+      <td align="left">R. 2184-7 à R. 2184-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-12 à R. 2185-2 </td>
+      <td align="left">R. 2184-12 à R. 2185-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-2 à R. 2191-6 </td>
+      <td align="left">R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-7 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2191-7</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-8 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2191-8</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-9 à R. 2191-19 </td>
+      <td align="left">R. 2191-9 à R. 2191-19</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-20 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-20</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-21 à R. 2191-32 </td>
+      <td align="left">R. 2191-21 à R. 2191-32</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-33 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2191-33</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-34 à R. 2191-63 </td>
+      <td align="left">R. 2191-34 à R. 2191-63</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2192-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-10 à R. 2192-14 </td>
+      <td align="left">R. 2192-10 à R. 2192-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-15 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2192-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-16 à R. 2192-23 </td>
+      <td align="left">R. 2192-16 à R. 2192-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-24 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-24</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-25 à R. 2192-31 </td>
+      <td align="left">R. 2192-25 à R. 2192-31</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-32 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2192-32</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-33 et R. 2192-34 </td>
+      <td align="left">R. 2192-33 et R. 2192-34</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-36 et R. 2192-37 </td>
+      <td align="left">R. 2192-36 et R. 2192-37</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2193-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2193-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-2 à R. 2193-15 </td>
+      <td align="left">R. 2193-2 à R. 2193-15</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2193-16 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2193-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-17 à R. 2194-10 </td>
+      <td align="left">R. 2193-17 à R. 2194-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2196-1 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2196-1</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2196-2 à R. 2196-4 </td>
+      <td align="left">R. 2196-2 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2196-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2196-8</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2196-9 à R. 2197-12 </td>
+      <td align="left">R. 2196-9 à R. 2197-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2197-16 </td>
+      <td align="left">R. 2197-16</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2197-23 à R. 2197-25 </td>
+      <td align="left">R. 2197-23 à R. 2197-25</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre II </td>
+      <td align="justify">Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2200-1 </td>
+      <td align="left">R. 2200-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2211-1 à R. 2213-5 </td>
+      <td align="left">R. 2211-1 à R. 2213-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2221-1à R. 2223-3 </td>
+      <td align="left">R. 2221-1à R. 2223-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2223-5 </td>
+      <td align="left">R. 2223-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2232-1 à R. 2234-8 </td>
+      <td align="left">R. 2232-1 à R. 2234-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre III </td>
+      <td align="justify">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2300-1 </td>
+      <td align="left">R. 2300-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2311-1 à R. 2313-3 </td>
+      <td align="left">R. 2311-1 à R. 2313-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2321-1 à R. 2323-4 </td>
+      <td align="left">R. 2321-1 à R. 2323-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2324-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2324-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2324-2 à R. 2324-4 </td>
+      <td align="left">R. 2324-2 à R. 2324-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2331-1 à R. 2331-4 </td>
+      <td align="left">R. 2331-1 à R. 2331-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2331-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2331-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2331-6 à R. 2331-9 </td>
+      <td align="left">R. 2331-6 à R. 2331-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2332-1 à R. 2332-18 </td>
+      <td align="left">R. 2332-1 à R. 2332-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2342-1 à R. 2342-15 </td>
+      <td align="left">R. 2342-1 à R. 2342-15</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2343-1 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2343-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2343-2 </td>
+      <td align="left">R. 2343-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2343-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2343-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2343-4 à R. 2344-10 </td>
+      <td align="left">R. 2343-4 à R. 2344-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2351-1 à R. 2352-9 </td>
+      <td align="left">R. 2351-1 à R. 2352-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2361-1à R. 2362-18 </td>
+      <td align="left">R. 2361-1à R. 2362-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2371-1 à R. 2371-2 </td>
+      <td align="left">R. 2371-1 à R. 2371-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2371-4 à R. 2372-9 </td>
+      <td align="left">R. 2371-4 à R. 2372-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2372-17 à R. 2373-1 </td>
+      <td align="left">R. 2372-17 à R. 2373-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2381-1 à R. 2383-2 </td>
+      <td align="left">R. 2381-1 à R. 2383-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2383-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2383-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-1 à R. 2384-2 </td>
+      <td align="left">R. 2384-1 à R. 2384-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2384-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2384-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-4 à R. 2385-1 </td>
+      <td align="left">R. 2384-4 à R. 2385-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2391-1 à R. 2391-3 </td>
+      <td align="left">R. 2391-1 à R. 2391-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2391-4 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2391-4</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2391-5 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2391-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2391-6 à R. 2391-28 </td>
+      <td align="left">R. 2391-6 à R. 2391-28</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2392-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2392-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-10 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2392-10</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-12 </td>
+      <td align="left">R. 2392-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2392-12-1 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2392-12-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-13 à R. 2393-13 </td>
+      <td align="left">R. 2392-13 à R. 2393-13</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-14 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-14</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-15 à R. 2393-17 </td>
+      <td align="left">R. 2393-15 à R. 2393-17</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-18 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-18</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-19 et R. 2393-20 </td>
+      <td align="left">R. 2393-19 et R. 2393-20</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-21 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-21</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-22 à R. 2393-24 </td>
+      <td align="left">R. 2393-22 à R. 2393-24</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-25 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-25</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-26 à R. 2393-33 </td>
+      <td align="left">R. 2393-26 à R. 2393-33</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-34 et R. 2393-34-1 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2393-34 et R. 2393-34-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-35 à R. 2393-41 </td>
+      <td align="left">R. 2393-35 à R. 2393-41</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-42 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-42</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-43 à R. 2396-1 </td>
+      <td align="left">R. 2393-43 à R. 2396-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2396-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2396-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2396-4 à R. 2397-1 </td>
+      <td align="left">R. 2396-4 à R. 2397-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2397-3 à R. 2397-4 </td>
+      <td align="left">R. 2397-3 à R. 2397-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre IV </td>
+      <td align="justify">Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2412-1 </td>
+      <td align="left">R. 2412-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2431-1 à R. 2432-6 </td>
+      <td align="left">R. 2431-1 à R. 2432-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2432-7 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2432-7</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">Au livre V </td>
+      <td align="left">Au livre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2521-1 à R. 2521-4 </td>
+      <td align="left">R. 2521-1 à R. 2521-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2521-6 </td>
+      <td align="left">R. 2521-6</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
   </tbody>
 </table>
 
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
-
-Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
-publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
-de la date d'entrée en vigueur du présent décret.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 _Cite_:
 
-  - Décret n°2018-1225 du 24 décembre 2018
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
+  - Décret n°2018-1225 du 24 décembre 2018 (V)
   - Décret n°2019-259 du 29 mars 2019 (V)
-  - Décret n°2019-748 du 18 juillet 2019 (V)
-  - Décret n°2019-1344 du 12 décembre 2019 (V)
-  - Code de la commande publique - art. R2100-1
-  - Code de la commande publique - art. R2111-1
-  - Code de la commande publique - art. R2111-4
-  - Code de la commande publique - art. R2112-13
-  - Code de la commande publique - art. R2112-14
-  - Code de la commande publique - art. R2121-1
-  - Code de la commande publique - art. R2122-10
-  - Code de la commande publique - art. R2122-8
-  - Code de la commande publique - art. R2123-2
-  - Code de la commande publique - art. R2123-3
-  - Code de la commande publique - art. R2124-1
-  - Code de la commande publique - art. R2124-2
-  - Code de la commande publique - art. R2131-1
 
 _Modifié par_:
 
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
   - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
@@ -53523,685 +52928,680 @@ _Modifié par_:
 Sous la réserve des adaptations prévues par le présent titre, les dispositions suivantes sont applicables dans les Terres
 australes et antarctiques françaises aux marchés publics conclus par l'Etat ou ses établissements publics, sous réserve des
 compétences dévolues à cette collectivité, dans leur rédaction résultant du décret n° 2018-1075 du 3 décembre 2018, sauf
-mention contraire dans le tableau ci-après. 
+mention contraire dans le tableau ci-après.
 
 <table border="1">
   <tbody>
     <tr>
-      <th>DISPOSITIONS APPLICABLES </th>
-      <th>DANS LEUR REDACTION </th>
+      <th>DISPOSITIONS APPLICABLES</th>
+      <th>DANS LEUR REDACTION</th>
     </tr>
     <tr>
-      <td align="left">Au livre Ier </td>
+      <td align="left">Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2100-1 </td>
+      <td align="left">R. 2100-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2111-1 à R. 2111-2 </td>
+      <td align="left">R. 2111-1 à R. 2111-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2111-4 à R. 2112-12 </td>
+      <td align="left">R. 2111-4 à R. 2112-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2112-13 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2112-13</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2112-14 à R. 2113-8 </td>
+      <td align="left">R. 2112-14 à R. 2113-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2121-1 à R. 2122-1 </td>
+      <td align="left">R. 2121-1 à R. 2122-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2122-2 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2122-2</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2122-3 à R. 2122-7 </td>
+      <td align="left">R. 2122-3 à R. 2122-7</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2122-8 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2122-8</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2122-10 à R. 2123-1 </td>
+      <td align="left">R. 2122-10 à R. 2123-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2123-2 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2123-2</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2123-3 à R. 2123-8 </td>
+      <td align="left">R. 2123-3 à R. 2123-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2124-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2124-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2124-2 </td>
+      <td align="left">R. 2124-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2124-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2124-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2124-4 à R. 2124-6 </td>
+      <td align="left">R. 2124-4 à R. 2124-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-1 à R. 2131-16 </td>
+      <td align="left">R. 2131-1 à R. 2131-11</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2131-18 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2132-1 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2132-2 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2131-12</td>
+      <td align="left">A compter du 1er janvier 2022, résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2132-3 et R. 2132-4 </td>
+      <td align="left">R. 2131-13 à R. 2131-16</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-6 à R. 2132-10 </td>
+      <td align="left">R. 2131-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2132-13 et R. 2132-14 </td>
+      <td align="left">R. 2132-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2142-1 à R. 2143-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2143-5 à R. 2143-14 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2143-16 à R. 2144-9 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre V </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2151-1 à R. 2152-4 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2152-6 à R. 2153-5 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VI </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2161-1 à R. 2162-23 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2162-25 à R. 2162-35 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2162-37 à R. 2162-66 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2171-1 à R. 2171-3 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2171-15 et R. 2171-16 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2132-2</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2171-17 à R. 2172-2 </td>
+      <td align="left">R. 2132-3 et R. 2132-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-4 et R. 2172-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2132-6 à R. 2132-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2132-13 et R. 2132-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2142-1 à R. 2143-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2143-5 à R. 2143-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2143-16 à R. 2144-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre V</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2151-1 à R. 2152-4</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2152-6 à R. 2153-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VI</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2161-1 à R. 2162-23</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2162-25 à R. 2162-35</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2162-37 à R. 2162-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre VII</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2171-1 à R. 2171-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2171-15 et R. 2171-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2172-6 </td>
+      <td align="left">R. 2171-17 à R. 2172-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2172-20 à R. 2172-38 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="center">Au titre VIII </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2181-1 et R. 2181-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2181-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2172-4 et R. 2172-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2181-4 à R. 2182-4 </td>
+      <td align="left">R. 2172-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-1 </td>
+      <td align="left">R. 2172-20 à R. 2172-38</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2183-3 à R. 2184-2 </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2181-1 et R. 2181-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2181-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2184-4 et R. 2184-5 </td>
+      <td align="left">R. 2181-4 à R. 2182-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-7 à R. 2184-10 </td>
+      <td align="left">R. 2183-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2184-12 à R. 2185-2 </td>
+      <td align="left">R. 2183-3 à R. 2184-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 2191-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2184-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-2 à R. 2191-6 </td>
+      <td align="left">R. 2184-4 et R. 2184-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-7 à R. 2184-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2184-12 à R. 2185-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">Au titre IX</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 2191-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
+    </tr>
+    <tr>
+      <td align="left">R. 2191-2 à R. 2191-6</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">R. 2191-7 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-8 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2191-8</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-9 à R. 2191-19 </td>
+      <td align="left">R. 2191-9 à R. 2191-19</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-20 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2191-20</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-21 à R. 2191-32 </td>
+      <td align="left">R. 2191-21 à R. 2191-32</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2191-33 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2191-33</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2191-34 à R. 2191-63 </td>
+      <td align="left">R. 2191-34 à R. 2191-63</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2192-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-10 à R. 2192-14 </td>
+      <td align="left">R. 2192-10 à R. 2192-14</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-15 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2192-15</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-16 à R. 2192-23 </td>
+      <td align="left">R. 2192-16 à R. 2192-23</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-24 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2192-24</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-25 à R. 2192-31 </td>
+      <td align="left">R. 2192-25 à R. 2192-31</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-32 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2192-32</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2192-33 et R. 2192-34 </td>
+      <td align="left">R. 2192-33 et R. 2192-34</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2192-36 et R. 2192-37 </td>
+      <td align="left">R. 2192-36 et R. 2192-37</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2193-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2193-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-2 à R. 2193-15 </td>
+      <td align="left">R. 2193-2 à R. 2193-15</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2193-16 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2193-16</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2193-17 à R. 2194-10 </td>
+      <td align="left">R. 2193-17 à R. 2194-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2196-1 </td>
-      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019 </td>
+      <td align="left">R. 2196-1</td>
+      <td align="left">Résultant du décret n° 2019-1344 du 12 décembre 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2196-2 à R. 2196-4 </td>
+      <td align="left">R. 2196-2 à R. 2196-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2196-8 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2196-8</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2196-9 à R. 2197-12 </td>
+      <td align="left">R. 2196-9 à R. 2197-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2197-16 </td>
+      <td align="left">R. 2197-16</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2197-23 à R. 2197-25 </td>
+      <td align="left">R. 2197-23 à R. 2197-25</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Au livre II </td>
+      <td align="left">Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2200-1 </td>
+      <td align="left">R. 2200-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2211-1 à R. 2213-5 </td>
+      <td align="left">R. 2211-1 à R. 2213-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2221-1à R. 2223-3 </td>
+      <td align="left">R. 2221-1à R. 2223-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2223-5 </td>
+      <td align="left">R. 2223-5</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2232-1 à R. 2234-8 </td>
+      <td align="left">R. 2232-1 à R. 2234-8</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre III </td>
+      <td align="justify">Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2300-1 </td>
+      <td align="left">R. 2300-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2311-1 à R. 2313-3 </td>
+      <td align="left">R. 2311-1 à R. 2313-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2321-1 à R. 2323-4 </td>
+      <td align="left">R. 2321-1 à R. 2323-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2324-1 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2324-1</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2324-2 à R. 2324-4 </td>
+      <td align="left">R. 2324-2 à R. 2324-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2331-1 à R. 2331-4 </td>
+      <td align="left">R. 2331-1 à R. 2331-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2331-5 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2331-5</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2331-6 à R. 2331-9 </td>
+      <td align="left">R. 2331-6 à R. 2331-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2332-1 à R. 2332-18 </td>
+      <td align="left">R. 2332-1 à R. 2332-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IV </td>
+      <td align="center">Au titre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2342-1 à R. 2342-15 </td>
+      <td align="left">R. 2342-1 à R. 2342-15</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2343-1 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2343-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2343-2 </td>
+      <td align="left">R. 2343-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2343-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2343-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2343-4 à R. 2344-10 </td>
+      <td align="left">R. 2343-4 à R. 2344-10</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre V </td>
+      <td align="center">Au titre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2351-1 à R. 2352-9 </td>
+      <td align="left">R. 2351-1 à R. 2352-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VI </td>
+      <td align="center">Au titre VI</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2361-1 à R. 2362-18 </td>
+      <td align="left">R. 2361-1 à R. 2362-18</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VII </td>
+      <td align="center">Au titre VII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2371-1 à R. 2371-2 </td>
+      <td align="left">R. 2371-1 à R. 2371-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2371-4 à R. 2372-9 </td>
+      <td align="left">R. 2371-4 à R. 2372-9</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2372-17 à R. 2373-1 </td>
+      <td align="left">R. 2372-17 à R. 2373-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre VIII </td>
+      <td align="center">Au titre VIII</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2381-1 à R. 2383-2 </td>
+      <td align="left">R. 2381-1 à R. 2383-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2383-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2383-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-1 à R. 2384-2 </td>
+      <td align="left">R. 2384-1 à R. 2384-2</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2384-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2384-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2384-4 à R. 2385-1 </td>
+      <td align="left">R. 2384-4 à R. 2385-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre IX </td>
+      <td align="center">Au titre IX</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2391-1 à R. 2391-3 </td>
+      <td align="left">R. 2391-1 à R. 2391-3</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2391-4 </td>
-      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018 </td>
+      <td align="left">R. 2391-4</td>
+      <td align="left">Résultant du décret n° 2018-1225 du 24 décembre 2018</td>
     </tr>
     <tr>
-      <td align="left">R. 2391-5 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2391-5</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2391-6 à R. 2391-28 </td>
+      <td align="left">R. 2391-6 à R. 2391-28</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2392-3 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2392-3</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-10 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2392-10</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-12 </td>
+      <td align="left">R. 2392-12</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2392-12-1 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2392-12-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2392-13 à R. 2393-13 </td>
+      <td align="left">R. 2392-13 à R. 2393-13</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-14 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-14</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-15 à R. 2393-17 </td>
+      <td align="left">R. 2393-15 à R. 2393-17</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-18 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-18</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-19 et R. 2393-20 </td>
+      <td align="left">R. 2393-19 et R. 2393-20</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-21 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-21</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-22 à R. 2393-24 </td>
+      <td align="left">R. 2393-22 à R. 2393-24</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-25 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-25</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-26 à R. 2393-33 </td>
+      <td align="left">R. 2393-26 à R. 2393-33</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-34 et R. 2393-34-1 </td>
-      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019 </td>
+      <td align="left">R. 2393-34 et R. 2393-34-1</td>
+      <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-35 à R. 2393-41 </td>
+      <td align="left">R. 2393-35 à R. 2393-41</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2393-42 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2393-42</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2393-43 à R. 2396-1 </td>
+      <td align="left">R. 2393-43 à R. 2396-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2396-3 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2396-3</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">R. 2396-4 à R. 2397-1 </td>
+      <td align="left">R. 2396-4 à R. 2397-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2397-3 à R. 2397-4 </td>
+      <td align="left">R. 2397-3 à R. 2397-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="justify">Au livre IV </td>
+      <td align="justify">Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre Ier </td>
+      <td align="center">Au titre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2412-1 </td>
+      <td align="left">R. 2412-1</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre III </td>
+      <td align="center">Au titre III</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2431-1 à R. 2432-6 </td>
+      <td align="left">R. 2431-1 à R. 2432-6</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2432-7 </td>
-      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019 </td>
+      <td align="left">R. 2432-7</td>
+      <td align="left">Résultant du décret n° 2019-259 du 29 mars 2019</td>
     </tr>
     <tr>
-      <td align="left">Au livre V </td>
+      <td align="left">Au livre V</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center">Au titre II </td>
+      <td align="center">Au titre II</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2521-1 à R. 2521-4 </td>
+      <td align="left">R. 2521-1 à R. 2521-4</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 2521-6 </td>
+      <td align="left">R. 2521-6</td>
       <td align="left">Résultant du décret n° 2019-748 du 18 juillet 2019</td>
     </tr>
   </tbody>
 </table>
 
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2019-1344 du 12 décembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
-
-Les dispositions du code de la commande publique dans leur rédaction résultant du présent décret s'appliquent aux marchés
-publics pour lesquels une consultation est engagée ou un avis d'appel à la concurrence est envoyé à la publication à compter
-de la date d'entrée en vigueur du présent décret.
-
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2018-1075 du 3 décembre 2018 - art.
 
 _Cite_:
 
-  - Décret n°2018-1225 du 24 décembre 2018
+  - Décret n°2018-1075 du 3 décembre 2018 (V)
+  - Décret n°2018-1225 du 24 décembre 2018 (V)
   - Décret n°2019-259 du 29 mars 2019 (V)
-  - Décret n°2019-748 du 18 juillet 2019 (V)
-  - Décret n°2019-1344 du 12 décembre 2019 (V)
 
 _Modifié par_:
 
+  - Décret n°2018-1225 du 24 décembre 2018 - art. 12
   - Décret n°2019-1344 du 12 décembre 2019 - art. 3
 
 
